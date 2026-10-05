@@ -1,48 +1,66 @@
 {
-  "updatedAt": "2026-10-05T09:35:00Z",
+  "updatedAt": "2026-10-05T19:18:01.111966Z",
   "locationLabel": "Victoria, BC",
   "headlines": [
     {
-      "title": "A practical guide to building with GPT-6",
-      "source": "OpenAI",
-      "date": "2026-10-02",
-      "url": "https://openai.com/news/"
+      "title": "Opinion | Think of Artificial Intelligence Like a Weapon",
+      "source": "WSJ",
+      "date": "Mon, 05 Oct 2026 18:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORzVNWWJRRjF5TTRwNWpPZnZCQkhnRmhwOG55ckQyQjZ1SnlaaEZpU3JnXy0wQ1h3SFo5aHd0OGZ0dFdMMzQtMTJBU0s0UDBaanBBX3NCcTZSRTEzVHRaY0RyZndoWkFIUzdlbmd5eG43ak1ZeC1EZE1qSG4wcFlqZXlCT3NSbTNuVEVn?oc=5"
     },
     {
-      "title": "Introducing GPT-6.1 Sol",
-      "source": "OpenAI",
-      "date": "2026-09-29",
-      "url": "https://openai.com/news/"
+      "title": "AI industry insiders voice alarms to NYC council as local governments take up safety concerns",
+      "source": "Toronto Star",
+      "date": "Mon, 05 Oct 2026 18:46:46 GMT",
+      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQQUhnU1BaRHk5V0w3MkV0cGVJYV8zSHFIYjU4M1BVTjBHdnMwcGI3dGFUVWEzNmc5dGVZU0lEdkVkcHZ6dk9uZk82QWVUY1R3c0VxSVFHbGlmb1B3Q19KbzZZQ2JYS3B5QjZjTWNXYXE2ZmlMY2VpR1lGVTROcXduN0o2UEhRb0hnYTFDVFJTYWFINTczOGV2d1VJb3dPZUdOQWh1ME4yQTMwY3RzYXVOVDVXLTBCa2VaZk9VelpZUnVGZGRxY0p1SlJOQ0NqRDhPeUtVOXJJMzh1bW9LcUMxRVlxXzZuVElxZElwUUFTYUlqWmU4X3Y4SWtzU21UTk8yOGU4dm9DMGFLSnBSRVFaT0h1ZE93VmI3bkVwbQ?oc=5"
     },
     {
-      "title": "Introducing dots — ongoing AI agents",
-      "source": "OpenAI",
-      "date": "2026-09-29",
-      "url": "https://openai.com/news/"
+      "title": "Government of Canada invests in 10,000 AI-related work placements for young Canadians",
+      "source": "biomb.ca",
+      "date": "Mon, 05 Oct 2026 16:16:23 GMT",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdVYxRUdYQ29LLWwyeE9Wbm82dXVTUmpLbkducXNXN0tXUEdoWGRHMmhvWlR3bGYzYXYxNVdDMy1BYktzcld2Q2UwMGt6ZS1LYmljVE9SOFFtVk9BWWlWSjlacWxOQzVyMFAzVlFnNnNRbWsyN0Y5VUNEQWV3NWprVDI4dk9pVFhBY3haOE1peE5JU2IwLU1CcjVYdWZCQ2NvN3I5OA?oc=5"
     },
     {
-      "title": "Anthropic invests $100M to train 10,000 engineers",
-      "source": "Anthropic",
-      "date": "2026-10-02",
-      "url": "https://www.anthropic.com/news"
+      "title": "The changing economics of artificial intelligence - Natixis Corporate & Investment Banking",
+      "source": "Natixis Corporate & Investment Banking - Natixis CIB",
+      "date": "Mon, 05 Oct 2026 16:19:40 GMT",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZFVILWl0am1ZLU5La2ticjdVb2RaN3hHUmYzTWJtcldCQlNMNjlJbG1qc2I4M3lsSkFPUVdYaWhUTTRuY3dFZ0hBQmc0a0x5QldNXzBweFhGZktvZ1dfSlpYUC1nQlRYX1lUS0w0OVVqSG93SGw5UlJ3MTR0Slkyb1o4dHlpTkRJRnBzcWpzeUM?oc=5"
     },
     {
-      "title": "Introducing Claude Sonnet 5.5",
-      "source": "Anthropic",
-      "date": "2026-09-28",
-      "url": "https://www.anthropic.com/news"
+      "title": "Preventing artificial intelligence from triggering a world war",
+      "source": "The Japan Times",
+      "date": "Mon, 05 Oct 2026 11:17:48 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1xWC1TRmswNHZVd0RwV0lJMGdEZTA5ZHZ0aEs0WkZjazVGT1E4SWVuNDlPbGF5M3UxU1pHVTY5R1dQSjhnV3N2R1phX3V0eXdwVnBpa1dyeHg1ZXNuNThST0Nubkd1dTlCb2JNM21GbFNFbjZGdjlfSTln?oc=5"
     },
     {
-      "title": "Gemini 4 Argon: next era of frontier intelligence",
-      "source": "Google DeepMind",
-      "date": "2026-09",
-      "url": "https://deepmind.google/blog/"
+      "title": "Infinite Potential—Insights On Artificial Intelligence Loss of Control Across Five Scenarios",
+      "source": "RAND.org",
+      "date": "Mon, 05 Oct 2026 13:17:54 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE90RXM2UDdrT3dvbE5oUl9pcGJETU5wWjR4ZkVaV25LVGpQdXc5T2VVbGc3T1luaWNXVnpySl9vXzlYeGUtem1neS1KS2ZMdW5QZ3VpNnlWYVJBUXhBSFkzVUVFa0x2TXRN?oc=5"
     },
     {
-      "title": "Microsoft introduces new Copilot with Home, Code and Autopilot",
-      "source": "Microsoft",
-      "date": "2026-09-25",
-      "url": "https://blogs.microsoft.com/"
+      "title": "Renal-Trust, an artificial intelligence project designed to anticipate the progression of chron",
+      "source": "Hospital Clínic Barcelona",
+      "date": "Mon, 05 Oct 2026 14:56:27 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNOFZpZUFsdmszd2JnbkdZYzhYMUM5TFdpSVl3QkxsSHppU3dPNEVZbkp0OU1yRzQwcTRJT200RGFRZXZFR25tb1E0V2J3MUQzVlFHWElCQkVyTzVtcmJ4YXRBeURub0d0SEFxT0N1dFh1aWdzMHBscWhpQWZuaXdwNTdtUmx5U0lSbmZKQ1dtQTRjcFpJOFJpOVV3ZmxuLUFqREl1dDlUNDlud0ZMWVB1LXphUlhHeVVRNU1XSE51OXJRQUxCY1hVc2czWF9SYXdWU3ZkM2xydWdXQ1Jlc1h5Mkd2Ukhjdw?oc=5"
+    },
+    {
+      "title": "Artificial Intelligence: Geneva as the Captial of AI Governance",
+      "source": "Friedrich Naumann Foundation",
+      "date": "Mon, 05 Oct 2026 14:22:08 GMT",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPc0ZHWkZ5b1FUUUltak9COERBdFVKZHdLY2d0bFNVbEhWNTZzX1hmdUJadU92Rm0yWVJKd3RUbEYyU1kyTm54RF9TS24tU1N2SnpGSm9ZdllSdENCdFpYaVZid3ZuRUhDSjI2SGNZYmlPRktRS0Ria2hWdkdVeUVtSVZpNA?oc=5"
+    },
+    {
+      "title": "New debate grows over spirituality and artificial intelligence",
+      "source": "Fox News",
+      "date": "Mon, 05 Oct 2026 18:49:48 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA1Y2ZHRG1TeHNXNF84Q29uQ1RRZmxiVDNQR09TY21NZ1pmT3lxX19ta3ladHRUUmp5YjhxdTVVWFZQbm9icWFld01STFVYRHBlSm5tby1R?oc=5"
+    },
+    {
+      "title": "Trump chooses top spy boss to run new AI taskforce",
+      "source": "BBC",
+      "date": "Mon, 05 Oct 2026 10:03:38 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBiajN5MEpXZFFWUFJuUFlhNDJLV29waVA1OGlrVU1jZVdtRU1reERmdlRTSUprbWNGQ21EaHFXdFhrdWlMMzZaXy01ZmRBQWo5ekZiRlZiMmNtaTA?oc=5"
     }
   ],
   "events": [

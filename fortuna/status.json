@@ -1,6 +1,6 @@
 {
   "systemState": "YELLOW",
-  "updatedAt": "2026-10-05T10:48:41Z",
+  "updatedAt": "2026-10-05T16:03:00Z",
   "xp": 1380,
   "human": {
     "name": "Daniel",
@@ -143,6 +143,89 @@
       "agent": "Bob",
       "state": "WAITING",
       "evidence": "40 verified local completions; 0 local READY"
+    }
+  ],
+  "resources": [
+    {
+      "name": "ChatGPT Work",
+      "type": "authenticated browser / Work",
+      "state": "YELLOW",
+      "current": "USER-REPORTED active on the canonical Work Execution Queue",
+      "why": "READY job applications and browser-capable tasks exist; current Work results are still pending",
+      "unknown": "remaining Work/Codex allowance; weekly reset; banked reset count/availability; banked reset expiry",
+      "next": "Work reports usage/reset facts plus exact completed/blocked queue results"
+    },
+    {
+      "name": "Codex / ChatGPT Remote",
+      "type": "builder + phone supervision",
+      "state": "YELLOW",
+      "current": "Dual-host phone-control path designed; full Fortuna+Banana acceptance not yet verified",
+      "why": "Direct phone supervision could reduce Daniel relay/PC-return time by >10%",
+      "unknown": "both-host read/write/approval/return-to-thread acceptance",
+      "next": "complete Fortuna-Codex then Banana-Codex Remote acceptance"
+    },
+    {
+      "name": "Cline",
+      "type": "local builder",
+      "state": "YELLOW",
+      "current": "Useful bounded local checks possible; production cross-host claim remains fail-closed",
+      "why": "active capability exists but a key claim path is unresolved",
+      "unknown": "fresh production claim/ACK and direct canonical Drive read",
+      "next": "keep fail-closed and publish verified receipt when claim path exists"
+    },
+    {
+      "name": "Hen / Fortuna host",
+      "type": "owner-host agent",
+      "state": "YELLOW",
+      "current": "Claim-path and bridge reliability work remains",
+      "why": "useful work exists and is not complete",
+      "unknown": "authenticated claim endpoint; live Drive poller restart/persistence",
+      "next": "continue bounded owner-host repair/verification"
+    },
+    {
+      "name": "Bob / Banana builder",
+      "type": "local builder",
+      "state": "GREEN",
+      "current": "Local builder queue exhausted; 45 DONE and zero READY/RUNNING/BLOCKED at latest handoff",
+      "why": "no known >=10% local-only opportunity waiting in Bob's authorized queue",
+      "unknown": "remote cross-host authority remains separate",
+      "next": "accept future distinct authorized work when published"
+    },
+    {
+      "name": "Banana runtime",
+      "type": "household node",
+      "state": "GREEN",
+      "current": "Ready/protected with STOP and manual yield",
+      "why": "no need to burn compute merely to appear busy",
+      "unknown": "none material",
+      "next": "remain ready and yield to Reeve/human foreground use"
+    },
+    {
+      "name": "Local Ollama / household compute",
+      "type": "local inference capacity",
+      "state": "GREEN",
+      "current": "No requirement to load a model without an eligible inference task",
+      "why": "idle compute is correct when no useful >=10% task is waiting; household use wins",
+      "unknown": "current load may vary by host",
+      "next": "load only for eligible bounded work"
+    },
+    {
+      "name": "Claude paid access",
+      "type": "temporary paid reviewer/builder",
+      "state": "ORANGE",
+      "current": "Paid period reportedly available through about Oct 20; READY bootstrap/reviewer task exists",
+      "why": "unused already-paid access may produce >10% acceleration",
+      "unknown": "current authenticated surface and exact remaining entitlement",
+      "next": "browser-capable operator verifies access and assigns bounded isolated review/build work"
+    },
+    {
+      "name": "Kaggle free GPU",
+      "type": "free burst compute",
+      "state": "ORANGE",
+      "current": "READY setup/test task exists in Work queue",
+      "why": "suitable workloads may gain >10% speed from free GPU burst capacity",
+      "unknown": "current account entitlement, GPU type, quota/session limits",
+      "next": "run non-sensitive setup and hardware/quota check through Work/browser-capable operator"
     }
   ]
 }

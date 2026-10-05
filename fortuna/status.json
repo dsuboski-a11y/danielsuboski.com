@@ -227,5 +227,56 @@
       "unknown": "current account entitlement, GPU type, quota/session limits",
       "next": "run non-sensitive setup and hardware/quota check through Work/browser-capable operator"
     }
+  ],
+  "storage": [
+    {
+      "name": "Reeve desktop",
+      "host": "DESKTOP-4SRQ226",
+      "agents": [
+        "Bob",
+        "Banana"
+      ],
+      "totalGB": 475,
+      "freeGB": 248,
+      "usedPct": 47.8,
+      "state": "YELLOW",
+      "measured": "2026-10-04 USER-REPORTED",
+      "plan": "Refresh measurement; archive non-live build/log/export files after review",
+      "destination": "Durable archive project P0-05",
+      "cost": "TBD"
+    },
+    {
+      "name": "Fortuna main host",
+      "host": "ACERNITROV15",
+      "agents": [
+        "Hen",
+        "Cline"
+      ],
+      "totalGB": null,
+      "freeGB": null,
+      "usedPct": null,
+      "state": "UNKNOWN",
+      "measured": "NOT MEASURED",
+      "plan": "Measure capacity and largest storage categories",
+      "destination": "Durable archive project P0-05",
+      "cost": "TBD"
+    },
+    {
+      "name": "Daniel Personal Drive",
+      "host": "Google Drive replica",
+      "agents": [
+        "ChatGPT",
+        "Hen",
+        "Bob"
+      ],
+      "totalGB": null,
+      "freeGB": null,
+      "usedPct": null,
+      "state": "UNKNOWN",
+      "measured": "QUOTA NOT MEASURED",
+      "plan": "Keep as human-facing replica; add independent local and off-site copies",
+      "destination": "P0-05 multi-copy architecture",
+      "cost": "TBD"
+    }
   ]
 }

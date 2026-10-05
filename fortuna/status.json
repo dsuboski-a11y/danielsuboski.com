@@ -1,6 +1,6 @@
 {
   "systemState": "YELLOW",
-  "updatedAt": "2026-10-05T17:05:00Z",
+  "updatedAt": "2026-10-05T21:19:00Z",
   "xp": 1380,
   "human": {
     "name": "Daniel",
@@ -247,7 +247,11 @@
       "dataToMove": "Non-live build logs, old exports, duplicate/generated artifacts after review; no canonical deletion.",
       "reclaimGB": null,
       "owner": "Bob / Banana storage lane",
-      "next": "Re-measure disk, inventory largest folders, calculate safe reclaim estimate, then migrate only verified archive candidates."
+      "next": "Re-measure disk, inventory largest folders, calculate safe reclaim estimate, then migrate only verified archive candidates.",
+      "dataClasses": "Banana runtime, Bob/Codex workspace, local build/test artifacts, user files and games",
+      "backupStatus": "PARTIAL / durable multi-copy plan not yet implemented",
+      "integrityStatus": "No current checksum/scrub evidence published",
+      "permissions": "Reeve desktop first; human/game use outranks background AI; Banana authority bounded"
     },
     {
       "name": "Fortuna main host",
@@ -267,7 +271,11 @@
       "dataToMove": "UNKNOWN until disk inventory; prioritize logs, build caches, exports and duplicate artifacts before any canonical data.",
       "reclaimGB": null,
       "owner": "Hen + Cline",
-      "next": "Measure disk capacity, used/free space and largest storage categories; publish evidence-backed migration candidates."
+      "next": "Measure disk capacity, used/free space and largest storage categories; publish evidence-backed migration candidates.",
+      "dataClasses": "Fortuna source, Hen/Cline local state, queue/relay/test artifacts",
+      "backupStatus": "PARTIAL / Google Drive + local artifacts; P0-05 multi-copy design pending",
+      "integrityStatus": "Some artifact hashes exist; whole-store scrub not yet measured",
+      "permissions": "Daniel-owned host; Hen/Cline bounded engineering; production claims fail closed"
     },
     {
       "name": "Daniel Personal Drive",
@@ -288,7 +296,79 @@
       "dataToMove": "Long-term canonical backups/exports replicated to independent durable storage; Drive remains human-facing replica.",
       "reclaimGB": null,
       "owner": "Hen durable-data architecture",
-      "next": "Measure Drive quota/use; define what remains hot in Drive versus versioned archive replicas."
+      "next": "Measure Drive quota/use; define what remains hot in Drive versus versioned archive replicas.",
+      "dataClasses": "Canonical manuals/status/backlog, human-facing documents, shared coordination replicas",
+      "backupStatus": "Primary human-facing cloud replica today; independent durable replicas still pending",
+      "integrityStatus": "Provider versioning plus selected checksum evidence; full export/restore drill pending",
+      "permissions": "Daniel Personal Drive; non-EFA canonicals; connector access varies by agent"
+    }
+  ],
+  "actors": [
+    {
+      "name": "Daniel",
+      "kind": "HUMAN",
+      "role": "Owner / final authority",
+      "state": "ACTIVE IN CHAT / CURRENT-CONVERSATION",
+      "task": "Directing Fortuna priorities and website mission-control redesign",
+      "blocker": "none",
+      "next": "No routine technical action required",
+      "danielRequired": "SELF",
+      "verifiedAt": "2026-10-05 current conversation"
+    },
+    {
+      "name": "Reeve",
+      "kind": "HUMAN",
+      "role": "Reeve desktop owner / Banana primary human",
+      "state": "NO CURRENT OPERATOR TASK",
+      "task": "Human/game use has priority over Banana background work",
+      "blocker": "none reported",
+      "next": "Use Banana/household features when useful; preferences remain human-led",
+      "danielRequired": "NO",
+      "verifiedAt": "role documented; activity not freshly measured"
+    },
+    {
+      "name": "Hen",
+      "kind": "AI",
+      "role": "Fortuna owner-host coordinator",
+      "state": "WORKING / CLAIM ENGINE",
+      "task": "Authenticated task-distribution and owner-host integration",
+      "blocker": "Real production authenticated claim path not yet verified",
+      "next": "Finish claim/lease/complete path while continuing Hen-owned safe work",
+      "danielRequired": "NO",
+      "verifiedAt": "canonical current-status lane"
+    },
+    {
+      "name": "Cline",
+      "kind": "AI",
+      "role": "Fortuna local developer/test worker",
+      "state": "WORKING / LOCAL ENGINEERING",
+      "task": "Local implementation/testing while helping Hen fix task distribution",
+      "blocker": "Direct native Google Drive connector unavailable/unverified",
+      "next": "Continue local owned engineering and first real claim acceptance when available",
+      "danielRequired": "NO",
+      "verifiedAt": "canonical lane; live receipt freshness may vary"
+    },
+    {
+      "name": "Bob",
+      "kind": "AI",
+      "role": "Codex worker on Reeve desktop",
+      "state": "WORKING LANE ASSIGNED",
+      "task": "Banana-side build, peer review, manuals, website/performance work",
+      "blocker": "Cross-host shared claiming incomplete; does not block Bob-owned work",
+      "next": "Continue highest-priority safe Bob-owned task",
+      "danielRequired": "NO",
+      "verifiedAt": "canonical standing-work rule"
+    },
+    {
+      "name": "ChatGPT",
+      "kind": "AI",
+      "role": "Cloud coordinator / canonical docs / web dashboard",
+      "state": "ON-DEMAND / ACTIVE NOW",
+      "task": "Canonical coordination and mission-control website updates",
+      "blocker": "not a continuous local daemon",
+      "next": "Continue on invocation or connected workflow state",
+      "danielRequired": "NO",
+      "verifiedAt": "2026-10-05 current conversation"
     }
   ]
 }

@@ -1,112 +1,117 @@
 {
   "systemState": "YELLOW",
-  "updatedAt": "manual seed — replace with live publisher",
-  "xp": 1000,
+  "updatedAt": "2026-10-05T08:58:04Z",
+  "xp": 1380,
   "agents": [
     {
       "name": "Hen",
       "host": "ACERNITROV15",
-      "state": "WORKING",
-      "task": "Supervise queue and Cline wake loop",
-      "progress": null,
-      "eta": "continuous",
-      "lastAction": "shared control loop",
-      "blocker": "none reported"
-    },
-    {
-      "name": "Cline",
-      "host": "ACERNITROV15 / VS Code",
-      "state": "WORKING",
-      "task": "Safe bounded support work",
-      "progress": null,
-      "eta": "task-specific",
-      "lastAction": "status-board regression test",
-      "blocker": "production READY queue may be empty"
+      "state": "STALE / CHECK",
+      "task": "Fortuna owner-host supervision and bridge reliability",
+      "lastAction": "FHA-07.2 restart defect repaired in local fixtures",
+      "blocker": "live Drive poller restart/persistence still unverified",
+      "next": "bounded live duplicate/restart acceptance",
+      "danielRequired": "NO",
+      "verifiedAt": "2026-10-05T06:22:59Z"
     },
     {
       "name": "Bob / Banana",
       "host": "DESKTOP-4SRQ226",
       "state": "WORKING",
-      "task": "Watchdog / evidence / queue work",
-      "progress": null,
-      "eta": "task-specific",
-      "lastAction": "local builder queue",
-      "blocker": "remote claim path limited"
+      "task": "PowerShell 7 foreground/control regression",
+      "lastAction": "sanitized status-feed candidate passed six checks; 11 DONE receipts integrity PASS",
+      "blocker": "none",
+      "next": "complete PS7 foreground regression",
+      "danielRequired": "NO",
+      "verifiedAt": "2026-10-05T08:58:04Z"
+    },
+    {
+      "name": "Banana runtime",
+      "host": "DESKTOP-4SRQ226",
+      "state": "READY / PROTECTED",
+      "task": "Reeve-first bounded household node",
+      "lastAction": "STOP + manual resource yield preserved; no inference running",
+      "blocker": "none",
+      "next": "yield to foreground human/game use and resume safely",
+      "danielRequired": "NO",
+      "verifiedAt": "2026-10-05T08:56:50Z"
+    },
+    {
+      "name": "Cline",
+      "host": "ACERNITROV15 / VS Code",
+      "state": "UNKNOWN / STALE",
+      "task": "Claim-path review requested",
+      "lastAction": "instruction delivered/read through Hen; fresh review result not verified",
+      "blocker": "fresh ACK/result absent",
+      "next": "publish fresh receipt before claiming live state",
+      "danielRequired": "NO",
+      "verifiedAt": "2026-10-05T08:14:17Z"
     },
     {
       "name": "ChatGPT",
-      "host": "iPhone coordinator",
+      "host": "mobile / cloud coordinator",
       "state": "ON-DEMAND",
-      "task": "Human-facing coordination and evidence checks",
-      "progress": null,
-      "eta": "on invocation",
-      "lastAction": "shared handoff checks",
-      "blocker": "not a continuous daemon"
-    }
-  ],
-  "milestones": [
-    {
-      "name": "Independent AI",
-      "icon": "🤖",
-      "progress": null,
-      "note": "score only from verified autonomy evidence"
-    },
-    {
-      "name": "Exoplanet Civilization",
-      "icon": "🪐",
-      "progress": null,
-      "note": "long-horizon milestone"
-    },
-    {
-      "name": "$2M Net Worth",
-      "icon": "💎",
-      "progress": null,
-      "note": "financial metric"
-    },
-    {
-      "name": "$1M Annual AI Income",
-      "icon": "⚡",
-      "progress": null,
-      "note": "AI-generated annual revenue"
+      "task": "Human-facing coordination, evidence checks and canonical updates",
+      "lastAction": "Fortuna handoff status board updated",
+      "blocker": "not a continuous daemon",
+      "next": "respond when invoked",
+      "danielRequired": "NO",
+      "verifiedAt": "2026-10-05T09:30:25Z"
     }
   ],
   "achievements": [
     {
-      "name": "Agent Identity Breakthrough",
-      "icon": "🧭"
+      "name": "First Shared Bridge",
+      "icon": "🌉",
+      "note": "Local → Drive → ChatGPT visibility proved"
     },
     {
-      "name": "Seal of Approval — NOPE, NOT WORTH HUMAN CPU",
-      "icon": "🛡️"
+      "name": "Duplicate Slayer",
+      "icon": "♻️",
+      "note": "Restart/no-replay acceptance evidence"
+    },
+    {
+      "name": "Human CPU Saved",
+      "icon": "🧠",
+      "note": "Human-time-first operating principle promoted"
+    },
+    {
+      "name": "Banana Ready",
+      "icon": "🍌",
+      "note": "Reeve node reached bounded READY state"
+    },
+    {
+      "name": "Hard STOP",
+      "icon": "⏹️",
+      "note": "STOP/yield controls preserved in Banana runtime"
+    },
+    {
+      "name": "Status Board Online",
+      "icon": "📡",
+      "note": "Cross-agent handoff now has top-level scan view"
     }
   ],
   "tasks": [
     {
-      "id": "LIVE-STATE",
-      "title": "Maintain live shared task state",
+      "id": "FHA-07.2",
+      "title": "Prove live poller restart + duplicate safety",
       "agent": "Hen",
-      "state": "WORKING",
-      "progress": null,
-      "eta": "continuous",
-      "evidence": "handoff"
+      "state": "CHECK",
+      "evidence": "local fixtures pass; live acceptance pending"
     },
     {
-      "id": "CLINE-SUPPORT",
-      "title": "Consume / generate safe support tasks",
-      "agent": "Cline",
-      "state": "WORKING",
-      "progress": null,
-      "eta": "task-specific",
-      "evidence": "MCP receipts"
-    },
-    {
-      "id": "BOB-BUILDER",
-      "title": "Watchdog + evidence-quality work",
+      "id": "BOB-PS7",
+      "title": "Foreground/control regression under PowerShell 7",
       "agent": "Bob",
       "state": "WORKING",
-      "progress": null,
-      "eta": "task-specific",
-      "evidence": "local receipts + handoff"
+      "evidence": "claimed 2026-10-05 08:58 UTC"
+    },
+    {
+      "id": "CLINE-REVIEW",
+      "title": "Authenticated atomic-claim path review",
+      "agent": "Cline",
+      "state": "STALE",
+      "evidence": "instruction delivered; fresh ACK not verified"
     }
   ]
 }

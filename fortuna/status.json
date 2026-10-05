@@ -1,6 +1,6 @@
 {
   "systemState": "YELLOW",
-  "updatedAt": "2026-10-05T16:03:00Z",
+  "updatedAt": "2026-10-05T17:05:00Z",
   "xp": 1380,
   "human": {
     "name": "Daniel",
@@ -243,7 +243,11 @@
       "measured": "2026-10-04 USER-REPORTED",
       "plan": "Refresh measurement; archive non-live build/log/export files after review",
       "destination": "Durable archive project P0-05",
-      "cost": "TBD"
+      "cost": "TBD",
+      "dataToMove": "Non-live build logs, old exports, duplicate/generated artifacts after review; no canonical deletion.",
+      "reclaimGB": null,
+      "owner": "Bob / Banana storage lane",
+      "next": "Re-measure disk, inventory largest folders, calculate safe reclaim estimate, then migrate only verified archive candidates."
     },
     {
       "name": "Fortuna main host",
@@ -259,7 +263,11 @@
       "measured": "NOT MEASURED",
       "plan": "Measure capacity and largest storage categories",
       "destination": "Durable archive project P0-05",
-      "cost": "TBD"
+      "cost": "TBD",
+      "dataToMove": "UNKNOWN until disk inventory; prioritize logs, build caches, exports and duplicate artifacts before any canonical data.",
+      "reclaimGB": null,
+      "owner": "Hen + Cline",
+      "next": "Measure disk capacity, used/free space and largest storage categories; publish evidence-backed migration candidates."
     },
     {
       "name": "Daniel Personal Drive",
@@ -276,7 +284,11 @@
       "measured": "QUOTA NOT MEASURED",
       "plan": "Keep as human-facing replica; add independent local and off-site copies",
       "destination": "P0-05 multi-copy architecture",
-      "cost": "TBD"
+      "cost": "TBD",
+      "dataToMove": "Long-term canonical backups/exports replicated to independent durable storage; Drive remains human-facing replica.",
+      "reclaimGB": null,
+      "owner": "Hen durable-data architecture",
+      "next": "Measure Drive quota/use; define what remains hot in Drive versus versioned archive replicas."
     }
   ]
 }

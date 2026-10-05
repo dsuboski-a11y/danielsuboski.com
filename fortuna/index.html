@@ -29,12 +29,17 @@ footer{padding:27px 3px 15px;color:var(--muted);font-size:11px;display:flex;just
 .deckGrid{display:grid;grid-template-columns:1.1fr .9fr .9fr .9fr;gap:9px;margin-top:11px}.deckTile{position:relative;overflow:hidden;padding:13px;border-radius:16px;background:#081626;border:1px solid #25415d;min-height:105px}.deckTile .icon{font-size:24px}.deckTile .number{font-size:27px;font-weight:950;margin-top:3px}.deckTile .caption{font-size:11px;color:var(--muted)}.deckTile.danger{border-color:#663341}.deckTile.warn{border-color:#675725}.deckTile.good{border-color:#245d50}
 .signalRow{display:flex;gap:7px;align-items:center;margin-top:9px;flex-wrap:wrap}.signal{display:flex;align-items:center;gap:5px;font-size:11px;padding:5px 8px;border-radius:99px;background:#0a1725;border:1px solid #203b54}.dot{width:9px;height:9px;border-radius:50%;display:inline-block;box-shadow:0 0 10px currentColor}.dot.green{background:var(--green);color:var(--green)}.dot.yellow{background:var(--yellow);color:var(--yellow)}.dot.red{background:var(--red);color:var(--red)}.dot.gray{background:#6e8295;color:#6e8295}
 .blockerBoard{margin-top:9px;display:grid;grid-template-columns:repeat(3,1fr);gap:8px}.blockerCard{padding:11px;border-radius:14px;background:#0a1725;border:1px solid #243e58}.blockerCard strong{display:block;font-size:12px;margin-bottom:4px}.blockerCard span{font-size:11px;color:var(--muted);line-height:1.35}.gearRow{display:flex;gap:7px;flex-wrap:wrap;margin-top:9px}.gear{font-size:11px;padding:6px 8px;border-radius:10px;background:#121a30;border:1px solid #3e3c6b}
+.pageTabs{display:flex;gap:8px;margin:0 0 14px;position:sticky;top:6px;z-index:15;background:#06101ddd;padding:6px;border-radius:16px;backdrop-filter:blur(10px)}.pageTabs button{flex:1;border:1px solid #315574;background:#0b1b2d;color:var(--muted);padding:11px;border-radius:12px;font-weight:900;cursor:pointer}.pageTabs button.active{background:#173552;color:white;border-color:#5d8db6}.projectGrid{display:grid;grid-template-columns:repeat(3,1fr);gap:10px}.projectCard{padding:15px}.projectCard h3{margin:6px 0 8px;font-size:18px}.progress{height:9px;background:#07111e;border:1px solid #27425c;border-radius:99px;overflow:hidden}.progress>i{display:block;height:100%;background:linear-gradient(90deg,var(--blue),var(--purple))}.projectMeta{display:grid;gap:5px;margin-top:10px;font-size:12px}.projectMeta b{color:#dcecff}.projectMeta span{color:var(--muted)}.xpPanel{display:grid;grid-template-columns:repeat(4,1fr);gap:9px;margin:12px 0}.xpPerson{padding:14px;border-radius:16px;background:#111729;border:1px solid #3c4072}.xpPerson .score{font-size:26px;font-weight:950}.pageHidden{display:none}
+@media(max-width:1050px){.projectGrid{grid-template-columns:repeat(2,1fr)}.xpPanel{grid-template-columns:repeat(2,1fr)}}
+@media(max-width:650px){.projectGrid,.xpPanel{grid-template-columns:1fr}}
 @media(max-width:1050px){.deckGrid{grid-template-columns:repeat(2,1fr)}.blockerBoard{grid-template-columns:1fr 1fr}}
 @media(max-width:650px){.deckGrid,.blockerBoard{grid-template-columns:1fr}.commandDeck{padding:11px}}
 @media(max-width:1050px){.hero,.split{grid-template-columns:1fr}.grid{grid-template-columns:repeat(2,1fr)}.promiseGrid{grid-template-columns:repeat(2,1fr)}.roadmap{grid-template-columns:repeat(2,1fr)}.achievements{grid-template-columns:repeat(2,1fr)}.flow{grid-template-columns:1fr}.arrow{transform:rotate(90deg)}.livebar{grid-template-columns:repeat(2,1fr)}}
 @media(max-width:650px){.nav{display:none}.grid,.promiseGrid,.roadmap,.achievements,.livebar{grid-template-columns:1fr}.heroArt{min-height:320px}.heroCopy{padding:28px 20px}.event{grid-template-columns:1fr}.sectionHead{align-items:flex-start;flex-direction:column}}
 </style></head><body><main>
-<div class="top"><div class="brand">◢ FORTUNA AI</div><nav class="nav"><a href="#status">Status</a><a href="#resources">Resources</a><a href="#connections">Connections</a><a href="#world">World</a><a href="#promise">Promise</a><a href="#news">AI News</a><a href="#roadmap">Roadmap</a><a href="#achievements">XP</a></nav></div>
+<div class="top"><div class="brand">◢ FORTUNA AI</div><nav class="nav"><a href="#" onclick="showPage('status');return false">Status</a><a href="#" onclick="showPage('projects');return false">Projects</a><a href="#achievements">XP</a></nav></div>
+<div class="pageTabs"><button id="statusTab" class="active" onclick="showPage('status')">🛰️ Page 1 — Devices & Agents</button><button id="projectsTab" onclick="showPage('projects')">🗺️ Page 2 — Projects</button></div>
+<div id="statusPage">
 
 <section class="hero">
 <div class="heroCopy"><div class="kicker">Household intelligence • Human control</div><h1>Alive in the house.<br>Never above the humans.</h1><div class="lede">Fortuna is a household-oriented personal AI operating layer designed for continuity, explicit permissions, safe autonomy, restart recovery, family-aware resource sharing and phone-visible control.</div><div class="pillrow"><span class="pill">Durable queue + checkpoints</span><span class="pill">Hard STOP outside model reasoning</span><span class="pill">Phone supervision</span><span class="pill">Human/game use wins</span><span class="pill">Authority never expands automatically</span></div></div>
@@ -100,10 +105,43 @@ footer{padding:27px 3px 15px;color:var(--muted);font-size:11px;display:flex;just
 
 <section class="section card queue"><div class="kicker">Shared work</div><h2>Current task queue</h2><table><thead><tr><th>Task</th><th>Agent</th><th>State</th><th>Evidence</th></tr></thead><tbody id="queue"></tbody></table></section>
 
+</div>
+<div id="projectsPage" class="pageHidden">
+<section class="commandDeck">
+<div class="deckTop"><div class="deckTitle"><div style="font-size:30px">🗺️</div><div><div class="kicker">Page Two • Portfolio</div><h2>Fortuna Project Galaxy</h2></div></div></div>
+<div class="xpPanel">
+<div class="xpPerson"><div class="mini">DANIEL XP</div><div class="score">100 XP</div><div class="caption">tracking began Oct 5 • first event: system-design insight</div></div>
+<div class="xpPerson"><div class="mini">REEVE XP</div><div class="score">—</div><div class="caption">Fortuna will track automatically; baseline not invented</div></div>
+<div class="xpPerson"><div class="mini">PROJECTS SHOWN</div><div class="score" id="projectCount">—</div><div class="caption">core + docs + household + business</div></div>
+<div class="xpPerson"><div class="mini">RULE</div><div class="score">10+</div><div class="caption">minimum XP per intentional Daniel/Reeve communication</div></div>
+</div>
+<p style="color:var(--muted)">Progress bars use real baselined steps only. “Not baselined” is shown instead of inventing percentages.</p>
+</section>
+<section class="section"><div id="projectGrid" class="projectGrid"></div></section>
+</div>
 <footer><span>Fortuna AI • DanielSuboski.com • Public dashboard exposes no credentials or unrestricted control endpoints.</span><span id="footerFresh">—</span></footer>
 </main>
 <div class="dialog" id="dialog"><div class="dialogBox"><button onclick="closeDialog()">Close</button><div id="dialogContent"></div></div></div>
 <script>
+const projects=[
+{id:'P0-01',name:'Task Distribution Engine',owner:'Hen + Cline',state:'ACTIVE / CRITICAL',done:null,total:20,blocker:'Authenticated shared claiming still incomplete',next:'Prove real claim → work → complete → readback',cat:'Core'},
+{id:'P0-03',name:'Overall Desktop Coordinator',owner:'Cline',state:'NOT STARTED',done:0,total:20,blocker:'Must reuse existing queue/state',next:'Design bounded desktop coordinator',cat:'Core'},
+{id:'P1-01',name:'Clean Rebuild Manual',owner:'Bob',state:'ACTIVE',done:null,total:20,blocker:'Retrospective consolidation',next:'Write shortest new-computer route',cat:'Build'},
+{id:'P1-03',name:'Agent Productive Speed',owner:'Bob + Cline + Hen',state:'READY',done:0,total:20,blocker:'No baseline metrics yet',next:'Instrument useful work/hour + blocked time',cat:'Performance'},
+{id:'P2-02',name:'Daniel at the Side of AI',owner:'Bob',state:'ACTIVE',done:null,total:20,blocker:'Living work',next:'Keep meaningful events current',cat:'Story'},
+{id:'P2-04',name:'Fortuna Movie / Documentary',owner:'Bob',state:'ACTIVE',done:null,total:20,blocker:'Treatment still expanding',next:'Build true-event scene map',cat:'Story'},
+{id:'P3-01',name:'Fortuna Command Deck',owner:'Bob + Cline',state:'ACTIVE',done:null,total:20,blocker:'Live feed automation',next:'Make device/agent status simpler and fresher',cat:'Website'},
+{id:'P3-03',name:'Kids / Household Fun Display',owner:'Bob + Cline',state:'READY',done:0,total:20,blocker:'Safe interaction design',next:'Prototype XP, achievements, quests and approved buttons',cat:'Household'},
+{id:'P3-04',name:'TV / Media Control',owner:'Cline',state:'READY',done:0,total:20,blocker:'Device/protocol inventory',next:'Test approved media playback on existing devices',cat:'Household'},
+{id:'BUS-01',name:'Personal AI / Fortuna App',owner:'Fortuna team',state:'ACTIVE',done:null,total:20,blocker:'Reliable reproducible runtime first',next:'Turn current architecture into clean product path',cat:'Business'},
+{id:'BUS-02',name:'Personal AI Builder’s Manual',owner:'Bob',state:'ACTIVE',done:null,total:20,blocker:'Clean rebuild not externally tested',next:'Finish shortest-path manual',cat:'Business'},
+{id:'BUS-03',name:'Compassion Key AI App',owner:'AI product lane',state:'NOT STARTED',done:0,total:20,blocker:'Requirements not baselined',next:'Define workflow, scope and prototype',cat:'Business'},
+{id:'BUS-04',name:'Facebook Marketplace Reseller',owner:'AI commerce lane',state:'NOT STARTED',done:0,total:20,blocker:'Workflow not built',next:'Define sourcing, pricing, inventory and listing-prep flow',cat:'Business'},
+{id:'BUS-05',name:'New Ways to Make Money',owner:'Strategy lane',state:'ONGOING',done:null,total:20,blocker:'Continuous discovery',next:'Rank opportunities by value, effort and Daniel time',cat:'Business'},
+{id:'BUS-06',name:'Market Strategy Research',owner:'Research lane',state:'RESEARCH ONLY',done:0,total:20,blocker:'No validated framework',next:'Research and simulate before consequential action',cat:'Business'}
+];
+function renderProjects(){document.getElementById('projectCount').textContent=projects.length;document.getElementById('projectGrid').innerHTML=projects.map(p=>{const known=Number.isFinite(p.done);const pct=known?Math.round((p.done/p.total)*100):0;return '<article class="card projectCard"><div class="agentTop"><div><div class="kicker">'+esc(p.cat)+'</div><h3>'+esc(p.id)+' • '+esc(p.name)+'</h3></div><div class="state '+stateClass(p.state)+'">'+esc(p.state)+'</div></div><div class="progress"><i style="width:'+pct+'%"></i></div><div class="projectMeta"><div><b>Progress:</b> <span>'+(known?esc(p.done)+' / '+esc(p.total)+' • '+pct+'%':'Not baselined • / '+esc(p.total))+'</span></div><div><b>Owner:</b> <span>'+esc(p.owner)+'</span></div><div><b>Blocker:</b> <span>'+esc(p.blocker)+'</span></div><div><b>Next:</b> <span>'+esc(p.next)+'</span></div></div></article>'}).join('')}
+function showPage(which){const s=document.getElementById('statusPage'),p=document.getElementById('projectsPage');const isProjects=which==='projects';s.classList.toggle('pageHidden',isProjects);p.classList.toggle('pageHidden',!isProjects);document.getElementById('statusTab').classList.toggle('active',!isProjects);document.getElementById('projectsTab').classList.toggle('active',isProjects);if(isProjects){renderProjects();window.scrollTo({top:0,behavior:'smooth'})}}
 const stateClass=s=>{s=String(s||'').toLowerCase();if(s.includes('orange'))return 'orange';if(s.includes('red')||s.includes('fail'))return 'failed';if(s.includes('green')||s.includes('work')||s.includes('ready'))return 'working';if(s.includes('yellow')||s.includes('block')||s.includes('wait')||s.includes('check'))return 'waiting';return 'stale'};
 function esc(s){return String(s??'—').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]))}
 let __mode='plain';

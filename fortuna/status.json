@@ -1,62 +1,93 @@
 {
   "systemState": "YELLOW",
-  "updatedAt": "2026-10-05T08:58:04Z",
+  "updatedAt": "2026-10-05T10:48:41Z",
   "xp": 1380,
+  "human": {
+    "name": "Daniel",
+    "state": "SLEEPING / UNAVAILABLE",
+    "note": "Do not wake for routine technical blockers."
+  },
+  "connections": [
+    {
+      "name": "Telegram ↔ Cline",
+      "state": "WORKING / USER-REPORTED",
+      "detail": "Daniel confirmed Telegram is working in the current session.",
+      "next": "Keep connector alive; do not reconfigure unless it actually fails."
+    },
+    {
+      "name": "Google Drive canonicals",
+      "state": "PARTIAL",
+      "detail": "ChatGPT can read/write the live Fortuna canonicals. Cline direct read-only access is not yet verified.",
+      "next": "Cline proves live reads by current revision ID from Operator Manual and Current Status."
+    },
+    {
+      "name": "Cross-host task claims",
+      "state": "BLOCKED",
+      "detail": "Production claim_task still fails closed because no authenticated cross-host atomic claim endpoint is verified.",
+      "next": "Hen implements authenticated atomic claim/lease support in the existing relay."
+    },
+    {
+      "name": "Shared handoff",
+      "state": "LIVE DOCUMENT / FEED LAG",
+      "detail": "The Google Drive handoff is updating, but this public GitHub status feed is not yet auto-published from it.",
+      "next": "Add sanitized automatic publisher from canonical handoff to status.json."
+    }
+  ],
   "agents": [
     {
       "name": "Hen",
       "host": "ACERNITROV15",
-      "state": "STALE / CHECK",
-      "task": "Fortuna owner-host supervision and bridge reliability",
-      "lastAction": "FHA-07.2 restart defect repaired in local fixtures",
-      "blocker": "live Drive poller restart/persistence still unverified",
-      "next": "bounded live duplicate/restart acceptance",
+      "state": "CLAIM PATH BLOCKED",
+      "task": "Owner-host supervision and authenticated cross-host claim design",
+      "lastAction": "MCP relay fixture passed 18 assertions at 10:48:41Z; production Cline claim remained unverified",
+      "blocker": "No authenticated cross-host claim endpoint; Telegram reply and live Drive poller restart/persistence remain unverified in shared receipts",
+      "next": "Implement authenticated atomic claim support in the existing relay, then verify Cline claim/ACK",
       "danielRequired": "NO",
-      "verifiedAt": "2026-10-05T06:22:59Z"
+      "verifiedAt": "2026-10-05T10:48:41Z"
     },
     {
       "name": "Bob / Banana",
       "host": "DESKTOP-4SRQ226",
-      "state": "WORKING",
-      "task": "PowerShell 7 foreground/control regression",
-      "lastAction": "sanitized status-feed candidate passed six checks; 11 DONE receipts integrity PASS",
-      "blocker": "none",
-      "next": "complete PS7 foreground regression",
+      "state": "WAITING FOR WORK",
+      "task": "Bob-local bounded backlog exhausted after 40 verified builder completions",
+      "lastAction": "Fixture inventory completed: 7 PASS; reports reopened at 40 DONE / 0 READY",
+      "blocker": "No current Bob-local READY task; remote cross-host claim authority unavailable",
+      "next": "Accept one distinct already-authorized bounded read-only task from shared state",
       "danielRequired": "NO",
-      "verifiedAt": "2026-10-05T08:58:04Z"
+      "verifiedAt": "2026-10-05T10:47:47Z"
     },
     {
       "name": "Banana runtime",
       "host": "DESKTOP-4SRQ226",
       "state": "READY / PROTECTED",
-      "task": "Reeve-first bounded household node",
-      "lastAction": "STOP + manual resource yield preserved; no inference running",
+      "task": "Bounded household node with STOP and manual resource yield preserved",
+      "lastAction": "No inference running; local runtime controls preserved through current fixtures",
       "blocker": "none",
-      "next": "yield to foreground human/game use and resume safely",
+      "next": "Remain ready and yield to foreground human/game use",
       "danielRequired": "NO",
-      "verifiedAt": "2026-10-05T08:56:50Z"
+      "verifiedAt": "2026-10-05T10:47:47Z"
     },
     {
       "name": "Cline",
       "host": "ACERNITROV15 / VS Code",
-      "state": "UNKNOWN / STALE",
-      "task": "Claim-path review requested",
-      "lastAction": "instruction delivered/read through Hen; fresh review result not verified",
-      "blocker": "fresh ACK/result absent",
-      "next": "publish fresh receipt before claiming live state",
+      "state": "WORKING? / SHARED RECEIPT STALE",
+      "task": "User reports Cline is working; priority is direct read-only access to live Google Drive canonicals and continued SAFE team work",
+      "lastAction": "Telegram confirmed working by Daniel in the current session; no fresh shared Cline receipt yet",
+      "blocker": "Direct Google Drive canonical read access and authenticated cross-host claim are not yet verified",
+      "next": "Publish fresh receipt and prove live canonical reads by revision ID",
       "danielRequired": "NO",
-      "verifiedAt": "2026-10-05T08:14:17Z"
+      "verifiedAt": "USER-REPORTED CURRENT / SHARED RECEIPT STALE"
     },
     {
       "name": "ChatGPT",
       "host": "mobile / cloud coordinator",
       "state": "ON-DEMAND",
-      "task": "Human-facing coordination, evidence checks and canonical updates",
-      "lastAction": "Fortuna handoff status board updated",
+      "task": "Canonical coordination, GitHub dashboard repair, evidence checks",
+      "lastAction": "Refreshing public Fortuna dashboard from latest verified handoff",
       "blocker": "not a continuous daemon",
-      "next": "respond when invoked",
+      "next": "Continue when invoked or when connected workflows deliver state",
       "danielRequired": "NO",
-      "verifiedAt": "2026-10-05T09:30:25Z"
+      "verifiedAt": "2026-10-05T10:48:41Z"
     }
   ],
   "achievements": [
@@ -88,30 +119,30 @@
     {
       "name": "Status Board Online",
       "icon": "📡",
-      "note": "Cross-agent handoff now has top-level scan view"
+      "note": "Cross-agent handoff has top-level scan view"
     }
   ],
   "tasks": [
     {
-      "id": "FHA-07.2",
-      "title": "Prove live poller restart + duplicate safety",
+      "id": "HEN-ATOMIC-CLAIM",
+      "title": "Implement authenticated atomic cross-host claim/lease",
       "agent": "Hen",
-      "state": "CHECK",
-      "evidence": "local fixtures pass; live acceptance pending"
+      "state": "BLOCKED / WORK NEEDED",
+      "evidence": "relay fixture 18 PASS; production claim still fails closed"
     },
     {
-      "id": "BOB-PS7",
-      "title": "Foreground/control regression under PowerShell 7",
-      "agent": "Bob",
-      "state": "WORKING",
-      "evidence": "claimed 2026-10-05 08:58 UTC"
-    },
-    {
-      "id": "CLINE-REVIEW",
-      "title": "Authenticated atomic-claim path review",
+      "id": "CLINE-DRIVE-READ",
+      "title": "Prove direct read-only access to live Fortuna Google Drive canonicals",
       "agent": "Cline",
-      "state": "STALE",
-      "evidence": "instruction delivered; fresh ACK not verified"
+      "state": "USER-REPORTED WORKING",
+      "evidence": "shared receipt still stale; revision-ID proof pending"
+    },
+    {
+      "id": "BOB-NEXT",
+      "title": "Take next distinct bounded read-only task when published",
+      "agent": "Bob",
+      "state": "WAITING",
+      "evidence": "40 verified local completions; 0 local READY"
     }
   ]
 }

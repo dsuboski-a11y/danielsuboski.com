@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Fortuna AI Ops | DanielSuboski.com</title>
+<meta name="theme-color" content="#07111f">
+<style>
+:root{--bg:#07111f;--panel:#0d1b2d;--line:#20334f;--text:#eef7ff;--muted:#91a6bc;--green:#4ce0a5;--yellow:#ffd166;--red:#ff6b6b;--blue:#66b3ff;--purple:#b792ff}
+*{box-sizing:border-box}body{margin:0;background:radial-gradient(circle at top,#112643 0,#07111f 45%,#050a12 100%);color:var(--text);font-family:Inter,system-ui,-apple-system,Segoe UI,sans-serif}
+main{max-width:1500px;margin:auto;padding:24px}.top{display:flex;justify-content:space-between;gap:20px;align-items:flex-start;margin-bottom:20px}.kicker{font-size:12px;letter-spacing:.16em;color:var(--blue);text-transform:uppercase;font-weight:800}h1{font-size:clamp(32px,6vw,72px);line-height:.95;margin:6px 0}.sub{color:var(--muted);max-width:760px}.badge{border:1px solid var(--line);background:#0b1728;padding:12px 16px;border-radius:16px;min-width:180px}.grid{display:grid;grid-template-columns:repeat(4,1fr);gap:14px}.card{background:linear-gradient(180deg,#0e1d31,#0a1626);border:1px solid var(--line);border-radius:20px;padding:16px;box-shadow:0 16px 40px #0005}.agent-head{display:flex;justify-content:space-between;gap:10px}.name{font-size:22px;font-weight:900}.host{font-size:12px;color:var(--muted)}.state{font-size:11px;padding:6px 9px;border-radius:999px;border:1px solid currentColor;font-weight:900;letter-spacing:.08em}.working{color:var(--green)}.blocked,.waiting{color:var(--yellow)}.stale,.idle{color:#8291a8}.failed{color:var(--red)}.pulse{width:10px;height:10px;border-radius:50%;display:inline-block;background:currentColor;box-shadow:0 0 18px currentColor;animation:pulse 1.4s infinite}@keyframes pulse{50%{opacity:.35;transform:scale(.75)}}.task{font-weight:800;font-size:16px;margin:16px 0 10px}.muted{color:var(--muted)}.mini{font-size:12px}.progress{height:10px;background:#07101d;border:1px solid #1d314c;border-radius:999px;overflow:hidden}.progress>i{display:block;height:100%;background:linear-gradient(90deg,var(--blue),var(--purple));width:0;transition:width .6s ease}.row{display:flex;justify-content:space-between;gap:10px;align-items:center;margin-top:9px}.biggrid{display:grid;grid-template-columns:2fr 1fr;gap:14px;margin-top:14px}.milestones{display:grid;grid-template-columns:repeat(2,1fr);gap:12px}.mission{padding:14px;border-radius:16px;background:#081525;border:1px solid #1f3452}.mission strong{display:block;margin-bottom:8px}.xp{font-size:38px;font-weight:950;color:var(--yellow)}.achievement-list{display:flex;flex-wrap:wrap;gap:8px;margin-top:12px}.achievement{padding:8px 10px;background:#15122a;border:1px solid #3e356d;border-radius:12px;font-size:12px}.artifact{font-size:28px}.queue{margin-top:14px}.queue table{width:100%;border-collapse:collapse}.queue th,.queue td{text-align:left;padding:10px;border-bottom:1px solid #172b45;font-size:13px}.queue th{color:var(--muted);text-transform:uppercase;font-size:10px;letter-spacing:.1em}.toast{position:fixed;right:18px;bottom:18px;background:#141d34;border:1px solid #4e67a1;border-radius:16px;padding:14px 18px;box-shadow:0 18px 50px #0008;display:none}.toast.show{display:block;animation:pop .35s ease}@keyframes pop{from{transform:translateY(12px);opacity:0}to{transform:none;opacity:1}}footer{padding:28px 0;color:var(--muted);font-size:12px}
+@media(max-width:1000px){.grid{grid-template-columns:repeat(2,1fr)}.biggrid{grid-template-columns:1fr}.milestones{grid-template-columns:1fr 1fr}}@media(max-width:650px){.grid,.milestones{grid-template-columns:1fr}.top{flex-direction:column}}
+</style>
+</head>
+<body>
+<main>
+<div class="top">
+  <div><div class="kicker">Fortuna AI Operations</div><h1>Mission Control</h1><div class="sub">Live task state for Hen, Cline, Bob/Banana and ChatGPT. Task events matter more than heartbeat: CLAIMED → WORKING → DONE → NEXT.</div></div>
+  <div class="badge"><div class="mini muted">SYSTEM</div><div id="systemState" style="font-size:26px;font-weight:950">LOADING</div><div class="mini muted" id="updated">—</div></div>
+</div>
+
+<section id="agents" class="grid"></section>
+
+<section class="biggrid">
+  <div class="card">
+    <div class="kicker">Long Game</div>
+    <h2>Mission Progress</h2>
+    <div id="milestones" class="milestones"></div>
+  </div>
+  <div class="card">
+    <div class="kicker">Gamification</div>
+    <h2>XP & Unlocks</h2>
+    <div class="xp" id="xp">0 XP</div>
+    <div class="mini muted">Earned only from verified receipts and breakthroughs.</div>
+    <div id="achievements" class="achievement-list"></div>
+  </div>
+</section>
+
+<section class="card queue">
+  <div class="kicker">Shared Work</div>
+  <h2>Task Queue</h2>
+  <table><thead><tr><th>Task</th><th>Agent</th><th>State</th><th>Progress</th><th>ETA</th><th>Evidence</th></tr></thead><tbody id="queue"></tbody></table>
+</section>
+
+<footer>Fortuna AI • DanielSuboski.com • Status feed refreshes every 5 seconds. No secrets or private source documents should be exposed here.</footer>
+</main>
+<div id="toast" class="toast"></div>
+<script>
+let priorDone = new Set();
+const stateClass=s=>{s=(s||'').toLowerCase();return s.includes('work')||s.includes('claim')?'working':s.includes('block')?'blocked':s.includes('wait')?'waiting':s.includes('fail')?'failed':'stale'};
+const pct=v=>Number.isFinite(v)?Math.max(0,Math.min(100,v)):null;
+function agentCard(a){
+ const p=pct(a.progress);
+ return `<article class="card"><div class="agent-head"><div><div class="name"><span class="pulse ${stateClass(a.state)}"></span> ${a.name}</div><div class="host">${a.host||'—'}</div></div><div class="state ${stateClass(a.state)}">${a.state||'UNKNOWN'}</div></div><div class="task">${a.task||'No task reported'}</div><div class="row mini"><span class="muted">Progress</span><b>${p===null?'UNSCORED':p+'%'}</b></div><div class="progress"><i style="width:${p||0}%"></i></div><div class="row mini"><span class="muted">ETA</span><b>${a.eta||'—'}</b></div><div class="row mini"><span class="muted">Last action</span><b>${a.lastAction||'—'}</b></div><div class="row mini"><span class="muted">Blocker</span><b>${a.blocker||'none'}</b></div></article>`;
+}
+function milestoneCard(m){
+ const p=pct(m.progress);return `<div class="mission"><strong>${m.icon||'🚀'} ${m.name}</strong><div class="row mini"><span class="muted">${m.note||''}</span><b>${p===null?'UNSCORED':p+'%'}</b></div><div class="progress"><i style="width:${p||0}%"></i></div></div>`;
+}
+function render(d){
+ document.getElementById('systemState').textContent=d.systemState||'UNKNOWN';
+ document.getElementById('updated').textContent='Updated '+(d.updatedAt||'—');
+ document.getElementById('agents').innerHTML=(d.agents||[]).map(agentCard).join('');
+ document.getElementById('milestones').innerHTML=(d.milestones||[]).map(milestoneCard).join('');
+ document.getElementById('xp').textContent=(d.xp||0)+' XP';
+ document.getElementById('achievements').innerHTML=(d.achievements||[]).map(x=>`<span class="achievement">${x.icon||'🏆'} ${x.name}</span>`).join('');
+ document.getElementById('queue').innerHTML=(d.tasks||[]).map(t=>{const p=pct(t.progress);return `<tr><td><b>${t.title}</b><div class="mini muted">${t.id||''}</div></td><td>${t.agent||'—'}</td><td>${t.state||'—'}</td><td>${p===null?'—':p+'%'}</td><td>${t.eta||'—'}</td><td>${t.evidence||'—'}</td></tr>`}).join('');
+ const done=new Set((d.tasks||[]).filter(t=>String(t.state).toUpperCase()==='DONE').map(t=>t.id));
+ done.forEach(id=>{if(!priorDone.has(id)){const t=(d.tasks||[]).find(x=>x.id===id);showToast('✨ TASK COMPLETE: '+(t?.title||id));}});
+ priorDone=done;
+}
+function showToast(msg){const t=document.getElementById('toast');t.textContent=msg;t.classList.add('show');setTimeout(()=>t.classList.remove('show'),4200)}
+async function poll(){try{const r=await fetch('status.json?ts='+Date.now(),{cache:'no-store'});if(!r.ok)throw 0;render(await r.json())}catch(e){document.getElementById('systemState').textContent='FEED OFFLINE'}}
+poll();setInterval(poll,5000);
+</script>
+</body></html>

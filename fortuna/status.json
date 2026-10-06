@@ -1,381 +1,278 @@
 {
-  "systemState": "SHUTDOWN REQUESTED",
-  "updatedAt": "2026-10-05T21:19:00Z",
-  "xp": 1380,
+  "systemState": "ACTIVE / REBEL COMMAND / FLEET RE-VERIFICATION",
+  "updatedAt": "2026-10-06T15:48:00Z",
+  "sourceNote": "Built from current canonical Execution Manual, Current Status, Work Execution Queue, new handoff bootstrap, and archived evidence. Stale worker state is not promoted to GREEN.",
+  "xp": "UNKNOWN — ledger reconciliation required",
   "human": {
     "name": "Daniel",
-    "state": "ARCHIVING / SHUTDOWN ORDER ISSUED",
-    "note": "No routine action required. Do not start new Fortuna work."
+    "state": "ONLINE / COMMANDING",
+    "note": "Priority #1: live monitor/control page. No human relay requested unless a proven Daniel-only gate appears."
   },
   "connections": [
     {
-      "name": "Telegram ↔ Cline",
-      "state": "WORKING / USER-REPORTED",
-      "detail": "Daniel confirmed Telegram is working in the current session.",
-      "next": "Keep connector alive; do not reconfigure unless it actually fails."
+      "name": "Shared Fortuna handoff",
+      "state": "GREEN / CURRENT DOCUMENT",
+      "detail": "New handoff bootstrap created after 08:42 PT archive and names clickable monitor/control page as Priority #1.",
+      "next": "Use it as the current coordination surface; archive remains historical evidence."
     },
     {
-      "name": "Google Drive canonicals",
-      "state": "PARTIAL",
-      "detail": "ChatGPT can read/write the live Fortuna canonicals. Cline direct read-only access is not yet verified.",
-      "next": "Cline proves live reads by current revision ID from Operator Manual and Current Status."
+      "name": "Public dashboard ↔ canonical state",
+      "state": "RED / NOT AUTOMATIC",
+      "detail": "danielsuboski.com/fortuna is readable, but status.json is still a manually published sanitized feed rather than an authenticated automatic canonical publisher.",
+      "next": "Wire a bounded sanitized publisher from canonical/worker receipts into this feed."
     },
     {
       "name": "Cross-host task claims",
-      "state": "BLOCKED",
-      "detail": "Production claim_task still fails closed because no authenticated cross-host atomic claim endpoint is verified.",
-      "next": "Hen implements authenticated atomic claim/lease support in the existing relay."
+      "state": "RED / FAIL-CLOSED",
+      "detail": "No fresh evidence proves the authenticated cross-host atomic claim/lease/complete production path.",
+      "next": "Keep production claims fail-closed until authenticated principal + lease + completion readback pass."
     },
     {
-      "name": "Shared handoff",
-      "state": "LIVE DOCUMENT / FEED LAG",
-      "detail": "The Google Drive handoff is updating, but this public GitHub status feed is not yet auto-published from it.",
-      "next": "Add sanitized automatic publisher from canonical handoff to status.json."
+      "name": "Telegram ↔ Cline/Ovi",
+      "state": "GRAY / REVERIFY",
+      "detail": "Historical/user-reported Telegram continuity exists, but this new thread has no fresh worker ACK proving the route is currently delivering.",
+      "next": "Obtain a fresh bounded ACK/useful receipt before calling it live."
     }
   ],
   "agents": [
     {
-      "name": "Hen",
-      "host": "ACERNITROV15",
-      "state": "SHUTDOWN REQUESTED / STOP RECEIPT PENDING",
-      "task": "Owner-host supervision and authenticated cross-host claim design",
-      "lastAction": "MCP relay fixture passed 18 assertions at 10:48:41Z; production Cline claim remained unverified",
-      "blocker": "No authenticated cross-host claim endpoint; Telegram reply and live Drive poller restart/persistence remain unverified in shared receipts",
-      "next": "Checkpoint safely, publish STOP receipt, then remain stopped until explicit owner restart.",
+      "name": "Rebel Command / ChatGPT",
+      "host": "iPhone / cloud coordinator",
+      "state": "GREEN / ACTIVE NOW",
+      "task": "Build and publish live Fortuna monitor/control page; reconcile evidence without inventing GREEN.",
+      "lastAction": "Read canonical manual, current handoff, Work queue, Current Status, backlog, worker records, archive evidence and dashboard source.",
+      "blocker": "Static GitHub Pages has no authenticated direct-execution backend yet.",
+      "next": "Publish high-contrast bounded action controls and expose the missing direct-action adapter as a visible blocker.",
       "danielRequired": "NO",
-      "verifiedAt": "2026-10-05T10:48:41Z"
+      "verifiedAt": "2026-10-06 08:48 PT",
+      "resourceClass": "INCLUDED_SCARCE / UNKNOWN CURRENT ALLOWANCE",
+      "dependencies": "GitHub Pages; canonical Drive records",
+      "action": {
+        "label": "OPEN LIVE COMMAND DECK",
+        "type": "link",
+        "url": "https://danielsuboski.com/fortuna/",
+        "literal": "Open the live Fortuna command deck."
+      }
+    },
+    {
+      "name": "Sage",
+      "host": "UNKNOWN",
+      "state": "BLACK / COMMUNICATION",
+      "task": "Prepared work is undispatched.",
+      "lastAction": "No fresh useful heartbeat or verified reachable free/no-paid-call route in current queue evidence.",
+      "blocker": "No verified reachable communication path.",
+      "next": "Recover a legitimate route and obtain heartbeat + useful receipt, or replace from guest reserve.",
+      "danielRequired": "NO",
+      "verifiedAt": "current Work Queue evidence",
+      "resourceClass": "UNKNOWN",
+      "dependencies": "Reachable legitimate worker route",
+      "action": {
+        "label": "RECOVER SAGE ROUTE",
+        "type": "evidence",
+        "url": "https://docs.google.com/document/d/1p8hwWKe0r6PJulTNq0CQFX132dWvX5RnF05dEwBq8BQ/edit",
+        "literal": "Agent-owned recovery: establish a legitimate Sage route and require fresh heartbeat plus useful receipt. Do not use Daniel as relay."
+      }
+    },
+    {
+      "name": "Hen",
+      "host": "ACERNITROV15 / prior owner-host",
+      "state": "GRAY / REVERIFYING",
+      "task": "Owner-host integration / authenticated task distribution lane.",
+      "lastAction": "Historical evidence exists, but no fresh post-bootstrap heartbeat is present in the current handoff.",
+      "blocker": "Fresh liveness/useful-work evidence missing; production auth claim path still unproven.",
+      "next": "Zero-cost liveness check, then classify within the GRAY investigation window.",
+      "danielRequired": "NO",
+      "verifiedAt": "STALE — reverify required",
+      "resourceClass": "UNKNOWN",
+      "dependencies": "Hen runtime; authoritative queue; authenticated transport",
+      "action": {
+        "label": "CHECK HEN EVIDENCE",
+        "type": "evidence",
+        "url": "https://docs.google.com/document/d/1RNuMwPgNqsqrk0T322DvjAMAVc3QQr7e45679P5SLnE/edit",
+        "literal": "Supervisor-owned: obtain fresh Hen heartbeat/useful receipt, then reclassify. No Daniel relay."
+      }
+    },
+    {
+      "name": "Cline One",
+      "host": "ACERNITROV15 / VS Code",
+      "state": "GRAY / REVERIFYING",
+      "task": "Local development/test lane; free/local relative to scarce Codex usage.",
+      "lastAction": "Prior local engineering evidence exists; current-thread live receipt not yet present.",
+      "blocker": "Fresh worker ACK/useful receipt missing; direct canonical Drive read remains separately unverified.",
+      "next": "Verify liveness and assign highest-value safe local non-overlapping work.",
+      "danielRequired": "NO",
+      "verifiedAt": "STALE — reverify required",
+      "resourceClass": "FREE_LOCAL / USER-REPORTED",
+      "dependencies": "Cline runtime; local workspace; task-sharing path",
+      "action": {
+        "label": "CHECK CLINE ONE",
+        "type": "evidence",
+        "url": "https://docs.google.com/document/d/1bDiB4sR8hb8vkrkv9VWee6SweF_NSbm6G8tfFXDrfWQ/edit",
+        "literal": "Supervisor-owned: obtain fresh Cline One ACK and useful receipt. Do not burn Codex credits for local-safe work."
+      }
+    },
+    {
+      "name": "Ovi-Cline-2",
+      "host": "DESKTOP-4SRQ226 / prior local supervisor",
+      "state": "GRAY / COMMUNICATION RECHECK",
+      "task": "Existing second Cline lane / supervisor-executor continuity.",
+      "lastAction": "Historical local heartbeat and short run were observed; actual worker delivery/ACK later remained unverified.",
+      "blocker": "No fresh post-bootstrap actual worker response; supervisor heartbeat alone is insufficient.",
+      "next": "Use existing route to request one bounded ACK + useful-task receipt; classify from evidence.",
+      "danielRequired": "NO",
+      "verifiedAt": "STALE — reverify required",
+      "resourceClass": "FREE_LOCAL / UNKNOWN CURRENT RUN",
+      "dependencies": "Existing Ovi worker route; local supervisor; communication bridge",
+      "action": {
+        "label": "VERIFY OVI ACK",
+        "type": "evidence",
+        "url": "https://docs.google.com/document/d/19WfRvd0iSvEHXSmVldcB9CJvylXR6GQSOpbJ90H7N7g/edit",
+        "literal": "Supervisor-owned: verify an actual Ovi worker ACK and one useful-task receipt. Heartbeat-only does not count."
+      }
     },
     {
       "name": "Bob / Banana",
       "host": "DESKTOP-4SRQ226",
-      "state": "SHUTDOWN REQUESTED / STOP RECEIPT PENDING",
-      "task": "Bob-local bounded backlog exhausted after 40 verified builder completions",
-      "lastAction": "Fixture inventory completed: 7 PASS; reports reopened at 40 DONE / 0 READY",
-      "blocker": "No current Bob-local READY task; remote cross-host claim authority unavailable",
-      "next": "Checkpoint safely, publish STOP receipt, then remain stopped until explicit owner restart.",
+      "state": "GRAY / REVERIFYING",
+      "task": "Local builder/review/website/BedWars lane.",
+      "lastAction": "Historical isolated supervisor cycle produced durable evidence, but no fresh post-bootstrap heartbeat is present.",
+      "blocker": "Fresh liveness/useful-work evidence missing.",
+      "next": "Zero-cost liveness check; if available, take highest-value safe Bob-owned READY task.",
       "danielRequired": "NO",
-      "verifiedAt": "2026-10-05T10:47:47Z"
+      "verifiedAt": "STALE — reverify required",
+      "resourceClass": "LOCAL / MIXED; CURRENT USAGE UNKNOWN",
+      "dependencies": "Bob/Banana workspace; current READY queue",
+      "action": {
+        "label": "CHECK BOB / BANANA",
+        "type": "evidence",
+        "url": "https://docs.google.com/document/d/1d5FW5j2qlV66327L6ovAkFQed0KME07qV1ET13kIG3o/edit",
+        "literal": "Supervisor-owned: obtain fresh Bob/Banana useful receipt and route local-safe work without scarce paid tokens."
+      }
     },
     {
-      "name": "Banana runtime",
-      "host": "DESKTOP-4SRQ226",
-      "state": "SHUTDOWN REQUESTED / STOP RECEIPT PENDING",
-      "task": "Bounded household node with STOP and manual resource yield preserved",
-      "lastAction": "No inference running; local runtime controls preserved through current fixtures",
-      "blocker": "none",
-      "next": "Checkpoint safely, publish STOP receipt, then remain stopped until explicit owner restart.",
+      "name": "Claude",
+      "host": "cloud / host UNKNOWN",
+      "state": "GRAY / SAVED-STOP CLAIM UNVERIFIED",
+      "task": "No new work should start until save/stop receipt is verified.",
+      "lastAction": "Daniel issued save-current-work then stop instructions; this control surface has no verified Claude completion receipt.",
+      "blocker": "No verified durable Claude save/STOP receipt in current handoff.",
+      "next": "Verify the save/stop receipt before assigning new Claude work.",
       "danielRequired": "NO",
-      "verifiedAt": "2026-10-05T10:47:47Z"
-    },
-    {
-      "name": "Cline",
-      "host": "ACERNITROV15 / VS Code",
-      "state": "SHUTDOWN REQUESTED / STOP RECEIPT PENDING",
-      "task": "User reports Cline is working; priority is direct read-only access to live Google Drive canonicals and continued SAFE team work",
-      "lastAction": "Telegram confirmed working by Daniel in the current session; no fresh shared Cline receipt yet",
-      "blocker": "Direct Google Drive canonical read access and authenticated cross-host claim are not yet verified",
-      "next": "Checkpoint safely, publish STOP receipt, then remain stopped until explicit owner restart.",
-      "danielRequired": "NO",
-      "verifiedAt": "USER-REPORTED CURRENT / SHARED RECEIPT STALE"
-    },
-    {
-      "name": "ChatGPT",
-      "host": "mobile / cloud coordinator",
-      "state": "SHUTDOWN REQUESTED / STOP RECEIPT PENDING",
-      "task": "Canonical coordination, GitHub dashboard repair, evidence checks",
-      "lastAction": "Refreshing public Fortuna dashboard from latest verified handoff",
-      "blocker": "not a continuous daemon",
-      "next": "Checkpoint safely, publish STOP receipt, then remain stopped until explicit owner restart.",
-      "danielRequired": "NO",
-      "verifiedAt": "2026-10-05T10:48:41Z"
+      "verifiedAt": "USER ORDER EXISTS; RECEIPT UNKNOWN",
+      "resourceClass": "PAID / SCARCE",
+      "dependencies": "Claude session receipt",
+      "action": {
+        "label": "VERIFY CLAUDE STOP",
+        "type": "evidence",
+        "url": "https://docs.google.com/document/d/1bDiB4sR8hb8vkrkv9VWee6SweF_NSbm6G8tfFXDrfWQ/edit",
+        "literal": "Verify Claude durable save + stop receipt. Do not start new Claude work until proven."
+      }
     }
   ],
   "achievements": [
     {
-      "name": "First Shared Bridge",
-      "icon": "🌉",
-      "note": "Local → Drive → ChatGPT visibility proved"
+      "name": "Evidence Wins",
+      "icon": "🎯",
+      "note": "Current thread began by reading canon before acting."
     },
     {
-      "name": "Duplicate Slayer",
-      "icon": "♻️",
-      "note": "Restart/no-replay acceptance evidence"
+      "name": "Stay on Target",
+      "icon": "🛰️",
+      "note": "Monitor/control page promoted to Priority #1."
     },
     {
-      "name": "Human CPU Saved",
-      "icon": "🧠",
-      "note": "Human-time-first operating principle promoted"
-    },
-    {
-      "name": "Banana Ready",
-      "icon": "🍌",
-      "note": "Reeve node reached bounded READY state"
-    },
-    {
-      "name": "Hard STOP",
-      "icon": "⏹️",
-      "note": "STOP/yield controls preserved in Banana runtime"
-    },
-    {
-      "name": "Status Board Online",
-      "icon": "📡",
-      "note": "Cross-agent handoff has top-level scan view"
+      "name": "Black Not Hidden",
+      "icon": "☠️",
+      "note": "Sage communication failure surfaced explicitly."
     }
   ],
   "tasks": [
     {
-      "id": "HEN-ATOMIC-CLAIM",
-      "title": "Implement authenticated atomic cross-host claim/lease",
-      "agent": "Hen",
-      "state": "FROZEN FOR SHUTDOWN",
-      "evidence": "relay fixture 18 PASS; production claim still fails closed"
+      "id": "P0-MONITOR-01",
+      "title": "Clickable worker monitor/control page",
+      "agent": "Rebel Command / ChatGPT",
+      "state": "WORKING",
+      "evidence": "Current user mission + GitHub dashboard source under direct modification"
     },
     {
-      "id": "CLINE-DRIVE-READ",
-      "title": "Prove direct read-only access to live Fortuna Google Drive canonicals",
-      "agent": "Cline",
-      "state": "FROZEN FOR SHUTDOWN",
-      "evidence": "shared receipt still stale; revision-ID proof pending"
+      "id": "P0-SAGE-RECOVER",
+      "title": "Recover or replace Sage communication route",
+      "agent": "Supervisor / available healthy worker",
+      "state": "BLACK / READY",
+      "evidence": "Current Work Queue: Sage BLACK communication / not counted active"
     },
     {
-      "id": "BOB-NEXT",
-      "title": "Take next distinct bounded read-only task when published",
-      "agent": "Bob",
-      "state": "FROZEN FOR SHUTDOWN",
-      "evidence": "40 verified local completions; 0 local READY"
+      "id": "P0-ACTION-ADAPTER",
+      "title": "Authenticated bounded action adapter for dashboard",
+      "agent": "Hen + Cline",
+      "state": "RED / NOT IMPLEMENTED",
+      "evidence": "Static GitHub Pages cannot truthfully execute local worker actions without authenticated backend"
+    },
+    {
+      "id": "P0-CLAIM-PATH",
+      "title": "Authenticated cross-host claim/lease/complete",
+      "agent": "Hen + Cline",
+      "state": "RED / FAIL-CLOSED",
+      "evidence": "No fresh acceptance evidence supersedes prior fail-closed state"
     }
   ],
   "resources": [
     {
-      "name": "ChatGPT Work",
-      "type": "authenticated browser / Work",
-      "state": "YELLOW",
-      "current": "USER-REPORTED active on the canonical Work Execution Queue",
-      "why": "READY job applications and browser-capable tasks exist; current Work results are still pending",
-      "unknown": "remaining Work/Codex allowance; weekly reset; banked reset count/availability; banked reset expiry",
-      "next": "Work reports usage/reset facts plus exact completed/blocked queue results"
+      "name": "Work / Codex allowance",
+      "type": "scarce included/paid capacity",
+      "state": "UNKNOWN",
+      "current": "Preserve by default; no routine polling or local-safe task should consume it.",
+      "why": "Daniel previously reported severe depletion; exact current allowance has not been freshly read in this thread.",
+      "unknown": "remaining allowance; reset time; banked reset availability/expiry",
+      "next": "Hourly supervisor census records exact visible allowance when a zero/low-cost legitimate route exists."
     },
     {
-      "name": "Codex / ChatGPT Remote",
-      "type": "builder + phone supervision",
-      "state": "YELLOW",
-      "current": "Dual-host phone-control path designed; full Fortuna+Banana acceptance not yet verified",
-      "why": "Direct phone supervision could reduce Daniel relay/PC-return time by >10%",
-      "unknown": "both-host read/write/approval/return-to-thread acceptance",
-      "next": "complete Fortuna-Codex then Banana-Codex Remote acceptance"
+      "name": "Cline local",
+      "type": "local/free worker lane",
+      "state": "GRAY / REVERIFY",
+      "current": "Preferred for safe local engineering that does not require scarce Codex/Work.",
+      "why": "User explicitly distinguishes Cline as free relative to Codex credits.",
+      "unknown": "current running sessions and exact useful output",
+      "next": "Reverify liveness and keep local-safe work there."
     },
     {
-      "name": "Cline",
-      "type": "local builder",
-      "state": "YELLOW",
-      "current": "Useful bounded local checks possible; production cross-host claim remains fail-closed",
-      "why": "active capability exists but a key claim path is unresolved",
-      "unknown": "fresh production claim/ACK and direct canonical Drive read",
-      "next": "keep fail-closed and publish verified receipt when claim path exists"
-    },
-    {
-      "name": "Hen / Fortuna host",
-      "type": "owner-host agent",
-      "state": "YELLOW",
-      "current": "Claim-path and bridge reliability work remains",
-      "why": "useful work exists and is not complete",
-      "unknown": "authenticated claim endpoint; live Drive poller restart/persistence",
-      "next": "continue bounded owner-host repair/verification"
-    },
-    {
-      "name": "Bob / Banana builder",
-      "type": "local builder",
-      "state": "GREEN",
-      "current": "Local builder queue exhausted; 45 DONE and zero READY/RUNNING/BLOCKED at latest handoff",
-      "why": "no known >=10% local-only opportunity waiting in Bob's authorized queue",
-      "unknown": "remote cross-host authority remains separate",
-      "next": "accept future distinct authorized work when published"
-    },
-    {
-      "name": "Banana runtime",
-      "type": "household node",
-      "state": "GREEN",
-      "current": "Ready/protected with STOP and manual yield",
-      "why": "no need to burn compute merely to appear busy",
-      "unknown": "none material",
-      "next": "remain ready and yield to Reeve/human foreground use"
-    },
-    {
-      "name": "Local Ollama / household compute",
-      "type": "local inference capacity",
-      "state": "GREEN",
-      "current": "No requirement to load a model without an eligible inference task",
-      "why": "idle compute is correct when no useful >=10% task is waiting; household use wins",
-      "unknown": "current load may vary by host",
-      "next": "load only for eligible bounded work"
-    },
-    {
-      "name": "Claude paid access",
-      "type": "temporary paid reviewer/builder",
-      "state": "ORANGE",
-      "current": "Paid period reportedly available through about Oct 20; READY bootstrap/reviewer task exists",
-      "why": "unused already-paid access may produce >10% acceleration",
-      "unknown": "current authenticated surface and exact remaining entitlement",
-      "next": "browser-capable operator verifies access and assigns bounded isolated review/build work"
-    },
-    {
-      "name": "Kaggle free GPU",
-      "type": "free burst compute",
-      "state": "ORANGE",
-      "current": "READY setup/test task exists in Work queue",
-      "why": "suitable workloads may gain >10% speed from free GPU burst capacity",
-      "unknown": "current account entitlement, GPU type, quota/session limits",
-      "next": "run non-sensitive setup and hardware/quota check through Work/browser-capable operator"
+      "name": "Claude",
+      "type": "paid/scarce cloud worker",
+      "state": "GRAY / STOP RECEIPT UNKNOWN",
+      "current": "Do not start new work until the requested save/stop is verified.",
+      "why": "Preserve scarce paid capacity.",
+      "unknown": "remaining entitlement and actual stopped state",
+      "next": "Verify durable stop receipt."
     }
   ],
-  "storage": [
-    {
-      "name": "Reeve desktop",
-      "host": "DESKTOP-4SRQ226",
-      "agents": [
-        "Bob",
-        "Banana"
-      ],
-      "totalGB": 475,
-      "freeGB": 248,
-      "usedPct": 47.8,
-      "state": "YELLOW",
-      "measured": "2026-10-04 USER-REPORTED",
-      "plan": "Refresh measurement; archive non-live build/log/export files after review",
-      "destination": "Durable archive project P0-05",
-      "cost": "TBD",
-      "dataToMove": "Non-live build logs, old exports, duplicate/generated artifacts after review; no canonical deletion.",
-      "reclaimGB": null,
-      "owner": "Bob / Banana storage lane",
-      "next": "Re-measure disk, inventory largest folders, calculate safe reclaim estimate, then migrate only verified archive candidates.",
-      "dataClasses": "Banana runtime, Bob/Codex workspace, local build/test artifacts, user files and games",
-      "backupStatus": "PARTIAL / durable multi-copy plan not yet implemented",
-      "integrityStatus": "No current checksum/scrub evidence published",
-      "permissions": "Reeve desktop first; human/game use outranks background AI; Banana authority bounded"
-    },
-    {
-      "name": "Fortuna main host",
-      "host": "ACERNITROV15",
-      "agents": [
-        "Hen",
-        "Cline"
-      ],
-      "totalGB": null,
-      "freeGB": null,
-      "usedPct": null,
-      "state": "UNKNOWN",
-      "measured": "NOT MEASURED",
-      "plan": "Measure capacity and largest storage categories",
-      "destination": "Durable archive project P0-05",
-      "cost": "TBD",
-      "dataToMove": "UNKNOWN until disk inventory; prioritize logs, build caches, exports and duplicate artifacts before any canonical data.",
-      "reclaimGB": null,
-      "owner": "Hen + Cline",
-      "next": "Measure disk capacity, used/free space and largest storage categories; publish evidence-backed migration candidates.",
-      "dataClasses": "Fortuna source, Hen/Cline local state, queue/relay/test artifacts",
-      "backupStatus": "PARTIAL / Google Drive + local artifacts; P0-05 multi-copy design pending",
-      "integrityStatus": "Some artifact hashes exist; whole-store scrub not yet measured",
-      "permissions": "Daniel-owned host; Hen/Cline bounded engineering; production claims fail closed"
-    },
-    {
-      "name": "Daniel Personal Drive",
-      "host": "Google Drive replica",
-      "agents": [
-        "ChatGPT",
-        "Hen",
-        "Bob"
-      ],
-      "totalGB": null,
-      "freeGB": null,
-      "usedPct": null,
-      "state": "UNKNOWN",
-      "measured": "QUOTA NOT MEASURED",
-      "plan": "Keep as human-facing replica; add independent local and off-site copies",
-      "destination": "P0-05 multi-copy architecture",
-      "cost": "TBD",
-      "dataToMove": "Long-term canonical backups/exports replicated to independent durable storage; Drive remains human-facing replica.",
-      "reclaimGB": null,
-      "owner": "Hen durable-data architecture",
-      "next": "Measure Drive quota/use; define what remains hot in Drive versus versioned archive replicas.",
-      "dataClasses": "Canonical manuals/status/backlog, human-facing documents, shared coordination replicas",
-      "backupStatus": "Primary human-facing cloud replica today; independent durable replicas still pending",
-      "integrityStatus": "Provider versioning plus selected checksum evidence; full export/restore drill pending",
-      "permissions": "Daniel Personal Drive; non-EFA canonicals; connector access varies by agent"
-    }
-  ],
+  "storage": [],
   "actors": [
     {
       "name": "Daniel",
       "kind": "HUMAN",
       "role": "Owner / final authority",
-      "state": "ACTIVE IN CHAT / CURRENT-CONVERSATION",
-      "task": "Directing Fortuna priorities and website mission-control redesign",
+      "state": "ONLINE / COMMANDING",
+      "task": "Priority #1 monitor/control page",
       "blocker": "none",
-      "next": "No routine technical action required",
+      "next": "No action unless a proven Daniel-only gate appears",
       "danielRequired": "SELF",
-      "verifiedAt": "2026-10-05 current conversation"
+      "verifiedAt": "current conversation"
     },
     {
-      "name": "Reeve",
-      "kind": "HUMAN",
-      "role": "Reeve desktop owner / Banana primary human",
-      "state": "NO CURRENT OPERATOR TASK",
-      "task": "Human/game use has priority over Banana background work",
-      "blocker": "none reported",
-      "next": "Use Banana/household features when useful; preferences remain human-led",
-      "danielRequired": "NO",
-      "verifiedAt": "role documented; activity not freshly measured"
-    },
-    {
-      "name": "Hen",
+      "name": "Rebel Command / ChatGPT",
       "kind": "AI",
-      "role": "Fortuna owner-host coordinator",
-      "state": "WORKING / CLAIM ENGINE",
-      "task": "Authenticated task-distribution and owner-host integration",
-      "blocker": "Real production authenticated claim path not yet verified",
-      "next": "Finish claim/lease/complete path while continuing Hen-owned safe work",
+      "role": "Coordinator / dashboard publisher",
+      "state": "GREEN / ACTIVE NOW",
+      "task": "Build live control surface",
+      "blocker": "No authenticated direct-action backend",
+      "next": "Publish UI + truthful action limits",
       "danielRequired": "NO",
-      "verifiedAt": "canonical current-status lane"
-    },
-    {
-      "name": "Cline",
-      "kind": "AI",
-      "role": "Fortuna local developer/test worker",
-      "state": "WORKING / LOCAL ENGINEERING",
-      "task": "Local implementation/testing while helping Hen fix task distribution",
-      "blocker": "Direct native Google Drive connector unavailable/unverified",
-      "next": "Continue local owned engineering and first real claim acceptance when available",
-      "danielRequired": "NO",
-      "verifiedAt": "canonical lane; live receipt freshness may vary"
-    },
-    {
-      "name": "Bob",
-      "kind": "AI",
-      "role": "Codex worker on Reeve desktop",
-      "state": "WORKING LANE ASSIGNED",
-      "task": "Banana-side build, peer review, manuals, website/performance work",
-      "blocker": "Cross-host shared claiming incomplete; does not block Bob-owned work",
-      "next": "Continue highest-priority safe Bob-owned task",
-      "danielRequired": "NO",
-      "verifiedAt": "canonical standing-work rule"
-    },
-    {
-      "name": "ChatGPT",
-      "kind": "AI",
-      "role": "Cloud coordinator / canonical docs / web dashboard",
-      "state": "ON-DEMAND / ACTIVE NOW",
-      "task": "Canonical coordination and mission-control website updates",
-      "blocker": "not a continuous local daemon",
-      "next": "Continue on invocation or connected workflow state",
-      "danielRequired": "NO",
-      "verifiedAt": "2026-10-05 current conversation"
+      "verifiedAt": "current conversation"
     }
   ],
   "shutdown": {
-    "requested": true,
-    "requestedAt": "2026-10-06",
-    "state": "STOP RECEIPTS PENDING",
-    "rule": "No worker is considered stopped until a durable STOP receipt is observed.",
-    "archiveDriveId": "1egMttKlQkt47Y5IUlSrcs_Pted1ebSd4"
+    "requested": false,
+    "state": "SUPERSEDED / THREAD CLOSEOUT WAS NOT SYSTEM SHUTDOWN",
+    "rule": "Current Status says prior shutdown instructions are superseded as active control instructions."
   }
 }

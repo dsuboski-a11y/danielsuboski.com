@@ -1,11 +1,11 @@
 {
-  "systemState": "YELLOW",
+  "systemState": "SHUTDOWN REQUESTED",
   "updatedAt": "2026-10-05T21:19:00Z",
   "xp": 1380,
   "human": {
     "name": "Daniel",
-    "state": "SLEEPING / UNAVAILABLE",
-    "note": "Do not wake for routine technical blockers."
+    "state": "ARCHIVING / SHUTDOWN ORDER ISSUED",
+    "note": "No routine action required. Do not start new Fortuna work."
   },
   "connections": [
     {
@@ -37,55 +37,55 @@
     {
       "name": "Hen",
       "host": "ACERNITROV15",
-      "state": "CLAIM PATH BLOCKED",
+      "state": "SHUTDOWN REQUESTED / STOP RECEIPT PENDING",
       "task": "Owner-host supervision and authenticated cross-host claim design",
       "lastAction": "MCP relay fixture passed 18 assertions at 10:48:41Z; production Cline claim remained unverified",
       "blocker": "No authenticated cross-host claim endpoint; Telegram reply and live Drive poller restart/persistence remain unverified in shared receipts",
-      "next": "Implement authenticated atomic claim support in the existing relay, then verify Cline claim/ACK",
+      "next": "Checkpoint safely, publish STOP receipt, then remain stopped until explicit owner restart.",
       "danielRequired": "NO",
       "verifiedAt": "2026-10-05T10:48:41Z"
     },
     {
       "name": "Bob / Banana",
       "host": "DESKTOP-4SRQ226",
-      "state": "WAITING FOR WORK",
+      "state": "SHUTDOWN REQUESTED / STOP RECEIPT PENDING",
       "task": "Bob-local bounded backlog exhausted after 40 verified builder completions",
       "lastAction": "Fixture inventory completed: 7 PASS; reports reopened at 40 DONE / 0 READY",
       "blocker": "No current Bob-local READY task; remote cross-host claim authority unavailable",
-      "next": "Accept one distinct already-authorized bounded read-only task from shared state",
+      "next": "Checkpoint safely, publish STOP receipt, then remain stopped until explicit owner restart.",
       "danielRequired": "NO",
       "verifiedAt": "2026-10-05T10:47:47Z"
     },
     {
       "name": "Banana runtime",
       "host": "DESKTOP-4SRQ226",
-      "state": "READY / PROTECTED",
+      "state": "SHUTDOWN REQUESTED / STOP RECEIPT PENDING",
       "task": "Bounded household node with STOP and manual resource yield preserved",
       "lastAction": "No inference running; local runtime controls preserved through current fixtures",
       "blocker": "none",
-      "next": "Remain ready and yield to foreground human/game use",
+      "next": "Checkpoint safely, publish STOP receipt, then remain stopped until explicit owner restart.",
       "danielRequired": "NO",
       "verifiedAt": "2026-10-05T10:47:47Z"
     },
     {
       "name": "Cline",
       "host": "ACERNITROV15 / VS Code",
-      "state": "WORKING? / SHARED RECEIPT STALE",
+      "state": "SHUTDOWN REQUESTED / STOP RECEIPT PENDING",
       "task": "User reports Cline is working; priority is direct read-only access to live Google Drive canonicals and continued SAFE team work",
       "lastAction": "Telegram confirmed working by Daniel in the current session; no fresh shared Cline receipt yet",
       "blocker": "Direct Google Drive canonical read access and authenticated cross-host claim are not yet verified",
-      "next": "Publish fresh receipt and prove live canonical reads by revision ID",
+      "next": "Checkpoint safely, publish STOP receipt, then remain stopped until explicit owner restart.",
       "danielRequired": "NO",
       "verifiedAt": "USER-REPORTED CURRENT / SHARED RECEIPT STALE"
     },
     {
       "name": "ChatGPT",
       "host": "mobile / cloud coordinator",
-      "state": "ON-DEMAND",
+      "state": "SHUTDOWN REQUESTED / STOP RECEIPT PENDING",
       "task": "Canonical coordination, GitHub dashboard repair, evidence checks",
       "lastAction": "Refreshing public Fortuna dashboard from latest verified handoff",
       "blocker": "not a continuous daemon",
-      "next": "Continue when invoked or when connected workflows deliver state",
+      "next": "Checkpoint safely, publish STOP receipt, then remain stopped until explicit owner restart.",
       "danielRequired": "NO",
       "verifiedAt": "2026-10-05T10:48:41Z"
     }
@@ -127,21 +127,21 @@
       "id": "HEN-ATOMIC-CLAIM",
       "title": "Implement authenticated atomic cross-host claim/lease",
       "agent": "Hen",
-      "state": "BLOCKED / WORK NEEDED",
+      "state": "FROZEN FOR SHUTDOWN",
       "evidence": "relay fixture 18 PASS; production claim still fails closed"
     },
     {
       "id": "CLINE-DRIVE-READ",
       "title": "Prove direct read-only access to live Fortuna Google Drive canonicals",
       "agent": "Cline",
-      "state": "USER-REPORTED WORKING",
+      "state": "FROZEN FOR SHUTDOWN",
       "evidence": "shared receipt still stale; revision-ID proof pending"
     },
     {
       "id": "BOB-NEXT",
       "title": "Take next distinct bounded read-only task when published",
       "agent": "Bob",
-      "state": "WAITING",
+      "state": "FROZEN FOR SHUTDOWN",
       "evidence": "40 verified local completions; 0 local READY"
     }
   ],
@@ -370,5 +370,12 @@
       "danielRequired": "NO",
       "verifiedAt": "2026-10-05 current conversation"
     }
-  ]
+  ],
+  "shutdown": {
+    "requested": true,
+    "requestedAt": "2026-10-06",
+    "state": "STOP RECEIPTS PENDING",
+    "rule": "No worker is considered stopped until a durable STOP receipt is observed.",
+    "archiveDriveId": "1egMttKlQkt47Y5IUlSrcs_Pted1ebSd4"
+  }
 }

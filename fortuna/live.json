@@ -1,12 +1,36 @@
 {
-  "updatedAt": "2026-10-07T14:33:33.163629Z",
+  "updatedAt": "2026-10-07T20:37:55.164349Z",
   "locationLabel": "Victoria, BC",
   "headlines": [
     {
-      "title": "Sharing AI progress in mathematics",
-      "source": "OpenAI",
-      "date": "Tue, 06 Oct 2026 22:21:50 GMT",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9HRmFiYm1mWTNPVTVGTk9faFRwRVZyTjhmejJwa0U3QjU3djh5SlpXT3ZhUlF2M0lXcV9jNkNka1kzY3RKNkRTTnpJVW16ZG1QdmdPU3owRXdCYzFLSkdTb3pIZWdJV0k1R3o3dw?oc=5"
+      "title": "Federal government launches National Council on Artificial Intelligence",
+      "source": "Dentons",
+      "date": "Wed, 07 Oct 2026 20:17:25 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNallGR3RLNFdYVTh4d2VwMld1VndxS2JEdUg1cEJDSVk0NmRXek5rU3p6UFpyOUFsbmhLRXh5WTBOaXU3cjdfT1cwLWNMWkxNX3dzTENmRXlhZ2hobkdUOTk5UVgzblV3OU80Z1JENXpJLWRBTmc1U25uWTdFNnJ1MGJ1dDhwTXFlam9EM191VTQ4OXAwazhCTGNkLVZWUmZWeXdvWXVkQnZieVlvbU9pYm9aYUR4cHZKdFVEekY1Wm9Ic2hqYkdKZXBMUQ?oc=5"
+    },
+    {
+      "title": "What you see, what you get? Artificial intelligence use in Alberta real estate",
+      "source": "CityNews Edmonton",
+      "date": "Wed, 07 Oct 2026 15:10:08 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMEFhTkJUZWRpNlhkZ2pOWHY2NmJ1d1ZudW9ENHoyZWZtcl9ObHdRVWFvTVpiSEhMXzhsbkxjaERKdUN0UUkwdVlDYXZQel85UzZQeng1NW4tOEFFb0xsUmdHU0QxcnhtelVtalQ3c3l5TXhMYlFDNW0tdTNvbFBYbzJpWXhCWkI0YW9XVXkzTE45MlpWV19yTjZpWHJqU2xOUFoxVFpyeUpEdm5LSG94Q2RYMTNVQlM2?oc=5"
+    },
+    {
+      "title": "SpaceX Reportedly Wants $40 Billion to Buy Artificial Intelligence (AI) Chips. Here's Why That's Huge News for Nvidia Investors.",
+      "source": "The Globe and Mail",
+      "date": "Wed, 07 Oct 2026 17:38:23 GMT",
+      "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPbDRKaTJ4M0FBUXRYOUlBYUdNUVpKdjBFbldYMFpLMUNjd1U2eDFLRG16U0g0cWJCMkxuUkNqNFp4Mkd4bkV4bGJSZHplbEtVZm9jRjBIMzFNazJXM2VpYUlzWUY1OFh1QXNXa3hKY2RrV0t0amR1dU52MzcxNVdzcUVxTm92RHg1aFB4b3dKdmNIU0VJNW1PeEQ0QmZpTjVLTWkxenhoYldLOUNFZEJUVVRLNWJqSTBmNFFmRjdRMDJqN0ZScnEtWXBqcVdRMXlHdk1CT3MzTE1OMUJZMDhCYzl0UGNoTjE0ZzMzaXBYMnN2MFY4QUMwb1JOSlNlN2E0bDNuU3NqUTNFZ1RTZElhUU5VUXIxMHltT2diaHZhcGRPV1Zfc0tMOElGUmw3Vzc0RXRhcw?oc=5"
+    },
+    {
+      "title": "CUPE calls for worker protections at federal labour and AI council",
+      "source": "CUPE",
+      "date": "Wed, 07 Oct 2026 15:18:23 GMT",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcnlSb0d3VExfeTlKLU9OQlhqSmZvV0VvajZNa25nMVJsYlkxTkZlWmdSdVpHaFpJNUNzdHM3Ri1maHFWTXNENkpMVU5uVHVlNTZxbkNMMGJqb1hzWWIwNzRCbGVRTnowRFd1aUNrd1JYNjk4b1BiZW9HZThRczhhNVUtTjRrVDA?oc=5"
+    },
+    {
+      "title": "Artificial intelligence (AI)-supported symptom self-assessment led to more appropriate patient care-seeking decisions",
+      "source": "2 Minute Medicine",
+      "date": "Wed, 07 Oct 2026 18:45:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPY0tUN2UzUG1uNXhVbzllbkR4a1F0OG9FTjNwS1VmV0tzSWhXN0NYNlBQd0VkV1g1dUgtek1mVUx1eEdjXzRaa0hkWkNRNlhUOUpaMy1ERE5qMEpOYmloMHhyQkhJVU9hREttR0w5RURIOEJYbkI3YWNEMUpWOFF1T253OXdBXzQ0MXhhM2Z6R3NnR3J2dmNraGdVeEV3OS1wZmpQd1NyU2pQMnRWbndfN25uY3dxZ0V0MnBZQTVWTERzbldTUmt2Ukh1YzhIWDVlNFBsZWdqSQ?oc=5"
     },
     {
       "title": "Can Artificial Intelligence Learn the Art of Surgery?",
@@ -15,52 +39,28 @@
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZ0VmNlQ5UmFXQVB2b0pOYTZNV0RuaFZLVWZHR2dsTDV0OGZjUWVwV3ozTEhpWVE3M3d3ZDJTNmh5QUgtM2JTdldya0ZnUXZxekFPVzRYaVItMDM5dldDN0ZfQXlpYzQwbkFEeEZubHJ3WmhZeGVUQld1VVg2a0tBWUIzWHRzemJOSnM4WER5M1hwNlNSQVE?oc=5"
     },
     {
+      "title": "Ethical considerations for intraoperative implementation of artificial intelligence clinical decision support systems: a scoping review",
+      "source": "Nature",
+      "date": "Wed, 07 Oct 2026 15:37:41 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0wZUxjVmlpMkZydTlFN01IYWhlUkYydDYxQ2RDcTJ5TDVPd01YQXNiV2d3RWFmOXZyNVR6c1BPaWJVZVVXWTROVnpVU000MlhjTDBUYkhuSFJQUzRrLVBV?oc=5"
+    },
+    {
+      "title": "Alberta is working to build North America’s most AI-enabled public service – in the open",
+      "source": "Microsoft Source",
+      "date": "Wed, 07 Oct 2026 14:33:27 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPS1YxRUpjTkhCTFhMWHJsR2RURFVpOHVjeERUZkw3bVNoVWp3dkI3S3JhRU5Gb182c1hUb3dQUTU2Y2JuS0FWNGNmdEV6RkpzOF85OHNCeFItb045aEVkMEg0MEZFYTliczN6ZHp2cUlLR3pXS216d2R0bzRSVC1LcDZsbUNEYm1qYjJmcFBoamdjNWg3Nnd6LTltSUYzbzMzTkhYdE5iX1VicVRlOHo3NDQ4TUpjQkNsc2NleE9majdJYnhxVzFoTzFRa053bWZacnoyVkN3?oc=5"
+    },
+    {
+      "title": "Are We Really on the Path to AGI?",
+      "source": "The New Atlantis",
+      "date": "Wed, 07 Oct 2026 19:20:43 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVk1LWVN4dkJESlI1VUJQN1VSbUh2aE11R0pyV2JSel90X3REczZpNWtGMkF5cW1Wa2p4VzFyQTBFcmoxVWVEVlpzQXZkOWVqd0x1ZnYxNXlBRXM2RDNQdW1uVFVuUXFzWHVqajZROHB4aVZGWEhQbkFaWmtzbGZtczVB?oc=5"
+    },
+    {
       "title": "Pushback, promise and everyday life: how artificial intelligence is reshaping Alberta",
       "source": "Narcity",
       "date": "Wed, 07 Oct 2026 01:10:38 GMT",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNS0JwS2MtT1dUUl91a2w1eG1oQTVlQ0ptbjUxc01sNmR5akVHbHpXWUlMV0c4WTdiZnB6WkFTdzF3alpnZVd5Wlk5a2Z1TDRfQzZiTFp2bzFGZWQ0aElTVkwxbDVUZExfb0Y3T0piQmxUOWcyRzZLOHpPYUF3V3FoSTJWUXB0RzZiSnl3NmQ4RVExMWg1VGtnc0owcDFHNDVxWW8xMDZTdw?oc=5"
-    },
-    {
-      "title": "News | Effective artificial intelligence must be trained properly, Whitbread exec says",
-      "source": "CoStar",
-      "date": "Wed, 07 Oct 2026 13:22:42 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaUFrN05mRk93cy1hZm9VSHBsRks0WmZPV1h3VlRua3ZCMWxKekFkMDNIUmliVFVGeENYcm03Tm5FLVZHX25kS25WRWJCUDN6YzJQTXZkWGViRE90cEE4MFc5YWF4eVlFLWUyamc3MlI0RVlad2NNWnE3RDNpZUxHZ2VsbFl0VUxiS3VDLXNfcW5tdWdIZkZGdzZwTjhGWWpxNm9VSVM0cmtsczJUVGgtaU5DZTRLcEtEa1kw?oc=5"
-    },
-    {
-      "title": "Agreement Between Artificial Intelligence-Based and Expert Consensus Implant Planning Using Cone-Beam Computed Tomography: A Retrospective Observational Study",
-      "source": "Cureus",
-      "date": "Wed, 07 Oct 2026 14:05:02 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNNnVzemY4MVFsT1JWbWs2eU1GRThfLVYtaS1QVDMtMGJ3ZkVMNTZacVNUa0t3MnlkaThqdjZwd2M0WmRCZ3Z6WDlfSi15SXJCWXBMel9mQUo5MG1sSnBZRWZ3NEcza2JaWkZNX3RNeHFjQ2lRV3piZy0ydWR6MHp3UUxxdlJ4R0NFUWduYUF4bmpGcGNJUVIxb2Y1OVdDMHdQSDZWTzVlQUhCc2FCLURnWUljeERjUGJIUjVoNjlNaWxwVDhUTnk0WVQ3a0oyWmpzR2IxZDVVZ19rUjZqcHd2Wk5JWDlaNWVkMEpnOUVpNFJmbG5FOXNMUjdhTW5seC1PR3czWDA2c01BLV91MVZRVXZEQ1JwY1hhNDhraVdNZXBEcG9KY19aejc2X0MxZjhFdlBvQUs0SWg4NkE?oc=5"
-    },
-    {
-      "title": "Will AI really turn us into paperclips?",
-      "source": "Engelsberg Ideas",
-      "date": "Wed, 07 Oct 2026 09:46:05 GMT",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA4OEc2YzZOOGhGejhEUmkzcmVYdENkMVlOU2FPQlp5d1ZxZUpzbTFkdUI3WTRfZVBoVGxuTGs4RjRiMDFHQWEwUUdBMWFRNlVoaWpLRzlGRUZ2ODF4T1VkRmVNOU12d2ZMbnNSTDJYTzVNd3JvR1BMNVB2VWthWUE?oc=5"
-    },
-    {
-      "title": "What's behind AI you can trust?",
-      "source": "TD Stories",
-      "date": "Tue, 06 Oct 2026 22:49:21 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9XVFdGR0dRbWRZcGJDYnU4TUxibHZLMDdtZC12emxxbmJmUGZnTHJ2WmtURm1MWktCS3huOFh6aHhOb2xabkxvSmFxYXpwRHE2M1ppQ1daa2lmVS1ZVEJ5OVhiX3cwSVVtSnc?oc=5"
-    },
-    {
-      "title": "Microsoft, Nvidia CEOs to unveil new AI laptop at San Francisco event",
-      "source": "Reuters",
-      "date": "Wed, 07 Oct 2026 10:47:21 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZkNrUEtoYUtLa3FYRlVtVnBCblY5Tmx2aHp5MFJwTldqSndfVUdmWDNTemFjb3l2YW5OaExPOXRyWTlTaUc1MUN2cW1tNVA4VUNJczRwMDVQZTJMTmhjT1hScHVYTklXNjJrOVpNamE3bVBGalo3RVFLbURIUkpFTGxEMEtjU01SaDVMOWM4OThPSWtmMEI0b0RtVDlvc1YwUWx5R2V3MHVIdm8?oc=5"
-    },
-    {
-      "title": "Applied Materials vs. Nvidia: What Revenue Trends Reveal About These Artificial Intelligence Companies",
-      "source": "The Globe and Mail",
-      "date": "Wed, 07 Oct 2026 00:28:32 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPMURqMThjWXB2TzJ5a01PenhWTXUxYThlSnpGVlpXbWpYejBQRWlfbDRKN281TDRGNHFpT2VBNlRRWWpXZXhCLWxDTU55MFI5QnFmNHpVdEo3aWtvVEcwMHNhQjJNVmI3SnNkb1F2Y1BlUUhIRjV5RHVnT2o1NVZLRm9CVkZWU3ZZeGM4X3NsYU5iQmJyc3FaRWhoMmI4NWpsbldUS05JaG91N3dLRnlhY2lsRU4xQy1WUUhoSFlzQThiNDNZMmJtbHFRbDVqVEthY1dNVXg1ZzNpLXhFbEFPRVV1R01tUlZqM3ItbXR1UHlROVNIakh5M0hJZ0dDckZSVHY4UUR2OWhXUGc?oc=5"
-    },
-    {
-      "title": "1 No-Brainer Artificial Intelligence (AI) ETF to Buy With $100 and Hold Forever",
-      "source": "Yahoo Finance",
-      "date": "Tue, 06 Oct 2026 23:22:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMEdPVmxmNEpteGxvTm8tQ1pnYm5SalJlV0YxLS04UnJEeVpRczViUk9QMWtFWHhic0l5bWowR1NDVk9XN3U0Q2xWaUZ4YnF2Rk9Db0hEaDczdk1Hazc4T1p2eGpNRUN0MVMwbHpuYVNYM0Q0dk1iLWV1V2hPTFVfUkNoLVlUbzlKMmFhT2RCZGkxSzZjUEo1SUFLV3EwVEw4QWVV?oc=5"
     }
   ],
   "events": [

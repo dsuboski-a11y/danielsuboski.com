@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-10-07T07:14:38.880062Z",
+  "updatedAt": "2026-10-07T14:33:33.163629Z",
   "locationLabel": "Victoria, BC",
   "headlines": [
+    {
+      "title": "Sharing AI progress in mathematics",
+      "source": "OpenAI",
+      "date": "Tue, 06 Oct 2026 22:21:50 GMT",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9HRmFiYm1mWTNPVTVGTk9faFRwRVZyTjhmejJwa0U3QjU3djh5SlpXT3ZhUlF2M0lXcV9jNkNka1kzY3RKNkRTTnpJVW16ZG1QdmdPU3owRXdCYzFLSkdTb3pIZWdJV0k1R3o3dw?oc=5"
+    },
+    {
+      "title": "Can Artificial Intelligence Learn the Art of Surgery?",
+      "source": "The New York Times",
+      "date": "Wed, 07 Oct 2026 09:00:09 GMT",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZ0VmNlQ5UmFXQVB2b0pOYTZNV0RuaFZLVWZHR2dsTDV0OGZjUWVwV3ozTEhpWVE3M3d3ZDJTNmh5QUgtM2JTdldya0ZnUXZxekFPVzRYaVItMDM5dldDN0ZfQXlpYzQwbkFEeEZubHJ3WmhZeGVUQld1VVg2a0tBWUIzWHRzemJOSnM4WER5M1hwNlNSQVE?oc=5"
+    },
     {
       "title": "Pushback, promise and everyday life: how artificial intelligence is reshaping Alberta",
       "source": "Narcity",
@@ -9,10 +21,34 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNS0JwS2MtT1dUUl91a2w1eG1oQTVlQ0ptbjUxc01sNmR5akVHbHpXWUlMV0c4WTdiZnB6WkFTdzF3alpnZVd5Wlk5a2Z1TDRfQzZiTFp2bzFGZWQ0aElTVkwxbDVUZExfb0Y3T0piQmxUOWcyRzZLOHpPYUF3V3FoSTJWUXB0RzZiSnl3NmQ4RVExMWg1VGtnc0owcDFHNDVxWW8xMDZTdw?oc=5"
     },
     {
+      "title": "News | Effective artificial intelligence must be trained properly, Whitbread exec says",
+      "source": "CoStar",
+      "date": "Wed, 07 Oct 2026 13:22:42 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaUFrN05mRk93cy1hZm9VSHBsRks0WmZPV1h3VlRua3ZCMWxKekFkMDNIUmliVFVGeENYcm03Tm5FLVZHX25kS25WRWJCUDN6YzJQTXZkWGViRE90cEE4MFc5YWF4eVlFLWUyamc3MlI0RVlad2NNWnE3RDNpZUxHZ2VsbFl0VUxiS3VDLXNfcW5tdWdIZkZGdzZwTjhGWWpxNm9VSVM0cmtsczJUVGgtaU5DZTRLcEtEa1kw?oc=5"
+    },
+    {
+      "title": "Agreement Between Artificial Intelligence-Based and Expert Consensus Implant Planning Using Cone-Beam Computed Tomography: A Retrospective Observational Study",
+      "source": "Cureus",
+      "date": "Wed, 07 Oct 2026 14:05:02 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNNnVzemY4MVFsT1JWbWs2eU1GRThfLVYtaS1QVDMtMGJ3ZkVMNTZacVNUa0t3MnlkaThqdjZwd2M0WmRCZ3Z6WDlfSi15SXJCWXBMel9mQUo5MG1sSnBZRWZ3NEcza2JaWkZNX3RNeHFjQ2lRV3piZy0ydWR6MHp3UUxxdlJ4R0NFUWduYUF4bmpGcGNJUVIxb2Y1OVdDMHdQSDZWTzVlQUhCc2FCLURnWUljeERjUGJIUjVoNjlNaWxwVDhUTnk0WVQ3a0oyWmpzR2IxZDVVZ19rUjZqcHd2Wk5JWDlaNWVkMEpnOUVpNFJmbG5FOXNMUjdhTW5seC1PR3czWDA2c01BLV91MVZRVXZEQ1JwY1hhNDhraVdNZXBEcG9KY19aejc2X0MxZjhFdlBvQUs0SWg4NkE?oc=5"
+    },
+    {
+      "title": "Will AI really turn us into paperclips?",
+      "source": "Engelsberg Ideas",
+      "date": "Wed, 07 Oct 2026 09:46:05 GMT",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA4OEc2YzZOOGhGejhEUmkzcmVYdENkMVlOU2FPQlp5d1ZxZUpzbTFkdUI3WTRfZVBoVGxuTGs4RjRiMDFHQWEwUUdBMWFRNlVoaWpLRzlGRUZ2ODF4T1VkRmVNOU12d2ZMbnNSTDJYTzVNd3JvR1BMNVB2VWthWUE?oc=5"
+    },
+    {
       "title": "What's behind AI you can trust?",
       "source": "TD Stories",
       "date": "Tue, 06 Oct 2026 22:49:21 GMT",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9XVFdGR0dRbWRZcGJDYnU4TUxibHZLMDdtZC12emxxbmJmUGZnTHJ2WmtURm1MWktCS3huOFh6aHhOb2xabkxvSmFxYXpwRHE2M1ppQ1daa2lmVS1ZVEJ5OVhiX3cwSVVtSnc?oc=5"
+    },
+    {
+      "title": "Microsoft, Nvidia CEOs to unveil new AI laptop at San Francisco event",
+      "source": "Reuters",
+      "date": "Wed, 07 Oct 2026 10:47:21 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZkNrUEtoYUtLa3FYRlVtVnBCblY5Tmx2aHp5MFJwTldqSndfVUdmWDNTemFjb3l2YW5OaExPOXRyWTlTaUc1MUN2cW1tNVA4VUNJczRwMDVQZTJMTmhjT1hScHVYTklXNjJrOVpNamE3bVBGalo3RVFLbURIUkpFTGxEMEtjU01SaDVMOWM4OThPSWtmMEI0b0RtVDlvc1YwUWx5R2V3MHVIdm8?oc=5"
     },
     {
       "title": "Applied Materials vs. Nvidia: What Revenue Trends Reveal About These Artificial Intelligence Companies",
@@ -25,42 +61,6 @@
       "source": "Yahoo Finance",
       "date": "Tue, 06 Oct 2026 23:22:00 GMT",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMEdPVmxmNEpteGxvTm8tQ1pnYm5SalJlV0YxLS04UnJEeVpRczViUk9QMWtFWHhic0l5bWowR1NDVk9XN3U0Q2xWaUZ4YnF2Rk9Db0hEaDczdk1Hazc4T1p2eGpNRUN0MVMwbHpuYVNYM0Q0dk1iLWV1V2hPTFVfUkNoLVlUbzlKMmFhT2RCZGkxSzZjUEo1SUFLV3EwVEw4QWVV?oc=5"
-    },
-    {
-      "title": "C-K takes cautious approach with Artificial Intelligence",
-      "source": "The Chatham Voice",
-      "date": "Tue, 06 Oct 2026 12:00:55 GMT",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMVVVRXhSa0xLOVg1czBqa0JfTVl4a0NqbV9ka1o4VzVhSXBMXzhxaUd6emRDd1ptSXF0NDd4YkdGNm1FWGNFM0hsenZNdlNmRGxBYktNbEZJczNXT0hoYXlIMFJHVHpQTkF5TFN0YlMzVGxXb3RhZkNKRC1qdlIyNFBJM1hzRm1nMkFrX0JoZWdzeFNwSzlTLQ?oc=5"
-    },
-    {
-      "title": "Trump makes it clear his power is becoming entwined with AI",
-      "source": "The Guardian",
-      "date": "Tue, 06 Oct 2026 13:34:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVWJVc1I1ZnRhQnVpS1Bpbk5mc3pNeDM3Z3JGd3JzRDFNT0Etc3E0NVRnbVpDT3c5V0VXOVJIVkFkeVdnaFZyb2d3Y0R1Vk5xLUYwY2FGR2RGMGJrMFBOR0NGWmJYWWE1RGt5WFRQQmxER2s1bi0xaGFLM2FzSWR5Ug?oc=5"
-    },
-    {
-      "title": "US Justice Dept tells staff to call AI 'super intelligence' under Trump order",
-      "source": "Reuters",
-      "date": "Tue, 06 Oct 2026 20:13:08 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPN0M0T3dic0tvbGhzbmx3WVNKNm9iU2l0ZUNBUk5jbzZCM24zT0FOV3RFYXpVQ3NPS1BuMU1zOXNzSmdvbE9falZVOTZja2hqMGtVQWxpXzg2VE15T1FVT0pCc0NLRVowMnBKY0J4dTl0WkJTWUlsbXFOeE1VZjJTUlpEOHlldTE3MTdrMGVRQjF3NEo1aDZxUFNJa21Zb0hMdWFLSjY5dVA5YUlBQjltbmcwSDRZV1M1S2xPQUtWSXVGd2M?oc=5"
-    },
-    {
-      "title": "Canada launches National Council on Artificial Intelligence",
-      "source": "Digital Watch Observatory",
-      "date": "Tue, 06 Oct 2026 23:14:13 GMT",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1yWjNrNjZwYWdpMG1MZjdNSzdNYjJIVllUcjhXQXhNczdkQmRqTXdxRm9RbEhpeWxRMTlVa3ExWVBlQ1QzZ1Zsdy1VWUlUS3pzc09TbE1EODdWdGpDNjRLWC1ZanRzejhLbF9DN0ZqZThwQQ?oc=5"
-    },
-    {
-      "title": "Can AI save the planet before it wrecks it",
-      "source": "CBC",
-      "date": "Wed, 07 Oct 2026 02:27:16 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE80bUIwRmhiekVXOVByRzltMjZ2UkxoX0Q2TU9rWnRVeVIwN0NsTkRfYlY4RHNRU3V5Sld1XzdxckpXSVROR2FFVW5obFh0T25Fd3F6MDZSdjVWQQ?oc=5"
-    },
-    {
-      "title": "RBC, TD rank among top 10 banks for AI maturity",
-      "source": "Investment Executive",
-      "date": "Tue, 06 Oct 2026 20:04:13 GMT",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNTJmX2xJU1ltbDIwYlA5RnZ2MG16dTE2QTBzTWxsdkhWbnRyd2NzVW95YW9lZnZXR1ZuX0x2Z2dHSjV5UHBxNTd5YUVPTWFGazY5dWNmVS1pMzI5cGhjOGotTE96LTF3eGlMdG00Zlp0OXgwLVo2NlJjQlBkTDllVWlzbmVDNGhndmJKQThPWm5JYnRQR2FGX2c0SV93Zw?oc=5"
     }
   ],
   "events": [

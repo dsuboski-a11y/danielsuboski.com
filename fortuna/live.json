@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-10-08T07:24:59.038277Z",
+  "updatedAt": "2026-10-08T15:37:04.304111Z",
   "locationLabel": "Victoria, BC",
   "headlines": [
+    {
+      "title": "Most Americans think artificial intelligence is developing too fast, a new AP-NORC poll finds",
+      "source": "Toronto Star",
+      "date": "Thu, 08 Oct 2026 12:27:58 GMT",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPN052M1NQRTduTGJRc3ZGTllmZGwzdlh0Vkh1LUJrRlM2MVBKVVhXVHFGWFpMSzE0TFZJRjkxaUJiNU1QN1ZuRG8tbGRvOTBnSXhCUjA4aGszSmd2V3M2X1RiLWYyU1pXa1Vnenpqb1gydEswWVhrb0xOeUhrNnkybWVaeUFxMkFQcEJta0FQU1hlQUR0Qy0wRlkzbnFfNnRkU1pxMjhTLTBGaE93VkdBYUdudlBIMENnR2dFZWZId1liMXpRNzB1TWEzRDlzMzh5bW1udnBDbjVpeDZ0WFJmRGxLNU43QkxKcF9MeUxMR1VSVWI3VHRsRkJ4ZjJCcTc3N0dXdnd1TUVKZUJQYzRqTm83ME00aUFDMENn?oc=5"
+    },
+    {
+      "title": "Quebec Wants Artificial Intelligence. Just Not on America’s Terms",
+      "source": "The Walrus",
+      "date": "Thu, 08 Oct 2026 10:30:11 GMT",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTUFZMEM0WWdZck1ZalFEQWZ1N0dYaXJ3eHlCcFdXMF9TZUllUFpJZzhpd2R4NzJuQWYtU09pa25LTkxYWUJiX3JPS1BaOGV3VmpTNnAzcEhzOGRYY0FxNzFLZWlLUElIbUhGVUtFU2hxU1FxVm9VSm5aV1pyNkljaHh5M1FQdUl4Z2pOOQ?oc=5"
+    },
+    {
+      "title": "What you see, what you get? Artificial intelligence use in Alberta real estate",
+      "source": "CityNews Edmonton",
+      "date": "Thu, 08 Oct 2026 10:46:24 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPdlhTQlQ0SkZkTktYUXRvckZqSGlsMy1USGZjQnB3eFVIZjAzN1NQUllaUzFQYVNFTERmbXFlRjlaMExYNmgydG9zMWk1Y3JZall3OERzVDZIRkp1Ym5zZlc2NUhBaE0xTS1vdDdGcUJFLWxvbjgxR0Z1ODdDVzdrNENjazV4b0FwQXg4NDE2ZDMxRi1zMEhhalZmdW1nQnBTMk1hR1c2VW54ZERmTjZhcHRwdmhtZV9ERDI4UEl6NENOZHY5WHFGWTFqSHd1THpkQlhJYWdWVUNNUGMzbnRmMW1PY1BQcjVDbF9aV3JJZ0U2RWRFVmU4?oc=5"
+    },
+    {
+      "title": "LIMESTONE DISTRICT SCHOOL BOARD Artificial Intelligence in Limestone",
+      "source": "Education News Canada",
+      "date": "Thu, 08 Oct 2026 11:28:52 GMT",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNUMwRW1xQUlhenVoeG9BcUhQY21CN1FIckg1UWRWcnN4R2stVGM2TVJjWVJva2RnU0dHX0ZqVkE2aG1TN3BWOU9rclBvdXJGbXk3QjE5NS1uei1JTWJXOG9KVnhleTVWYkJ6cXdtcHk5aEZOUXRPSk5RNlNHZFpQajZndll5OHFzNDZ6TVhnWnpXYkNUVkdSeEVOY0ZQRmZNQWRZN1QyOHhOT2k5WDdKNQ?oc=5"
+    },
     {
       "title": "What is Artificial Intelligence's place in university classrooms?",
       "source": "The Ubyssey",
@@ -21,46 +45,22 @@
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNallGR3RLNFdYVTh4d2VwMld1VndxS2JEdUg1cEJDSVk0NmRXek5rU3p6UFpyOUFsbmhLRXh5WTBOaXU3cjdfT1cwLWNMWkxNX3dzTENmRXlhZ2hobkdUOTk5UVgzblV3OU80Z1JENXpJLWRBTmc1U25uWTdFNnJ1MGJ1dDhwTXFlam9EM191VTQ4OXAwazhCTGNkLVZWUmZWeXdvWXVkQnZieVlvbU9pYm9aYUR4cHZKdFVEekY1Wm9Ic2hqYkdKZXBMUQ?oc=5"
     },
     {
-      "title": "What you see, what you get? Artificial intelligence use in Alberta real estate",
-      "source": "CityNews Edmonton",
-      "date": "Wed, 07 Oct 2026 15:10:08 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMEFhTkJUZWRpNlhkZ2pOWHY2NmJ1d1ZudW9ENHoyZWZtcl9ObHdRVWFvTVpiSEhMXzhsbkxjaERKdUN0UUkwdVlDYXZQel85UzZQeng1NW4tOEFFb0xsUmdHU0QxcnhtelVtalQ3c3l5TXhMYlFDNW0tdTNvbFBYbzJpWXhCWkI0YW9XVXkzTE45MlpWV19yTjZpWHJqU2xOUFoxVFpyeUpEdm5LSG94Q2RYMTNVQlM2?oc=5"
+      "title": "Council of Europe presented HUDERIA methodology to the 24th Meeting of Central and Eastern Europe Data Protection Authorities - Artificial Intelligence",
+      "source": "www.coe.int",
+      "date": "Thu, 08 Oct 2026 14:13:45 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQTDZhMUFxNjNsYmpESmhJVFNkb191c0RTcEtSRmpaN0doWWN2SnVxa1BhMjlZYWVFckdIRjdYWHBqY2tud3RUbzFUSjE0UGRwLU1QLXl4Rk5pVzdKRHVQME5JYlhqTUhuZVJ2WlJCZ2lzRU9xWExKakNRV29EU1NCaGdEbzVqdWV6cGhrcWdMRm96U2RYVEFCMGtSZy1jUExPNmJLbEJjM0Rud2RqOU0zWFFscFpkdjg3c0x2Z3ZqZ3RkeVFsMzdoaGZ5cm1qbXpoUkNEUVpmNHdVZjc2Qm9qU2wyR1RkOS1LMkVESjZxVG5Xc1BMYjhuR2lLRWFUcWdzWjBFeVBZYTdkdw?oc=5"
     },
     {
-      "title": "Is Google the Market's Biggest Artificial Intelligence (AI) Mistake? The Stock Is Priced Like a Loser.",
-      "source": "The Globe and Mail",
-      "date": "Wed, 07 Oct 2026 16:22:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOd3RQVVlKM2Mzakx1bDh6N2RhYWhKWW9EaWZHdTctVEJQbk0teE5Lc3lSRnRta19PcGZMUjBLNWV2Q0oxMlJLSVV2a2VtRmlpckUxTlVrQzR6RnNzdWNLcENFVmhHWUJZUklYbWU5b2x2LTF6NTFXaTRWaEN1ZVhvaDNobmpiUlFHQW1tM05TWFRVYzY0STBoZERzNlR0SWF3STNNZXd2R0RlU1RqTkF5QTU5bzRUZWlhVnRscUFkM1locDBQT2RCV1d2b1ZLam16TmQ0MllwSzJ0N19TMmg1NmdfOV9mMHI2NnVqX0pxelpObXFjd09pczJkZ1VBLUd1bkY4ajNobndxdFo5aEtZ?oc=5"
+      "title": "OSFI says geopolitical, economic and AI risks have intensified for financial system",
+      "source": "BNN Bloomberg",
+      "date": "Thu, 08 Oct 2026 14:26:59 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOLVdfLTdZMFdSVE5lR09jVkRaY0xZc1lmamp2c0tseEtnMEstN05ibDlQZXFaZDE2cktsUmxTTHdiZWc2YkFhQVRvOXp3QTFrUklUcGxpczd2UFRlc01Bd0RFVmhJMTlqa0xpMTFoZmJpeUYtaVVoLVJSUGxPUXMyb2VMNHVxUTM4b21jc1NMeERqQ1kyLW1CM3BDZm1PS3pzQURra21QVlphNWNRMFJ4NUtRNUM5dU8xczlaLW5peHNYbi0wTGZiM0tHUUxHNHpUQ2loLTI2eG8?oc=5"
     },
     {
-      "title": "Sam’s Side: Artificial intelligence makes Halloween scarier than ever",
-      "source": "www.thepostathens.com",
-      "date": "Thu, 08 Oct 2026 04:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQT05HSklXQWtXZ2lLelkySnNMZjFpSU1Vb0VYdDhSa1NIaG55M0llZFVraml2OVJyQmh5NGtoc19COVhHZVpFWHlqZmY0aXF6MXZTSmQwbTdneTNRMUJqeTVrM191Q0xuZUhrTUtSRUtfRkJxYWoyWHBQQXZFN1NGczhoRU03Zw?oc=5"
-    },
-    {
-      "title": "CUPE calls for worker protections at federal labour and AI council",
-      "source": "CUPE",
-      "date": "Wed, 07 Oct 2026 15:18:23 GMT",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOb25PV3Q3OHJJOWN6Q2VlX1J2cHJGRHcyRzFpT0hDYTF3UFRtS2ZSSVBUTnZxZzE4aENYUmhiVFU5Y0ZLdzFDdXJSbkdmS21KZ2tVS3kwY3g5dGVBLW01VnVSdVNHblFROW15Vm9zdVdsS2FaQjdzZmJCcnVHLWw3OTgyUmF1MU9kbnFfbndKaVVhMF81RF81dGdzTQ?oc=5"
-    },
-    {
-      "title": "Can Artificial Intelligence Learn the Art of Surgery?",
-      "source": "The New York Times",
-      "date": "Wed, 07 Oct 2026 09:00:09 GMT",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZ0VmNlQ5UmFXQVB2b0pOYTZNV0RuaFZLVWZHR2dsTDV0OGZjUWVwV3ozTEhpWVE3M3d3ZDJTNmh5QUgtM2JTdldya0ZnUXZxekFPVzRYaVItMDM5dldDN0ZfQXlpYzQwbkFEeEZubHJ3WmhZeGVUQld1VVg2a0tBWUIzWHRzemJOSnM4WER5M1hwNlNSQVE?oc=5"
-    },
-    {
-      "title": "Aventra Group secures ISO 42001 artificial intelligence certification - Vietnam Investment Review",
-      "source": "Vietnam Investment Review - VIR",
-      "date": "Thu, 08 Oct 2026 04:07:41 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbVpNZGxyYnliUEdhTERzcHRVcDFGRmdtdG5uZklJUC0xNE5ZUGw1WXpjRk00Z3ZPZ1RVLXhBSkVXN0UxTmFRZ0U0a1NLMEgxNTMzYS1wOVg2cXBMaXlUQk5LSjVCLV9xeFdkM2dJMEFHQTB3bUhXTDJodGowZWxvaEhrWTNfUE4yeHRBbXNkRHJWZV9iZDBDbFNoaEFpY016bXc?oc=5"
-    },
-    {
-      "title": "Globee® Awards for Impact, Now in Its 19th Year, Invite Artificial Intelligence Achievement Nominations Worldwide",
-      "source": "Lelezard",
-      "date": "Wed, 07 Oct 2026 17:02:22 GMT",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQkRpT2JuMlB5TWVyWmJIZmx5RGxSM0RkRlNJd3lfS3VQMkV4MFRvX05XbVlob1NScGdqRTN1NlZoWmFkZTIwWF8yQXZnSXdKWllHNVNyTkFvTUN5Q01Cc2FnRnVCQUt4MkpJbUVDZHJKcmFiRm1JVnp0X0tZSFFRcWwwclJMVmp6T09tWWFIMjJoa0lGRFlJcHNuRG5JcUp3Q2htV3pWRm5vaGdqU2JSMnBDcGcya1Q5SEVDTWlKam9LME16OVJJLVYyaGRmUzhq?oc=5"
+      "title": "1 Unstoppable Artificial Intelligence (AI) Stock to Buy Before It Joins Nvidia in the $5 Trillion Club",
+      "source": "The Motley Fool",
+      "date": "Thu, 08 Oct 2026 14:32:13 GMT",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPY2xTdkx6THZlYm1JZmJhQUxJVHA3QlJ5Q2JnN25tMzRLZ2hKRElwSzRUcE83Vm9WSTZ5UWNLNkVJZU9abFRlbVdray1MWWc2UXBMQWFObm1ZNVdFOVhvMlpOTXZUeHVQUXhZcHl4S0hkVzAxQXNzZy1qdkZ0ZUhwaFdBRzgzNHZWRmRUVVZEMXpaMDhlMjl5Wg?oc=5"
     }
   ],
   "events": [

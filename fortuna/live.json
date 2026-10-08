@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T01:00:37.855191Z",
+  "updatedAt": "2026-10-08T07:24:59.038277Z",
   "locationLabel": "Victoria, BC",
   "headlines": [
     {
@@ -9,22 +9,22 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeTZKVHZuNG1KSUdOWlFGeEdfc25TNVkyLU5zQk1XMlNqcW5BeVlIUGY5Y2hoeU9qV05nZ0pvNHhaTmljZXFvamt0RmRfbktnQ3ZFMVptUm5fa1ZBUE52cjFFLW0zX1Zfd0d5cjJ0enU1ZmRXR0RpeE95WnF1aWNNZVVPSW9haGlVWVdacHloOE5XUE9RdXZ0dHJ5U2VPRWc?oc=5"
     },
     {
+      "title": "Artificial intelligence in ways nobody knew before",
+      "source": "106.9 The X",
+      "date": "Wed, 07 Oct 2026 22:43:05 GMT",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdE1SajczMDlfLU1Wa0ZBcm9nODFVZGtLMHhHY3c5YWJ1VFdHYWFFcUZpcHhHQ3lnTDA3ellPSkswMXpjS2h3dnBpNHp4YmdvWUItNl9KWXZzeVQtOFVSYVRRVUo3blY0THNzbGo4ZEFtSnFzQ1VBMXlWbWJCc0diS1dwSEZMemU4MTNRQjBhN0c?oc=5"
+    },
+    {
       "title": "Federal government launches National Council on Artificial Intelligence",
       "source": "Dentons",
       "date": "Wed, 07 Oct 2026 20:17:25 GMT",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNallGR3RLNFdYVTh4d2VwMld1VndxS2JEdUg1cEJDSVk0NmRXek5rU3p6UFpyOUFsbmhLRXh5WTBOaXU3cjdfT1cwLWNMWkxNX3dzTENmRXlhZ2hobkdUOTk5UVgzblV3OU80Z1JENXpJLWRBTmc1U25uWTdFNnJ1MGJ1dDhwTXFlam9EM191VTQ4OXAwazhCTGNkLVZWUmZWeXdvWXVkQnZieVlvbU9pYm9aYUR4cHZKdFVEekY1Wm9Ic2hqYkdKZXBMUQ?oc=5"
     },
     {
-      "title": "Artificial intelligence in ways nobody knew before",
-      "source": "106.9 The X",
-      "date": "Wed, 07 Oct 2026 20:39:45 GMT",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdE1SajczMDlfLU1Wa0ZBcm9nODFVZGtLMHhHY3c5YWJ1VFdHYWFFcUZpcHhHQ3lnTDA3ellPSkswMXpjS2h3dnBpNHp4YmdvWUItNl9KWXZzeVQtOFVSYVRRVUo3blY0THNzbGo4ZEFtSnFzQ1VBMXlWbWJCc0diS1dwSEZMemU4MTNRQjBhN0c?oc=5"
-    },
-    {
-      "title": "Mayoral candidates, Winnipeggers weigh in on the use of AI during campaign",
-      "source": "CityNews Winnipeg",
-      "date": "Thu, 08 Oct 2026 00:18:23 GMT",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRDJjWTRtUDFZWU5nZTdhdERvQnc2SzRoaXBxU3dSdVRWSXhXMk4xVmE4TjJadHhBSHhDdjRTUzN3RlFGa3BNbEFkMDNIcU50c0xkaGFNekhtLW5VdmZkZkIweGdZWFRSeE1KaTJxcEd2SzFmTFNVX3Nnc0h1SnQyRWQwMlJkd1hJZDlmeVA3RUdaSEh5ZlROYTd1bDcxYloxUkxrQm5HR1JsRllaSFJLZUVmaEw?oc=5"
+      "title": "What you see, what you get? Artificial intelligence use in Alberta real estate",
+      "source": "CityNews Edmonton",
+      "date": "Wed, 07 Oct 2026 15:10:08 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMEFhTkJUZWRpNlhkZ2pOWHY2NmJ1d1ZudW9ENHoyZWZtcl9ObHdRVWFvTVpiSEhMXzhsbkxjaERKdUN0UUkwdVlDYXZQel85UzZQeng1NW4tOEFFb0xsUmdHU0QxcnhtelVtalQ3c3l5TXhMYlFDNW0tdTNvbFBYbzJpWXhCWkI0YW9XVXkzTE45MlpWV19yTjZpWHJqU2xOUFoxVFpyeUpEdm5LSG94Q2RYMTNVQlM2?oc=5"
     },
     {
       "title": "Is Google the Market's Biggest Artificial Intelligence (AI) Mistake? The Stock Is Priced Like a Loser.",
@@ -33,10 +33,16 @@
       "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOd3RQVVlKM2Mzakx1bDh6N2RhYWhKWW9EaWZHdTctVEJQbk0teE5Lc3lSRnRta19PcGZMUjBLNWV2Q0oxMlJLSVV2a2VtRmlpckUxTlVrQzR6RnNzdWNLcENFVmhHWUJZUklYbWU5b2x2LTF6NTFXaTRWaEN1ZVhvaDNobmpiUlFHQW1tM05TWFRVYzY0STBoZERzNlR0SWF3STNNZXd2R0RlU1RqTkF5QTU5bzRUZWlhVnRscUFkM1locDBQT2RCV1d2b1ZLam16TmQ0MllwSzJ0N19TMmg1NmdfOV9mMHI2NnVqX0pxelpObXFjd09pczJkZ1VBLUd1bkY4ajNobndxdFo5aEtZ?oc=5"
     },
     {
+      "title": "Sam’s Side: Artificial intelligence makes Halloween scarier than ever",
+      "source": "www.thepostathens.com",
+      "date": "Thu, 08 Oct 2026 04:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQT05HSklXQWtXZ2lLelkySnNMZjFpSU1Vb0VYdDhSa1NIaG55M0llZFVraml2OVJyQmh5NGtoc19COVhHZVpFWHlqZmY0aXF6MXZTSmQwbTdneTNRMUJqeTVrM191Q0xuZUhrTUtSRUtfRkJxYWoyWHBQQXZFN1NGczhoRU03Zw?oc=5"
+    },
+    {
       "title": "CUPE calls for worker protections at federal labour and AI council",
       "source": "CUPE",
       "date": "Wed, 07 Oct 2026 15:18:23 GMT",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcnlSb0d3VExfeTlKLU9OQlhqSmZvV0VvajZNa25nMVJsYlkxTkZlWmdSdVpHaFpJNUNzdHM3Ri1maHFWTXNENkpMVU5uVHVlNTZxbkNMMGJqb1hzWWIwNzRCbGVRTnowRFd1aUNrd1JYNjk4b1BiZW9HZThRczhhNVUtTjRrVDA?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOb25PV3Q3OHJJOWN6Q2VlX1J2cHJGRHcyRzFpT0hDYTF3UFRtS2ZSSVBUTnZxZzE4aENYUmhiVFU5Y0ZLdzFDdXJSbkdmS21KZ2tVS3kwY3g5dGVBLW01VnVSdVNHblFROW15Vm9zdVdsS2FaQjdzZmJCcnVHLWw3OTgyUmF1MU9kbnFfbndKaVVhMF81RF81dGdzTQ?oc=5"
     },
     {
       "title": "Can Artificial Intelligence Learn the Art of Surgery?",
@@ -45,22 +51,16 @@
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZ0VmNlQ5UmFXQVB2b0pOYTZNV0RuaFZLVWZHR2dsTDV0OGZjUWVwV3ozTEhpWVE3M3d3ZDJTNmh5QUgtM2JTdldya0ZnUXZxekFPVzRYaVItMDM5dldDN0ZfQXlpYzQwbkFEeEZubHJ3WmhZeGVUQld1VVg2a0tBWUIzWHRzemJOSnM4WER5M1hwNlNSQVE?oc=5"
     },
     {
-      "title": "Artificial intelligence (AI)-supported symptom self-assessment led to more appropriate patient care-seeking decisions",
-      "source": "2 Minute Medicine",
-      "date": "Wed, 07 Oct 2026 18:52:48 GMT",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPY0tUN2UzUG1uNXhVbzllbkR4a1F0OG9FTjNwS1VmV0tzSWhXN0NYNlBQd0VkV1g1dUgtek1mVUx1eEdjXzRaa0hkWkNRNlhUOUpaMy1ERE5qMEpOYmloMHhyQkhJVU9hREttR0w5RURIOEJYbkI3YWNEMUpWOFF1T253OXdBXzQ0MXhhM2Z6R3NnR3J2dmNraGdVeEV3OS1wZmpQd1NyU2pQMnRWbndfN25uY3dxZ0V0MnBZQTVWTERzbldTUmt2Ukh1YzhIWDVlNFBsZWdqSQ?oc=5"
+      "title": "Aventra Group secures ISO 42001 artificial intelligence certification - Vietnam Investment Review",
+      "source": "Vietnam Investment Review - VIR",
+      "date": "Thu, 08 Oct 2026 04:07:41 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbVpNZGxyYnliUEdhTERzcHRVcDFGRmdtdG5uZklJUC0xNE5ZUGw1WXpjRk00Z3ZPZ1RVLXhBSkVXN0UxTmFRZ0U0a1NLMEgxNTMzYS1wOVg2cXBMaXlUQk5LSjVCLV9xeFdkM2dJMEFHQTB3bUhXTDJodGowZWxvaEhrWTNfUE4yeHRBbXNkRHJWZV9iZDBDbFNoaEFpY016bXc?oc=5"
     },
     {
-      "title": "Ethical considerations for intraoperative implementation of artificial intelligence clinical decision support systems: a scoping review",
-      "source": "Nature",
-      "date": "Wed, 07 Oct 2026 15:37:41 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0wZUxjVmlpMkZydTlFN01IYWhlUkYydDYxQ2RDcTJ5TDVPd01YQXNiV2d3RWFmOXZyNVR6c1BPaWJVZVVXWTROVnpVU000MlhjTDBUYkhuSFJQUzRrLVBV?oc=5"
-    },
-    {
-      "title": "How Much Should We Worry? Recent Developments in Artificial Intelligence",
-      "source": "Electronic Frontier Foundation",
-      "date": "Wed, 07 Oct 2026 16:59:35 GMT",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSGVnV3BQUElWUXVrTEhLOUhJWU1mazVrTGhWZ05hSXlna3F2QlUwS3VaVDZYV0w4UVFNR3dHRkR6N1huSXJnZkFKNjFqUk1HZUNFNnRZdEY2cW5PeHRBcDItLWVHM0U2cTljRndmbVlNU0N0ZDJmek5mVTNoLUc3NTlJUW54Q2VNUG15eG03eFhrZkhVbXd6ZmFR?oc=5"
+      "title": "Globee® Awards for Impact, Now in Its 19th Year, Invite Artificial Intelligence Achievement Nominations Worldwide",
+      "source": "Lelezard",
+      "date": "Wed, 07 Oct 2026 17:02:22 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQkRpT2JuMlB5TWVyWmJIZmx5RGxSM0RkRlNJd3lfS3VQMkV4MFRvX05XbVlob1NScGdqRTN1NlZoWmFkZTIwWF8yQXZnSXdKWllHNVNyTkFvTUN5Q01Cc2FnRnVCQUt4MkpJbUVDZHJKcmFiRm1JVnp0X0tZSFFRcWwwclJMVmp6T09tWWFIMjJoa0lGRFlJcHNuRG5JcUp3Q2htV3pWRm5vaGdqU2JSMnBDcGcya1Q5SEVDTWlKam9LME16OVJJLVYyaGRmUzhq?oc=5"
     }
   ],
   "events": [

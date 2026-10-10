@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-10-10T13:41:23.546746Z",
+  "updatedAt": "2026-10-10T18:35:41.681415Z",
   "locationLabel": "Victoria, BC",
   "headlines": [
+    {
+      "title": "In Silicon Valley, AI founders cheer Trump’s calls for the industry to police itself on safety",
+      "source": "CP24",
+      "date": "Sat, 10 Oct 2026 15:15:41 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcDBqTkthNkRXOHZHR2ZYb0MxOFdBdXM2X2wtX05DdlRJWkd2aXJ6NmhkcTkycTgwUG95ck5xaEdBVzhuZ21VczgyM1p5d3dhUDF0a2piRXpzdDNNNWpoRTlPaExWY3J4Y1dqQVJ1aGhHUm1kMGFUUl85dXNweTlJaHVZQ1BmYXhNbFhHZjF4YnYxQ1NDal9oWkpiRk1Fakx1aGo4M2h0d2E4UHhnb1JXWERlRWFqTFJVZGFmTjd1UEhqSXotMy1pNmt0aG51aEVKSlE?oc=5"
+    },
+    {
+      "title": "Artificial Intelligence - ABC News",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "date": "Sat, 10 Oct 2026 03:44:54 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHQWNlSHQzMUlJUTg1elY2MnlhM0JMRDkyUlMtYUdwNDFYYmF2cktZZzg2X3pDMVluRVhBS01LY0VnRVI0bnk2eElyWkczd0dLdktiOFMybWl5STktVHc?oc=5"
+    },
+    {
+      "title": "Leading AI companies are preparing for the possibility of artificial intelligence getting out of control — media",
+      "source": "Українські Національні Новини (УНН)",
+      "date": "Sat, 10 Oct 2026 16:17:06 GMT",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVEt0d0lnWWFtSUZjTUlKaEd4UEpQT2pHbWNmbjBhUFhabzBELXBteHBlZWduMFJWSy1WZk5jT2huRGxBSmVKNHdmRjB1eHRZWi1ya0FMTC1hdUhRSmZWUkQ1VElMTVM1Y3Zfbkpvak1IWXF0QmZrbkZMQUZEc2VYRzlSNFdZZlJTSXg5Z241YWJsSi0wdDBvaWxpb2Jwb2U5azk2eXkzZlFrbUJGUzhZN01ickRmTUI1NDNYWFJXRldzTG5zb280MklVYXhDQdIBzAFBVV95cUxNT19BNm5KZjlybVM4bU5IblFvcW9FOWtOYU5WblY2ZVQ1WEVJckFrUDlvcnVNVmdZWVprMHNZbE5fR2lBWmFPaHVYaHlKSkhMeUVheE9mVnZwb0NVMXNWQTF5UUFPVEFONkw5NTF1WU9ZYjJSMGlHeGdIZHVMbHg2WTBCbGhyYnBjUW5yTW9IUUtDLW5RRTNoTHl1bUlWNlB2aHRBQUE5QkxTejRfZUVPeE5lZ1dlX0hnbjhBOG02OVBXeWFCUVBncDdRank?oc=5"
+    },
     {
       "title": "Artificial intelligence: Risk management actuaries need to work across business units - insurance-portal.ca",
       "source": "insurance-portal.ca",
@@ -9,34 +27,10 @@
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONTc1bjJJb3dFVzUxNVBTS1BOUVhNaUtyQVNiZk55Y2dFdTNUbzlXcUxCUnVOenllaUZuV0FvVi1qTnNyb0kzMnQxLTVoQzBhZlFDTXJFazdGblZid01fLUc5TVo2SS1pTlJUd3JMR0FIZUZsT0lMendOcXFRWWlDYTI4OUhoLU1wdGJIbi02eHRRUEdGUjMxVl9CZ1ZsaDhfa2ROUFFlekt0V2tjVlMwbjlYOG5PVXdUU2NMclBB?oc=5"
     },
     {
-      "title": "Artificial Intelligence - ABC News",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "date": "Fri, 09 Oct 2026 21:53:29 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHQWNlSHQzMUlJUTg1elY2MnlhM0JMRDkyUlMtYUdwNDFYYmF2cktZZzg2X3pDMVluRVhBS01LY0VnRVI0bnk2eElyWkczd0dLdktiOFMybWl5STktVHc?oc=5"
-    },
-    {
-      "title": "Analyzing the Benefits of Artificial Intelligence to Racially Inclusive Democracy",
-      "source": "Race, Racism and the Law",
-      "date": "Sat, 10 Oct 2026 09:39:54 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTTZoUXZMUG1iRzRvNnZIU2J6UWVOZFZITlpTY3p1aWxBaGYtN3dyUWpNQTNIUzNEX0M4ZU1aVXdRTmowNkxNWTlqVVBzUy1CanFUNzgycEVZWVNSelBsdExKU3QtRXBUZV9jQVJ5WEUzTS1FNlUwYmNBQVBjT3hQdFdscnhVbEpBUEdFUmRGQWJGdFJVeUUzSkY0ZFhTbEVya2gtVnQ1Zms5bHJsOXlieTlFMA?oc=5"
-    },
-    {
-      "title": "I am ‘the enemy’ because I won’t call Artificial Intelligence ‘Super Intelligence’ until it’s actually super",
-      "source": "Stuff",
-      "date": "Sat, 10 Oct 2026 10:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONS14bFpwbnhtRTBKbG5xRjFLUll5UW1SVkQ4b0xjSDJ4TGI2TV9pY2J0Qld6RGhQUENRVlVPZXpTRkFpYjNta1NHM2ZheFotNzB3RWZsNlIyT3E4WFBqQnJlOUpSOWw1VVU5VzFtVVM4ZHlqRU96Qm9BaDVyeWdrc2VxenFsZnpSN3lXd2s4OEpiUVJFNXA4TFFZQnVsb2YweHFuRjZac0w5R3Z5SmRnY1M3UzlWLUdGVVBzSFR3WG5vaUFabXRhcExuUnR3cE9UUGlCeg?oc=5"
-    },
-    {
-      "title": "AI photos are making it harder to know what you're booking on Airbnb. Here's what to look out for",
-      "source": "CBC",
-      "date": "Sat, 10 Oct 2026 08:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNckxPQklKblRXS1ZlUGVVdzU3YlpBU2J4Z0kzVXlwZmxCQ2dKQTBWUGdJX1U3eWZ6YWpDNkpNQkNOa1ZaUWdpY0p6YmR1Z0p2T1VGTnJSb09pbmZIRW5hVE9mQUVJd24tQ0dHR3I1UTV2NHFOOU9RTElnb0t6TlB4bzZEQTRNd01CSjNCX2Vn?oc=5"
-    },
-    {
-      "title": "Artificial intelligence and social integration paradox",
-      "source": "Daily Sabah",
-      "date": "Fri, 09 Oct 2026 21:05:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcV9qQmJ4MEpOWUQ5eVVvdklNR2V0d20zWE85a2IydWkxT1ZyelZnamhZaHRrWXV3NVhucVF5Y1RjM3hpbThUNl9KMmd3MHVFS0xQXzMtYldqMXNFWkZYLU9lMzQxMG5XQlVVQUlHXzJiUzlnT1NKdmdld0VENWQ3VDFYd2Raa3hCcHVTcldLcVMtMjRqdTBpM1B5Zw?oc=5"
+      "title": "1 Reason the Meta Muse AI Agent Has the Upper Hand",
+      "source": "The Globe and Mail",
+      "date": "Sat, 10 Oct 2026 18:00:04 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWEs1UnBZZWdxWlR0OHRydk5wYWxIdlRxeXhETnJ6OGNpZGxieTNTQjJYODZ0M0tFR185TnJBNm9TMlFkTTZfLWRMNVZGb3ZNQ2laR1ZySWhSNWZlVkc5dEdEMzJvS2l6NFlDOVp0LW5uRGV4WGJQLUVvMmpjQmZWVmRJRHZWbnZOUHRHSXZTc0RHZS0wM3J0NWFSOXRjSzBzTHBibmIzYlRIRXh3QnlzaVczLWpGdzJfZW1IaURpemNkZnh0UlpVSEZEYnRMamlRcmI4?oc=5"
     },
     {
       "title": "Trump says anyone who does not refer to AI as ‘super intelligence’ is ‘THE ENEMY'",
@@ -45,22 +39,28 @@
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaTV1aTVjdklWRlVSRk44SVpZck9ENF9lWFAxSWVBMmNZQmktWDVZUC04Tmd1aUwwM01WLVJ3Sl93XzRaRTY3S3hvNm5UMFV0MXZiQk1VU0RIR3l4aVJLZHhlSjJ0ZWdHR3Y5YndyMmI2WG9CNnNibU02QS0tWEZhd2NDeG9YYWZqenV1MVpHNA?oc=5"
     },
     {
-      "title": "Waffling at the UN: OpenAI, Anthropic and Selling Artificial Intelligence",
-      "source": "Middle East Monitor",
-      "date": "Sat, 10 Oct 2026 09:02:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNVl5SVFfazJ5aXZSWTlwQWlMZ0ljalZUYms1dVUzVVZvWm5LZU5iMXdvM29hUkZUQTNOR05CWm5BMEpCV0RfSk5yYWJrakVsWDlYbHNxbkxPMWJuZ04wbGtrLW5jaEc5dmFUSHRaQ0NyVndVaVFoUVp4R0V5VHV1QUMzYV9TM0w1emxfNFZ3RUVJaVZRZ3psNzI1QTVIVXUwaFE4dWJVdXNXODZqcm1obG0zTkVDZw?oc=5"
+      "title": "I am ‘the enemy’ because I won’t call Artificial Intelligence ‘Super Intelligence’ until it’s actually super",
+      "source": "Stuff",
+      "date": "Sat, 10 Oct 2026 10:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONS14bFpwbnhtRTBKbG5xRjFLUll5UW1SVkQ4b0xjSDJ4TGI2TV9pY2J0Qld6RGhQUENRVlVPZXpTRkFpYjNta1NHM2ZheFotNzB3RWZsNlIyT3E4WFBqQnJlOUpSOWw1VVU5VzFtVVM4ZHlqRU96Qm9BaDVyeWdrc2VxenFsZnpSN3lXd2s4OEpiUVJFNXA4TFFZQnVsb2YweHFuRjZac0w5R3Z5SmRnY1M3UzlWLUdGVVBzSFR3WG5vaUFabXRhcExuUnR3cE9UUGlCeg?oc=5"
     },
     {
-      "title": "Are Americans Who Use the Term ‘Artificial Intelligence’ the Enemy?",
-      "source": "The Times of Israel",
-      "date": "Fri, 09 Oct 2026 22:32:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWmE4aU8yLUt2MGVCUEZoWVFwdkxNOFp3TzhobVl0ZGlXbGI1by1MN0k3UVZwRUlEMTlrWGlnV2N2Szd6VlB2dW5Xck1GQ2ktUTlvZzhLeTZsb3dIdVl4SFVjYTlpQ2JyeFpqQktHcERMM25qaVpNQjlxU0JLQnozSWJNRUxVQjRyeFloR0FIMjI4ZTZCYmZtSi1XZ2Y2QQ?oc=5"
+      "title": "The Hugging Face Incident: When Artificial Intelligence Escaped Its Masters",
+      "source": "www.lvivherald.com",
+      "date": "Sat, 10 Oct 2026 15:59:51 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVUN5b1FqS3NWdDBnZVJiTTJiNVdkaG1xbzN5UGRWYm03Z0s2MjlDZ1daX0VMSlhCSjNneTlXTFp1eVFCaWYwdkkxNUYxbTQzRzlhaFV1M0xsSWw3dzRwNmJkNWxiM2t5elFtYXNMbURDaWNZcnVHckp3VVRTWHlBRGNUNUJrNTVKeXF0eG1jdjN4SmtoVVphRDRYVE0yTUd2eVhjNXB4cjR6UQ?oc=5"
     },
     {
-      "title": "The real threat involving artificial intelligence isn’t what you think",
-      "source": "Washington Times",
-      "date": "Fri, 09 Oct 2026 21:24:42 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNb3RwRFBUS3FyTDdpb3dMSlFRQ1p6bHBPbjl1Z0dZbTR3WnRiNzFrNnJ4M0ROVzRFWW5Vc2dfa3ZPU0Q0YmNEclN3c1BtejFvUjk0UDl3UEdhRnRTY2RjbGFRcGprY0I4Vmw0WklNMUF6bnJxNHAybmRyTkJ1eHczMDczdlFFenl1ZjVUclFEZ0t5SVdqMGtpWkNuZ1M5MXlUbjlPbHN4aUg?oc=5"
+      "title": "AI photos are making it harder to know what you're booking on Airbnb. Here's what to look out for",
+      "source": "CBC",
+      "date": "Sat, 10 Oct 2026 08:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNckxPQklKblRXS1ZlUGVVdzU3YlpBU2J4Z0kzVXlwZmxCQ2dKQTBWUGdJX1U3eWZ6YWpDNkpNQkNOa1ZaUWdpY0p6YmR1Z0p2T1VGTnJSb09pbmZIRW5hVE9mQUVJd24tQ0dHR3I1UTV2NHFOOU9RTElnb0t6TlB4bzZEQTRNd01CSjNCX2Vn?oc=5"
+    },
+    {
+      "title": "A timeline of developments in AI safety since the attack on Hugging Face",
+      "source": "Audacy",
+      "date": "Sat, 10 Oct 2026 16:41:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTkhKVXdQb2VwMUctUFo5b3h3OGt4WXFmSWZuZVBYYlRTTlE0aUVELW1YaWhFbml1ckY2eVBwTlk5WFJKSGl2eXpVXzdvc3UxcENRcXBRMnFBeVJNUzZ5RlRfSkdvZ0JNSFJscFI5VjV4SS1BV1dtN0pQbDlTbHNsWFl4SFBvTVVuR1FsNjZWbmI5VWdfVENBWVFKUnhQRFFlcDU2Tk80WkxlMUFSNEdR?oc=5"
     }
   ],
   "events": [

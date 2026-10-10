@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-10T18:35:41.681415Z",
+  "updatedAt": "2026-10-10T22:31:51.708401Z",
   "locationLabel": "Victoria, BC",
   "headlines": [
     {
-      "title": "In Silicon Valley, AI founders cheer Trump’s calls for the industry to police itself on safety",
-      "source": "CP24",
-      "date": "Sat, 10 Oct 2026 15:15:41 GMT",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcDBqTkthNkRXOHZHR2ZYb0MxOFdBdXM2X2wtX05DdlRJWkd2aXJ6NmhkcTkycTgwUG95ck5xaEdBVzhuZ21VczgyM1p5d3dhUDF0a2piRXpzdDNNNWpoRTlPaExWY3J4Y1dqQVJ1aGhHUm1kMGFUUl85dXNweTlJaHVZQ1BmYXhNbFhHZjF4YnYxQ1NDal9oWkpiRk1Fakx1aGo4M2h0d2E4UHhnb1JXWERlRWFqTFJVZGFmTjd1UEhqSXotMy1pNmt0aG51aEVKSlE?oc=5"
-    },
-    {
       "title": "Artificial Intelligence - ABC News",
       "source": "ABC News - Breaking News, Latest News and Videos",
-      "date": "Sat, 10 Oct 2026 03:44:54 GMT",
+      "date": "Sat, 10 Oct 2026 06:44:18 GMT",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHQWNlSHQzMUlJUTg1elY2MnlhM0JMRDkyUlMtYUdwNDFYYmF2cktZZzg2X3pDMVluRVhBS01LY0VnRVI0bnk2eElyWkczd0dLdktiOFMybWl5STktVHc?oc=5"
+    },
+    {
+      "title": "AI can diagnose you in seconds. But it comes with risks, doctors say",
+      "source": "CBC",
+      "date": "Sat, 10 Oct 2026 20:23:46 GMT",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB5ZXJDOGVLenFRZkJkYlE0MjU2YWR1dmZTbV85LXpvcnVTV0NkZzVWRTBuMHAxNlBmeHdxakZDbG9QRV9aZ2ZpcE5SdWNVMEFDM3Z1MFNRNVVDaVdWYjM2Q0g1cHM2eWhMV0J5U3hhZm1sMUViQ1E?oc=5"
     },
     {
       "title": "Leading AI companies are preparing for the possibility of artificial intelligence getting out of control — media",
@@ -27,18 +27,6 @@
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONTc1bjJJb3dFVzUxNVBTS1BOUVhNaUtyQVNiZk55Y2dFdTNUbzlXcUxCUnVOenllaUZuV0FvVi1qTnNyb0kzMnQxLTVoQzBhZlFDTXJFazdGblZid01fLUc5TVo2SS1pTlJUd3JMR0FIZUZsT0lMendOcXFRWWlDYTI4OUhoLU1wdGJIbi02eHRRUEdGUjMxVl9CZ1ZsaDhfa2ROUFFlekt0V2tjVlMwbjlYOG5PVXdUU2NMclBB?oc=5"
     },
     {
-      "title": "1 Reason the Meta Muse AI Agent Has the Upper Hand",
-      "source": "The Globe and Mail",
-      "date": "Sat, 10 Oct 2026 18:00:04 GMT",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWEs1UnBZZWdxWlR0OHRydk5wYWxIdlRxeXhETnJ6OGNpZGxieTNTQjJYODZ0M0tFR185TnJBNm9TMlFkTTZfLWRMNVZGb3ZNQ2laR1ZySWhSNWZlVkc5dEdEMzJvS2l6NFlDOVp0LW5uRGV4WGJQLUVvMmpjQmZWVmRJRHZWbnZOUHRHSXZTc0RHZS0wM3J0NWFSOXRjSzBzTHBibmIzYlRIRXh3QnlzaVczLWpGdzJfZW1IaURpemNkZnh0UlpVSEZEYnRMamlRcmI4?oc=5"
-    },
-    {
-      "title": "Trump says anyone who does not refer to AI as ‘super intelligence’ is ‘THE ENEMY'",
-      "source": "Politico",
-      "date": "Thu, 08 Oct 2026 20:18:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaTV1aTVjdklWRlVSRk44SVpZck9ENF9lWFAxSWVBMmNZQmktWDVZUC04Tmd1aUwwM01WLVJ3Sl93XzRaRTY3S3hvNm5UMFV0MXZiQk1VU0RIR3l4aVJLZHhlSjJ0ZWdHR3Y5YndyMmI2WG9CNnNibU02QS0tWEZhd2NDeG9YYWZqenV1MVpHNA?oc=5"
-    },
-    {
       "title": "I am ‘the enemy’ because I won’t call Artificial Intelligence ‘Super Intelligence’ until it’s actually super",
       "source": "Stuff",
       "date": "Sat, 10 Oct 2026 10:00:00 GMT",
@@ -51,16 +39,28 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVUN5b1FqS3NWdDBnZVJiTTJiNVdkaG1xbzN5UGRWYm03Z0s2MjlDZ1daX0VMSlhCSjNneTlXTFp1eVFCaWYwdkkxNUYxbTQzRzlhaFV1M0xsSWw3dzRwNmJkNWxiM2t5elFtYXNMbURDaWNZcnVHckp3VVRTWHlBRGNUNUJrNTVKeXF0eG1jdjN4SmtoVVphRDRYVE0yTUd2eVhjNXB4cjR6UQ?oc=5"
     },
     {
-      "title": "AI photos are making it harder to know what you're booking on Airbnb. Here's what to look out for",
-      "source": "CBC",
-      "date": "Sat, 10 Oct 2026 08:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNckxPQklKblRXS1ZlUGVVdzU3YlpBU2J4Z0kzVXlwZmxCQ2dKQTBWUGdJX1U3eWZ6YWpDNkpNQkNOa1ZaUWdpY0p6YmR1Z0p2T1VGTnJSb09pbmZIRW5hVE9mQUVJd24tQ0dHR3I1UTV2NHFOOU9RTElnb0t6TlB4bzZEQTRNd01CSjNCX2Vn?oc=5"
+      "title": "Safety prompts can help AI models make safer clinical choices",
+      "source": "Medical Xpress",
+      "date": "Sat, 10 Oct 2026 20:00:09 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaExZQ25OdGFpNEJEbnNtZUJOV093eUdvYmhwNVlEdC0zeEhOd1FWQ3liZnZFeGJYN2tIdTlwcERjakdCY0hJbUVLX0RKeWZoZ2J0RVRtNFRFWmx3Y2NSY3hWM0pQRHAzY0MwR2pCME5KOUE5Z0JvNWlUWFF4aXlaWWR3?oc=5"
     },
     {
       "title": "A timeline of developments in AI safety since the attack on Hugging Face",
       "source": "Audacy",
       "date": "Sat, 10 Oct 2026 16:41:00 GMT",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTkhKVXdQb2VwMUctUFo5b3h3OGt4WXFmSWZuZVBYYlRTTlE0aUVELW1YaWhFbml1ckY2eVBwTlk5WFJKSGl2eXpVXzdvc3UxcENRcXBRMnFBeVJNUzZ5RlRfSkdvZ0JNSFJscFI5VjV4SS1BV1dtN0pQbDlTbHNsWFl4SFBvTVVuR1FsNjZWbmI5VWdfVENBWVFKUnhQRFFlcDU2Tk80WkxlMUFSNEdR?oc=5"
+    },
+    {
+      "title": "Mistral seeks to catch up in AI race, Anthropic moves to protect Claude - L'Orient-Le Jour",
+      "source": "L'Orient-Le Jour",
+      "date": "Sat, 10 Oct 2026 16:27:58 GMT",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcVFSMVN0UVJQTU5HWHVpRVVaSGhkbG1sblRSZkxmZi1BbnVTeWlFbzNJMXM0UW02cUpBMkxmNUFVRkljX0RHcjJ5Rm1kUVBVV2Q1c2NvV3FhM18yZ2wtX1NzRFVmMl9wSV95a2dFVzYyc19sbklSalJ6WXNXc0Rwb3RRUjVOa0xUanRoclREMmV2dUR4dXJSYXB6S3RjRWRFOWx0LUcwNHFlYVB0TjQxM3RUYS1Qa0lNR0lvSDN3?oc=5"
+    },
+    {
+      "title": "Waffling at the UN: OpenAI, Anthropic and Selling Artificial Intelligence",
+      "source": "Middle East Monitor",
+      "date": "Sat, 10 Oct 2026 09:02:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNVl5SVFfazJ5aXZSWTlwQWlMZ0ljalZUYms1dVUzVVZvWm5LZU5iMXdvM29hUkZUQTNOR05CWm5BMEpCV0RfSk5yYWJrakVsWDlYbHNxbkxPMWJuZ04wbGtrLW5jaEc5dmFUSHRaQ0NyVndVaVFoUVp4R0V5VHV1QUMzYV9TM0w1emxfNFZ3RUVJaVZRZ3psNzI1QTVIVXUwaFE4dWJVdXNXODZqcm1obG0zTkVDZw?oc=5"
     }
   ],
   "events": [

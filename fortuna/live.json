@@ -1,11 +1,17 @@
 {
-  "updatedAt": "2026-10-10T22:31:51.708401Z",
+  "updatedAt": "2026-10-11T01:53:43.956850Z",
   "locationLabel": "Victoria, BC",
   "headlines": [
     {
+      "title": "The Evolution of Artificial Intelligence in Oncology: Impact on Trials, Workflows, and Outcomes",
+      "source": "CancerNetwork",
+      "date": "Sat, 10 Oct 2026 18:45:22 GMT",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYm1lZ0NhYlBxdXFfTEpXWWlETF9WVWtqSjZPU2FuaEwxVzRHNVlLVS1OaUNmVlJBdEYwWFhHRFNDZXdqcXMyYmZYaTI2ay1WaFFiSEZRVzdfVWtPUUpNZWF6NERwQVJRdC1nV2pMOHdldDZ2RkpNM0FzRE1Gc3NzLU5RT2cyVjJFNFByYlFLbmxhR21oVkdNeUhFNl85QVJzUW0wdU1CQWdxVG9fRkhXaEJpalBDaGRRSXpqRWxVQk5vSGd0NEE?oc=5"
+    },
+    {
       "title": "Artificial Intelligence - ABC News",
       "source": "ABC News - Breaking News, Latest News and Videos",
-      "date": "Sat, 10 Oct 2026 06:44:18 GMT",
+      "date": "Sat, 10 Oct 2026 09:40:29 GMT",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHQWNlSHQzMUlJUTg1elY2MnlhM0JMRDkyUlMtYUdwNDFYYmF2cktZZzg2X3pDMVluRVhBS01LY0VnRVI0bnk2eElyWkczd0dLdktiOFMybWl5STktVHc?oc=5"
     },
     {
@@ -15,10 +21,10 @@
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB5ZXJDOGVLenFRZkJkYlE0MjU2YWR1dmZTbV85LXpvcnVTV0NkZzVWRTBuMHAxNlBmeHdxakZDbG9QRV9aZ2ZpcE5SdWNVMEFDM3Z1MFNRNVVDaVdWYjM2Q0g1cHM2eWhMV0J5U3hhZm1sMUViQ1E?oc=5"
     },
     {
-      "title": "Leading AI companies are preparing for the possibility of artificial intelligence getting out of control — media",
-      "source": "Українські Національні Новини (УНН)",
-      "date": "Sat, 10 Oct 2026 16:17:06 GMT",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVEt0d0lnWWFtSUZjTUlKaEd4UEpQT2pHbWNmbjBhUFhabzBELXBteHBlZWduMFJWSy1WZk5jT2huRGxBSmVKNHdmRjB1eHRZWi1ya0FMTC1hdUhRSmZWUkQ1VElMTVM1Y3Zfbkpvak1IWXF0QmZrbkZMQUZEc2VYRzlSNFdZZlJTSXg5Z241YWJsSi0wdDBvaWxpb2Jwb2U5azk2eXkzZlFrbUJGUzhZN01ickRmTUI1NDNYWFJXRldzTG5zb280MklVYXhDQdIBzAFBVV95cUxNT19BNm5KZjlybVM4bU5IblFvcW9FOWtOYU5WblY2ZVQ1WEVJckFrUDlvcnVNVmdZWVprMHNZbE5fR2lBWmFPaHVYaHlKSkhMeUVheE9mVnZwb0NVMXNWQTF5UUFPVEFONkw5NTF1WU9ZYjJSMGlHeGdIZHVMbHg2WTBCbGhyYnBjUW5yTW9IUUtDLW5RRTNoTHl1bUlWNlB2aHRBQUE5QkxTejRfZUVPeE5lZ1dlX0hnbjhBOG02OVBXeWFCUVBncDdRank?oc=5"
+      "title": "Better Artificial Intelligence Stock: Arm vs. Marvell Technology",
+      "source": "The Motley Fool",
+      "date": "Sat, 10 Oct 2026 23:19:38 GMT",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaDhubTctZXVnYjRXYkVVbzhDeGFGb3RUME1iVUFWMGNiVmJGQVFjZzJoOFE1eDlEUF8yc0d5OFdpUXdIZnF4WUFGaWluVDdSVVN5MXQxVmJZQkFpd1o5S050bktUc3ROM1VNd2xsRWdfZUNRQktzYTRnN2p2SVpyeUFVeGs4cHlRXy1waU5DWkstanNDTDhySzcycHVXNk5EZHU2V0UtTWQ5b0dfQ0hlS2ZVbHUtdw?oc=5"
     },
     {
       "title": "Artificial intelligence: Risk management actuaries need to work across business units - insurance-portal.ca",
@@ -27,28 +33,22 @@
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONTc1bjJJb3dFVzUxNVBTS1BOUVhNaUtyQVNiZk55Y2dFdTNUbzlXcUxCUnVOenllaUZuV0FvVi1qTnNyb0kzMnQxLTVoQzBhZlFDTXJFazdGblZid01fLUc5TVo2SS1pTlJUd3JMR0FIZUZsT0lMendOcXFRWWlDYTI4OUhoLU1wdGJIbi02eHRRUEdGUjMxVl9CZ1ZsaDhfa2ROUFFlekt0V2tjVlMwbjlYOG5PVXdUU2NMclBB?oc=5"
     },
     {
-      "title": "I am ‘the enemy’ because I won’t call Artificial Intelligence ‘Super Intelligence’ until it’s actually super",
-      "source": "Stuff",
-      "date": "Sat, 10 Oct 2026 10:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONS14bFpwbnhtRTBKbG5xRjFLUll5UW1SVkQ4b0xjSDJ4TGI2TV9pY2J0Qld6RGhQUENRVlVPZXpTRkFpYjNta1NHM2ZheFotNzB3RWZsNlIyT3E4WFBqQnJlOUpSOWw1VVU5VzFtVVM4ZHlqRU96Qm9BaDVyeWdrc2VxenFsZnpSN3lXd2s4OEpiUVJFNXA4TFFZQnVsb2YweHFuRjZac0w5R3Z5SmRnY1M3UzlWLUdGVVBzSFR3WG5vaUFabXRhcExuUnR3cE9UUGlCeg?oc=5"
+      "title": "Leading AI companies are preparing for the possibility of artificial intelligence getting out of control — media",
+      "source": "Українські Національні Новини (УНН)",
+      "date": "Sat, 10 Oct 2026 16:17:06 GMT",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVEt0d0lnWWFtSUZjTUlKaEd4UEpQT2pHbWNmbjBhUFhabzBELXBteHBlZWduMFJWSy1WZk5jT2huRGxBSmVKNHdmRjB1eHRZWi1ya0FMTC1hdUhRSmZWUkQ1VElMTVM1Y3Zfbkpvak1IWXF0QmZrbkZMQUZEc2VYRzlSNFdZZlJTSXg5Z241YWJsSi0wdDBvaWxpb2Jwb2U5azk2eXkzZlFrbUJGUzhZN01ickRmTUI1NDNYWFJXRldzTG5zb280MklVYXhDQdIBzAFBVV95cUxNT19BNm5KZjlybVM4bU5IblFvcW9FOWtOYU5WblY2ZVQ1WEVJckFrUDlvcnVNVmdZWVprMHNZbE5fR2lBWmFPaHVYaHlKSkhMeUVheE9mVnZwb0NVMXNWQTF5UUFPVEFONkw5NTF1WU9ZYjJSMGlHeGdIZHVMbHg2WTBCbGhyYnBjUW5yTW9IUUtDLW5RRTNoTHl1bUlWNlB2aHRBQUE5QkxTejRfZUVPeE5lZ1dlX0hnbjhBOG02OVBXeWFCUVBncDdRank?oc=5"
     },
     {
-      "title": "The Hugging Face Incident: When Artificial Intelligence Escaped Its Masters",
-      "source": "www.lvivherald.com",
-      "date": "Sat, 10 Oct 2026 15:59:51 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVUN5b1FqS3NWdDBnZVJiTTJiNVdkaG1xbzN5UGRWYm03Z0s2MjlDZ1daX0VMSlhCSjNneTlXTFp1eVFCaWYwdkkxNUYxbTQzRzlhaFV1M0xsSWw3dzRwNmJkNWxiM2t5elFtYXNMbURDaWNZcnVHckp3VVRTWHlBRGNUNUJrNTVKeXF0eG1jdjN4SmtoVVphRDRYVE0yTUd2eVhjNXB4cjR6UQ?oc=5"
+      "title": "Anthropic AI model sends police false tip about unsolved homicide",
+      "source": "upi",
+      "date": "Sat, 10 Oct 2026 22:38:07 GMT",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONF9HNmlYRWFNSVpZLXpLTnFqQnh5dEtDUVpuN3pyV3VZZjVtZ1J3X2xIOF8zYnRXLWZ0X1pialdzajBBdDJ0RGRaaVlJcTNxd0xSdVpGcFJBellQd3ZtdnlHaVI2MlZmUGhNWjJfQXQxVHhYa2RCQm5xR2FyUDRWUmcwc3o2a0sxSFlBbDZJN1ZNWXoxT09BNjln0gGfAUFVX3lxTE9WNWdwLU1ZV1pqRDE0SFFOb2RkTG9FZHg5ckR5VGRIbHZaNW5iUnh0blZBVXJWcGlGekRlVVlMd2F5blo2VGZ1T0VZb05pR1cwVGhkUFc5Z1BsbzUxWGplb0ZRdEN0dFkzNXB3MkNEdjc2WHZUMnJGenZ3SG9LUWlXZXpORzlEeG9Zc2txNTBCb0o3dEJVQ04zZGVsQTN6bw?oc=5"
     },
     {
-      "title": "Safety prompts can help AI models make safer clinical choices",
-      "source": "Medical Xpress",
-      "date": "Sat, 10 Oct 2026 20:00:09 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaExZQ25OdGFpNEJEbnNtZUJOV093eUdvYmhwNVlEdC0zeEhOd1FWQ3liZnZFeGJYN2tIdTlwcERjakdCY0hJbUVLX0RKeWZoZ2J0RVRtNFRFWmx3Y2NSY3hWM0pQRHAzY0MwR2pCME5KOUE5Z0JvNWlUWFF4aXlaWWR3?oc=5"
-    },
-    {
-      "title": "A timeline of developments in AI safety since the attack on Hugging Face",
-      "source": "Audacy",
-      "date": "Sat, 10 Oct 2026 16:41:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTkhKVXdQb2VwMUctUFo5b3h3OGt4WXFmSWZuZVBYYlRTTlE0aUVELW1YaWhFbml1ckY2eVBwTlk5WFJKSGl2eXpVXzdvc3UxcENRcXBRMnFBeVJNUzZ5RlRfSkdvZ0JNSFJscFI5VjV4SS1BV1dtN0pQbDlTbHNsWFl4SFBvTVVuR1FsNjZWbmI5VWdfVENBWVFKUnhQRFFlcDU2Tk80WkxlMUFSNEdR?oc=5"
+      "title": "In Silicon Valley, AI founders cheer Trump’s calls for the industry to police itself on safety",
+      "source": "CTV News",
+      "date": "Sat, 10 Oct 2026 15:15:41 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQODhEWmlKSTJzS2FCTXY1ZkxVbFVKUENISm5KS1dzeVU1RTVGQWVrcFhSSXhfeE9iUWtGanFUcFU2MmtoNFdTdDliTFlQRHRyUy04cjdYUVRDZzBxM2o0SmkwSlF6bS1rTnZ3WXNZSDBpTkxzdU5zOU5vczVJdVZsaUZiN21QTmVzUENFbFl5R1ZiSzZCcWo0TEx6SWkzN0p0VVlDVGFrcW1kYW9lZ2lPVmduQkNTdHpUUHE3WW1sLTR3Y3haZ2djTWtR?oc=5"
     },
     {
       "title": "Mistral seeks to catch up in AI race, Anthropic moves to protect Claude - L'Orient-Le Jour",
@@ -57,10 +57,10 @@
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcVFSMVN0UVJQTU5HWHVpRVVaSGhkbG1sblRSZkxmZi1BbnVTeWlFbzNJMXM0UW02cUpBMkxmNUFVRkljX0RHcjJ5Rm1kUVBVV2Q1c2NvV3FhM18yZ2wtX1NzRFVmMl9wSV95a2dFVzYyc19sbklSalJ6WXNXc0Rwb3RRUjVOa0xUanRoclREMmV2dUR4dXJSYXB6S3RjRWRFOWx0LUcwNHFlYVB0TjQxM3RUYS1Qa0lNR0lvSDN3?oc=5"
     },
     {
-      "title": "Waffling at the UN: OpenAI, Anthropic and Selling Artificial Intelligence",
-      "source": "Middle East Monitor",
-      "date": "Sat, 10 Oct 2026 09:02:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNVl5SVFfazJ5aXZSWTlwQWlMZ0ljalZUYms1dVUzVVZvWm5LZU5iMXdvM29hUkZUQTNOR05CWm5BMEpCV0RfSk5yYWJrakVsWDlYbHNxbkxPMWJuZ04wbGtrLW5jaEc5dmFUSHRaQ0NyVndVaVFoUVp4R0V5VHV1QUMzYV9TM0w1emxfNFZ3RUVJaVZRZ3psNzI1QTVIVXUwaFE4dWJVdXNXODZqcm1obG0zTkVDZw?oc=5"
+      "title": "I am ‘the enemy’ because I won’t call Artificial Intelligence ‘Super Intelligence’ until it’s actually super",
+      "source": "Stuff",
+      "date": "Sat, 10 Oct 2026 10:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONS14bFpwbnhtRTBKbG5xRjFLUll5UW1SVkQ4b0xjSDJ4TGI2TV9pY2J0Qld6RGhQUENRVlVPZXpTRkFpYjNta1NHM2ZheFotNzB3RWZsNlIyT3E4WFBqQnJlOUpSOWw1VVU5VzFtVVM4ZHlqRU96Qm9BaDVyeWdrc2VxenFsZnpSN3lXd2s4OEpiUVJFNXA4TFFZQnVsb2YweHFuRjZac0w5R3Z5SmRnY1M3UzlWLUdGVVBzSFR3WG5vaUFabXRhcExuUnR3cE9UUGlCeg?oc=5"
     }
   ],
   "events": [

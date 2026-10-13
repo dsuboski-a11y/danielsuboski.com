@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-10-13T03:34:07.296084Z",
+  "updatedAt": "2026-10-13T11:48:06.910573Z",
   "locationLabel": "Victoria, BC",
   "headlines": [
+    {
+      "title": "Scientists push for creation of international body to regulate artificial intelligence",
+      "source": "The Globe and Mail",
+      "date": "Tue, 13 Oct 2026 10:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbzVQODFDbkhsWmd0S2Y5YmQwd3pUMTBQWkdqRUdOTU9aSnd2RTJvVkNKb2c5QmlJYkhJZFdHZjRSRVozbGUyRmxHeUJtczA3TjVQb21XTkFEVWNBSV9fcFF5Qm1kRkpPaGFNbHhQWjJLU0pZRmVRZjU3V2piNkQzeDdhc3pScW5pUFd2d0t1ejZVS2ttdDI5UmlLSnZsT1pjWHk3aVBnUVdmUE0zQjR6ZEdB?oc=5"
+    },
+    {
+      "title": "Opinion | AI hasn’t caused a jobpocalypse. But it will force Gen Z to rethink work.",
+      "source": "The Washington Post",
+      "date": "Tue, 13 Oct 2026 11:02:45 GMT",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQV1h6WllzaVRLdXYwUGgxdU5GWnFsWEwwelcta2FhSEpJcWR6RFVfWW5tdXY4YzJqdXpmTWxuTElTSVBnZ1NGUjZIYUVKR1ZtM3dseXZldnFBZmlmbGE5cnFQb1pHZHBnSUNoaTNRWUhBa1owc2dIRi1oNmJULUFMcWpNcW9TZml2RlhacG41ajBNb2swU0RBOHlUYUd0YXFNY0RLVkRyVDlwTm5CSERYZnJHYnR1ZVFCODdEVkRlZ3dKWk5RblFZ?oc=5"
+    },
+    {
+      "title": "Readers Think They Can Spot AI Writing. They’re Wrong",
+      "source": "The Walrus",
+      "date": "Tue, 13 Oct 2026 10:30:57 GMT",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1KOUZJVTc1aDZxQ2tlSzRacVRiX3pTTmFVcGVNRVJ6UDk5ZFJnTTY2NndtRC1RN09pVkZzTHZNNXc2U3JjQi1BZUlOU2ZYd1htOE1mbzAwZ0UyakpnTTlMc2pHTHJEY1d3YnRwMHVFV2JMcFJKSmxzaU5acE5iZw?oc=5"
+    },
     {
       "title": "The Evolution of Artificial Intelligence in Oncology: Impact on Trials, Workflows, and Outcomes",
       "source": "CancerNetwork",
@@ -9,58 +27,40 @@
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYm1lZ0NhYlBxdXFfTEpXWWlETF9WVWtqSjZPU2FuaEwxVzRHNVlLVS1OaUNmVlJBdEYwWFhHRFNDZXdqcXMyYmZYaTI2ay1WaFFiSEZRVzdfVWtPUUpNZWF6NERwQVJRdC1nV2pMOHdldDZ2RkpNM0FzRE1Gc3NzLU5RT2cyVjJFNFByYlFLbmxhR21oVkdNeUhFNl85QVJzUW0wdU1CQWdxVG9fRkhXaEJpalBDaGRRSXpqRWxVQk5vSGd0NEE?oc=5"
     },
     {
-      "title": "Warren Buffett Bought This Magnificent Artificial Intelligence (AI) Stock a Year Ago. Here's Why It's Still a Buy Today.",
-      "source": "The Globe and Mail",
-      "date": "Mon, 12 Oct 2026 18:24:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQTnE0cFVDc2JuUEhtaS1JeUlITGdoVHY0b0FuY2d5OEZ1SS1iTjB0MnhUalFFdi1LTXpxSVQzTThtX0xCT3lad3duMThEVld4Qm0tNk5JNm81X1lHaFRhSWEzdEYtalM3SEdoTC1BQVhKYUZYNzlzaW1INnR6WFpXUlZtb0xjLTJ6RDZXeUx2ckpZWm5tR281NUFoNXFMZlI4TXc1VGJEck5NVk5aQmhvQ2pMM0FEN0NYUl8xSXFCS05yM1o4QW9rMGNza1U5QnQ3NlNPbW5OT1lEbDByTFA2R2JnWVZZWjZ4X0RnWm1SbHB1dzM0emNPdmhXUHhRd0ZsV2tPazMyblBmTC1kR1pnYnpnb29oTXlHYzRqNWdtU3lqTnNNdXc?oc=5"
+      "title": "Orbius Unveils New Edge Cloud Solution Through Its StarEDGE Platform to Unlock AI Anywhere",
+      "source": "PR Newswire Canada",
+      "date": "Tue, 13 Oct 2026 11:45:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQcWQwMktxUWl4VlZ1TUZVZWdzM3d5bmhteHZUMXRiNTFmUkxqbzJmSnlyNXVwcll1R1dkOGozUGl3bnN0UDVsQy11RGx0R3lSU1JJNGJQMDExTC1STUljTWw3ei1ZLTJ4YnpuajFzckZVNnpFWHoyMHB2eFdiWExOSVpqQlRqOGJURkxPMU4za0tZSGRSTC1iWkxGMlJEc1ZVVk9rM21LcDF5UFRodjdTeUsxak90M0VELXdrdnhtbEdJT3lKbHBMbDVuZzAxejdYQ2tTRDdmQ1JqVXc?oc=5"
     },
     {
-      "title": "Original Article: Editorial Spotlight: Implications of Using Artificial Intelligence as a Tool for Summarizing New Evidence",
-      "source": "University of Colorado Anschutz",
-      "date": "Mon, 12 Oct 2026 22:46:09 GMT",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUExrVUNwRm9Sc0xodWM0cGVYWHJFRUYtNTFtZE9udm1Gdzl2TmtDbnZmN2JaNzBBOXZiZXp6cnpOQkZPTUg2eXRTOVRpVjdhaUxXRmtUMTdrU1p4ajNMSGsxRVVxLThZYVhNT2tMZnhsUnQ1YnV2bWViVTNxcVhzUlB2R284bFk5WHJ0bGdLbzZUTGtCS1pYcGlZX3dNbVhQd3hXQ0ZQbUdNeVVUdHM4YjItamU1SUtGRGVJQ19qR21XNnNMRjhWRjhwZ3ZobEJ3ZmNzSnVMVdIB1wFBVV95cUxPUExrVUNwRm9Sc0xodWM0cGVYWHJFRUYtNTFtZE9udm1Gdzl2TmtDbnZmN2JaNzBBOXZiZXp6cnpOQkZPTUg2eXRTOVRpVjdhaUxXRmtUMTdrU1p4ajNMSGsxRVVxLThZYVhNT2tMZnhsUnQ1YnV2bWViVTNxcVhzUlB2R284bFk5WHJ0bGdLbzZUTGtCS1pYcGlZX3dNbVhQd3hXQ0ZQbUdNeVVUdHM4YjItamU1SUtGRGVJQ19qR21XNnNMRjhWRjhwZ3ZobEJ3ZmNzSnVMVQ?oc=5"
+      "title": "Dr David Barstow: “The future with artificial intelligence is very uncertain, and we will get there very quickly”",
+      "source": "World Council of Churches",
+      "date": "Tue, 13 Oct 2026 11:07:49 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNOHVmOVNHNzlBZlB0ZHZxR2VXSmtXZG5RamN3NUxiS3NlRE96YTR4bWQwUEJEaEU1VHpCU3loa1hVUDBOa0U1YkhNNWw2U1BTZzFrUXVUWW1VNGJYdjhrRHNTRVdCdUV0YWtzWWdsQTI4M0dhaU9wMzFmVjhadVM3enppLTdTYzNpVUhuMDBDbnV6QkwxODdGMXBrdGVQR3ByRkJtUGc4WmZjeUREVDlQaXFPczVrWnoyZHAwWjdtX3dUN01UeE5DMmlYcnU3QUYwYkVlTGtUVQ?oc=5"
     },
     {
-      "title": "Canada Sets Up National Artificial Intelligence Council",
-      "source": "Advanced Manufacturing",
-      "date": "Mon, 12 Oct 2026 13:08:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPaEQ0X0h2eDZNTVpYbTFGLUNkbHNTU1h0dG1oczlmLS0wa1RfQjkyMHVGei1RVHotOFotcGNlRS00eEFSSTgzaDh5SkFTYUN6cW45Mkx5ZGMxZkxnUldhMXI3RVlUODkweElVSUdRT19ic1AwSmY0QjIzem1QblVsdTRYXzMyR3M5UXB3cHlQUzVlamZoemdzUzFhYUNLN05YajBRbU53TUJPejBNVTR2Nlp3QzQ1VDhWYVUtQ0xyUkYyNlA5bjc4aWdFNWFvRlctZG96LWF5a1JSQlNzU3E4S0pFbnFSTU5ucXpQN3BBX1FPZw?oc=5"
-    },
-    {
-      "title": "An overlooked sci-fi movie shows how disruption by AI could be positive for society",
-      "source": "The Conversation",
-      "date": "Mon, 12 Oct 2026 15:00:40 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQ2Rrd2wzUUJDNzB6cExrNWRhQmZhQ2Zac2ZkZ3Z1YjNEUy04WWRkbE5FV3lYcTN3NUY0eHVWN0RNQTU1NWFfc3N0ZElkNlVjNTJSbHZLbWp4UHo2R2ZtMkd5NXZ4dzl1RFBVRm9oYlFsU0lQWENOdzVKcEtsODc0dWxETjRBbV9xYUZiN0hzUEZ0cGtSdFZJVHJkanVlck5jSkFlRXF3ZFdxVWNSQnBNTDE1MGdIOFQxOUE?oc=5"
-    },
-    {
-      "title": "Artificial Intelligence (AI) is watching us, and ‘knows’ Pope Leo has noticed",
-      "source": "Crux | Taking the Catholic Pulse",
-      "date": "Mon, 12 Oct 2026 22:07:05 GMT",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTl9wbVJqejJPN0hXSXVJOXd6elpuQTZhcG9oVjItdHlhZkVNekR0SE5EdU1hVDd2N1NaV2lpX2MtUzk3REtaelZ0YmZKNHQ0OXV3aGVNUDNWMmhKREs3SnFLRlVTV2JFVDVfMVpWbFpHQzNCaXpwZFctU0YyazZqRFRGZXpaYnB3Y0RTYkJCYzgxMzRUNmlBcFVZR1V5RmFlV04zRTQzMzdCRW1PNmF6MXlaWG0?oc=5"
-    },
-    {
-      "title": "How Artificial Intelligence Can Help With Critical Thinking - Greater Good: The Science of a Meaningful Life",
-      "source": "Greater Good: The Science of a Meaningful Life",
-      "date": "Mon, 12 Oct 2026 19:16:19 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTDRyeXZvdHEtSXdXV1Y4T3UxZzk3UEY1ZjN5RzhoMld1RHQ5MWxqNWtkOXhiVklVam4xUE0ySDR5NkxnT1VYakd6MUpFNjkzQjdMOXJaWERiWUQ3T2hEcHh6LTVVSHI3bWVlYWdIMUdOYzU5QW94V0Q5Mm5WNllGMFlUdFFWRU9vaXdyRlEtRlZ4MUdsZXlKN2NkVXBoaFd1YVVvVlNvM3pBZw?oc=5"
-    },
-    {
-      "title": "Experts launch Europe-wide framework to guide AI use in mental health - News-Medical",
-      "source": "News-Medical",
-      "date": "Tue, 13 Oct 2026 02:39:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMi1xWmdNdWEzOU1WTElWRkdVQ1NpNVkzREp5Uk9nVWhYVGl3bk9jMWpjNUEzcWVOZllxV08tNTNjeEYyQmxvWWluS0YxcUV4dnFQYThLWXIza0xRYmFQdzk5ZUlwSy1DZHRjdkVaM0hCR1I0WnJJWHY1MTRZRkFEMkE1Tk16dy1Qb25UVmVqY1E3VVVFbmpRT3VVbXU0YTRxZWdKc3R4TzdGNGkxcFE0V2NnTjc3S0Yt?oc=5"
-    },
-    {
-      "title": "Warren Buffett Bought This Magnificent Artificial Intelligence (AI) Stock a Year Ago. Here's Why It's Still a Buy Today.",
-      "source": "Yahoo Finance",
-      "date": "Mon, 12 Oct 2026 18:20:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdlpRZ2kyazdNYi1HNzVmMWRabFlRVUNHb28yOEphakthbjdmdXctZjRVVG40TEZuN2lOMUgtRUdCY0pfeGhKVjAxNjIyQWZTbWZnOUdGd2p2OWhQUVdWQ3R3QUlnTXF4OThxdmU5S3JMQ3MwTDFYRkt4c2hnRVdaTkVPVkpBNDhMeF9ZNWk4UFlHSTFMRDd1MnU3N0pYcTFjMkV6SEZEcjEtRkk0?oc=5"
-    },
-    {
-      "title": "Ray Dalio Says This Is When the Artificial Intelligence (AI) Bubble Could Pop",
+      "title": "The Deep Value Play for Growth Investors Isn't Artificial Intelligence, It's This Forgotten Industry",
       "source": "The Motley Fool",
-      "date": "Mon, 12 Oct 2026 17:15:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNb25TZDNrS201V2ZscGJzNHlyT2V3RGZqWkNESmNjT21tdDVIbzNKSlBRNkF2MkRqOTFUa3VacnJWUV9rWGM2b2dpTFRrSE03ZUJMUzhDeTJ1QjVNRXhxeDF4SGZwRV9tN1pSYldYVjhfRXp0NzdEZFRGTi0yZ2FvTnRzUTFOQnBVaUtMUnQyQlU2Q2hVazJUTDV1VnVjX0hfMzNxNnNhWUYxdEJvTF9SZ1lhcmk3SUd3NVE?oc=5"
+      "date": "Tue, 13 Oct 2026 10:16:24 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZ3FEVEstYmFwZFJGdXNyekJtSVZLc21sanVadGZydXlzeXFwRzlFRDIyN3hWQnVqUnlHTnIzS1kzbl9NSXFlSHQtLTA3RjdNSFNMTUUxY0FQdURaT0FlaXRReC1RY2FGTml0cUtJS0M4Nm56TndJSW9tN1FxdTRobEE0RmdjOTVWUWRTX3Q5OXNoeGpYbVliU3A0R2NnUlNjYnRucEJMM3YtdG5GX0J3d2RqM2V6Z3kyR3R4WThucXVoVnBkSUdUQkpwc1NlMl9oVDRldjlrVkgzUQ?oc=5"
+    },
+    {
+      "title": "Scientists call for international body to oversee advanced AI",
+      "source": "Reuters",
+      "date": "Tue, 13 Oct 2026 10:04:01 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUnFfeURETmxJbjhUUjBib3BFZmRrQ2JyU09MZkIzVGJncnQ1bWMxME95c3p3a2d6c1pTZDJobkhXX1hPc204SElBUC1xQXE3S2JvMDV3RW5Lemxnb09TTkxuakpFeS1lUUk3aXZBWE5xQzFvdkV2cnVhM3hXeWhRSjg4SVg3SUdNc1VrbExfdzBaeUpzNWJuQlBxZFg1T2pNTHBkTVIxUkFmdkk?oc=5"
+    },
+    {
+      "title": "Tether Is bridging the intelligence gap with free AI",
+      "source": "Computerworld",
+      "date": "Tue, 13 Oct 2026 10:46:44 GMT",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdE9xSHhzbWFza0VjTDlTakxmNmktM0JUSXR3YmppLUJXRU5DNUIxb1lXaS12WGJIUFZibkVoQkowdGxFNzdSME9TQUhBa0g1NHVfbHRtN0xpelhsaW5ZRTc1TDlHY1NNM0dKU3AzN1dRdkRDdnZqNGVwdW1vMks5cHB0RFJob015VjRvLWQwa2ExbUJTUEJBRWxFUGxWOV9OZzhqT0xB?oc=5"
+    },
+    {
+      "title": "IMF raises its forecast for world growth this year but warns of risks from AI boom and debt",
+      "source": "BNN Bloomberg",
+      "date": "Tue, 13 Oct 2026 11:08:20 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPQTZKLS1uZnAtZ1FsbVhJLVR4c0RDM2JnN25JSVMwWXdnUE9ZanpSOHlwUUV3dVNFclRwYnJKOFB1U2UwcTBQSS0xbFVTWlhkM0VfclJlZjI1OEdTcVhqYVdydXZVN0hJazI1WGY3Z0R0S2s1bTVIbE5YaHJCakx6bXVobWRnMnZEQjhlcXg0MmFRN0Q4OUstLUdybTVBb1hpMWVsY2FhREdMMTJMOGNfMjVZUTkzWFNsVm16UVkyZVE4RG1iUVlPemN6SGdmclN2X25RcGRNUjdOUGVWMC1Gbl8weHk?oc=5"
     }
   ],
   "events": [

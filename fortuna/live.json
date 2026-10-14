@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-10-14T19:23:36.824050Z",
+  "updatedAt": "2026-10-14T23:14:26.400960Z",
   "locationLabel": "Victoria, BC",
   "headlines": [
+    {
+      "title": "Artificial intelligence-enabled clinical phenotyping of human brown fat",
+      "source": "Nature",
+      "date": "Wed, 14 Oct 2026 21:45:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9GZTlIVXVnazYxNTFrWEppcUVrV3ZIVUVNY2RQQURkSGtDR29wcnJ1SUxqSnNlc0ZTVFpnN0RORDBqNFRHWFZBTXZiMWp0TnBPMC1uZnZIWkJwTHI2UGJn?oc=5"
+    },
     {
       "title": "Government Of Canada Expands Support To Adopt And Commercialize Artificial Intelligence",
       "source": "Design Engineering Magazine",
@@ -9,10 +15,22 @@
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQVdTdDFlbmlOWVdHeGVCSmpxejNBbllJelpBNnFGRGFZTUNSVEZQTTV0enBRVUJ6RHBmR3BGZjJ4cnJWX1gzbDZJR290YXB1N2RlamJmdGU3V0VadmNLX3NDVGg3dDNmX2FnUFhIY2NpcDhBV3pVcXZxNC12WUhVcVhjSG9kMk1YcTF5aDlHdmEzckpEMC1sYVNkRG1odnhuVDFfcUNRZFBpZnBWajFjdE1wSFJ5U2JSbzJBR0NqSjdiNVJXaE1FdENhaFNVOGs?oc=5"
     },
     {
-      "title": "Innodata vs. IONQ: A Look at Revenue Trends Between Artificial Intelligence and Quantum Computing Innovators",
+      "title": "Not Nvidia. Not Micron. This Under-the-Radar Artificial Intelligence (AI) Chip Stock Could Be the Biggest Winner in 2027.",
       "source": "The Globe and Mail",
-      "date": "Wed, 14 Oct 2026 18:52:48 GMT",
-      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOejRsNHFTWGRfOGJjZks0Ykd1Yk9GTGtlZ01zcndsOE9SSC1uQWVqX0VqQzNCVTVUNUNxNU5fRGg4Rk5zMHFQZ25SV1JVMXR4UEExZ2JFLTA4TjUyZmFvUEtVS0ViMU9Xc2tJdFZEbUpfcUdqOVFXX05ZRW1KeDRybVNOLUtVWnNBMVlDeUNQYUNXMTVYa2RFNVd2ZEdzaDVJdmZkS1ZlclhmNFFmaTZZYm5rZjVsSndDT3piVVlqTFBPVHZ6YjZ2YjNPc0pfQmVaVVhVTGQwbmZUMVItR3B3VUFvRGdIbTk4M1BvZXlIME5hX2FVV0taSnQ3M0ZfQ0RaaGp3NFhtWHoySG4xNUQtMkNxOA?oc=5"
+      "date": "Wed, 14 Oct 2026 14:59:29 GMT",
+      "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNc21adTVhM29ETUdDeE9ISHM3YUdCd0l4elkwYnZ2NElOa1FLN25wZUwyWDF1ZXd2QzllcUlsM2VBS2pJUWIyN3gyMFJhTVRsSkw2Mm05YjhwN3FyTmU0eHhFY0xhQkNLNVJWVmtXLUhEUGlwdGlmdy1HVUU2QWM0RkFabURydjY4MWs3NXVQeEVtd3dQR19zc05BaWF3M1NOTkdCSWxpQ3NOR2VFQ0NucXAyYlhjQjZkaGJKcHJwQVA3eEdTemxrakYxWUFvbUh4LXI2MlI1cGNxOG9Xd2FVT1JNcVlBQmgwSkJQWldTb0xvcmNiOWtSVEExd0xYZ05mQ180SnBrMk5KeHdQZ3IxallVUG5uTFIxV0RaU2d0Rng2M3dfSXc?oc=5"
+    },
+    {
+      "title": "Artificial Intelligence applied to health information and knowledge: developments and perspectives",
+      "source": "Pan American Health Organization (PAHO)",
+      "date": "Wed, 14 Oct 2026 20:58:49 GMT",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQX29YMk52TUdyVW1lTjhLeGpnUDM3SU9OWDhyWGZfNzZsa25SOU1MREpCN1hFVW55X0szRGZaR3Zaa1lMRGtxU2NVQ0tpSkxzS0pWZVN6a0FfMDFkVDJNMm1HUnkxTnhYakw1blF4NXlnYURaT2hIMTNYV0VPUzNRX1FYeHhucnVZSF9RU3NuSXJiVWJ2MW44dElTakJVWnNvdElpNE9XM2N3XzNONDJ4RkhR?oc=5"
+    },
+    {
+      "title": "Using artificial intelligence in your job search",
+      "source": "Chemical & Engineering News",
+      "date": "Wed, 14 Oct 2026 20:49:15 GMT",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRExhQXJpYTFSM2F1MkFxZVFsNUhfeS1fNTZqN0FKaXFVQ0RfNDBQQVUzNGRKckpKajNMa2huMDNBQ0NDX3lGRzd1OGtYM01feFpsVFBrR3lsREhTNlYtY0twZnhuVW5uS3dsZ3dZSFM3eFduOGhYLTA0WWxBbkxkam5pRUU1bWc2MlZLbUw5RUItalg4SUlpMGhQYW8?oc=5"
     },
     {
       "title": "PERSPECTIVE: ‘Godfather of AI’ Geoffrey Hinton Warns Superintelligence Could Arrive Within 10 Years and Humanity May Not Be Ready",
@@ -27,40 +45,22 @@
       "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPZzVqeVctUWIzZ2ZPVVhRSk1iOTJRV25xdTFVN2RMNldKQTU1UDhCaTRrNUtfaVVSeUIwR0p2UVp0ZElFeTB5a1hLdXk2eWVpNnNwN0RoSzV0OVNJR1gwTnNmc1c0MUlKcVRDWlFwNlhjRTR0T1hncnVoZ21HUTNDdV8tMi1TM2tVdU13c3RFZkRsc3I1YTFzYVlWYWFQMU5vWmcxaFM1R1ViTVpXVmsxRWFEV0hqV3VtT2kwYm5oeGN1djZwSGxPQnBPX1JjU21aajRIOGp3SzRvdG9uUG5XWWdGd1REVFE3M2F1NmdXQUd3WVJobWNBU2tR?oc=5"
     },
     {
-      "title": "The Next Billion-Dollar Defense Technology Opportunity: AI-Powered Autonomous Mission Intelligence",
-      "source": "PR Newswire Canada",
-      "date": "Wed, 14 Oct 2026 14:12:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNenpXdHlpcGRhV05uUjBIZFpoeU1wR0JxRThha05vdEhMQzRJVHdpTVFwVTBoRXY3RzFlS1hkcmc4TlZEdE5CWjBTUHRkeS1EbGRhbk1fZ05MUXI4RkZqZ245NFlaeG5GMW5rbXhIaXdWR1A2czhPRjlmYUhvdml1M3FaUFhRNzNmbVU5bHc1NXVVcVBIX3o4ZERPQjFxOURpckxfbnNaT0w1cVRyZ1VVLUhWVnA1VFRMRm5YWDdad25uNGQ2YlhJMTVSODJZMmpEUU4tRzdrZlFHQkZkVEstRjZPekU?oc=5"
-    },
-    {
-      "title": "Here's how AI can create jobs, not just destroy them",
-      "source": "The Record",
-      "date": "Wed, 14 Oct 2026 10:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVE50REF4anhyaXJCUHFvZTUzNmJWZ3N1UTNTbHdiSW1odk1XT3FvX2NjWGtEMVJheTlIZ3RPaEd1SGd3NklpSFRNLUR6V1kzbUw4bTFnU2F5NXN5MU1fbmZ5WWNZam1UU2N3b01CRm1RQkRKYWtxSDdaM2RjeFExbVd4M3RWTnpfNjdHLUNlQko2Tk5nMmRzbldKaGlHbjhDbjJjRU1GVHlrcEpVNlhRMXl5alhHUXZfa1h1UE41NUI1MklMM3JjQ2hpelRaLXYxSmhPUUJ4UTlUMXZZTzFvUHY4VFY?oc=5"
-    },
-    {
-      "title": "Atlantic Canadian businesses can now apply for nearly $40M in AI funding",
-      "source": "CBC",
-      "date": "Wed, 14 Oct 2026 18:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQT25Gc0x2SzRLLXpYSTZ2ZmZ6MDhYVjZsQ1FBYnZzVUlYd1FfTV9XdEVwNTl0dnMwZWgyYXh3YjE1UE85VDh3WFV0Q0w0N0NwbHBkOWFCUVBaV0EyTnZFMTdhQ2R6eWpRSU9xazBPRjdRdTgxZUtXR0hrVWRtY0tYbUNTV3BhX3NPWGJpWVV0ZVg1SkxmY2Qyeks0VUJNSy1oQVMzUWNoT25SX2Ff?oc=5"
-    },
-    {
-      "title": "Organoids vs AI: Will Human-Brain Tech Soon Surpass Our Own Intelligence?",
-      "source": "Futura, le média qui explore le monde",
-      "date": "Wed, 14 Oct 2026 14:48:23 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZjJ0OTVXOHRuNzVMX1dLakZsVGpSNG9PZ1VVRUhHeERYWnVSQVlITTdjZmdwd1EtQnN4N21fRmVfZ0MtYjJURUlMN0FiTVBQeUQyY19jeUZfVkF2a29zYTh2N2d4eFZJODh6SUpFVjQtUmxfQkZIcUtqTHB2eEZfYUJjSEx1cXU4UXd3ZmVhTF9nd1F3cnI5Z1BJZ0dNZF9Gd3J1TWxocjdaZmxXYlEzdmwtOA?oc=5"
-    },
-    {
       "title": "Apply now: Federal AI funding grows by $500M as Ottawa expands regional program",
       "source": "Human Resources Director",
       "date": "Wed, 14 Oct 2026 13:10:01 GMT",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOelZmMTkzQV9vb2d2a1Y2WElick9SRUtTek1SOEFRQXdxSzNualU2QVM2SWpGbUhpMVg2TndObHczd3ltRkQ0RE5WcHNuVVo4ZkIzWjZENVk5Wm9JOTdGZEZjSmpzM00xa1hEVDN5b3RKNFRZVi1aS1FOdVVkbjNEcUVNeE12a09TVEJLcnEzeXlTTDNMUVFyWVRTbzBLdG1kUGJ1LWNfaXBwYXV5ZTJNbm9Hc1NfTzBJakJhZXFORkpVd0lEeVBNNHdfcGEySDNrbHktMUEwaw?oc=5"
     },
     {
-      "title": "AI ML Now: Gert Desmet on the Future of Artificial Intelligence and Machine Learning in Separation Science",
-      "source": "Chromatography Online",
-      "date": "Wed, 14 Oct 2026 11:22:28 GMT",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOMHVjSTEzLUxMZUF4MzRFYXdIOFZubzRQenRuZndIbjhWT2RUYXY5NmF2NmRFcXpZLW5KR3ZRcUNkYUw4eUVzOEhiVWxWTFJoRUlxcjFZTnRIZHFPYmNvVFRmZXR1OHY5V0llSUtPLVFJSmlSU1FiTDNHOEJmUzFGRks2clpxVngzOXpQdEtSWjl6SDFsdDNURFRkWnlYN0x0YU9RbTNLbnkyM0VYS25mRXNZNnVJRDdGR0dmc2pBMktQcTNrWEwxWjJqYlo1YTVLQlpHYkl2RW5SMnJjeUl0Zg?oc=5"
+      "title": "The Next Billion-Dollar Defense Technology Opportunity: AI-Powered Autonomous Mission Intelligence",
+      "source": "PR Newswire Canada",
+      "date": "Wed, 14 Oct 2026 14:12:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNenpXdHlpcGRhV05uUjBIZFpoeU1wR0JxRThha05vdEhMQzRJVHdpTVFwVTBoRXY3RzFlS1hkcmc4TlZEdE5CWjBTUHRkeS1EbGRhbk1fZ05MUXI4RkZqZ245NFlaeG5GMW5rbXhIaXdWR1A2czhPRjlmYUhvdml1M3FaUFhRNzNmbVU5bHc1NXVVcVBIX3o4ZERPQjFxOURpckxfbnNaT0w1cVRyZ1VVLUhWVnA1VFRMRm5YWDdad25uNGQ2YlhJMTVSODJZMmpEUU4tRzdrZlFHQkZkVEstRjZPekU?oc=5"
+    },
+    {
+      "title": "From the Dean—AI @ CLS: The Law School’s Artificial Intelligence Initiative",
+      "source": "Columbia Law School",
+      "date": "Wed, 14 Oct 2026 19:49:37 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRkpXaTh1bFRCb0RXTktnWXlzcWNZelB1ZlpuZ2xEdFNpa0E3RjBVd2k5VjBOUEoxeFZwOGdESTBRRVhWTDdkZjNFbGV4UXZxcVdEbVpPa0ZSYnh6Njc1dTk3TC1vNUNGRVZiSkV0dERwUlNNRjlkSzRpdlBWX2U4RTh1MFBUV2MwQjAxNHVYalRhenVYSF9ZUDhPbHI1cUM4eGc?oc=5"
     }
   ],
   "events": [

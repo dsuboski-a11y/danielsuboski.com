@@ -1,11 +1,17 @@
 {
-  "updatedAt": "2026-10-14T23:14:26.400960Z",
+  "updatedAt": "2026-10-15T01:30:40.464455Z",
   "locationLabel": "Victoria, BC",
   "headlines": [
     {
+      "title": "AI ML Now: Gert Desmet on the State of Artificial Intelligence and Machine Learning in Separation Science",
+      "source": "Chromatography Online",
+      "date": "Thu, 15 Oct 2026 00:33:45 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOYVNpQS1kMHVuNkZNTi1nZkxEVmx6LVIwX0E4U25qOVlteER3WVdObkZWc1otQm9zU1dSVzB3Rm1lOS1sbldsZWw5ekI4a0ZfcVprS1VkaUtsaHd0bkNLeTA5VURnRHAyNk5PSGlnWUp4X2ZkR1JGS0Z4MHlfU3RPMXJ1d2FhTEQyeGV1eVByVHFNQTFIbGtXSkliNE9Xem1sTUwtVzQ5akJiOGRWYXVWZ1dnNlJJNHZ1SURkVGdRZlR4d0s2Z3hBVmdzXzFYTVI0NW92WTZTeldOMkZJbjdJ?oc=5"
+    },
+    {
       "title": "Artificial intelligence-enabled clinical phenotyping of human brown fat",
       "source": "Nature",
-      "date": "Wed, 14 Oct 2026 21:45:00 GMT",
+      "date": "Wed, 14 Oct 2026 22:55:28 GMT",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9GZTlIVXVnazYxNTFrWEppcUVrV3ZIVUVNY2RQQURkSGtDR29wcnJ1SUxqSnNlc0ZTVFpnN0RORDBqNFRHWFZBTXZiMWp0TnBPMC1uZnZIWkJwTHI2UGJn?oc=5"
     },
     {
@@ -15,22 +21,22 @@
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQVdTdDFlbmlOWVdHeGVCSmpxejNBbllJelpBNnFGRGFZTUNSVEZQTTV0enBRVUJ6RHBmR3BGZjJ4cnJWX1gzbDZJR290YXB1N2RlamJmdGU3V0VadmNLX3NDVGg3dDNmX2FnUFhIY2NpcDhBV3pVcXZxNC12WUhVcVhjSG9kMk1YcTF5aDlHdmEzckpEMC1sYVNkRG1odnhuVDFfcUNRZFBpZnBWajFjdE1wSFJ5U2JSbzJBR0NqSjdiNVJXaE1FdENhaFNVOGs?oc=5"
     },
     {
-      "title": "Not Nvidia. Not Micron. This Under-the-Radar Artificial Intelligence (AI) Chip Stock Could Be the Biggest Winner in 2027.",
+      "title": "Innodata vs. IONQ: A Look at Revenue Trends Between Artificial Intelligence and Quantum Computing Innovators",
       "source": "The Globe and Mail",
-      "date": "Wed, 14 Oct 2026 14:59:29 GMT",
-      "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNc21adTVhM29ETUdDeE9ISHM3YUdCd0l4elkwYnZ2NElOa1FLN25wZUwyWDF1ZXd2QzllcUlsM2VBS2pJUWIyN3gyMFJhTVRsSkw2Mm05YjhwN3FyTmU0eHhFY0xhQkNLNVJWVmtXLUhEUGlwdGlmdy1HVUU2QWM0RkFabURydjY4MWs3NXVQeEVtd3dQR19zc05BaWF3M1NOTkdCSWxpQ3NOR2VFQ0NucXAyYlhjQjZkaGJKcHJwQVA3eEdTemxrakYxWUFvbUh4LXI2MlI1cGNxOG9Xd2FVT1JNcVlBQmgwSkJQWldTb0xvcmNiOWtSVEExd0xYZ05mQ180SnBrMk5KeHdQZ3IxallVUG5uTFIxV0RaU2d0Rng2M3dfSXc?oc=5"
-    },
-    {
-      "title": "Artificial Intelligence applied to health information and knowledge: developments and perspectives",
-      "source": "Pan American Health Organization (PAHO)",
-      "date": "Wed, 14 Oct 2026 20:58:49 GMT",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQX29YMk52TUdyVW1lTjhLeGpnUDM3SU9OWDhyWGZfNzZsa25SOU1MREpCN1hFVW55X0szRGZaR3Zaa1lMRGtxU2NVQ0tpSkxzS0pWZVN6a0FfMDFkVDJNMm1HUnkxTnhYakw1blF4NXlnYURaT2hIMTNYV0VPUzNRX1FYeHhucnVZSF9RU3NuSXJiVWJ2MW44dElTakJVWnNvdElpNE9XM2N3XzNONDJ4RkhR?oc=5"
+      "date": "Wed, 14 Oct 2026 18:52:48 GMT",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOejRsNHFTWGRfOGJjZks0Ykd1Yk9GTGtlZ01zcndsOE9SSC1uQWVqX0VqQzNCVTVUNUNxNU5fRGg4Rk5zMHFQZ25SV1JVMXR4UEExZ2JFLTA4TjUyZmFvUEtVS0ViMU9Xc2tJdFZEbUpfcUdqOVFXX05ZRW1KeDRybVNOLUtVWnNBMVlDeUNQYUNXMTVYa2RFNVd2ZEdzaDVJdmZkS1ZlclhmNFFmaTZZYm5rZjVsSndDT3piVVlqTFBPVHZ6YjZ2YjNPc0pfQmVaVVhVTGQwbmZUMVItR3B3VUFvRGdIbTk4M1BvZXlIME5hX2FVV0taSnQ3M0ZfQ0RaaGp3NFhtWHoySG4xNUQtMkNxOA?oc=5"
     },
     {
       "title": "Using artificial intelligence in your job search",
       "source": "Chemical & Engineering News",
       "date": "Wed, 14 Oct 2026 20:49:15 GMT",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRExhQXJpYTFSM2F1MkFxZVFsNUhfeS1fNTZqN0FKaXFVQ0RfNDBQQVUzNGRKckpKajNMa2huMDNBQ0NDX3lGRzd1OGtYM01feFpsVFBrR3lsREhTNlYtY0twZnhuVW5uS3dsZ3dZSFM3eFduOGhYLTA0WWxBbkxkam5pRUU1bWc2MlZLbUw5RUItalg4SUlpMGhQYW8?oc=5"
+    },
+    {
+      "title": "Artificial Intelligence applied to health information and knowledge: developments and perspectives",
+      "source": "Pan American Health Organization (PAHO)",
+      "date": "Wed, 14 Oct 2026 20:58:49 GMT",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQX29YMk52TUdyVW1lTjhLeGpnUDM3SU9OWDhyWGZfNzZsa25SOU1MREpCN1hFVW55X0szRGZaR3Zaa1lMRGtxU2NVQ0tpSkxzS0pWZVN6a0FfMDFkVDJNMm1HUnkxTnhYakw1blF4NXlnYURaT2hIMTNYV0VPUzNRX1FYeHhucnVZSF9RU3NuSXJiVWJ2MW44dElTakJVWnNvdElpNE9XM2N3XzNONDJ4RkhR?oc=5"
     },
     {
       "title": "PERSPECTIVE: ‘Godfather of AI’ Geoffrey Hinton Warns Superintelligence Could Arrive Within 10 Years and Humanity May Not Be Ready",
@@ -45,16 +51,10 @@
       "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPZzVqeVctUWIzZ2ZPVVhRSk1iOTJRV25xdTFVN2RMNldKQTU1UDhCaTRrNUtfaVVSeUIwR0p2UVp0ZElFeTB5a1hLdXk2eWVpNnNwN0RoSzV0OVNJR1gwTnNmc1c0MUlKcVRDWlFwNlhjRTR0T1hncnVoZ21HUTNDdV8tMi1TM2tVdU13c3RFZkRsc3I1YTFzYVlWYWFQMU5vWmcxaFM1R1ViTVpXVmsxRWFEV0hqV3VtT2kwYm5oeGN1djZwSGxPQnBPX1JjU21aajRIOGp3SzRvdG9uUG5XWWdGd1REVFE3M2F1NmdXQUd3WVJobWNBU2tR?oc=5"
     },
     {
-      "title": "Apply now: Federal AI funding grows by $500M as Ottawa expands regional program",
-      "source": "Human Resources Director",
-      "date": "Wed, 14 Oct 2026 13:10:01 GMT",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOelZmMTkzQV9vb2d2a1Y2WElick9SRUtTek1SOEFRQXdxSzNualU2QVM2SWpGbUhpMVg2TndObHczd3ltRkQ0RE5WcHNuVVo4ZkIzWjZENVk5Wm9JOTdGZEZjSmpzM00xa1hEVDN5b3RKNFRZVi1aS1FOdVVkbjNEcUVNeE12a09TVEJLcnEzeXlTTDNMUVFyWVRTbzBLdG1kUGJ1LWNfaXBwYXV5ZTJNbm9Hc1NfTzBJakJhZXFORkpVd0lEeVBNNHdfcGEySDNrbHktMUEwaw?oc=5"
-    },
-    {
-      "title": "The Next Billion-Dollar Defense Technology Opportunity: AI-Powered Autonomous Mission Intelligence",
-      "source": "PR Newswire Canada",
-      "date": "Wed, 14 Oct 2026 14:12:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNenpXdHlpcGRhV05uUjBIZFpoeU1wR0JxRThha05vdEhMQzRJVHdpTVFwVTBoRXY3RzFlS1hkcmc4TlZEdE5CWjBTUHRkeS1EbGRhbk1fZ05MUXI4RkZqZ245NFlaeG5GMW5rbXhIaXdWR1A2czhPRjlmYUhvdml1M3FaUFhRNzNmbVU5bHc1NXVVcVBIX3o4ZERPQjFxOURpckxfbnNaT0w1cVRyZ1VVLUhWVnA1VFRMRm5YWDdad25uNGQ2YlhJMTVSODJZMmpEUU4tRzdrZlFHQkZkVEstRjZPekU?oc=5"
+      "title": "Apple to launch artificial intelligence for iPhones in China, but agreed to restrictions imposed by authorities – Bloomberg",
+      "source": "Українські Національні Новини (УНН)",
+      "date": "Thu, 15 Oct 2026 00:56:22 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRC1Qczc2Q3FtS01GNnZwY0ItMVI5MWFqbXhwbWFSNFByaHJkYmJBLURiTjVoMmFzQnpMQ3dDQjRpNHdGWVJiT25GLVRwbWtJdzVDRWpyelRIc1BfUWNXQ2p3RUZTOGtIZFpfd3g1d3hVUUtsVGl0U3M0bENMWGQ5Z0x2U0RwekF3b05YalVxQ1VRclB4Q2Z1Zm0xXy1jYTRnZDJqbmtZbmk1NE51WTVjOC1iaHA5SUpuemoxbUVZYUk0RTB5S0t1VmhpWl9ISW45U2twUURjeDBtS03SAdoBQVVfeXFMUDNaTkMtUHh3WmQ3RndrSTRZd3VvUHJfU3hYYmhqaTJwbExJQjJYd1ZQMnhSOVc2Zy1UUXNwYUlsMkFTOFBkUElNLWNKR2Ezd0hxQkNZRDdhRW1Cd09FQVgxWGxjYU85WDdhYU5qMWl5Y0hoSlNNdzE5Ry1IdGpyaGVnLWJQS3ZKaE53LVlXSl9BNHlRS183eUpYMUI2WWFFMkozbXRfQ19vSUJRVW1tNndQZVlXQnpsaHNBeXpqVi10Rjl0cUNVdkJ1eldrWUtGN1ItZURDTGszYmc?oc=5"
     },
     {
       "title": "From the Dean—AI @ CLS: The Law School’s Artificial Intelligence Initiative",

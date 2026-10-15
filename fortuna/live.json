@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T18:18:20.470306Z",
+  "updatedAt": "2026-10-15T22:17:56.537843Z",
   "locationLabel": "Victoria, BC",
   "headlines": [
     {
@@ -9,16 +9,16 @@
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYlowZTZteDU0NjQ1YU9jVWhWVi1WS2gzUlFyN1c0T01CTTBNb0tkeUZfdWJEQ09NNnUtV1VyQ0NDcC1pZ0VnUWt6MnB4cWxhMVJZdDc5SGdrR2I3clFHVHJLa1U4cVlYTXg2djVIVnR5ZU5Mb2VGOGI0aFZocWVFeWJyNWpHVnNYaWN2UW1RQzdKYVBZa1lwSWpVN2RocnpjbkVqdlNuakVxMC1yeEJTVUpBS0JZWVBJ?oc=5"
     },
     {
+      "title": "Canadian artificial intelligence company Cohere to buy Aisle",
+      "source": "BNN Bloomberg",
+      "date": "Thu, 15 Oct 2026 16:20:59 GMT",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMFRKQjlMeTZ0ZDZLZ0lnTTlKU19NZUozb19wR3lmZ01iLUNtbEJ6X0piR3NGcy1zTWY2Z3pDOE14NG0wTThSR1JKRVVGbk54WV83R0thRmlWWTBHdk9OcEw0d0tqLXVFLTV5VllIU3NrMFRGUVptSjZWNlhQN1dRb2RyVzVJY1BKTC1iWm5fV0FJTWdXTEs0b1piN0czeGxtNEJTRFdMRHB1QW5HRnIwSQ?oc=5"
+    },
+    {
       "title": "Not Memory. Not Energy. This Is the Biggest Bottleneck in Artificial Intelligence, and These Are the Companies That Can Benefit.",
       "source": "The Globe and Mail",
       "date": "Thu, 15 Oct 2026 09:56:48 GMT",
       "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxQdjZwWmdFMzhlNzFjWUxxRHdadGc3ZDB3d2JSRk96OE1WUWkxZS1vajRwYVZ3SlNFdzRmVXNPakM3Tzh1OUVFdXIxM2ZNdk1IUjAtVDB2TUg0SkpleDloM2xGRGhtWVIzVkwxaUNTMnRFa0I5SDk1bW1RcEhKaXdiV3J3OGpUNzQ2ZkRiT2RZQ0FNbGthX1dzVXhxMzdBb2IzeFFHY0xnVW1OTGt4TFJpNnRGWWpueWc1ZjhqVGtYck9PbEdta19PY1BTWFRSZGVsekJWSjJuSUNYZG1hOG5aMm1vU2Y4UWhyTWl0RmlIdkVZR3VKbjNGSnhON2p6NHdSRlBUd2czU3MxcUpxRVBPbE90YTVPRnl3clA5eEFOQjI4SHRDMmxubDB1ZlpXaVduZTRR?oc=5"
-    },
-    {
-      "title": "AI stocks are taking a beating amid inflation, interest rate worries",
-      "source": "Global News",
-      "date": "Thu, 15 Oct 2026 14:31:25 GMT",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9Wa29qYlkyekJDcTZqMUpPU2EwZXdvYk16cmdTYmNxOU41bkpyRnVKSXcxQXpRR1hSU3cxSGRFNXQxdExFalBVWHhjUWpwUmtobUUwcWZJaDJnTnNGSHNJS2RHUm9TcXROY1lCS0dGajVvXzNGU1E?oc=5"
     },
     {
       "title": "US Treasury pushes global partners to rename AI as 'super intelligence'",
@@ -27,16 +27,10 @@
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNDhRZ0FsM05ZWGFISWtLaXVIam1VcVlxWUY0YlF6NUR1SF9FSnFKQnJwMU5pa2hZUG1ZalVtb1RmY19adW5LSnZhQ1pmNzhtX2tTeE9Lal9LX29iRkZsbHVlcWlLWEw2NW9iaGlrS19odFpadHRSak5VYXFfTWRaaUpjUVp0SEVlb0ZvdTBZLThVcVB0V0JSdEZyZnBrQk05dzgzWUR4Yi0?oc=5"
     },
     {
-      "title": "AI firm Cohere to buy cybersecurity company Aisle",
-      "source": "BNN Bloomberg",
-      "date": "Thu, 15 Oct 2026 16:20:59 GMT",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMFRKQjlMeTZ0ZDZLZ0lnTTlKU19NZUozb19wR3lmZ01iLUNtbEJ6X0piR3NGcy1zTWY2Z3pDOE14NG0wTThSR1JKRVVGbk54WV83R0thRmlWWTBHdk9OcEw0d0tqLXVFLTV5VllIU3NrMFRGUVptSjZWNlhQN1dRb2RyVzVJY1BKTC1iWm5fV0FJTWdXTEs0b1piN0czeGxtNEJTRFdMRHB1QW5HRnIwSQ?oc=5"
-    },
-    {
-      "title": "Artificial intelligence (AI)-powered mental health app demonstrated improved social well-being among users",
-      "source": "2 Minute Medicine",
-      "date": "Thu, 15 Oct 2026 13:52:30 GMT",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZUZUYTdTZGpPMzNsZS1ZYnpfSm9jMjEtc1FFSWprM3lERTI4dDY2MTFqRHBGcGtGS1ljcXYtbjhYZGFWa0lONTM4eFFHZ2tOZHgzLVlVSFY2ZzJpM3FLczVOUGVURFVScE1HVHNjV3NBRXloaW9GbzNFT1NxSEN5UDhyajM1U0FIZWNOWHV2ZHVwZDNHZE84ZXZlVGl6M0FfZjhFRWZtY3N5WVgwUnJmSnhBOWRRVE92OGszTkozZ3N4TlAzdnQxaW90a2ZPZ0YxQjlv?oc=5"
+      "title": "AI stocks are taking a beating amid inflation, interest rate worries",
+      "source": "Global News",
+      "date": "Thu, 15 Oct 2026 14:31:25 GMT",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9Wa29qYlkyekJDcTZqMUpPU2EwZXdvYk16cmdTYmNxOU41bkpyRnVKSXcxQXpRR1hSU3cxSGRFNXQxdExFalBVWHhjUWpwUmtobUUwcWZJaDJnTnNGSHNJS2RHUm9TcXROY1lCS0dGajVvXzNGU1E?oc=5"
     },
     {
       "title": "Off the cloud: Local artificial intelligence for maritime contract intelligence",
@@ -45,22 +39,28 @@
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5ub3V0TmZPcFBhOVNtZ0V2aUc4WVVuQWNGeW9leG1EeFZqRHQ5bGRzcW52WlFyeW1UTWI4ZnNBSjEtN2UtS2F3SENubFpnNFBKM1k1Q1IxV0RxRUMyUmh0bjJKWnQ0RHZzNEpEM3R5bHUzUWRSWmZ4UzBpeVI?oc=5"
     },
     {
-      "title": "Where Human Insight Meets Artificial Intelligence",
-      "source": "Evotec",
-      "date": "Thu, 15 Oct 2026 09:23:58 GMT",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSEdKOU9vM1Eyb3RySjN0NkF3ZmFXYnZtMXJUNzBBZmxuZGtvRmpscktlWkl6ckM3NzlTeTBfai04elB3SXBrS3B3cVpwZ0hYYWhjaHJzVEx2dWotVEhPdHZCdmYzak05WVdsMlhTaU1wQmZQS1V3bHpVMGFIRlhqMF9ZZWlHc2lpOXpGNA?oc=5"
+      "title": "States sue AI giant OpenAI, saying its popular chatbot is hurting children and deceiving adults",
+      "source": "Castanet",
+      "date": "Thu, 15 Oct 2026 21:44:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeUh3YUhxaUM1QVZ2ekExUXdqTnNMb1lUWnBCV3M4ZUtjdjVjUFhzTkx6ZWVST2E0VEw3YmQ2ZnllZ2h1UVZ1LUg2SEJaMElNTjk2NlByUG5mQ1dpaFZFTi1nZ0tybm1nY21YQmk0Z3dVMWppNnAzVFJnV0FsdzVPX01iVWZGakNEamd0Y281UEZ1aGs0am5lNF9JUHdZcXFZWnF6c1VzZ1FMMG9xaUh1RGdacnpDZ3pxU19LUTUwMGlQUlJjU2pZSzZUVmM5OUd2dHhNdEZKTQ?oc=5"
     },
     {
-      "title": "Artificial intelligence-enabled clinical phenotyping of human brown fat",
-      "source": "Nature",
-      "date": "Wed, 14 Oct 2026 22:55:28 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9GZTlIVXVnazYxNTFrWEppcUVrV3ZIVUVNY2RQQURkSGtDR29wcnJ1SUxqSnNlc0ZTVFpnN0RORDBqNFRHWFZBTXZiMWp0TnBPMC1uZnZIWkJwTHI2UGJn?oc=5"
+      "title": "Appraising Artificial Intelligence Studies in Dental and Maxillofacial Imaging: A Task-Routed Framework for Reporting Completeness and Risk of Bias",
+      "source": "Cureus",
+      "date": "Thu, 15 Oct 2026 18:28:27 GMT",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPMFFZSXh2alBVY0NteWV0elpkU2JvbS0wMnpkeHBobFRFSDUxcnIwbFI5MVVfQk9QUi1sM1NKRWhZX3RsTU5sZHE4QVc1em16M3k3VXVjYWFCbS1OQmZfbldCWGxUVkxiSzFsSzdYOVp1NnVKRkRwVm9DQ3pxMEQ2NE5GTlZLMXVFckt3YmoxNXFUWE9OSVkxQWxoeHMyd0dGajU2XzR1WkhFR0VLc2h3c0hoS203NUlIVl9xbExWZFMwUnN3VTV6R0J6eVlkWnJXU2RCNUE1OGxtMmpfMjRNdlRBR1Qxd3VaU1FlX19rWTkzSXlFbTB2QWhMdVRfaG1Mbmh1S0NZVERpaFMweFBfSkRzcw?oc=5"
     },
     {
-      "title": "Better Artificial Intelligence Stock for 2026: Broadcom vs. NVIDIA",
-      "source": "Yahoo Finance",
-      "date": "Thu, 15 Oct 2026 15:26:16 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPN3N0cnRzY1BmMGt6bFZJVVhMcERYTzdyVzhJMHVBZE1UcmtiR1VJSUlnZVFYeEVJQ210MG5NY01vTlhlNmFzNDR3Z3QxQmNwLXNLYkpwNHdzbmxfekZuUHlaeWQ1X0RNTG81T0szN0JwMWxQZUh3X2pEelZTdGRfNTRkS0drR2R6WTI5ckFaV0QyQTFwaHBuRWFWWnRIU2doRHlMbWN3M1hfdw?oc=5"
+      "title": "Manulife launches first-ever travel insurance ChatGPT plugin - insurance-portal.ca",
+      "source": "insurance-portal.ca",
+      "date": "Thu, 15 Oct 2026 20:33:25 GMT",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVjltVThVeERjTTlKaWxEb3lDV1ZMSFNyNHkwSFpGVlo5SEhBS0Q3RmNUOHJOS2lXcnhxdU15MVFnU3hQeS1kd2xSTy10S0c3MW5qNWhxRzVodmZGWm8xM3B5b0prdS1QWHZKUlJtOHpzeWk3dXd1M1VhQkZQVUNRYWFXaUp5RXM0em1XUlhfMW0zRU5aN19VQXhZVWZ4UQ?oc=5"
+    },
+    {
+      "title": "Artificial intelligence (AI)-powered mental health app demonstrated improved social well-being among users",
+      "source": "2 Minute Medicine",
+      "date": "Thu, 15 Oct 2026 14:12:11 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZUZUYTdTZGpPMzNsZS1ZYnpfSm9jMjEtc1FFSWprM3lERTI4dDY2MTFqRHBGcGtGS1ljcXYtbjhYZGFWa0lONTM4eFFHZ2tOZHgzLVlVSFY2ZzJpM3FLczVOUGVURFVScE1HVHNjV3NBRXloaW9GbzNFT1NxSEN5UDhyajM1U0FIZWNOWHV2ZHVwZDNHZE84ZXZlVGl6M0FfZjhFRWZtY3N5WVgwUnJmSnhBOWRRVE92OGszTkozZ3N4TlAzdnQxaW90a2ZPZ0YxQjlv?oc=5"
     }
   ],
   "events": [

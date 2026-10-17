@@ -1,12 +1,18 @@
 {
-  "updatedAt": "2026-10-17T19:23:56.477375Z",
+  "updatedAt": "2026-10-17T22:18:49.882612Z",
   "locationLabel": "Victoria, BC",
   "headlines": [
     {
-      "title": "Can AI be regulated? Why experts say government intervention is needed — but could be tricky",
+      "title": "Our Artificial Intelligence panel looks at the impact of the technology on the Alberta referendum",
       "source": "CBC",
-      "date": "Sat, 17 Oct 2026 08:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9IS3E1TUdJMjZlRm11UFdUWWFRTnY0MGJ5TXJZTDFIa09zVFlEd0lBalZXR2c3ems3dWt5UHFfd2hIU0Y3dnM3aFFPUDNaMk1qMFFfM3l3WU1zQnN6Um0tZVVkMzFTTXlOUUZlcVdVbHQ?oc=5"
+      "date": "Sat, 17 Oct 2026 21:27:07 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPMjkzRl9FMHUzRHlYdmtodlNwSzYxOXE3TmlaMlllTkF1YmhVdWhKY3dXazA2aWlraml4bHYyb0xmeVpyYm5YNEt6NFM1eWVSZWRmUVVWVUZnUQ?oc=5"
+    },
+    {
+      "title": "Ottawa announces $162 million for 10,000 AI work placements across Canada",
+      "source": "WestCentralOnline",
+      "date": "Sat, 17 Oct 2026 22:02:36 GMT",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbmxzWXJNenkyZ2lmTkphV1ptTFFPU21NS3Y0YlQ0cTJpdHhRUnVmZDRfQ0ZoOV84U2xCMG12R2llTnBWNUpYclN1NUpXTjRsN2FuVVJyOHp6S0tWU2VCWkRSTVZRVjNrWkt6cFlRaHpCa01fa3d6OUNmRk9Wb014Yi1sdDUwcXY1WmJHaGQwalJmWXlKSWVQVXhlaHlpWE1SMXQzQU9XRzVtWUdmV0ZHNHJXcmo?oc=5"
     },
     {
       "title": "Anthropic’s AI Safety Bill Has an Alarming Threshold for Government Action",
@@ -27,16 +33,22 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONnhacTdwUnprRU8tUGQwZGwxbFRuOEhYR0U2bXBYdXh2VEhaMGZoRDkybHlsVENNWjEwVDF2dXBEb1hhSGtsNEdzZnRhekJGT3pKclpCZVJDNXh0dXE1Rm9GR21wNWJhX0EwQUQxX0pGUndsazJlX195X0dyRkYxdndGOElHMXNUanRLMklqLXdIc3RHdlh0VXFNdENuejFMbVRCUkxGOA?oc=5"
     },
     {
+      "title": "Croatia sets out €932 million plan for artificial intelligence development",
+      "source": "Croatia Week",
+      "date": "Sat, 17 Oct 2026 11:36:14 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBTR3AydTV5Tngyejh0Q3hOU2JRUVJsX2JhUmhPOFR6alJLS1VBOW5aT3BIbTE1M0hzNS02a2lvTGZSLTVqclZMeHpfWmVxcGE1alJrcFk3Vmk1bUJTVnVLV1VraGJvVzJscmpkUWJzby1oWGxuMFFCQ1p3?oc=5"
+    },
+    {
       "title": "Quebec author abandons effort to document novel’s origins amid AI allegations",
       "source": "CityNews Toronto",
       "date": "Sat, 17 Oct 2026 15:11:00 GMT",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZmZDYTM5bW5XZHpnd0xIejhuU1o3UW9OajJBak9Nc3c0cXFtdnh0d1FDdFZTcjJNNkU2eHlNN2dEZ1FuZTBaOGc0WWQtQ0tCeWRJMkt4dGgtMXFSSmJYYW9yeUhELTZCRUUxZ0FOZFZfYmppdjZLVHRlWXRHM3dCampOSXBIMEc2LU9FT1VLX0d4SG5BLUFQcXlTbm9Uck5BTjM0UjdJeTM3VVltSVhxV05lTEVJZVU?oc=5"
     },
     {
-      "title": "Croatia sets out €932 million plan for artificial intelligence development",
-      "source": "Croatia Week",
-      "date": "Sat, 17 Oct 2026 11:36:14 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBTR3AydTV5Tngyejh0Q3hOU2JRUVJsX2JhUmhPOFR6alJLS1VBOW5aT3BIbTE1M0hzNS02a2lvTGZSLTVqclZMeHpfWmVxcGE1alJrcFk3Vmk1bUJTVnVLV1VraGJvVzJscmpkUWJzby1oWGxuMFFCQ1p3?oc=5"
+      "title": "Top Free Resources to Learn Artificial Intelligence: Courses, Platforms and Learning Tips",
+      "source": "College Mentor",
+      "date": "Sat, 17 Oct 2026 12:30:04 GMT",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWnIxcDZucm5UemplNU8tQlBCUjV2dTFSbXRyVWp2cy14eUY0MWVYYTBTdEx6ZmNYV21CVm0zMU1XWW5LbWxRNHVGNkozaU5BTTB0bjI4QTNwenlhUWdvYThTbGJpR3VDcnZSVElLTjZQam5XYU9fLUFfVmUxVjVITDZUR1p2MUc4ZWFsN0pOQjk?oc=5"
     },
     {
       "title": "AI fears are being weaponised",
@@ -45,22 +57,10 @@
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRHlSVFJseF9uVnRkbEFxYTVrU1N6MVp4MmhFczdNVV9meHVPNUU0NjFtYm03OHJvc2FCb1RwN2k2T0I1SXhhdjlBcFQ4VFFwV0hzZ1ZwVVB6OGFDeVFjWXljVFRmSk5rNGZPN1UxT1lJZy1Tcm1rVV8yUkd3N1N4WNIBhgFBVV95cUxNU3RjY3VnbUQ2YU82ZVJkRk45ZUZsUVo1MmlMUXY5dnphc1d3Y0xEb3BqeE1nbGhwZ3NNZUsySWRIYnR6UTlBa2lvaV9zeHozTldjd2I5SVA2UEsyZkZVWU1UMmFTaWRsdUpjbDZ6SlY2RldIOFpSM0NGRDJ5TnhXdEhGRjZZQQ?oc=5"
     },
     {
-      "title": "German bishops join initiative for ‘child-friendly’ artificial intelligence",
-      "source": "EWTN News",
-      "date": "Sat, 17 Oct 2026 11:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRGZLOUpINkxKWTJaU3pMWUlBNDA3cFdmV3ZlMnJYWVFHSmRRd0FobDAzUVNfLVZzOW9sNUNpZ3V4OVNmVkdfU3ZiZTU1VE8tdEt2QTc1d1ptcmhrcGFkdnlhcXRWQ1lfcmtwNlI1VEt0OHRBQjU0dGpXY1p0RFVYamNCaW1BM1lFd0g5NlZxVDB1TU81OUtNX1loamxKeF9YeHNKaEhld0U2QmVKVlF1Uw?oc=5"
-    },
-    {
-      "title": "Artificial intelligence for life-cycle-aware sustainable materials discovery",
-      "source": "Nature",
-      "date": "Fri, 16 Oct 2026 10:14:54 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5vVHdtU29sd1FMbVJMRFBNclhrTlZYZlJfX2JnS2RGc29vUmF2NGs2TGlFVWtDRUdMTEVRaWMxakVMWkY4aTRiWkhVWC03MldoZVdndm9iNlFzbXNUQk5Z?oc=5"
-    },
-    {
-      "title": "Top Free Resources to Learn Artificial Intelligence: Courses, Platforms and Learning Tips",
-      "source": "College Mentor",
-      "date": "Sat, 17 Oct 2026 12:30:04 GMT",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWnIxcDZucm5UemplNU8tQlBCUjV2dTFSbXRyVWp2cy14eUY0MWVYYTBTdEx6ZmNYV21CVm0zMU1XWW5LbWxRNHVGNkozaU5BTTB0bjI4QTNwenlhUWdvYThTbGJpR3VDcnZSVElLTjZQam5XYU9fLUFfVmUxVjVITDZUR1p2MUc4ZWFsN0pOQjk?oc=5"
+      "title": "Stop chatting spreadsheets, start proving numbers",
+      "source": "StartupHub.ai",
+      "date": "Sat, 17 Oct 2026 14:17:25 GMT",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbUx2eFRRU2NPZUxjNG5oaXVZM2V5bEZ6cGlMMG9WMEdjanZyTVBlZW5ONFRwZzNGUUliSnExUWFENGpIb1lISzYyT0ozNGJJN1BsYllOYlN3Y1E0LTE5QmR2dk8zQmZPNWpaUjlVaGNjRkxGNVkyUk45eWdBTGF5Vng4cU96VzJuNXA0c2I3SzI1MXItNzd1WEhFQzZMdEJrQmR5UnhleVhpNnlNelFMeQ?oc=5"
     }
   ],
   "events": [

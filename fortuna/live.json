@@ -1,12 +1,36 @@
 {
-  "updatedAt": "2026-10-18T11:04:36.235121Z",
+  "updatedAt": "2026-10-18T14:34:19.069345Z",
   "locationLabel": "Victoria, BC",
   "headlines": [
+    {
+      "title": "Companies Are Realizing They're Spending a Fortune on AI Just So Their Employees Can Generate Error-Riddled Slop, and Suddenly Cutting Back Budgets",
+      "source": "Futurism",
+      "date": "Sun, 18 Oct 2026 10:49:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdGRrWUV1VmE4Ujd3UzYyOTdLam85TnZnWUpiQU9fcm1GTkV2bTNPQk4yZU1hZGhkZ3pGZEdNRTVNYkwwVXlkS2ZDdlBkTk1xcHhuV1NIWG13TlQ0N2x6NlNqY3NwVGxCclpQS1JSWGdmMEVtNC1URVBuVk03Z1Y0RkxFdkdadHVtTG9zeERTaWRDVFYydkljdmhB?oc=5"
+    },
     {
       "title": "President Trump Sells Micron Stock and Buys Another Mega-Cap Artificial Intelligence (AI) Stock",
       "source": "The Globe and Mail",
       "date": "Sun, 18 Oct 2026 09:14:23 GMT",
       "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNbUxTX28tTVpKSjU3WHZOR05Yak51d28td2UwWGtYRlBPUU5FcHZpQ0tVc3d6MzN1V3ZBVnB4V3VpdmhTcGYtNGFCal9VRmFvTTVlanBrSTdrU0FBeFVKbW9IeU1pRl9IRktSMG56dHo4dXNQbU8zY2F1Y2RSa3FGa0RsY2htRl9PNkl3bFk5U2tySkdKUXZBblVYM1d0cXVCWVBtLXRBU3dwSkxRRUdRVE1XdkhPMUxtajR5YURTbTZZeWFVdGV2RF9XSXZLWkdLM3gweGpXdmJIUzlXM0lhZFRHSjZsdndOWlZmYW8xc1czMExSZHB6MVFnYUUza0g2VU1JUnZzSURNQQ?oc=5"
+    },
+    {
+      "title": "Use of Artificial Intelligence by Bangladeshi Doctors and Its Impact on Medical Learning, Research, and Clinical Practice: An Internet-Based Pilot Survey",
+      "source": "Cureus",
+      "date": "Sun, 18 Oct 2026 13:19:34 GMT",
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPejYzTml5STJnZnB3MWdxSkdNOHc0YTkxYmNLWC1OQ1ZWRVlPVG05UHgwT3R3MDVqQkNEQ1V4SjBLQzd5LWEwR21nbmN2UktkVVNPdjhGYlUtOTFQZjk5QlZnZXFOMTlOeGU3OFRqRUp1Q1NwNzc2U2twWExGY1A3SldQZUExNVJac2NJSEEtTWloTVRlallmbWY4MTRXZzZxekxZMHBvM3hLRUtRc05yanlpR3lQVmhweE01UXR5OTdqVGkzYTdESjRacUVKS2NiM0hpN1haeXJ3Zmlrc2JQbTcyNGdVU0dlNlpHZE9vX1FlVjBieDI1T0U1RVJXenl0YmlsMFFlV3NWSVExdldmUUJTTlF3bWVz?oc=5"
+    },
+    {
+      "title": "World Bank says ‘small AI’ could transform developing countries",
+      "source": "The Guardian",
+      "date": "Sun, 18 Oct 2026 10:01:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYlhMNzlYUUZNc1F4dTZiUktjcDhOc3FMVlVxblc5Yi1sSnN0bWp5dU4zczhReDh4Ym5LbDJVZl8xT2k2TGVveW9CMkFfV2ZvZlA3cC1oQjY0NHh4MDRtRzRCM2xodFoxSjBtR1R5SnJvZDdPRU9BQTFaYXo2LXRyY0lNN1NGSzl1UWpHWkdWQVNVS1BGVnBYd05aV3NUdkJBQ1U4N3VzYllfUQ?oc=5"
+    },
+    {
+      "title": "The language of extermination: NAZA, Artificial Intelligence and Gaza",
+      "source": "Middle East Monitor",
+      "date": "Sun, 18 Oct 2026 10:51:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWlFfZGRLc0dmX3VxV25ZOVJsa0QzNjBqZlAzWkNCc3duU2lPSlhDcEZxZ3hFNHhXM3VRNjNHS3REUXp4SUhEOXJ5ZzhhWngyekdlcHd2c19fVUpIQ2EzRXdUaU4xalpmVkhaSWlYOFhLV0RJMDRMQjhyVHNmZHU2SThKNjBaVE1sX0tmZWdnVVBkbE1salYwb0h2SmphV2NVckJhdFFyTU5UeldXUDN3VjdSTnlCZ9IBtgFBVV95cUxNWlFfZGRLc0dmX3VxV25ZOVJsa0QzNjBqZlAzWkNCc3duU2lPSlhDcEZxZ3hFNHhXM3VRNjNHS3REUXp4SUhEOXJ5ZzhhWngyekdlcHd2c19fVUpIQ2EzRXdUaU4xalpmVkhaSWlYOFhLV0RJMDRMQjhyVHNmZHU2SThKNjBaVE1sX0tmZWdnVVBkbE1salYwb0h2SmphV2NVckJhdFFyTU5UeldXUDN3VjdSTnlCZw?oc=5"
     },
     {
       "title": "Nova Scotia to host massive data centre to power artificial intelligence",
@@ -21,46 +45,22 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOamVITFhfaDlzeVFObVUtNWVMMkptUnRCYmVzT1F0NFFSVmpzTnBMV3lXblBON3o4SzlPWlFKTExsQjdlV1NSQ0VsblAyVGdxSDBMRXlKbnl1UjZxVk15a1hzZGtHcElNX0NzcVRIWWw5NHZ2UE5MaXAtSGNrTUpESDJ2MC1YYU82bTRrWnpvZUk5STBvVm8wSUQyVmEyZw?oc=5"
     },
     {
-      "title": "World Bank says ‘small AI’ could transform developing countries",
-      "source": "The Guardian",
-      "date": "Sun, 18 Oct 2026 10:01:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYlhMNzlYUUZNc1F4dTZiUktjcDhOc3FMVlVxblc5Yi1sSnN0bWp5dU4zczhReDh4Ym5LbDJVZl8xT2k2TGVveW9CMkFfV2ZvZlA3cC1oQjY0NHh4MDRtRzRCM2xodFoxSjBtR1R5SnJvZDdPRU9BQTFaYXo2LXRyY0lNN1NGSzl1UWpHWkdWQVNVS1BGVnBYd05aV3NUdkJBQ1U4N3VzYllfUQ?oc=5"
+      "title": "Why the ugly history of IQ testing matters for AI and education",
+      "source": "The Conversation",
+      "date": "Sun, 18 Oct 2026 12:35:04 GMT",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZXlWSlluQTdpQWpHYVNxb3pGZ3Q5akVXLThGckEyaG95Sl9GOGdDcThaNmVYSmVFTUlFWWduWm54aTh6TzhhVXNrTENZVm1KaDdYUlk2QjBLVjFOeG5BQzJrMHhMV0UyNHg5N1VtMU5ycUVyMmZsSlJmSFB2elpXRWpPRm1fVkZ1eVU0bGpZZkdtMEZDbTM5R0hGWm02d3c?oc=5"
+    },
+    {
+      "title": "Quebec author abandons effort to document novel’s origins amid AI allegations",
+      "source": "CityNews Montreal",
+      "date": "Sun, 18 Oct 2026 00:22:26 GMT",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBjZDVKek8wM2p2UHZFRWxwWVhiS0FDRDVGbDlyckQ2UGVxNzhKMV9remlyR2c1dUd3V1d1VUlrb1VZSDFtSFFzOWlGYmwwckRMYV9LcG1jR2M4TVdLR1VIQ1VWRnc5akttN2x6M1BXU2phbkU1dVl0UA?oc=5"
     },
     {
       "title": "Ottawa announces $162 million for 10,000 AI work placements across Canada",
       "source": "WestCentralOnline",
       "date": "Sun, 18 Oct 2026 03:55:21 GMT",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbmxzWXJNenkyZ2lmTkphV1ptTFFPU21NS3Y0YlQ0cTJpdHhRUnVmZDRfQ0ZoOV84U2xCMG12R2llTnBWNUpYclN1NUpXTjRsN2FuVVJyOHp6S0tWU2VCWkRSTVZRVjNrWkt6cFlRaHpCa01fa3d6OUNmRk9Wb014Yi1sdDUwcXY1WmJHaGQwalJmWXlKSWVQVXhlaHlpWE1SMXQzQU9XRzVtWUdmV0ZHNHJXcmo?oc=5"
-    },
-    {
-      "title": "The Language of Extermination: NAZA, Artificial Intelligence and Gaza",
-      "source": "Countercurrents",
-      "date": "Sun, 18 Oct 2026 09:18:25 GMT",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdDdZc1A0VEUtdW5mQ1hTM2c0bUJPZGZqVG9weDRiSk1XMGh2WEpHMDd6WVhySGo3ZVg4YWo0ODhvNFdxTXYzWW9vUkRzNnloOFdKT08yZzNJS2dzZ2NnU0RZT29qU3ZrNy1qdFJUZGlaZUhCTUhSdk8wMTZlVmtqNkc4MVJlRmR1X3ZDd1lSZlY4UnhReTN3S2VkbTBVeHVLLW5fWndWVQ?oc=5"
-    },
-    {
-      "title": "Delay the deployment of artificial intelligence (Voice of the people)",
-      "source": "Lakeland Ledger",
-      "date": "Sun, 18 Oct 2026 09:02:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOV2NhSmFHeF84RnA2bGRMRWR2cFBHZWl4OGg1MUdnSExFZFZNdGpycy1qcHZEY2xFUm5sdU9GcWJUaC0yQ0RoMTlPNHhrejVXS1gtVUR1SnNKRURoNHI1dURjSWVwODlLY3NxUEJGWTUzckd5Z3VaZDVpWFBiUzRnOW1IRHplV2RJQ2dsS0dRSEtSbDBsRWE1aUo3ZW5TX3NwMEF3WEcwcElyRm56OFMzNFBoM0VESmVHNlN5MDZIU28yZXNIaU1ybjFKeWxjWUI2?oc=5"
-    },
-    {
-      "title": "Extending the Loeb Scale to the Search for Extraterrestrial Artificial Intelligence (SETAI)",
-      "source": "Avi Loeb – Medium",
-      "date": "Sat, 17 Oct 2026 22:27:35 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSlRhZ3BEYkd6cWRJRER3LUNXWE9UYmVJRlNVSDdodnpQVTFZekRYM1J2aDNuSmp2bUxPb2xFck5GWXh4SUxhLVVOOGtQREMtczJhcXNNbFJ1RlJORHAzT3dxY3dXakRjcUhXLUNZOE9SVTZfZ29PdzNZMWx5XzlXRWlFQ0R4aHZ1OWZpVHJzRkVhcnBPN2o2WFl2cEhHTWFSYXRlazBWeDNZUS1OUVhVNVJmNkdTTmpkSy1lR2ZYUGJjcmxBMUczQW1B?oc=5"
-    },
-    {
-      "title": "President Trump Sells Micron Stock and Buys Another Mega-Cap Artificial Intelligence (AI) Stock",
-      "source": "The Motley Fool",
-      "date": "Sun, 18 Oct 2026 08:57:32 GMT",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZkR2YldmSlVIWGFUSmJSRmREanIzaFhwMWNyYk5HQk50SFB5cjVSbVcyZnVyY3ZjNXllMVFEUGQtY205MlZRblZRbjFwLU5BUUw5bUdKXzVDN1lfdm10dHBzNmJiUXBsRk5GRlIwenprZEJBcEZTdHJZSmFjR0RSeXJYZzh6Nnp0WldCb21uQ1FzR0hicGFR?oc=5"
-    },
-    {
-      "title": "AI agents promise to shop for you, but Amazon, eBay and banks are shutting them out",
-      "source": "Ynetnews",
-      "date": "Sun, 18 Oct 2026 10:45:22 GMT",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBmU3NVUnRqazJKNW93b3BlOC1ZN0l4TmE2U1A0aHo2MlQ1T1JQbkdZemRFNm4wTmZVMUF5Q2taMVhyQTI4UlNFMHdPNnJScHR5UkZjelZ3WXY4NS1YS0MwS0Y5NTlOd2hLd2o3Mw?oc=5"
     }
   ],
   "events": [

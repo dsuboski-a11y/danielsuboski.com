@@ -1,11 +1,17 @@
 {
-  "updatedAt": "2026-10-19T20:35:18.046785Z",
+  "updatedAt": "2026-10-20T00:19:49.559916Z",
   "locationLabel": "Victoria, BC",
   "headlines": [
     {
+      "title": "When Structure Matters: Structure-Aware Learning for Interpretable and Reliable AI",
+      "source": "University of Waterloo",
+      "date": "Mon, 19 Oct 2026 20:28:10 GMT",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORWgxa0JKQnR5NTdUNzhCOHVRNWlIenFRdzhKdkw4U1BlVDBMc2hFTUVITFI0OXFwSDdtT1p3YkF3cFY0Y2R2NkhVSmRfQVpUX1o1REJBZ1lXSGpGQ1R6X19abTB1QnhUQXBPSmVyZ1FPNUhEUU9UUjJHVm4yQzB5WW1qWXkteUp2T0ZYbVhDUWhGQm15SWVtb0pRWEdNb1pzSXNIYTVDRG4wVF9jS2c?oc=5"
+    },
+    {
       "title": "John Molson School students develop and present an AI solution to industry client",
       "source": "Concordia University",
-      "date": "Mon, 19 Oct 2026 16:32:05 GMT",
+      "date": "Mon, 19 Oct 2026 20:03:58 GMT",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQ21lT1h3NWhRVy1fNXhCeU1nM3BneGF2STdQS0d4NEtTM1FRZG1NRmtEaVNrWTB0TVU0Rkg0T21FSDY3VjhiOW5ZdnhRLXlzZTU4WVhqZXhPa3NXVDgxYkZfUEdBOUExV2s3aVZIcWVSUjNpZDI5NWlsSUZ3anY0eENyTWxyNUVqaWhLV3JJWHVVVS03S0RaZnY4d1RDQllJYm0tQjdFUmZxNkJfRDBoZ1kyTlEtLW5yYmZ2bTVOMjA2VVozUm1fR1VKVkowQlFO?oc=5"
     },
     {
@@ -15,52 +21,46 @@
       "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNODFVcldjTDA4US04WEdONTllaktOWjFSMGhoVlc0SEFrT2wtcUVRRVFIUmY1Z0VkLU9HNUNyMHJPSTg1Mm5iQmJHVi1QNXc3UEZjWjA1X01OdnM5Smw0U2VYdDZac0JvRkRIM2RxUWJvZmk3UzRKT1NfWThxTTZRSVNSVGZNSVhhTVpXeVhUUncteG0xQ1hFcEtjYkgtQ08wRnpmVTZOeUp6Mlo3czg5bzh4Z0dFNE1waHltQUY4STQ5VGpaOGlGS3FjR3FOTUxKd25rdHpMdFd1ei1QQi1FU01jOFprTUFKcmdpYUd5dm41RC1SUHhJNUpzVWI0anc?oc=5"
     },
     {
+      "title": "Artificial Intelligence, US Reversal on Beneficial Ownership Fueling Fraud",
+      "source": "ACAMS",
+      "date": "Mon, 19 Oct 2026 22:06:25 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUjdBYm9ZTkpxVmhWRXBNOE5WRzhoc01QUUJjRDB5YUJ0cFZyZndfSk9QUW92SHEyWEFHWjlEV3dHS0RwNXpjLVB0dUp3cmIwVTJiejhNa2ZLOU10RTZ2RnlWUmhhZTFJOUtzbWlid2FXZHJ1ZEpNeUxLMWlKVlBISlViYlFIUkpseFZUbEJBanZUSFAyU2hfT3AyVU04V0U4dlE?oc=5"
+    },
+    {
       "title": "Researchers use artificial intelligence to design potential antiviral compounds",
       "source": "Phys.org",
       "date": "Mon, 19 Oct 2026 16:00:06 GMT",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUFljVXEtNWotXzF1SWdqbmRNdkxKd3piV1R6QzJCS0lLeGhOZlFNTW5RLXJQcDd2SWJHeXRoTXR6N2pKcC1Wc2VQd1VpSVpBc0ZrSE9SNkhvRVBrS2hYZ2FZSWo4cHJUbnE0cWpxYnJ1dGVmSWw5akpCVjNlZDFyVkcxRVdLRDdIVXFjM0lTUUtRZw?oc=5"
     },
     {
+      "title": "Nvidia CEO urges German manufacturers to adopt AI, saying digital tech won't replace heavy industry",
+      "source": "BNN Bloomberg",
+      "date": "Mon, 19 Oct 2026 19:39:21 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPVktqUndnUU1CbTRkOUdJazkzMldHOUQ2a2VmUUxzNE1BNkN2M3lpQl95dU9iX3dyblhOSjRqS2xTcjZhZlltY25uRnJ1bmJSTENOdU9Wb0VkaTJFWFFWeEdmODlmMTJzVEFkVFp6NnFDa1FrVGJ4ZjFtV0xVQTRpRm10LW1UcmltUzJiM1Z3RzhTSjdBci1JeHR0VF9tS011cF9NZmx6OXprclA2TnNpSXBUNXdNX0IxR3pLX2RuOWNLSkotWjhBSkxHUjlvb2xSeGhsY1NOUUNjb3duWUwzLVlyanM4RlhpdjZ5eVN5c2E?oc=5"
+    },
+    {
+      "title": "Artificial Intelligence, its multifarious uses and warnings about risks to humanity",
+      "source": "IslamiCity",
+      "date": "Mon, 19 Oct 2026 21:38:28 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNalRaYUdPd0Z1aHFxM2dWT0cyVlJCLXRqeWQweEhzdGRuQlM5UWNZOXdJbnhTRDhTb1hyQ21yNzkxdVVTYkZYOVB3TUx1TVJSUUNJUFphcVhMclVVdWJUYndrS1hnV3Z6RmpYTTRZUHBma3ZqamwxeXhqQkdrNmtsWFNzX1BuSXZGeGszN3JpVllMQ0lpNG5fVW83aVEzdFViZUE1UUxQTUZHS3BNNHBCaHc5ZnY2UGE5?oc=5"
+    },
+    {
+      "title": "The AI doom scenario you've never heard of may be the hardest to stop",
+      "source": "CBS News",
+      "date": "Mon, 19 Oct 2026 15:33:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5mMmdEVkNzd21XbDlBaTE1YTdQNTU0NjBjYXgwTTFJMWhkQ21ISnhhX24wYkJjaTJnRDRfVHk1djY3T1kwbU5HWDNfS216cEhLRHBhWlFBTnhOUExsSklSUmd0SXYzVGVkTUtlRUp3OG5DRVdpeXcwQQ?oc=5"
+    },
+    {
+      "title": "The Average Man Is Such a BSer About AI That He'll Claim to Know About an AI Executive Who Doesn't Even Exist",
+      "source": "Futurism",
+      "date": "Mon, 19 Oct 2026 13:11:31 GMT",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaGpmM3dBMDQ5VDRzcnlLbmtZa0p6WTBUcWZqUGpJWFdDRFZlUG1aQjJPcGtMeVdRSEpMMnFlYkViQ0E1V0lvd3pfNWFXMjVzRDNLUzRHR0wzbFMwY0hQd1hRd3pXWml5dFRkWm54MGt2Y0h4LWEwSkZOWlZ1VVdIQ3VTN3pSQQ?oc=5"
+    },
+    {
       "title": "Inconsistent guidelines for AI use in N.S. classrooms fuel calls for provincewide policy",
       "source": "CBC",
       "date": "Mon, 19 Oct 2026 14:20:43 GMT",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNb25rYlZzVi1IZjhWbC04VkpfdDdtWDl2NW8xdHhoRm1GVTMtNWo2N3ZjUkZvUjhob2ZvaGRPTV9vWm84NTM4TXAwNXhjWm1UTk5DaHVPMXpMdGhEWExmQ2w4aDhESS14SzRleWgzYk9DLTNYSkVjLWlHbkhnU0ExcEFOdy1MRWFlM2lWb2hqYXp2clRxOFdCeFVqa0E?oc=5"
-    },
-    {
-      "title": "Sparc AI Inc (CN:SPAI) in Focus: What Could Drive the Next Move in Canadian Artificial Intelligence Stocks",
-      "source": "kalkine.ca",
-      "date": "Mon, 19 Oct 2026 15:36:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOaHdBT1VURVhKZUVYbUpFTmRxRmE1cGg4NzV5TkdMR2UzLXhhNkZ3N2VDeXM5aVduc2Z2UGpWVjcyNURwTmc1VW1oWlhoTW0tbXJRaGdJUkw5ZGsta1ZvZGdudWhHeWRZZVVxb1RzZ0V2ckJwYWVCUFBSYUhhY0FjaVR1M2lYU3RVMTF2d0xya1V3VTVVYlJZRzNoRWpaams0SVRMUGdsS3RmZ0FoUWppMHYzQnlsMlFZeEtSbTdKYWd5Ui1kaW9MVHV2LTFTM09fanpjYklFNzV3cXBIbWFQMXdBMDM?oc=5"
-    },
-    {
-      "title": "Nvidia CEO urges German manufacturers to adopt AI, saying digital tech won't replace heavy industry",
-      "source": "CTV News",
-      "date": "Mon, 19 Oct 2026 19:39:21 GMT",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQM2ZTTkU0a0FHZHdScTBpVVJXMTQ3VU96eFhMcU02YkRRTHAwbGZOZ2dFWkNFRjRDc3R6dXh0UDBma2RvS3V5MjRNNHFFSkJJbkNyMlBjWlFsTjZGbVlxNWdQQlJEUGFFTy1yNExoTllBcHJQaFJodXcwVG41Y012UmFSZDlPT3VZMTRQX2dnbFl2aDN2NGEwSDctYVprbi10X0Q3Umg2d2p5N2tGTTBYOG10VUhUS2F1MXZNOENiY1IzSm40M0RnZ19tdzN1bnI4b1FuNA?oc=5"
-    },
-    {
-      "title": "Better Artificial Intelligence Stock for 2026: C3.ai vs. SentinelOne",
-      "source": "The Motley Fool",
-      "date": "Mon, 19 Oct 2026 17:24:46 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVlRrRG5kWFc5dVFtSnNTaUZlcHR6akY5X09MLVR2RzZuQVJKNGVsS0VTSy1PenpGSklSZjk0cnF0M3dwUy1EZm5CbkRqSWJodEtIZHNoTHlYR2h0Qy1IakRmQjlHOVVkajBBM3NyVzRLZFdtcHhRSDR3VUNHQ3RYQjV4OTN4eFlOdGJzN1ZuaUVqMVFNeXRyVlBHZW1ieEtHWHVybmdPbkxQRksxNEVmcnlhTGZhaVpzUk9z?oc=5"
-    },
-    {
-      "title": "Dave Birss has advice for anyone using AI at work who wants to stay creative",
-      "source": "Vogue Adria",
-      "date": "Mon, 19 Oct 2026 17:24:50 GMT",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1IVFVVWUlGQ0M1ejl3Sm11YUs0dmdiZlMwMmhLQXpINzdtV0RZZklXdDVDd1FCaDBfR3hKd0ZCWXI0bGVISXFBU211X0FzTTRWTmtibVlDWUUtYnlMTEFjRlN3V2VSaWVSRmNGUm5taHc?oc=5"
-    },
-    {
-      "title": "Open-access journal AI Horizons looks to expand the outlook of artificial intelligence",
-      "source": "Physics World",
-      "date": "Mon, 19 Oct 2026 08:48:34 GMT",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNM2ZIdVlnWWljMEZFdDl1Q2NGd0JTZUl0STVBeHdfdTRUYVFJTVNVYldNS0V2SjZ5ZkZnVXlBRGhfb3p5eFRfazZTN2o3bnBUZWtneFZoam9DT1l0aDVpTm1wclBPYTJVQ1dHRGRLMDNNallDRXRVQVh2SHFQbTM5azZuLURoQXFuU3FWVDR4cVcxVU0zNDBaUDE3b3hDSy14dHgzeE1OYmhPUlpmQmVrM2VUc1g?oc=5"
-    },
-    {
-      "title": "How Motive's New AI Platform Cuts Fleet Costs & Downtime",
-      "source": "Commercial Carrier Journal",
-      "date": "Mon, 19 Oct 2026 14:26:15 GMT",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdU1PY1VRdG1pX0FVYm0wQVF1ZkVsb0d5TFFvZDlCQjdtQXZlZWR6azZvWllaU3JiTDQ2MmhZUmxjZHZJdy1kWEJDc0NpVUtlcTFjeHZ3WUl0clc0Q2JfR0VjcVdRY1ZkLUdCdl84dFlZNVVXdU91Y3ByNGl5SEc3WDNxbV9YYjdsbUpySjhVMmxxb0tiWFVYbEJ6bHZOYnhSUEd3NzIxZ1l6czVVaWxRdHYwdXlENWRKbVZuZGdyNkJhaU5XS3JCNjctbWo?oc=5"
     }
   ],
   "events": [

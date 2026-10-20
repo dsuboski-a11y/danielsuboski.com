@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-10-20T11:36:12.173685Z",
+  "updatedAt": "2026-10-20T17:03:54.081748Z",
   "locationLabel": "Victoria, BC",
   "headlines": [
+    {
+      "title": "Artificial Intelligence: The Church Responds",
+      "source": "The Banner",
+      "date": "Tue, 20 Oct 2026 11:17:02 GMT",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQjVVV3BIVGpTaUdsdWFzcnZTdkg2YXJhdm1MMFRlaUZ5X0lXSklhakVkWlJPSnNBMVppME1xbjlGSlkxVDUySFRpb2MwTVRlT1RSanZRMklvSm01aHFqTXo2dDRta0psby16ak5XcmZhUlY0eWdyaDcydVNXLXFYODdNZlkzNjNfRzhjUkpn?oc=5"
+    },
+    {
+      "title": "Not Anthropic. Not OpenAI. This Is the Artificial Intelligence (AI) Stock I'd Buy Before the Next Mega-IPO.",
+      "source": "The Globe and Mail",
+      "date": "Tue, 20 Oct 2026 12:28:45 GMT",
+      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPNG9IeEJDMHE4VGw4R00wZ3BuZEpCeG5BSHRWdTZvN2t3RWl6d2VzOXZRb09odjB6bDl4U3NHUVlOQVIxWVYwcU9EWVAtVGlicTh2RGtvWDJHY0plclRPeTdQNkp5NjhEUS01MjBYeHFLSkpSUG0wdkZ0cXBGVy1OSFVpX0R6N1lIOXRDTW1aMTYyU0YwSk5sS3pQMmtKTlY3VXlxb0E0M1lNX2hJQmkwOXVyTkhHM0NTaG1LbnQ5UV9CWVh5cTE0N3NDeFJSbkw4eVNoTEx4c1B0aHJPVDMzUjFQUGx5TG52Wklzc0lLZ3FzVEs1aGpiVjBQYXlQOWR2enFxejFTcjdYbkd4NEtPQnQxTlc?oc=5"
+    },
+    {
+      "title": "Artificial intelligence conformity assessment in Ukraine",
+      "source": "CEPS",
+      "date": "Tue, 20 Oct 2026 08:56:02 GMT",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTVVTemZJbHg3aDgtRG14dkZlZEprMDJLS2dnZHd2MXB0X0xVbWxwcFdkOGhDTFVJcjNkTlVZZ181RjRYM1F1UXRhMnUta1hhTGNoRjl0bllsYnBUNVpnSHZEX0JHR1VyYThuR3JyM0s3QTJTOWVmaGxEeGI0NjZ2VkJIREdjZTAwZzhGejg2Vnc0OXBZTFVHMThHYw?oc=5"
+    },
+    {
+      "title": "China defends DeepSeek after U.S. ban of its AI from government systems",
+      "source": "BNN Bloomberg",
+      "date": "Tue, 20 Oct 2026 15:23:45 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMEhOdGFTSnVQXzhHVzJWOHQtcG84RXg2OFg3dC1BNFpLTW1Md1p4WEx2X1lSTGdrbUg3WGpnWjU0V2g3RVByVzd4NS13T1dkMDY4a3o4YTlscXV0dlRiNnBhSGpSajg0RjBGWm5QZkNBSUxvRHhPUkFsZGpQNXZ2VFd3ZnFISzdwTUdRUVBBTnNXZklBZ3Fya1hVYVdhektjRThtQm1zZ2VXQmZ0YmozTlhLdFlBNGhhVUE?oc=5"
+    },
     {
       "title": "Fears Over Artificial Intelligence And Data Centers Are Overblown",
       "source": "Forbes",
@@ -15,52 +39,28 @@
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYm1lZ0NhYlBxdXFfTEpXWWlETF9WVWtqSjZPU2FuaEwxVzRHNVlLVS1OaUNmVlJBdEYwWFhHRFNDZXdqcXMyYmZYaTI2ay1WaFFiSEZRVzdfVWtPUUpNZWF6NERwQVJRdC1nV2pMOHdldDZ2RkpNM0FzRE1Gc3NzLU5RT2cyVjJFNFByYlFLbmxhR21oVkdNeUhFNl85QVJzUW0wdU1CQWdxVG9fRkhXaEJpalBDaGRRSXpqRWxVQk5vSGd0NEE?oc=5"
     },
     {
-      "title": "Artificial intelligence conformity assessment in Ukraine",
-      "source": "CEPS",
-      "date": "Tue, 20 Oct 2026 08:56:02 GMT",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTVVTemZJbHg3aDgtRG14dkZlZEprMDJLS2dnZHd2MXB0X0xVbWxwcFdkOGhDTFVJcjNkTlVZZ181RjRYM1F1UXRhMnUta1hhTGNoRjl0bllsYnBUNVpnSHZEX0JHR1VyYThuR3JyM0s3QTJTOWVmaGxEeGI0NjZ2VkJIREdjZTAwZzhGejg2Vnc0OXBZTFVHMThHYw?oc=5"
+      "title": "Artificial intelligence-enabled triage tools may reflect human biases : Newsroom",
+      "source": "UT Southwestern",
+      "date": "Tue, 20 Oct 2026 15:32:07 GMT",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTkZMdEpUSzJ3aWM3QmxFRVYwTGQyOFBlN0lUVDFOeGd3YWI4bkhMVm9OajNoMUk5ZnB1Rm1SV0NMSUdaM1ZockM2cGFWZ1NpbXMwNlFXWUxKcnYtRUxnaEtvcDJzX3NsSGJZclVFMXR3Q3ZmMERZYXZ4NzZ5T1UxdENXSXRXUjJuc1JtN3JqUUdoSDRTckozb0pRX291c0V1MEJDOU9mMA?oc=5"
     },
     {
-      "title": "The Language of Extermination: NAZA, Artificial Intelligence and Gaza",
-      "source": "Counterpunch",
-      "date": "Tue, 20 Oct 2026 06:09:16 GMT",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSWhVWjlkdmQwUlA5TXNmMGdEMk9DX1FuODhFSC03QTRqRzJBRzZvRUM1NVFpT0hrRi1BMzNib19jUTJGNjFQQmFXdTZWNUVPTS1YZ2JEd1dvTEhFZHJSUGw3S1YyMTlTWWQ0UURWNDB6TWMtZGtGOHVTTTBwbzE3NVlBOGRoNnBVbmRDQUZsR1FoZjR4NnF2ajR5Tzd3Wk9ZQVY3LWxpUzcwcUVY?oc=5"
+      "title": "Artificial intelligence can bring justice closer to those who have always been denied access to it",
+      "source": "Latinoamérica 21",
+      "date": "Tue, 20 Oct 2026 12:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNS1c0d004WG12YnhQTjhZNmttS0pHZFlGUTVFNWRwU21fanVmaVJER28ydXlkZGkzaHpjTFNqdnQzdGFZOTFCcmhXSlJCSG9ZMVhNVERpTlBPbDk0TUZ5RkZDLW1vMzFLZENicVdvMkVoOHR5S0lxa0Q5ZlpxRkIxTHhvblRpbzhfVU83M0pIWmtWZGk4cVVRMW1GODFvUUhhdmd3aUgwcEZwMkN5RFVNSmgzeHd3VGJaU1ZDaXYwTVZtSlFXQjZpQVF3?oc=5"
     },
     {
-      "title": "When Structure Matters: Structure-Aware Learning for Interpretable and Reliable AI",
-      "source": "University of Waterloo",
-      "date": "Mon, 19 Oct 2026 20:28:10 GMT",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORWgxa0JKQnR5NTdUNzhCOHVRNWlIenFRdzhKdkw4U1BlVDBMc2hFTUVITFI0OXFwSDdtT1p3YkF3cFY0Y2R2NkhVSmRfQVpUX1o1REJBZ1lXSGpGQ1R6X19abTB1QnhUQXBPSmVyZ1FPNUhEUU9UUjJHVm4yQzB5WW1qWXkteUp2T0ZYbVhDUWhGQm15SWVtb0pRWEdNb1pzSXNIYTVDRG4wVF9jS2c?oc=5"
-    },
-    {
-      "title": "Artificial Intelligence, US Reversal on Beneficial Ownership Fueling Fraud",
-      "source": "ACAMS",
-      "date": "Tue, 20 Oct 2026 02:06:53 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUjdBYm9ZTkpxVmhWRXBNOE5WRzhoc01QUUJjRDB5YUJ0cFZyZndfSk9QUW92SHEyWEFHWjlEV3dHS0RwNXpjLVB0dUp3cmIwVTJiejhNa2ZLOU10RTZ2RnlWUmhhZTFJOUtzbWlid2FXZHJ1ZEpNeUxLMWlKVlBISlViYlFIUkpseFZUbEJBanZUSFAyU2hfT3AyVU04V0U4dlE?oc=5"
+      "title": "For the first time, artificial intelligence is a top 10 fear in the U.S.",
+      "source": "Popular Science",
+      "date": "Tue, 20 Oct 2026 16:05:24 GMT",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1tME9acW5SS1hOR0h6MUZ6Z0pSeFFCTW13OUtNb2lIVEdQbVluX3MycmhQYkRzN0xsZDZOSmQwUlFxOUd0QW9TUVliMF9paFJad25kVF9Wa1VzVGw0Vkk0M3ZPTDRVRlRRVHNNS3RPYndOaXZtMjlpbjBvWGI?oc=5"
     },
     {
       "title": "FCA gets hundreds of applicants for two top artificial intelligence roles",
       "source": "Computer Weekly",
-      "date": "Tue, 20 Oct 2026 10:20:42 GMT",
+      "date": "Tue, 20 Oct 2026 10:24:27 GMT",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcVkzS082OWxpVHRsVjk3N3dvZDUzRnM5MWx0bGFXNllPZUlnaXFKanJRVkhySkNFNmIwRHo3STJhTkJZMk04WDZGOFB2MWtYWnNlZjk2Q2Q5S1BxWjNjZENUZUdLRkM2clVZTmh3czZiV3Y3MnRoc0tWSUlwQWNidVhrNnJGVUZvemY5NlpCM0M3QlpPR21PTHhIR1o3YjJNWXFZNWdGLS0wWGZaamQta2lENWxmTXppRmxJ?oc=5"
-    },
-    {
-      "title": "Better Artificial Intelligence Stock for 2026: C3.ai vs. SentinelOne",
-      "source": "The Globe and Mail",
-      "date": "Mon, 19 Oct 2026 17:52:46 GMT",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPRGdDUWdUTmp5dkJkOHN2RzljUGpoM18zSUdybzJoczVIbnZnVjlTejdEUzV0T1FQVHhwZjFFM1Q4MEhxRTZ4VVJaMmlXUENXbnB0R3dhbVlTYnVKdVRFZ0pSNUVhc3FHbVp4QzZVTW5CMTE0Y3ZfYjBueWdLMW9ZVVpRMF9ZVUkyY0V0REJSYXpqQ1E4dkRQOG5lVkJLQUFpOUtFb3hBajVlRkpJSE1MR0tFQWRRYjVETXJnM1cyY0tCYUV5TXRVWElNdGltdzVSaXZBWkpCVmRBc3p3NWhZQkhVcGs?oc=5"
-    },
-    {
-      "title": "Global shares mostly decline after AI stocks lead a rebound on Wall Street",
-      "source": "BNN Bloomberg",
-      "date": "Tue, 20 Oct 2026 09:55:30 GMT",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUEtTS2tuVXlSZ1ZoN3JDX21yWHl3emJ1MThrd0hVVUdRQ0pEWExBa1RmdmVKSHl3Yk84cm5rYmlOQ2E0R3BCSVpmbE1qQkJDRHB4S0lLdXlVUnQ0MlV0VDRxbnl5ODR2WGJ1WGJESGMzWFZLeTVQQUZkZVdRMENPT3BNVU4zSlF5ZU1WYkVhQUROc0RDWHo2dVp5b2QwVURNT3phUXg4NExTS3F5bEcxa3hfb0hRb3gzLUtCQm1FdnptdFFLX2JVTlp4TlQ?oc=5"
-    },
-    {
-      "title": "China’s outbound AI strategy starts with models and governance and ends with chips",
-      "source": "Bruegel",
-      "date": "Tue, 20 Oct 2026 10:56:25 GMT",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMk5XYzAwcW56UDBCRG9PZzlBTWJubkJCQ1k3TEE4c2otQmpQdXNkcUk5cVpEZDFZUnlYNFJuTjRIMDJZUC1wc01ybHRGOHZEN0hwLWhjbHVrdFVpT2xuNG81TDdJV0pscXo5VjhnQ0pKaWkzSEtXVmhXWGF0OWV0YlZNXzdQanctS3Job1F0WF81c196dmJmSTctQ21xX0x2MEZXR2l3UQ?oc=5"
     }
   ],
   "events": [

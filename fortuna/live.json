@@ -1,12 +1,30 @@
 {
-  "updatedAt": "2026-10-20T06:00:15.950251Z",
+  "updatedAt": "2026-10-20T11:36:12.173685Z",
   "locationLabel": "Victoria, BC",
   "headlines": [
     {
-      "title": "Artificial Intelligence, US Reversal on Beneficial Ownership Fueling Fraud",
-      "source": "ACAMS",
-      "date": "Tue, 20 Oct 2026 02:06:53 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUjdBYm9ZTkpxVmhWRXBNOE5WRzhoc01QUUJjRDB5YUJ0cFZyZndfSk9QUW92SHEyWEFHWjlEV3dHS0RwNXpjLVB0dUp3cmIwVTJiejhNa2ZLOU10RTZ2RnlWUmhhZTFJOUtzbWlid2FXZHJ1ZEpNeUxLMWlKVlBISlViYlFIUkpseFZUbEJBanZUSFAyU2hfT3AyVU04V0U4dlE?oc=5"
+      "title": "Fears Over Artificial Intelligence And Data Centers Are Overblown",
+      "source": "Forbes",
+      "date": "Tue, 20 Oct 2026 10:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdFF0NEppQ1V0anc5aUN4XzZPdXhlWDlpcGlUOEljZWRpTEh2NTgyR3A2S3JPejB6bTNGRWpPV1RNUS1LVXJCTFZwanZzZWJZVjA2ZUxhNWF5WkJxZmpOVzl2OTNuZEwzbzdpU1VRNHp6azlQbktjazFlMjNaN1UwYmFWQWplTGZpTTdwN1hFSDFuUUNKcmk3RWp3MVpIWVNJWXc4M1hFMTNYdTIxbmwzc194eVRTRHktQVE?oc=5"
+    },
+    {
+      "title": "The Evolution of Artificial Intelligence in Oncology: Impact on Trials, Workflows, and Outcomes",
+      "source": "CancerNetwork",
+      "date": "Tue, 20 Oct 2026 07:48:07 GMT",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYm1lZ0NhYlBxdXFfTEpXWWlETF9WVWtqSjZPU2FuaEwxVzRHNVlLVS1OaUNmVlJBdEYwWFhHRFNDZXdqcXMyYmZYaTI2ay1WaFFiSEZRVzdfVWtPUUpNZWF6NERwQVJRdC1nV2pMOHdldDZ2RkpNM0FzRE1Gc3NzLU5RT2cyVjJFNFByYlFLbmxhR21oVkdNeUhFNl85QVJzUW0wdU1CQWdxVG9fRkhXaEJpalBDaGRRSXpqRWxVQk5vSGd0NEE?oc=5"
+    },
+    {
+      "title": "Artificial intelligence conformity assessment in Ukraine",
+      "source": "CEPS",
+      "date": "Tue, 20 Oct 2026 08:56:02 GMT",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTVVTemZJbHg3aDgtRG14dkZlZEprMDJLS2dnZHd2MXB0X0xVbWxwcFdkOGhDTFVJcjNkTlVZZ181RjRYM1F1UXRhMnUta1hhTGNoRjl0bllsYnBUNVpnSHZEX0JHR1VyYThuR3JyM0s3QTJTOWVmaGxEeGI0NjZ2VkJIREdjZTAwZzhGejg2Vnc0OXBZTFVHMThHYw?oc=5"
+    },
+    {
+      "title": "The Language of Extermination: NAZA, Artificial Intelligence and Gaza",
+      "source": "Counterpunch",
+      "date": "Tue, 20 Oct 2026 06:09:16 GMT",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSWhVWjlkdmQwUlA5TXNmMGdEMk9DX1FuODhFSC03QTRqRzJBRzZvRUM1NVFpT0hrRi1BMzNib19jUTJGNjFQQmFXdTZWNUVPTS1YZ2JEd1dvTEhFZHJSUGw3S1YyMTlTWWQ0UURWNDB6TWMtZGtGOHVTTTBwbzE3NVlBOGRoNnBVbmRDQUZsR1FoZjR4NnF2ajR5Tzd3Wk9ZQVY3LWxpUzcwcUVY?oc=5"
     },
     {
       "title": "When Structure Matters: Structure-Aware Learning for Interpretable and Reliable AI",
@@ -15,10 +33,16 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORWgxa0JKQnR5NTdUNzhCOHVRNWlIenFRdzhKdkw4U1BlVDBMc2hFTUVITFI0OXFwSDdtT1p3YkF3cFY0Y2R2NkhVSmRfQVpUX1o1REJBZ1lXSGpGQ1R6X19abTB1QnhUQXBPSmVyZ1FPNUhEUU9UUjJHVm4yQzB5WW1qWXkteUp2T0ZYbVhDUWhGQm15SWVtb0pRWEdNb1pzSXNIYTVDRG4wVF9jS2c?oc=5"
     },
     {
-      "title": "John Molson School students develop and present an AI solution to industry client",
-      "source": "Concordia University",
-      "date": "Mon, 19 Oct 2026 20:03:58 GMT",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQ21lT1h3NWhRVy1fNXhCeU1nM3BneGF2STdQS0d4NEtTM1FRZG1NRmtEaVNrWTB0TVU0Rkg0T21FSDY3VjhiOW5ZdnhRLXlzZTU4WVhqZXhPa3NXVDgxYkZfUEdBOUExV2s3aVZIcWVSUjNpZDI5NWlsSUZ3anY0eENyTWxyNUVqaWhLV3JJWHVVVS03S0RaZnY4d1RDQllJYm0tQjdFUmZxNkJfRDBoZ1kyTlEtLW5yYmZ2bTVOMjA2VVozUm1fR1VKVkowQlFO?oc=5"
+      "title": "Artificial Intelligence, US Reversal on Beneficial Ownership Fueling Fraud",
+      "source": "ACAMS",
+      "date": "Tue, 20 Oct 2026 02:06:53 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUjdBYm9ZTkpxVmhWRXBNOE5WRzhoc01QUUJjRDB5YUJ0cFZyZndfSk9QUW92SHEyWEFHWjlEV3dHS0RwNXpjLVB0dUp3cmIwVTJiejhNa2ZLOU10RTZ2RnlWUmhhZTFJOUtzbWlid2FXZHJ1ZEpNeUxLMWlKVlBISlViYlFIUkpseFZUbEJBanZUSFAyU2hfT3AyVU04V0U4dlE?oc=5"
+    },
+    {
+      "title": "FCA gets hundreds of applicants for two top artificial intelligence roles",
+      "source": "Computer Weekly",
+      "date": "Tue, 20 Oct 2026 10:20:42 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcVkzS082OWxpVHRsVjk3N3dvZDUzRnM5MWx0bGFXNllPZUlnaXFKanJRVkhySkNFNmIwRHo3STJhTkJZMk04WDZGOFB2MWtYWnNlZjk2Q2Q5S1BxWjNjZENUZUdLRkM2clVZTmh3czZiV3Y3MnRoc0tWSUlwQWNidVhrNnJGVUZvemY5NlpCM0M3QlpPR21PTHhIR1o3YjJNWXFZNWdGLS0wWGZaamQta2lENWxmTXppRmxJ?oc=5"
     },
     {
       "title": "Better Artificial Intelligence Stock for 2026: C3.ai vs. SentinelOne",
@@ -27,40 +51,16 @@
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPRGdDUWdUTmp5dkJkOHN2RzljUGpoM18zSUdybzJoczVIbnZnVjlTejdEUzV0T1FQVHhwZjFFM1Q4MEhxRTZ4VVJaMmlXUENXbnB0R3dhbVlTYnVKdVRFZ0pSNUVhc3FHbVp4QzZVTW5CMTE0Y3ZfYjBueWdLMW9ZVVpRMF9ZVUkyY0V0REJSYXpqQ1E4dkRQOG5lVkJLQUFpOUtFb3hBajVlRkpJSE1MR0tFQWRRYjVETXJnM1cyY0tCYUV5TXRVWElNdGltdzVSaXZBWkpCVmRBc3p3NWhZQkhVcGs?oc=5"
     },
     {
-      "title": "Migo Robot exhibits embodied artificial intelligence at Hong Kong fair - Vietnam Investment Review",
-      "source": "Vietnam Investment Review - VIR",
-      "date": "Tue, 20 Oct 2026 02:37:35 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPX0hKUUJSVElNbVRSS1lKbnY3WUgza1A4bUZmWUpCWXBJeUl5RmxCSWg3MzhVRVRNUmpyUDNmRmxSaDNNdllaVjdIOWliSXZpQkxRd2NhM2xkZE1sR0hlZWtkeV8yZkFwRFc2Y241RjktREloaEwxNjE1VGdMN3FLX1FWekdBbm1Wa21oWUYxUlkyeHpjeUdDRnNZQWNYY0xMYjh3?oc=5"
+      "title": "Global shares mostly decline after AI stocks lead a rebound on Wall Street",
+      "source": "BNN Bloomberg",
+      "date": "Tue, 20 Oct 2026 09:55:30 GMT",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUEtTS2tuVXlSZ1ZoN3JDX21yWHl3emJ1MThrd0hVVUdRQ0pEWExBa1RmdmVKSHl3Yk84cm5rYmlOQ2E0R3BCSVpmbE1qQkJDRHB4S0lLdXlVUnQ0MlV0VDRxbnl5ODR2WGJ1WGJESGMzWFZLeTVQQUZkZVdRMENPT3BNVU4zSlF5ZU1WYkVhQUROc0RDWHo2dVp5b2QwVURNT3phUXg4NExTS3F5bEcxa3hfb0hRb3gzLUtCQm1FdnptdFFLX2JVTlp4TlQ?oc=5"
     },
     {
-      "title": "Researchers use artificial intelligence to design potential antiviral compounds",
-      "source": "Phys.org",
-      "date": "Mon, 19 Oct 2026 16:00:06 GMT",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUFljVXEtNWotXzF1SWdqbmRNdkxKd3piV1R6QzJCS0lLeGhOZlFNTW5RLXJQcDd2SWJHeXRoTXR6N2pKcC1Wc2VQd1VpSVpBc0ZrSE9SNkhvRVBrS2hYZ2FZSWo4cHJUbnE0cWpxYnJ1dGVmSWw5akpCVjNlZDFyVkcxRVdLRDdIVXFjM0lTUUtRZw?oc=5"
-    },
-    {
-      "title": "The AI doom scenario you've never heard of may be the hardest to stop",
-      "source": "CBS News",
-      "date": "Mon, 19 Oct 2026 15:33:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5mMmdEVkNzd21XbDlBaTE1YTdQNTU0NjBjYXgwTTFJMWhkQ21ISnhhX24wYkJjaTJnRDRfVHk1djY3T1kwbU5HWDNfS216cEhLRHBhWlFBTnhOUExsSklSUmd0SXYzVGVkTUtlRUp3OG5DRVdpeXcwQQ?oc=5"
-    },
-    {
-      "title": "AI in Software Engineering: The Reliability Paradox",
-      "source": "Bain",
-      "date": "Tue, 20 Oct 2026 04:07:30 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTWFPN0lDSUpiS3FtU1hpTk01NVI5ZVlYOWlqUE1mQWR2RkN2ZzVuX2xzX1hSMnU3X2lET2lBdkRZZHJadjU1TS04akxWRnhzRTcxcXp3TDBfSWxJWklTblNpb2hoVHJ3cUppQ1ZIMEJnTlE0Z2o1VGNCWGFQWlVpWDdsdTFFOGct?oc=5"
-    },
-    {
-      "title": "Artificial Intelligence, its multifarious uses and warnings about risks to humanity",
-      "source": "IslamiCity",
-      "date": "Mon, 19 Oct 2026 21:38:28 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNalRaYUdPd0Z1aHFxM2dWT0cyVlJCLXRqeWQweEhzdGRuQlM5UWNZOXdJbnhTRDhTb1hyQ21yNzkxdVVTYkZYOVB3TUx1TVJSUUNJUFphcVhMclVVdWJUYndrS1hnV3Z6RmpYTTRZUHBma3ZqamwxeXhqQkdrNmtsWFNzX1BuSXZGeGszN3JpVllMQ0lpNG5fVW83aVEzdFViZUE1UUxQTUZHS3BNNHBCaHc5ZnY2UGE5?oc=5"
-    },
-    {
-      "title": "The Average Man Is Such a BSer About AI That He'll Claim to Know About an AI Executive Who Doesn't Even Exist",
-      "source": "Futurism",
-      "date": "Mon, 19 Oct 2026 13:11:31 GMT",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaGpmM3dBMDQ5VDRzcnlLbmtZa0p6WTBUcWZqUGpJWFdDRFZlUG1aQjJPcGtMeVdRSEpMMnFlYkViQ0E1V0lvd3pfNWFXMjVzRDNLUzRHR0wzbFMwY0hQd1hRd3pXWml5dFRkWm54MGt2Y0h4LWEwSkZOWlZ1VVdIQ3VTN3pSQQ?oc=5"
+      "title": "China’s outbound AI strategy starts with models and governance and ends with chips",
+      "source": "Bruegel",
+      "date": "Tue, 20 Oct 2026 10:56:25 GMT",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMk5XYzAwcW56UDBCRG9PZzlBTWJubkJCQ1k3TEE4c2otQmpQdXNkcUk5cVpEZDFZUnlYNFJuTjRIMDJZUC1wc01ybHRGOHZEN0hwLWhjbHVrdFVpT2xuNG81TDdJV0pscXo5VjhnQ0pKaWkzSEtXVmhXWGF0OWV0YlZNXzdQanctS3Job1F0WF81c196dmJmSTctQ21xX0x2MEZXR2l3UQ?oc=5"
     }
   ],
   "events": [

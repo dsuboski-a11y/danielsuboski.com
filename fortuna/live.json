@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T19:15:09.438652Z",
+  "updatedAt": "2026-10-22T22:22:47.392584Z",
   "locationLabel": "Victoria, BC",
   "headlines": [
     {
@@ -9,16 +9,22 @@
       "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNSThqcGxwX3Zkb25lSHhpRTBWWVpWa3V1RmFTU1lEQjV2SGViNFRiNGVneEpXRkVGQ0FGclRobWlYeHo5S3JPSE1mMnpoLV8zVFdyZVBoRjU4U1Fiekp5bFlqS3Fza1k2YlA2QzRmRkhoenNpZjJnV3FqbHY2WkNKaVB3c1N2dV9FM3BBMDBidVdscVdlMTJaaHZrZEk4cmFGN2wzTDhsNkZnamRJdkg0WjhMR0ZfSFlWX3p3Nm40UEhkMTQ1ZnpYM2MtdENGSTVTLWFwOXZ6YzJJZGp1S21vSFFNN2NFckRZT2RzWlR2YlctU0VQTzlsV0Y1cjhRNUJLdGNN?oc=5"
     },
     {
+      "title": "Library and Archives Canada cracking down on AI books amid copyright threats",
+      "source": "Global News",
+      "date": "Thu, 22 Oct 2026 19:28:46 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeFUzaXVJLUQyTlVGa25CLWlWMUcyRm93dEttXzI3T2J2bk10RkItS0JBQk1qaVQ1RnpLTUM4LTYweEtQVEhPYnhNcndBemJIQld0MEROWUFKNk9iTXNrWFpJRzlWZFpoZzRzeE1GSXh2ejdhanRlcmk2QlVZSFZ3d3VOZFlCZWkyM3hN?oc=5"
+    },
+    {
       "title": "When AI is not the (best) answer",
       "source": "UMToday",
       "date": "Thu, 22 Oct 2026 14:16:47 GMT",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBneGtqZDJ3ckt5VFdQT2NnajNQNTlLOU16SnBadGI3VF9SckVDaXBremN1MW1mYk84N09uRThqc3lzZjdaVU5OZ3d0X21kckZaTTMxVWNiN0VvNmtwVVhr?oc=5"
     },
     {
-      "title": "Artificial intelligence in stroke rehabilitation: A structured clinical review - News-Medical",
-      "source": "News-Medical",
-      "date": "Thu, 22 Oct 2026 13:01:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTEU0dFplTnltRGstVnJEaE9WUHB0WTRDZGVnZkc5SnhXc3gyVzktWUJNWUEwcW5OeHphZUZfRTV0S0t4aUhmbjFrWURmSXVQOTdRUlM2SlBFaFg3SWpESmdfalJTMTZ4REdxVnhISlp3WTFZNS0tOFBxM3RRd2k2ei1JemVMcnl2dVpOZDVaS1l1Ul9KaVBxNVFGQmVtSGx2WV92dkVrSHMwd200SXJsbUtod1hzYjFrdHo1cC1UakpvNU0?oc=5"
+      "title": "Hastings County expanding AI use, revising policy",
+      "source": "Belleville Intelligencer",
+      "date": "Thu, 22 Oct 2026 19:34:02 GMT",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5MVnotZ1NfVkFPNXVFNVNydkJlOEMzTFZWMGVCRjBUR00xcE5TNzJMdXc1ay1wcW12NlNQd2RsOXYwN0ZHSHFHRmRJZWd2bW1uaFN4OGhuY1lmVmVWdFdfSG9WSnJPUmFfNS10T21jU3VxS1pwblBzQjRvODZOTVU?oc=5"
     },
     {
       "title": "Another Proposal to Rename AI",
@@ -27,40 +33,34 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5WOTE0czl5am9tYUUzRnYwVG5yNzVxYno0QzJ5eTBRYmZzRXhiV3RIZHh4aEFBVW5TblpZcU5Gc2Q3Wmw3OXo2OG8wU2N1ZVl4Q0NGU2ZXa2wwSHFWSk5rRDBOYl9PME50SkhSeQ?oc=5"
     },
     {
+      "title": "Artificial intelligence in stroke rehabilitation: A structured clinical review - News-Medical",
+      "source": "News-Medical",
+      "date": "Thu, 22 Oct 2026 13:01:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTEU0dFplTnltRGstVnJEaE9WUHB0WTRDZGVnZkc5SnhXc3gyVzktWUJNWUEwcW5OeHphZUZfRTV0S0t4aUhmbjFrWURmSXVQOTdRUlM2SlBFaFg3SWpESmdfalJTMTZ4REdxVnhISlp3WTFZNS0tOFBxM3RRd2k2ei1JemVMcnl2dVpOZDVaS1l1Ul9KaVBxNVFGQmVtSGx2WV92dkVrSHMwd200SXJsbUtod1hzYjFrdHo1cC1UakpvNU0?oc=5"
+    },
+    {
+      "title": "‘Klara and the Sun’ star Jenna Ortega: ‘Artificial intelligence isn’t creative’",
+      "source": "Los Angeles Times",
+      "date": "Thu, 22 Oct 2026 20:12:40 GMT",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbXNyZGJ5aGs4blVBRDIwSTh4VVpGdldNSENmY2tfZlEwZ2JTamlkTTJXazFBYkFlT0c3QlFHQURrZ0tQSkNaRkhlQU1uS1J3ajMwZ3FTa3ZjWkhuU2MzMUZzWF92YjhxM3BUV3ZEYVlZNWFRUmlPVlIwbGl4YVI1X0oxdDRtOVN6Q1FsV0pxV3FtLUsxV3lOcENKS1VPN0k3N040OG11SUplLTVmOVM3TGM2dXJrSzRJampjSGExbw?oc=5"
+    },
+    {
       "title": "Experts: How are climate scientists using artificial intelligence?",
       "source": "Carbon Brief",
       "date": "Thu, 22 Oct 2026 10:50:49 GMT",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPa3loTFZhbUZ6X1NzNnBZQXMwUGVwbHFvMmM0TVl6QTgyeUVYUHJjQ3dsX2ZWRS1DYmp2b29lMUdaTHl4RDMyYVVyT2V5YnE0d0thajZtU0x4ZDN3N3VuS2JqeTB5TXhhdXREcDAzUUlmb0NweC1ZdHdyODZEaXRCbkVLak5vWEk3NnRua3haakZWaEpnTm1n?oc=5"
     },
     {
+      "title": "Sharp drops for AI stocks overwhelm markets worldwide as oil prices jump",
+      "source": "BNN Bloomberg",
+      "date": "Thu, 22 Oct 2026 20:33:35 GMT",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPX3E5RERKVHVqRmI5blM2WWs0aEVGOS12dHBranpVVVdWZUJaTFRYUFNOalJZVGt6a3RFLU9kblZPWWhrQVNYWWp4cjV6MkowWm1nVmpxcW5lUktiNHRTVGlkY0VoREYwOWVUQk1pZjFteFVPRVlrVzRIVlJVVkczVU9QaXAxSVUySWZkSUFBZU44bDRVZXlFazh4QW8zdmZWVTMxc2ZzN0tqYUNZWXNxWWs4ZURWem5qSlRuSlBocDVRV3dVSmN1aXB6aEg?oc=5"
+    },
+    {
       "title": "Don Beyer on artificial intelligence",
       "source": "Punchbowl News",
       "date": "Thu, 22 Oct 2026 17:42:48 GMT",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1KdF91WjVpRlhLSWxXVTdRLWtPSXdBTUV5d1RNd0J2NmpRYmc1dXd5d29WWVpKOWFjclJjdmdOUjI1a195WWZVYjR3c0t4VVBaZlBuN2twRHhXZ0lhUXJtT283SmNaVEF5RHNsTl96aHJ2bnMzcUJ0SjkyTTlqZw?oc=5"
-    },
-    {
-      "title": "Artificial Intelligence Tool Helps Farmers Reduce Livestock Feed Losses",
-      "source": "Farms.com",
-      "date": "Thu, 22 Oct 2026 10:52:38 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQR2NtZ19mZnVtNUVuRUpzeXo0TjNNT0ZxV3JORVhXamo4VnAzOUtia05OcWZGXzdmSFJveGY4MXJLVmtGWWRqNVhfTWNOeHZtZkZaQnpDbUc0TmZVSmxaTUt3b1Mya3lfSXRUQVdvYkx0OUZtTDlVY0p5UjJZQS1hUzVFTFRpcjZSQjYzMko5TTEyYU5kVF9rcGxlVnBYcXA1NXNGZ3VZV2JTbXluaHItdXdMb0ZZYVlGZW8w?oc=5"
-    },
-    {
-      "title": "The future of underwriting: Integrating digital evidence, artificial intelligence and human judgment",
-      "source": "Munich Re",
-      "date": "Thu, 22 Oct 2026 10:38:50 GMT",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQZk1VV2h3MFRoTGl0MDBjVlZWMWlaeU1laUtwSlEwemkzdmZaU1hSS3UwQzVjMkNrSGU5b0RMOF94Q0ZRZ3V5bGFZVm55bkpiLVhNY1diWHNIWlR2N3pnVDhKbGR1Yktlb3lrMjlldkVTMi1FMjVySzRMV1JNaHNObk5KQWp1X2RrbXItVEhJNmNXTnVSdmV2YkgzcEw1OVB0VHZ0UVFQRjRuVllkTjgwM3QyVTQyX3dneG8zTDd3YVo5ZnhDM2gyWGZVMXgtdHcwc3MxaXVFV1g4NF9mbl8yZDUxSXhRbUs0MXcxNFhtay1waF81bHlBYzdob3oxejF1SGJ5Zw?oc=5"
-    },
-    {
-      "title": "Sinking AI stocks undercut markets worldwide as oil climbs to its highest price since May",
-      "source": "BNN Bloomberg",
-      "date": "Thu, 22 Oct 2026 16:22:47 GMT",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPX3E5RERKVHVqRmI5blM2WWs0aEVGOS12dHBranpVVVdWZUJaTFRYUFNOalJZVGt6a3RFLU9kblZPWWhrQVNYWWp4cjV6MkowWm1nVmpxcW5lUktiNHRTVGlkY0VoREYwOWVUQk1pZjFteFVPRVlrVzRIVlJVVkczVU9QaXAxSVUySWZkSUFBZU44bDRVZXlFazh4QW8zdmZWVTMxc2ZzN0tqYUNZWXNxWWs4ZURWem5qSlRuSlBocDVRV3dVSmN1aXB6aEg?oc=5"
-    },
-    {
-      "title": "Is Artificial Intelligence the Great Equalizer for Independents?",
-      "source": "VisionMonday.com",
-      "date": "Thu, 22 Oct 2026 12:25:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQOEM5T3YyZThMMDJ5SnU4bXVJRUJNalFOQ04tUWFUNVdvRFJ3SVMyV09aM2pjOFhsSGpZRXViTm1QTkJlMENtSmpRQWdPcVh1LWpsQlV5QUxqVmFUQVYtbkFzWXBnZTF0TWZIR0VWSUkwREZzM3hOVFhGR1ZDYU9tNzEzTlRVbXhWU1hJaE5QWVQyNWhkVWs4Z3hpeW9XcUMyNkNKRlJTcWlNRVNmMXVtdFgwV05oTlZuWUowWFNIRkRLZjA4QkpIdnFibUQ3RFUwMDlWQVhQZVNWdlFtYTFmNnJqTGpSQk1pSG1KcUZjX1ZuazJXMlBz?oc=5"
     }
   ],
   "events": [

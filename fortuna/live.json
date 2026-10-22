@@ -1,12 +1,48 @@
 {
-  "updatedAt": "2026-10-22T10:10:43.477503Z",
+  "updatedAt": "2026-10-22T15:16:41.733915Z",
   "locationLabel": "Victoria, BC",
   "headlines": [
     {
+      "title": "Experts: How are climate scientists using artificial intelligence?",
+      "source": "Carbon Brief",
+      "date": "Thu, 22 Oct 2026 10:50:49 GMT",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPa3loTFZhbUZ6X1NzNnBZQXMwUGVwbHFvMmM0TVl6QTgyeUVYUHJjQ3dsX2ZWRS1DYmp2b29lMUdaTHl4RDMyYVVyT2V5YnE0d0thajZtU0x4ZDN3N3VuS2JqeTB5TXhhdXREcDAzUUlmb0NweC1ZdHdyODZEaXRCbkVLak5vWEk3NnRua3haakZWaEpnTm1n?oc=5"
+    },
+    {
       "title": "Nvidia Has 80% of Its Portfolio Invested in 2 Artificial Intelligence (AI) Stocks",
       "source": "The Globe and Mail",
-      "date": "Thu, 22 Oct 2026 09:13:08 GMT",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPejhFcWFLRnZMZkdPLTFqQURibkJidjBMMmJQRXhqZi1BNHN1VzVCai1LOHMtTGhmVEhSSE5IR19jYmUxSWxqS1lNakZHQURSREJQbnFyY2JSYTIxUnlxVXUxZDhSSC1pVnpsRF9kSnJJV0o5UTc4blA5Y1FZc1JCVnV6OWVPai1TMzdNeVBoVEYtenlnS2NPQXhNYzEyT0pSemdfVC1URm0xMjBNLTJXa2dLRE9rOG5zS00xX0FzZ0hEZy1ObjR2enozdUlRNG5UYUpCdnprSHRhSzdKY09SSmlHMklKMlBFY1N3M2s2R0lyZ0ZI?oc=5"
+      "date": "Thu, 22 Oct 2026 09:17:11 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPeWJhbWwyLUVPeHNXa0UxZ1FzSHp0OW9RS3pyS3UwNFRhNnptaG1GQVUtNXBURW9ac1psb19Pb3ptWktPcmRFUTdudmNTb3Jlc2lOM2gzTk4xTGlfdHR4WDRiUF84azIxZ3lUaExCMXEzLTY5SmRHSkVyUTVod3RHSmZzckF5VkJKX2VxLVU5X0ZNWGo2Wk5tTHlPSWJHQ1ViSmc0WWU0TlF1U2F3RmZCN0lQS3BzNVRRcVY2ZXNESXpsRlowVlFKeXdpYWJVckdic0hXSlppbE1jRlBtR1c4bXhfV09iVk5iZV95ZzZjOFpnQU8tdVFn?oc=5"
+    },
+    {
+      "title": "Artificial intelligence in stroke rehabilitation: A structured clinical review - News-Medical",
+      "source": "News-Medical",
+      "date": "Thu, 22 Oct 2026 13:01:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTEU0dFplTnltRGstVnJEaE9WUHB0WTRDZGVnZkc5SnhXc3gyVzktWUJNWUEwcW5OeHphZUZfRTV0S0t4aUhmbjFrWURmSXVQOTdRUlM2SlBFaFg3SWpESmdfalJTMTZ4REdxVnhISlp3WTFZNS0tOFBxM3RRd2k2ei1JemVMcnl2dVpOZDVaS1l1Ul9KaVBxNVFGQmVtSGx2WV92dkVrSHMwd200SXJsbUtod1hzYjFrdHo1cC1UakpvNU0?oc=5"
+    },
+    {
+      "title": "Artificial Intelligence Tool Helps Farmers Reduce Livestock Feed Losses",
+      "source": "Farms.com",
+      "date": "Thu, 22 Oct 2026 10:52:38 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQR2NtZ19mZnVtNUVuRUpzeXo0TjNNT0ZxV3JORVhXamo4VnAzOUtia05OcWZGXzdmSFJveGY4MXJLVmtGWWRqNVhfTWNOeHZtZkZaQnpDbUc0TmZVSmxaTUt3b1Mya3lfSXRUQVdvYkx0OUZtTDlVY0p5UjJZQS1hUzVFTFRpcjZSQjYzMko5TTEyYU5kVF9rcGxlVnBYcXA1NXNGZ3VZV2JTbXluaHItdXdMb0ZZYVlGZW8w?oc=5"
+    },
+    {
+      "title": "The future of underwriting: Integrating digital evidence, artificial intelligence and human judgment",
+      "source": "Munich Re",
+      "date": "Thu, 22 Oct 2026 10:38:50 GMT",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQZk1VV2h3MFRoTGl0MDBjVlZWMWlaeU1laUtwSlEwemkzdmZaU1hSS3UwQzVjMkNrSGU5b0RMOF94Q0ZRZ3V5bGFZVm55bkpiLVhNY1diWHNIWlR2N3pnVDhKbGR1Yktlb3lrMjlldkVTMi1FMjVySzRMV1JNaHNObk5KQWp1X2RrbXItVEhJNmNXTnVSdmV2YkgzcEw1OVB0VHZ0UVFQRjRuVllkTjgwM3QyVTQyX3dneG8zTDd3YVo5ZnhDM2gyWGZVMXgtdHcwc3MxaXVFV1g4NF9mbl8yZDUxSXhRbUs0MXcxNFhtay1waF81bHlBYzdob3oxejF1SGJ5Zw?oc=5"
+    },
+    {
+      "title": "Form 8K Artificial Intelligence Technology Solutions For: 22 October By Investing.com",
+      "source": "Investing.com Canada",
+      "date": "Thu, 22 Oct 2026 10:23:02 GMT",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPb1FMNzloUXBMTl9ZMkpkTkxNaUhlanM1WVhtbkpzZlI4OHAyb1IxWXZzZXNCRmZmYVVHSXVreXpYTFkzWE51eHh1c3FmX1BtWWdpVndRdUJzTUV2TWNFdS1QaTdPRzgxZkdOVDRQSHFWaVFBRng0WDdidHVMQnV6MURCV0JPZGVCcGdSM3g0U2RvZG1wd3Zvb2g1YWhTdkpxLUgtR1ZuWTZDcHRIa2tZazgxODBiSG41VThFdExlSEgxRXhKaUpv?oc=5"
+    },
+    {
+      "title": "Chile, Brazil and Uruguay lead Latin America in artificial intelligence adoption",
+      "source": "TV BRICS",
+      "date": "Thu, 22 Oct 2026 12:33:47 GMT",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWU1zOGQ3aDdkd0ozbDZWY25QNXVmdkpRc3U0M19MTmJrUWFmQXBpemFhNkdkZzVlQlo3VEZKX2ZyRlYyRmJPN0c5NklzVUxLZWNOS0VSRVNYS1NneFdlUzdTM1ZUTmxxU1lBQzVXRVV5cW9uVngxclZmcW12OVM0dlFRc0R1WmFvVTVDY3Jyc2U0WW1GTlgwZ0xFSk5ZWWluTXJrWENBT2xMMnJm?oc=5"
     },
     {
       "title": "Cognitive Task Substitution, Cognitive Offloading, and Behavioral Dependency on Artificial Intelligence-Assisted Technologies: A Scoping Review",
@@ -17,50 +53,14 @@
     {
       "title": "Artificial Intelligence for Enterprise Architecture",
       "source": "HackerNoon",
-      "date": "Thu, 22 Oct 2026 08:32:21 GMT",
+      "date": "Thu, 22 Oct 2026 09:01:34 GMT",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96SE5vTEt4dE13VVhjTWxNeGtsRjdXZnFUR3NITGNpVnQ3T1lXWkFZS09IQXNudGRjbVZMU2M5OWFCR0pyV3RFd1hfVkxReERXR1lUdHV3LWxXekNZM25zWXJ2YTVYUnZpRm9mcmVFLWxETVoxemhZTzc1M2YyU0U?oc=5"
     },
     {
-      "title": "Apply now for Regional Artificial Intelligence Initiative (Canada) - fundsforNGOs",
-      "source": "fundsforNGOs - Grants and Resources for Sustainability",
-      "date": "Thu, 22 Oct 2026 08:43:56 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZzg4LVdqN3NaQWVTdXVfSnpyQzVEZ2FhNDQtcWJCLUcwZE92MlRaVWxFd0xLRDZCQ0oxNUtqcUJWMDR0YmZ1eHYxVGllTmdQdWVUMkxOcC0tZjllTDRnaVhlcE9SYnRHX3FzVlVKVk1DX1diWDQzZG5rcy1XVnJYR1lweEhnWkoxX0tRbGRtbllybTRpSjRvbkY3dl9NaG1pQjVvTWlsdmZYZ9IBrwFBVV95cUxPN1ZaVXZvNHliXzVRMWRLUnk3N1NaWUx0UWt6NHFMM1VDRHZNQndBX0o2MzRiczJ1NGZYTFNiM3FLSkV0ZkxjZWVlTUd6b1ZDQTVocndxUW9XajFaYXE4amJNdU01TlpDa3c2TVRZaTVoQXpKU1M3ZmVXRUFDLXV1Wng1bmNhcjdaeXVKZlVwVnRZYjI0LU5FZ3ZSM0xiMDVZZ1BwY2xYUS1LYUxaeUE4?oc=5"
-    },
-    {
-      "title": "Nvidia Has 80% of Its Portfolio Invested in 2 Artificial Intelligence (AI) Stocks",
-      "source": "The Motley Fool",
-      "date": "Thu, 22 Oct 2026 09:33:57 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZHpMSlN2SjNMczQ0MDVlQmhKWVV4dFoxcHQwS2tfakxSaHJLMUdPdFRQcmdSZFBtMURPSWVMeHMtVUh0V2MxdFlTN2Z0M3lvdk9CVTJzdHoyWUp4LTRna0o1Qi1RdDFmUkNSTjlsN3czc2hyTTRjUTZFX2tPUkxsYlFuNlhpRTJDNllr?oc=5"
-    },
-    {
-      "title": "UK Taxman to Tackle Rogue Advice From Artificial Intelligence",
-      "source": "Bloomberg.com",
-      "date": "Thu, 22 Oct 2026 04:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcnFiMDZiWjJyREU3d0w4N2d0Q2xNaXJ5c3ZuVVgyeDNfMkJMbldBc2JRNm9pTzA5TTB4RFp1bGpiWVNuT2tORHBlOHFGRkVTUnRFQUtuUzQzd1gzckhkSTBNVG1TZjh6bG5odFg1b0xidTdfbDQzU3Q1Q1cxZTBUWjV5LVAtYW5HV0xiaDBqWVlTZ0lGaHBEWS1iN1lwUjBzM2h4THpLYVJHS3FHd3B5aG53?oc=5"
-    },
-    {
-      "title": "Some government websites taken down in response to security risk: AI minister",
+      "title": "Ukraine’s strikes on Russian data centres disrupt key services and derail AI research",
       "source": "BNN Bloomberg",
-      "date": "Thu, 22 Oct 2026 00:54:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMUgtajk2VkMwNEZoYXR0aVFqbE9qSmJrTURwMnVTVzI1ekV2cjVMTlpVUC1LTU85QUtZQmk1UUJ3X2lYVVhmTG9JcTRfY3dBUmI5dVV5Uk9ndGd0cEdGZm1QSDR5R1lnMEROUXBUS0RDQUtIbDAtcWJ2dVhUT1pOVklJbUQ4RlR6SkhMTm5abEVtTW5wX0htTVJtS2ZSLWJCa2NmVUZuUEhaMHBFeldyZnEybUNaLU5mdFF4Y1pqT1BDdE5od1hGaDllWjRxNW8?oc=5"
-    },
-    {
-      "title": "Prediction: This Artificial Intelligence (AI) Stock Will Be the Biggest Winner of 2027",
-      "source": "Yahoo Finance",
-      "date": "Wed, 21 Oct 2026 21:36:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQY25DZ0FlNTJMTFBwRkNKV2p1Skg2dFN1djd2ejlTOTE1U1RraXhadzV0NFotcXlLTlhhRXpiWGRwR1otaTAtNWtNY3JxN0lQa2NEc0RaMWxFb2xXV0gwbS1VdmJWSU1pc2ZaNlZuMEMwTmE1ZW12RFlldTEtZ1lZSWpTbVdyTDdNcGNSTW9mdV8xY2tHLUFlX2tMNDZwTEtSb1M3ZjcyMlh2ZnBp?oc=5"
-    },
-    {
-      "title": "Walmart unveils tools allowing AI agents to shop for customers",
-      "source": "Le Monde.fr",
-      "date": "Wed, 21 Oct 2026 22:08:21 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONUhOU1BONzZmZHJsa0thYXhuNWZ1enBCZ3FOaXpaNUg4NjRSX2dsWmFfalZlNl9Sald4YVhzREhpeXpGeV8tNG1TOG9OT0puYWNLMWpxQWRycXZzUmkwa19CcDV5aDY5SWI0clEtZ1JBNTRkN1RmVDR2cm5MRVJmVkZrTkFmQjFMbXhESFNIU1p5VzY2TndhZDhYM2x3ZmxHNEFDNkM5V2gwNVB0QUZMLWVYOEZBZWl2Sy1iMWhhajRraW45bm9ROTVqNA?oc=5"
-    },
-    {
-      "title": "Cassava Artificial Intelligence (AI) deploys NVIDIA Nemotron to accelerate agentic AI adoption across its markets",
-      "source": "AiThority",
-      "date": "Thu, 22 Oct 2026 08:32:03 GMT",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOVmV2RVdGa3lSM3VnQTYtVWp3b1QyOUZVSG1IeHhrZEFoVDFzZkU1R2l3NXJvejFRSjVBTkF3eG5yM0hUTUIwLUJ3SnhKbUJZMnhNMDFOMi1taUhEb0NSTFZFNXBIeEFOaDFiUndiVHRGLVdyMGlTc2hOd1gxQll1cHQyS3FTMEtfTWhvLUxGR2N1b3g1eXlRQ0x2RS1jSlRXV1RDLU1zeUd1TkItT1dUbUtLYlNJZ1NiMWZjZkFiVVQ5ZXRVV1FiTktBWHRRMW1YRHRYWEt4dzRoLXJCQ1BaTDVnb3hkZw?oc=5"
+      "date": "Thu, 22 Oct 2026 12:00:29 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPbWtIRVNiQWY3bVVxTTQ3LTBNVThCX25CNU9aRDVESTdlMW9yODdkdGtJWDBJLU5JQ2VQeENCeF9wbWRCUWZwMW15RXpVZXk4NG9oanEyRjBjNkNFbzFZWDJkT0p0endlLTY0OGVIQklPRURnSlh2c1dMMDFFY21IMmJMVFpacWtBcGtyU1FLU3hyTFViOXE5MG9KUTVQYUF0Rk80RHV1ZDdOeVl3Z2RNbEtScXBFeWlTQTk4bXdNdHNHaHB5VFQxVFVCc3VGcjBjNFFvRGhKSTV6bThKWGEtbjVpQWhDTGpWaDdPdVpn?oc=5"
     }
   ],
   "events": [

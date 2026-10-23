@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-10-23T13:26:40.841562Z",
+  "updatedAt": "2026-10-23T18:21:29.707103Z",
   "locationLabel": "Victoria, BC",
   "headlines": [
+    {
+      "title": "Why Trump’s Rebrand of Artificial Intelligence to Super Intelligence Matters",
+      "source": "Time Magazine",
+      "date": "Fri, 23 Oct 2026 13:46:47 GMT",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdmpXSEdxRG93Z3B2V3NtZFF3X01rRkR5d2M0MHpQcDFFLXdCMHNHb1Jza3FyQmF4ME9HMHRWSjNXX1FIeFpMa0JGVGM1RC1aTV9fUkZSMW56dDgwNXhUVE5MUEVDOGlOVVZ1Y2xaNGhJeFlnYzBGeEVId3l2OV85RWZJUFBOaUU2UVZRZGstN0VGVFZaU2Vkb0x5UVp1RWU3aURnc1Z3VVkxYkJUV2ZoT1lR?oc=5"
+    },
     {
       "title": "When Artificial Intelligence Becomes Irreplaceable: A Proposed Framework for AI Attachment Dysregulation",
       "source": "The Cureus Journal of Medical Science",
@@ -9,58 +15,52 @@
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQQmlzVS04OHlmQnZQeDQ0M2xvczFueGpZY1FoRENIbkV2TnYzSV84VVQzTkZaWHpLNW41RlpzU3hWNzZjMnJucjFteFQ1Ui0wRnprLWZpUng1cUJURlRmeEk3V2FhcTg2UHcyMXp2dUxsSGQ1UEhTMXVzTExUTUlrSGU0d1VOQUdCb3RYa29aQXhMMWhGelRUQ3RlWHgyMzY3ZVBUc2ExSlg5NnVqQUtXMXB1U1hBbjUxSkxYRS1KWmh5YWdpM0RhQlItN2N0WXAxeXQzakpoWTNJQQ?oc=5"
     },
     {
-      "title": "Responsible AI: the key to turning technological innovation into positive social impact",
-      "source": "Esade",
-      "date": "Fri, 23 Oct 2026 10:33:57 GMT",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZzdYWEJuUlJncEhsZG9fUW94QkpiRXo5eUZOd0FqVllSLXdkQ1A4THUtVG15MFJiVm5rbjRqT21QQy1fVjhrSXl0MzF5Y3Z4X2lacFV0XzVhWmFtUWgxc1R4NDZNUEVlQTRzU1RWeTZYTDZmUUIzVHZyWE9SZkNkTk9saFQ1NDMybTVrcERCRVVKdTZCNUtYUE15SXpyOGVGWG41UHZMVjk1bjZrSUtLbQ?oc=5"
+      "title": "Her 6-year-old brought home an AI-generated photo from school. This mom isn’t having it",
+      "source": "USA Today",
+      "date": "Fri, 23 Oct 2026 13:27:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTzhUVk54bHE1YUFQWC0wZ0JqdE8zSEVuM1AwRzJwMlN5dUhiMy1ITXpzMy0tOTQ0N29qZXVaZDRIcThpZlczbzBMeVppcTM4V0ZVbDYxN2lDWkk5a3liUm9VZTVaeTNUUVE0MkxaV0VNVGVVcWQ4S2Vqb1hQcU9oeXZqNXY3bmpLWExxdDN6QUEzc1dhSEwxRkplbE1sZXluQ2l3UVlsc2Y3NkFRT2hNRlNB?oc=5"
     },
     {
-      "title": "ASUS unveils enterprise agentic artificial intelligence servers in Berlin - Vietnam Investment Review",
-      "source": "Vietnam Investment Review - VIR",
-      "date": "Fri, 23 Oct 2026 08:36:30 GMT",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeUkwVnhjUE1meFVnZEd4UmIzUE9QVVZzYnBoMUJKVlFfdVYxNzFyM1FqdmRhMXdLMm9NRmV0RnZQcDZCcFJLaVd4a09ud3RqNGlmVGluN1lFRVpsN0wtQ2NIZjR3M3NlYzBQbUNOQVU2Y0tta1dZdW9yTXJuT1JzcUxvR1RjbWVBUXVtcmUwU2JaUThnUnR2MFlEZXNocktNS09ROUpvSQ?oc=5"
+      "title": "AI: From Artificial Intelligence to Automated Impact – aviation enters the age of the agent",
+      "source": "Routesonline",
+      "date": "Fri, 23 Oct 2026 15:22:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPRjBnTGZJaThUbW5FQVlYVHlRUnFPQ3J2eVNMaWlSaFlOOVJxTHZ6X3VTYzJFZXJ3UXh4NXlSOVdoX2FZaElESHdDNkdtcVFsTUxHUDBsdU9aUWluR2ZScS11VGR4bTJNX3VpbFh0MnAwSjlsZUV3TWtoNWlXSUVKMVlSR3BnWGpLSFhlNmdYQXZIZHdpZ0Fobm1idllfeWdOcGFPaThTM0ROQVlxdHlEVXdpVUs4Q1J5TkxuX3BqOVp5eFdtSWpMRTNmaUNUaDI4QzNhMERqS3lnczdiQXFId1BrZjE0eWFvR05JbDd2b2xtQ01sc25EczJiWnJPbkpmSTR1dQ?oc=5"
     },
     {
-      "title": "‘Human judgment will always be essential’ in the age of AI: Brock researcher – The Brock News",
-      "source": "Brock University",
-      "date": "Thu, 22 Oct 2026 22:56:16 GMT",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRjNsS0NaTjFlSVhPRXB6RHRnWUlmcjI0WGliLVdkcnFnbmFYSE9weXhObi02ajBWQ2NXanQ2clZtMDNUODhlbXVCZ29JczNXRGR5MGdESjE1ZHJocDlDd1hZeFA2dTVpT1prWjQycl9PbFBVMDJKQjJ4NjZkTm8wV0loenpEWktPT0hlM1dJUTlBajR3dG44eWJTbjktRmU1c2FfbF8xSy1jR2d5N2ZVMA?oc=5"
+      "title": "Amex to cut 5 per cent of workforce 'to prepare for AI'",
+      "source": "Canadian HR Reporter",
+      "date": "Fri, 23 Oct 2026 16:29:50 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTW1XQmEycS1NbS1tZzlfeGg5NUQ0a0FJNncyNWZMa2t1bnJaZEdVSHBGMnlEZW5qSFNua2c4X1ptLUd6WFMtaFotYjktX3EwSUdXUHVVb3BqdVUzODQwVVptNUdGUU1SZU85WjF5MFJzNVdlRVlwNDZyUERNVnRsQjlGMmgzdmplY3NDa2RXLUdqd1hHUEVuVHNYNGd4dUxWaEE?oc=5"
     },
     {
-      "title": "Government of Canada expands support for artificial intelligence adoption and commercialization in the Prairie provinces",
-      "source": "PR Newswire Canada",
-      "date": "Thu, 22 Oct 2026 16:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNSThqcGxwX3Zkb25lSHhpRTBWWVpWa3V1RmFTU1lEQjV2SGViNFRiNGVneEpXRkVGQ0FGclRobWlYeHo5S3JPSE1mMnpoLV8zVFdyZVBoRjU4U1Fiekp5bFlqS3Fza1k2YlA2QzRmRkhoenNpZjJnV3FqbHY2WkNKaVB3c1N2dV9FM3BBMDBidVdscVdlMTJaaHZrZEk4cmFGN2wzTDhsNkZnamRJdkg0WjhMR0ZfSFlWX3p3Nm40UEhkMTQ1ZnpYM2MtdENGSTVTLWFwOXZ6YzJJZGp1S21vSFFNN2NFckRZT2RzWlR2YlctU0VQTzlsV0Y1cjhRNUJLdGNN?oc=5"
+      "title": "A Third of Young Adults Turn to Artificial Intelligence for Substance-Use Information",
+      "source": "Rutgers University",
+      "date": "Fri, 23 Oct 2026 15:49:14 GMT",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaWlsblpZOW1MN09hd0JPOGtyV2J5TGNvaWtEZllKSnFEdVoxN0JQaEtEa0NLLW9Dd3JCQ2RzT3NtTXRJbnk4Y0N0OXFYcnFfbkxYclpkNC1kSXJEU3JVVGNFOG5DQjE4WEdzSWV5d251TmFCbl9PN2YtQnp2T3pFYWxGcS1tcW9JTEwxRF9mN3FwenlCZzY5aHowRkZuZi1yVzJBUQ?oc=5"
     },
     {
-      "title": "AI Artificial Intelligence Ventures Inc. Estimates – MUN:L1D",
-      "source": "TradingView",
-      "date": "Fri, 23 Oct 2026 12:24:01 GMT",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9nd1dlVFlzenV3MlZZeEdIRmlIb0VlNG1fWHJGTVhwWEVMWW5WYy10NXdEdk5nZEtpdUc4UUktODhyaHBCYURsOXY4SWRRZDVCNnd4Snl2M3pHelNBMVUzWERpdzQ4aEQ4bnVVajFLYXZNdlU?oc=5"
+      "title": "Federal government expands AI support across Alberta, Saskatchewan and Manitoba",
+      "source": "play 103.7",
+      "date": "Fri, 23 Oct 2026 14:43:24 GMT",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdi1vVGM2Rm5HMHFQUHA1LV94UzV1eHdXT2FDQ19YOG1WYzdIcDQyM0tBZU0zUHBoblp2YVl4S0RXOTFDUDJVOWxRc2w4ak9rZmtzWEw0MjZrTWpsSGRjTzdfMXNHX2xPRFRsVG1OLU1tYVVaOWtkXzJTTm4yd0xDbGJ1TTZVRFpSQ2xCbk5RQ1dCbnQ2YktjMEJIVGdDekozVC1aT0VBcElhQVVhelVzMW1qeGU?oc=5"
     },
     {
-      "title": "Chat, are we cooked?",
-      "source": "The Martlet",
-      "date": "Thu, 22 Oct 2026 20:32:20 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE82eFJQbHZWQl9NOXVIVHJiSm5pSkVhUHpaRmE1RHVjMElkSEx2XzBxM19uX3BRWWoyaUhPRnlfbElOb2N5TmxYQVJudWN5Wk0?oc=5"
+      "title": "Some US banks detect unauthorized AI agents in customer accounts: Report",
+      "source": "NewsNation",
+      "date": "Fri, 23 Oct 2026 14:09:53 GMT",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZy10WE55MjFudmZQTGR3VlQ0ekpfSm5RMWFobVppZWEzVUtGdkNPLTk3YVJTbS1CYU13X1JuX250VjNoaTlZRmlxbXNSSWs0cDJXYUVHYTdwcGNLRXpYRDlWZmM2STdSakJZV0YwV3lfWlg0ckVqaDVZRmVCUUoyRml1ZHlCeWR5NC04TC1HQVl4bWZf0gGaAUFVX3lxTE1TV2NxbHc5QURHYzJyVWN1a2hfck9XalBQaC1LWVpXc3RBdmk3Z0Rld3NaVzRta3FOVDBaRGFpdFdvOUJ2bFRkSnNQTVNoQnJxTTVLZ0d1ZUFTYUFkd3dqSzVBV3RqRk9NNDFOYnJKVGxQUjZVelMxaEJPcXZzQ25qaEZwZmQtdUNBYWwzVFQwZVk0UUY4Q29JNnc?oc=5"
     },
     {
-      "title": "CNBC: AI debt and French bonds face a stress test...",
-      "source": "The Loadstar",
-      "date": "Fri, 23 Oct 2026 10:50:27 GMT",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1JVGJkZkdCaGRrMzVkZENXMWFPZnhjemdSZUpzY0VpWkpTN3Z4dFV1dDYtNjFJRGlvNTQ3ZzBSZ1Y4OEVTMkY5X3I4aTlvdHk3Y2NVdGJpY1hkeFlBdjBMWTRrR3FkSXJxYUZ4dkltcjI2aldXYXc4UTdCekMxUQ?oc=5"
+      "title": "Art and artificial intelligence stand side by side in the halls",
+      "source": "tribaltribune.org",
+      "date": "Fri, 23 Oct 2026 17:36:07 GMT",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVUlTMndpMHI0MDBXQnQ4dV92RENFVUpuR3k5SHdfNF9qSTRScjNDNkY3SUN1d1J0TTN0NGxFMEM1aTFRNzlnZzVmQUEtbFFEc2QybmRYMWU0ZXdraEx1QzNMLTFmMmZxY2hZWHNPNkk0aEg4TnJEb3ptUG9RRkR1MlcxelFrcGJ0TmFiUExkMFRsX0hJ?oc=5"
     },
     {
-      "title": "Nasdaq Futures Steady as AI Selloff Pauses",
-      "source": "WSJ",
-      "date": "Fri, 23 Oct 2026 12:35:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZ0VLcjUyVmtISG5uUVBpbjNndFBQV1ZqV3RqY0xwZjhvVFlfZ3dFdjYtNV9CNHdVek4wMUtYQnFLc0xEcnpZTWZRLWw3cm01cG9YaU4zcjdLeVFKZEE2MlNwWXJHaWY4M0IxS25iSjlCbUdmYmZBdVFrY0lFZmQ2RUtYc2NGV21FcjNWQU4wMA?oc=5"
-    },
-    {
-      "title": "How can international labour standards help shape ethical AI at work?",
-      "source": "International Labour Organization",
-      "date": "Fri, 23 Oct 2026 09:04:29 GMT",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVG1sc2c0LW84MXJkTDd2ZDdzU25zV0JUVWJlMTVWaEEwZThOTGVNckZ2U3F2Snd5a2hRVS1qSF84cnhzdEFRRE1nY3VXZjRhZ0hZN0FrQlhHQUJKbElfOWFFMUZjTzFqUEdVMVFqMS1SOE1Zc0k1Y214UmhHZEt3ZDB6eEJOdUdudEtkblVtOUJpM2NzWDVtTTVpMG9Ib3hQ?oc=5"
+      "title": "Radiology societies weigh in on FDA’s push to regulate generative AI",
+      "source": "Radiology Business",
+      "date": "Fri, 23 Oct 2026 09:43:18 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRjZUVzh1YmRKWVJhTWRNUk5mOVZzOUxEVHIyRzY1MmgzV0pWWHk4dXFWdnVoTVh4RjJvSnQwYXV0U1ZISjhEdlNKR2IyRm01clAzS3hGUUJOOW5CcU9RUFVhNmdtU3pINzBZZm5FRkk5c2stQnVhV3Bya083S1EwZUpfdFh5aEV6QmhPS3VYTGRibmRudUR3TU1NYkVtWjNDT3NTT0RpcldUMGN1OW1jcnRqVE1GX01xbEM0?oc=5"
     }
   ],
   "events": [

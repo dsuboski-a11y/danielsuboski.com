@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T11:28:24.710864Z",
+  "updatedAt": "2026-10-25T16:18:39.852179Z",
   "locationLabel": "Victoria, BC",
   "headlines": [
     {
@@ -15,16 +15,34 @@
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdVU4T1VJTkR4NkdvNmpnc1ZHU2hNSU95MEVwN0lrUnp5N1d0bjNZT1BwY0tGNTV5NXZfREh6cUYzSmoxdU5DYUVQWENqLXE3WkFmMmE0YjlvdmhxVWhQSFlISTZfVnFFNTZSaDZRLXJRNDVPbjN2QjhxM2M2Q1VTdWJxaWVObmp6S3BseVlBVnhyWU55SmFfaW40WkxvbWdQTFZTNDdBUFg?oc=5"
     },
     {
-      "title": "Between Development and Oversight: China’s Approach to Addressing Artificial Intelligence Risks",
-      "source": "www.inss.org.il",
-      "date": "Sun, 25 Oct 2026 10:35:35 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE92X2dEUGNITVlKVWhCcEdRd2M4ZnNjVEhIZ2NsX25KdFJwRVUwdUJnUWJWSjZjUlB3VlRHeE1ZakdXeTJJakJRSllwY3VQbkhiMWwxTTdqeFVDTkxtSWowZXR3U25EQQ?oc=5"
+      "title": "Israeli tech bets on AI agents to transform business",
+      "source": "Ynetnews",
+      "date": "Sun, 25 Oct 2026 14:44:18 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5FR2g3UWxHaEhNQWRwZFIwRmFxdFR3U281Y3FZQm93TzFuaWdLZ29TSUd4NkdKWHp5anRKdjFLS2hBbVVoRDRYR0VmY1lHTGdrU2ZfLVBWMTduTFVvWXdLbUhR?oc=5"
     },
     {
       "title": "SpaceX Just Shared Great News for Artificial Intelligence (AI) Investors. Here Are 2 Stocks That Could Benefit",
       "source": "The Motley Fool",
       "date": "Sun, 25 Oct 2026 08:08:00 GMT",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZ0RSekczdjlTWEJJUldpMnlMRndRNjUtdFN6a0FXQVBfdjV6dGJGVm1wQXlXN3AyRVl4MW1JNGdqM2YwRV8tWmlSSEZ2QnV2dzBnNks3ZHBvQVBHZjdOUnlYN1oyenZXbVFjWHlhQzIwem5HU1ZaekxPbWVIcGRNMlIwVDlfbC0tcTVTZlNWRjZyZXZscGpMYnowTDVuaGZXR0J1V09ZdzU5SHhYQnU0N0ZIZWNKZl9FdFVHSTh6VXlHZWpEOVdHc0EyV2xmZS1LejBoLXRUTWNrd2U2T09GSzd3X2s?oc=5"
+    },
+    {
+      "title": "To make AI morally good, tech companies are turning to religion. But some say it isn't that simple",
+      "source": "Toronto Star",
+      "date": "Sun, 25 Oct 2026 10:59:18 GMT",
+      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNb2ZKcDJXMk1xTEV1enJXUUpkLTRzc3BNRjYyY1VDajhlOGVwOXpvOWlBRXI2TTNlcnRKUFJ3Nk5OeWw0aXVWY25VVS12LWI0UUJvSDZtdHlGel95Q1pyZU1mbHFIc2FLemhydTVxS25taUpFX2h3QW1BV19wUkpXak1uZVh4R2F1R1ZTNUJXRlMwT3liaDAwc1JtVTJLZEJVcVBVT3VlMXpjQ3BlSS0zVk5ySEotVjhOWHptbkV5MFAwYVJzSmtoSzZQeFBaekE3Rk5QUjlEMFhtUUdFa2dmQm1wckJ6Y0hrR1RfMkliRmtraU4zdXZUR0RjVGRnQ3NSOUlCaXRwV3F3R0JRRGV0WldXb2RseUlYRVc2THR4b3Y?oc=5"
+    },
+    {
+      "title": "Between Development and Oversight: China’s Approach to Addressing Artificial Intelligence Risks",
+      "source": "www.inss.org.il",
+      "date": "Sun, 25 Oct 2026 10:35:35 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE92X2dEUGNITVlKVWhCcEdRd2M4ZnNjVEhIZ2NsX25KdFJwRVUwdUJnUWJWSjZjUlB3VlRHeE1ZakdXeTJJakJRSllwY3VQbkhiMWwxTTdqeFVDTkxtSWowZXR3U25EQQ?oc=5"
+    },
+    {
+      "title": "Reversing course: Workers replaced by AI are being asked back",
+      "source": "The Globe and Mail",
+      "date": "Sun, 25 Oct 2026 13:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZGRTMTVzT3cySGVUVk5FeE5XdTlJT0tFVmtGa2UzS2VTTjZNTFozYldOT1ZadTRFa0RSbldvSS0yV0EtODdUV2JuNlQ4N05ZcGplUnVlZkdZNUpjTWRVQ2VHZ3ZKSWJUTXNsSElwSFpTQ0hZTGN5U2pxVk5DWkxBS3VZdWJvUE1LU2F6enAtQVRnZVFmQk1DSlJjQldoSkJuRzJCaW14bXFPRW15X0lQZjVFRm8yTEJTWVE?oc=5"
     },
     {
       "title": "SpaceX Just Shared Great News for Artificial Intelligence (AI) Investors. Here Are 2 Stocks That Could Benefit",
@@ -39,28 +57,10 @@
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTmxIOGg2Vmh6YkU5RHA1LWRjVE1WRV9GOHRHSHhhSkpGbWd6bnZDOHIxYjlyYVp4bk81ZURkV3dhZ1JHaTVOMV9kcG5CRUJna3NmTGFZMkJFang5MmJVZGlWV0x2RkFNRGZaM1NSR0dMLUoyQ2ZZYlZJU245and3RjFVMXoxLXlpeXZ1V0FBVWd6Y0kyZk9QQkxmTQ?oc=5"
     },
     {
-      "title": "Smart TV annoying you? You could use AI to make it dumber. But should you?",
-      "source": "CBC",
-      "date": "Sun, 25 Oct 2026 08:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1DQkRGQl90aDJNS2ltSTZEdUx1ZlBHWms2aXBBMzl4VWU1NEFycEk5bGNleXBGeW1FU3BobmpacUpVRVhTcGJvbDhUaGcxSjhITElsOGhzYk5yNXBYRmhnd2h2UmNkeHhRZjBqb3VoTW10QQ?oc=5"
-    },
-    {
-      "title": "Is AI coming for your money—or all money?",
-      "source": "reflector.com",
-      "date": "Sun, 25 Oct 2026 04:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOc3RLbnVYeHFGU0d1aGMtN21Gd3pELWxzS1RDSlBGeVRFLTVSM2JvRHRTYmMxOWozNmExNVBTVGc5djBrUGwzcWxIcW1jYzNCMC14SjR4cEZTc0RZb2FYcFVYWmRQSml2akVlZUs4VjBab2RxY19XMzQtYmFScTRac29OQWlQbVRVRHVSenN1Wk5hMFlOaWxYOGhGNF9sbi1OSVlrNXhFMjRRdl9taUNtUklWWUJ4aXBka0ZDSDAzYnpYVlFkTFE?oc=5"
-    },
-    {
-      "title": "Why Trump’s Rebrand of Artificial Intelligence to Super Intelligence Matters",
-      "source": "Time Magazine",
-      "date": "Fri, 23 Oct 2026 13:46:47 GMT",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdmpXSEdxRG93Z3B2V3NtZFF3X01rRkR5d2M0MHpQcDFFLXdCMHNHb1Jza3FyQmF4ME9HMHRWSjNXX1FIeFpMa0JGVGM1RC1aTV9fUkZSMW56dDgwNXhUVE5MUEVDOGlOVVZ1Y2xaNGhJeFlnYzBGeEVId3l2OV85RWZJUFBOaUU2UVZRZGstN0VGVFZaU2Vkb0x5UVp1RWU3aURnc1Z3VVkxYkJUV2ZoT1lR?oc=5"
-    },
-    {
-      "title": "Apollo’s Slok Says AI Has Delivered Zero Payoff Outside of Tech",
-      "source": "Bloomberg.com",
-      "date": "Sun, 25 Oct 2026 09:28:36 GMT",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOR1FnYXFIOUpyU1VUdzNDazE4cFE2VDFyNU5DS3h0R0VSR2xHa0k0V2dHZ0hKbTZ6dFo3X1hUSW96S2dRRE5GODJUSUlCQ0dHUTVpSUJ0ZExNM1FBMVFld0JmSTBDMkpfSG5IOXVlS0hPX1h6OHpRT0xhbzNweEVxVDBLZGRreHVCc0VPZjVEQjN5dEIxQ2x4TGhfN2o3UHA3dVZrTXhRNVhsV216MGxNSnZWUGdNU1JiQjMxbQ?oc=5"
+      "title": "Creator of Super Smash Brothers Offers Blistering Takedown of AI-Generated Games",
+      "source": "Futurism",
+      "date": "Sun, 25 Oct 2026 12:54:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9NcVNHUHFnN1V1WVlaM1ozdnl3eVBvYlZ3clVMNjJFNXZ5Mzc4Ym9lZmx2a2UzOVpRXzc3aWRVMS1ZemMxOW1XYTFHMjVlMEE4X3hMbWJZX3JVMl95bzQ1S0ZzRmJVd0FZN2FSMmVXSUNEbVVDSEREWUFBUHo?oc=5"
     }
   ],
   "events": [

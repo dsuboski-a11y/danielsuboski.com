@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T19:36:57.292115Z",
+  "updatedAt": "2026-10-25T22:33:09.003878Z",
   "locationLabel": "Victoria, BC",
   "headlines": [
     {
@@ -7,6 +7,36 @@
       "source": "Cureus",
       "date": "Sun, 25 Oct 2026 15:38:11 GMT",
       "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPWGRxTmZ2akZrZXB6TjhyQWdLeHoyTUdnV2ZHSFdVVnkydHVEYS1Ndkk4TWxBN3FobElBX1dDTFc4alZmVjcyd1pVTVZ6RzhQVE1vel9iVmM2VENDNk12dzR1WEVWUVROdHNwLVJzRWN1ZEJFRlRHa0VLQ0pzS2I3enNDQmRKSFdNc3BaZUo2TXlDT0F6dmpSWmM0dUg4WHBmRDVyQ1VFQ28wd1lWY2JLZkhmdmZsQkhJeTVqRUFKMnNzTVZkeHpSVE1qalNxZHpJeDF4djJ2d25lbFJiZFVwRWsxb3NwRWRPbU9nTTBJbnlUdWM4QWtrVmZUZHZRbFVWTi1sTTVMQnJkbEhuSWNfZ1FaTjE5Z2p6MzBfY2xubHVmZ0QwMHZkemt2aVFqZWVuekE?oc=5"
+    },
+    {
+      "title": "Intel vs. SK Hynix: Revenue Trends to Help Investors Weigh Which Artificial Intelligence Stock to Buy",
+      "source": "The Globe and Mail",
+      "date": "Sun, 25 Oct 2026 17:25:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQaGNUbVVBU2RFcTEwM2JHWmhxRDZSd2lTakVXWV9ZajNsUEgxaWdSRmNZWE00MXFmTlhxR1ppUVBkQ2t6dTZCS3NNUkJVYnhSQTFHUFRnbHU3R0I1YmFXUmtWOFJvSTdManE0M3ZEQXpVcmlCU3pWNTNqNTlaNHVUZ0gwVlgzcjdYM043LVppalVqdzlOTFZNSnFIZmNlLUR2T09NNnEtQk1GZV90djdxMTFGZlZSWXJaNXhlOFBTOEVvelVpM0YzRFk3VFJYNHV4XzlmU3oyYnFpYkVUZkRKQ0d1eEFLOGNPbFl4SmVOaUNTaXRObEdmZkZjcjdjZlJaYXlONDZGekZoQmw5Uk5WUHp3?oc=5"
+    },
+    {
+      "title": "Nearly half of Canadians have either gone online or used artificial intelligence to self-diagnose: report",
+      "source": "Toronto Sun",
+      "date": "Sun, 25 Oct 2026 19:53:08 GMT",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObTJraElPSjF3Z3FTMzJHSVNIcUhCZ3VEV0dEMG5icWdyNjlLVWkyTmdlVTJMeVFYV0ZsM1FkYTBkSVB0RHQ0bkZUeVd3MEVOajRIZEFKbjY4M2NFN3dCZHlNUEhtc0w1T0VxUlc3NWp5RXIwZE9DbDFtMHM2aWN4YWtfMFBwT3VFeVpVd25vVU1oa3FpR19wS0dxRVUyWEIwdlo3LWlIeTNyUHlOTS1FZ3FhekFaUXBfWWJSN0djRlhyY0UtNkJpNHdqMS0?oc=5"
+    },
+    {
+      "title": "Treat a Deadly Brain Tumor Before It Recurs? This AI Tool May Help",
+      "source": "Cancer Health",
+      "date": "Sun, 25 Oct 2026 21:39:07 GMT",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQS2o5SHFvMVp1bHJYNnNtWURFNHNMVEFHeDhtTmxocG5xeWxxUEtCdVp1d2FvRGZ3QkthNGxWQmk0bnVqYjFZc25WS3NBdVdBRXpaX2VqNXdXVFZWTU52SjZTQW1TdV9tLTM0X3ViOUZJNDZ0QVN3eG54ZEhXU0JZeGVJTEpvR0hJbVRGTHNR?oc=5"
+    },
+    {
+      "title": "The importance of usage intelligence for artificial intelligence companies",
+      "source": "SC Media",
+      "date": "Sun, 25 Oct 2026 20:54:31 GMT",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUFFQU09RSWstSEN5YWpKcmJHU2hEaC1YRGRZaE9jc0JBLTJsYW5waUx1UU1OVk51Q2YwcmxBaU9kd1RCUWNQTU53Zlh2NXE4UGhBekg0ZEtEZEp4Yy1VRXA4TDlFQnZsMWlyVG9uUzJJNnY3ZFN6bk9OdzgzLWdOMl9ldnRnVHM0dVlVN0pZNG9fUnRzcWpnUVE0SEo0OW5aZUdCSVFQTQ?oc=5"
+    },
+    {
+      "title": "'I don't have the strength to fight AI': The young French people turning to manual trades to beat automation",
+      "source": "Le Monde.fr",
+      "date": "Sun, 25 Oct 2026 18:30:03 GMT",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNSllzMEtjek02elBzQXFSYXEzbjI1YTBpS3lqWFVLRjk4SjR2Y2ZaWWIyXzhmSHZSa0xWdG9CaUdhaHpTeENhNmRwVHdBOE14SUR6MUZld1VMd2VPRG43cmUxLVZIRkNkbm12YlJUS2JvaFIxRDlmM3ZiUU1ZU1Z6UVQ0R2RxTFo2RHVWMG9TczA2YTcxYmZaUHNEZWtSMGlTWnBsRzlzRW5oWXhFbXlOOHdVQmt3dGpTWS1uTElNbWlUYzQ5UzRSc2ZvRDNJVlZDbnIyV2RjRktiRXNzNnBIQWp4SnYzaTM1RmZQUmg0bFZRckpiX1hvS21ocDhTbFZEaE04RExudGRrQnI1?oc=5"
     },
     {
       "title": "In the age of AI, what does consent mean?",
@@ -21,46 +51,16 @@
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ETXpYTXZkQTRGeng3NS1hRV9JajRJRDFsS19ENVFqVjA3YVIteGdKcWlhZVhidDVwQ0xzcWdpeGdGQ2hESXNVZl9WZ1R2bE5kZlg4aEJQSW9EbVRaZW9LWURkbG5tOGlNUDRVQXRlaVdyNEhI?oc=5"
     },
     {
-      "title": "Israeli tech bets on AI agents to transform business",
-      "source": "Ynetnews",
-      "date": "Sun, 25 Oct 2026 14:44:18 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5FR2g3UWxHaEhNQWRwZFIwRmFxdFR3U281Y3FZQm93TzFuaWdLZ29TSUd4NkdKWHp5anRKdjFLS2hBbVVoRDRYR0VmY1lHTGdrU2ZfLVBWMTduTFVvWXdLbUhR?oc=5"
-    },
-    {
       "title": "SpaceX Just Shared Great News for Artificial Intelligence (AI) Investors. Here Are 2 Stocks That Could Benefit",
       "source": "The Motley Fool",
       "date": "Sun, 25 Oct 2026 08:08:00 GMT",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZ0RSekczdjlTWEJJUldpMnlMRndRNjUtdFN6a0FXQVBfdjV6dGJGVm1wQXlXN3AyRVl4MW1JNGdqM2YwRV8tWmlSSEZ2QnV2dzBnNks3ZHBvQVBHZjdOUnlYN1oyenZXbVFjWHlhQzIwem5HU1ZaekxPbWVIcGRNMlIwVDlfbC0tcTVTZlNWRjZyZXZscGpMYnowTDVuaGZXR0J1V09ZdzU5SHhYQnU0N0ZIZWNKZl9FdFVHSTh6VXlHZWpEOVdHc0EyV2xmZS1LejBoLXRUTWNrd2U2T09GSzd3X2s?oc=5"
     },
     {
-      "title": "AI’s ‘opportunity divide’ could deepen global inequality, UN official warns",
-      "source": "Al Jazeera",
-      "date": "Sun, 25 Oct 2026 17:29:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWmJUT1NsanpXZlRCRnU4d25KQWM3MjFDZ1VEeUFDc1BlaGFrUms1N3dzY2J0OFA2NnMwMzlXSTJvbUlMdS1tbzZ5dVVtX3JJd0JySXV6V1B4RUMzNDlCc2R3TEZYRDloUUN2Z2RjSnpWSlEtc1FTTHlMU0d4T1VKQXd0aVlUa0ZKanB4ZTItUU5qMkppZXEwZi14VEUwNnBiaURKbUhhMkc2RzVlLTMzMGptc9IBuAFBVV95cUxNVHlZV01sMG5lWWRJamREZXQzZUtSTlF3WG1BY0Vzdkw4ZnNMdmhETTJZS19qazA4QUVyZEM3TUduR1lnMUFPYjhvOG0tLVNkYml2U3g5aVc4OU9VakRxN3J1YVp1dWw4OW15Q2hHci03TXE0cjVLd3JZa1UtVHFYLU9MeDFFT3BnQ2pxNFJURXFjWnBFdjF3VHhwTWdTall3ampZQTR2SHdvR25OSFlzb3Vpd2ZqelpI?oc=5"
-    },
-    {
-      "title": "Reversing course: Workers replaced by AI are being asked back",
-      "source": "The Globe and Mail",
-      "date": "Sun, 25 Oct 2026 13:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZGRTMTVzT3cySGVUVk5FeE5XdTlJT0tFVmtGa2UzS2VTTjZNTFozYldOT1ZadTRFa0RSbldvSS0yV0EtODdUV2JuNlQ4N05ZcGplUnVlZkdZNUpjTWRVQ2VHZ3ZKSWJUTXNsSElwSFpTQ0hZTGN5U2pxVk5DWkxBS3VZdWJvUE1LU2F6enAtQVRnZVFmQk1DSlJjQldoSkJuRzJCaW14bXFPRW15X0lQZjVFRm8yTEJTWVE?oc=5"
-    },
-    {
-      "title": "SpaceX Just Shared Great News for Artificial Intelligence (AI) Investors. Here Are 2 Stocks That Could Benefit",
-      "source": "Yahoo Finance",
-      "date": "Sun, 25 Oct 2026 07:28:01 GMT",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVHU5T18tS3F5UFdTNEpMc0lONG5EaE56SFQ2V2ZreUtyR1BiTElPUnpVNjZsbngxU3V4YTdKbmpDcV91S0NfQkpuZ25kNkdyUVdGZmh0R01kNl8xYi1VNnBCejltd2Q1TmI3d2dMUS1jcnBPbmZJM0RSZ0JxNFFZNUpETEYwRXVOMjBpRTR6ejI5WExCYUNmVQ?oc=5"
-    },
-    {
-      "title": "How much artificial intelligence should be included in art?",
-      "source": "Global News",
-      "date": "Fri, 23 Oct 2026 22:05:41 GMT",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTmxIOGg2Vmh6YkU5RHA1LWRjVE1WRV9GOHRHSHhhSkpGbWd6bnZDOHIxYjlyYVp4bk81ZURkV3dhZ1JHaTVOMV9kcG5CRUJna3NmTGFZMkJFang5MmJVZGlWV0x2RkFNRGZaM1NSR0dMLUoyQ2ZZYlZJU245and3RjFVMXoxLXlpeXZ1V0FBVWd6Y0kyZk9QQkxmTQ?oc=5"
-    },
-    {
-      "title": "Between Development and Oversight: China’s Approach to Addressing Artificial Intelligence Risks",
-      "source": "www.inss.org.il",
-      "date": "Sun, 25 Oct 2026 10:35:35 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE92X2dEUGNITVlKVWhCcEdRd2M4ZnNjVEhIZ2NsX25KdFJwRVUwdUJnUWJWSjZjUlB3VlRHeE1ZakdXeTJJakJRSllwY3VQbkhiMWwxTTdqeFVDTkxtSWowZXR3U25EQQ?oc=5"
+      "title": "Value Options: AI is in a Mania… But Value is Finally Waking Up",
+      "source": "The Acquirer's Multiple",
+      "date": "Sun, 25 Oct 2026 21:47:35 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdDNnbXBIYnJPNkdIcXZZUDlKclJmMlhoZGJwZlh2cURsenNsOFdXMDRIOWdOeUh3VWI5V0pKRDdpWkNscUxSdktLb3JkMEcxemg3cVM5Y05FNGcwNFdmdzg5bzBVVGpMa255Nkx6WXpGRk9CODFWWlo2WlNzM3Q5OEhuNE5jLW8wYzloeXlISVdGOFMyTVh2Y09iQ0REa21Jdmc?oc=5"
     }
   ],
   "events": [

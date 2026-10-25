@@ -1,12 +1,36 @@
 {
-  "updatedAt": "2026-10-25T06:08:17.311323Z",
+  "updatedAt": "2026-10-25T11:28:24.710864Z",
   "locationLabel": "Victoria, BC",
   "headlines": [
+    {
+      "title": "In the age of AI, what does consent mean?",
+      "source": "Sudbury Star",
+      "date": "Sun, 25 Oct 2026 08:12:22 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBSZ1E1dUkycDJLZVZBbU5aWEgwdV9SQjFoWlhyNy1yZWVIOXpBNXplVHo5NGp4WUZfXzVYTDMwLWtkQ1BRdDkyN2ZmUWlESkhMQkJ5bXNMVjFjUlQwNmRLS2FDWQ?oc=5"
+    },
     {
       "title": "Navigating the EU Artificial Intelligence Act",
       "source": "CBA National",
       "date": "Fri, 23 Oct 2026 20:23:07 GMT",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdVU4T1VJTkR4NkdvNmpnc1ZHU2hNSU95MEVwN0lrUnp5N1d0bjNZT1BwY0tGNTV5NXZfREh6cUYzSmoxdU5DYUVQWENqLXE3WkFmMmE0YjlvdmhxVWhQSFlISTZfVnFFNTZSaDZRLXJRNDVPbjN2QjhxM2M2Q1VTdWJxaWVObmp6S3BseVlBVnhyWU55SmFfaW40WkxvbWdQTFZTNDdBUFg?oc=5"
+    },
+    {
+      "title": "Between Development and Oversight: China’s Approach to Addressing Artificial Intelligence Risks",
+      "source": "www.inss.org.il",
+      "date": "Sun, 25 Oct 2026 10:35:35 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE92X2dEUGNITVlKVWhCcEdRd2M4ZnNjVEhIZ2NsX25KdFJwRVUwdUJnUWJWSjZjUlB3VlRHeE1ZakdXeTJJakJRSllwY3VQbkhiMWwxTTdqeFVDTkxtSWowZXR3U25EQQ?oc=5"
+    },
+    {
+      "title": "SpaceX Just Shared Great News for Artificial Intelligence (AI) Investors. Here Are 2 Stocks That Could Benefit",
+      "source": "The Motley Fool",
+      "date": "Sun, 25 Oct 2026 08:08:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZ0RSekczdjlTWEJJUldpMnlMRndRNjUtdFN6a0FXQVBfdjV6dGJGVm1wQXlXN3AyRVl4MW1JNGdqM2YwRV8tWmlSSEZ2QnV2dzBnNks3ZHBvQVBHZjdOUnlYN1oyenZXbVFjWHlhQzIwem5HU1ZaekxPbWVIcGRNMlIwVDlfbC0tcTVTZlNWRjZyZXZscGpMYnowTDVuaGZXR0J1V09ZdzU5SHhYQnU0N0ZIZWNKZl9FdFVHSTh6VXlHZWpEOVdHc0EyV2xmZS1LejBoLXRUTWNrd2U2T09GSzd3X2s?oc=5"
+    },
+    {
+      "title": "SpaceX Just Shared Great News for Artificial Intelligence (AI) Investors. Here Are 2 Stocks That Could Benefit",
+      "source": "Yahoo Finance",
+      "date": "Sun, 25 Oct 2026 07:28:01 GMT",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVHU5T18tS3F5UFdTNEpMc0lONG5EaE56SFQ2V2ZreUtyR1BiTElPUnpVNjZsbngxU3V4YTdKbmpDcV91S0NfQkpuZ25kNkdyUVdGZmh0R01kNl8xYi1VNnBCejltd2Q1TmI3d2dMUS1jcnBPbmZJM0RSZ0JxNFFZNUpETEYwRXVOMjBpRTR6ejI5WExCYUNmVQ?oc=5"
     },
     {
       "title": "How much artificial intelligence should be included in art?",
@@ -15,40 +39,16 @@
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTmxIOGg2Vmh6YkU5RHA1LWRjVE1WRV9GOHRHSHhhSkpGbWd6bnZDOHIxYjlyYVp4bk81ZURkV3dhZ1JHaTVOMV9kcG5CRUJna3NmTGFZMkJFang5MmJVZGlWV0x2RkFNRGZaM1NSR0dMLUoyQ2ZZYlZJU245and3RjFVMXoxLXlpeXZ1V0FBVWd6Y0kyZk9QQkxmTQ?oc=5"
     },
     {
+      "title": "Smart TV annoying you? You could use AI to make it dumber. But should you?",
+      "source": "CBC",
+      "date": "Sun, 25 Oct 2026 08:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1DQkRGQl90aDJNS2ltSTZEdUx1ZlBHWms2aXBBMzl4VWU1NEFycEk5bGNleXBGeW1FU3BobmpacUpVRVhTcGJvbDhUaGcxSjhITElsOGhzYk5yNXBYRmhnd2h2UmNkeHhRZjBqb3VoTW10QQ?oc=5"
+    },
+    {
       "title": "Is AI coming for your money—or all money?",
       "source": "reflector.com",
       "date": "Sun, 25 Oct 2026 04:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZzdGZzRmbGlJMDJ2RnNOcTU5aTNqd2VqTlgzNF9aa3VUcXhaQWIzOXJtSXhFd0Q1aDJ1c1RHSnlKQ3AzN196OURtcFJpaEZNOFh6OVNuQ1JMVnBvTkp4Q3FjclJnMVdmejRfUnlZbTZVcUZYSGpPMUplX2N2UW0wa2hGSmhHV1VXREQyWFhLQXBVRGRacFlZOHpBVWRMUHA0UnQ0S2YxbHQtUlZzYmlPQ04wc2J2MWlORlBZYTV1XzJnaW53?oc=5"
-    },
-    {
-      "title": "New federal AI funding opens opportunities for Saskatchewan businesses",
-      "source": "WestCentralOnline",
-      "date": "Sat, 24 Oct 2026 19:14:46 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNlFkNG1DZEh2M19IQ000dHRncE1MNHo4Mjh4U2xPeTZjNnZ6NnNsTUZEVzhfT2tiRTVCM083UVhUYUlTMXR0b0s2LVZ4OGp3Z1lmd2dDM2dmN3l6U1pZTnk2RmhxUy1kTzNFa3pfOGJIVEUwZjVKa1pQM1dZRkRrT21YUkpDMGlEc2NzUVZ4N3VuSHJXYWxqVUFMRkF1elBJTDB3c0ZQUzI1eU01MFkzbW4xZw?oc=5"
-    },
-    {
-      "title": "As the US and China form AI blocs, countries are increasingly torn between them",
-      "source": "The Spec",
-      "date": "Sun, 25 Oct 2026 04:06:49 GMT",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQMFlWTGM3NjluZ3dZQmZ6Znl2SnJqdWo2aVZPQWJvMXRRaDByT3I3NXVzcHl0ZFFBXzRNd3I0U3NSSFdLQzhiUW90V21GbVR2b3BSOWJVSEl5ZlNtZzh6ZDF3cU5JZ2Z2bU5nWkZta0g0ZnVhdHdBWDJQVXNmRFJXcG92ZjhSaWxyY0NlY3NCUjlKb214TkNRdllMQkUwQklWampIV0wyNS0tdENnNnpVYnM0YXhLc2xuNXRabWo5RkxUTFhRM2ZvUGxiWG5xNmVzVnZyRFR3YjB3Z0RjUFMteUhSal9RVUJqUGFTOW9ickFXam8?oc=5"
-    },
-    {
-      "title": "A timeline of developments in AI safety since the attack on Hugging Face",
-      "source": "980 CJME",
-      "date": "Sat, 24 Oct 2026 16:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUUQ3Xzl6NTdnV3BBbUk2ZUZtelNpQ1BVdVJBSk13ZGQ3dTA3eE5pdEMwa1dURGNCWFdCQmRXUTk2clY5X21qc0VQTU52V0NqS1ZwWTBzdkdpMzRUY29Zd1FfT1UwWngtbDM0OVotZzhaWFZqeHhUbnlBSU1ta2FzclFyOFA0Qm96MHNDVC1aRTFYbEpMQlVXQU5zYVl3YTBDal81c3luYzk?oc=5"
-    },
-    {
-      "title": "2 Warren Buffett Artificial Intelligence (AI) Stocks I'd Buy Right Now and Never Sell",
-      "source": "The Motley Fool",
-      "date": "Sun, 25 Oct 2026 01:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVEhBVVFDckZ0UXZnXzdCM1g5NUhkZS16eVVBd29xYmNLcWZmRmRfQkhDSEktdi1nZlhxRkFsaDdPWHVVRVNGUWRMTjlzeXBQUkNDNU4zdmtHZldtZ1Y3NTQtT1dfM19XQjFvUkRYaDdFbFdwdmhMdzhKc01oaDhTdTdzbHV1eThxQndtZ053OXJjcnNqeUo5OA?oc=5"
-    },
-    {
-      "title": "Artificial Intelligence for the Verification of Nasogastric Tube Position in Chest Radiographs: A Systematic Review",
-      "source": "Cureus",
-      "date": "Sat, 24 Oct 2026 18:47:21 GMT",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPdDgwdmJDZU81bDhySDlpNERRakZWN2tLNFd5cjdRbWxxc1lIcE40V2J1aTV0TXB0eFhmM19XNWNpalNYNExldk54UC03dHFhUDdzUWFNOXhPdm9HS1dkRzVxRXpKRi04WkZGanNta3JUOTNMbmhleEpYa2tSeS16LUQ1OExxaTN6bWpkSU5vM0gtSVdoWWw3amhDOExua0FOMXZFR2VDbF9uQWVkRXBNR0M0QjdyNzFkcUxkelpwQ0Q1cUhsc2ZQb0pMV2txN0lKaUNwNzAzWHQta3J4T2pVWXlGR3Blc0lk?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOc3RLbnVYeHFGU0d1aGMtN21Gd3pELWxzS1RDSlBGeVRFLTVSM2JvRHRTYmMxOWozNmExNVBTVGc5djBrUGwzcWxIcW1jYzNCMC14SjR4cEZTc0RZb2FYcFVYWmRQSml2akVlZUs4VjBab2RxY19XMzQtYmFScTRac29OQWlQbVRVRHVSenN1Wk5hMFlOaWxYOGhGNF9sbi1OSVlrNXhFMjRRdl9taUNtUklWWUJ4aXBka0ZDSDAzYnpYVlFkTFE?oc=5"
     },
     {
       "title": "Why Trump’s Rebrand of Artificial Intelligence to Super Intelligence Matters",
@@ -57,10 +57,10 @@
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdmpXSEdxRG93Z3B2V3NtZFF3X01rRkR5d2M0MHpQcDFFLXdCMHNHb1Jza3FyQmF4ME9HMHRWSjNXX1FIeFpMa0JGVGM1RC1aTV9fUkZSMW56dDgwNXhUVE5MUEVDOGlOVVZ1Y2xaNGhJeFlnYzBGeEVId3l2OV85RWZJUFBOaUU2UVZRZGstN0VGVFZaU2Vkb0x5UVp1RWU3aURnc1Z3VVkxYkJUV2ZoT1lR?oc=5"
     },
     {
-      "title": "Nuobikan Artificial Intelligence Technology (Chengdu) Co. Ltd. Class H Estimates – HKEX:2635",
-      "source": "TradingView",
-      "date": "Sat, 24 Oct 2026 20:30:44 GMT",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBTLUlKUENVN2VSREVRWUpYandNclV6YnUwOUVCOHJ0V1VZX1ZneVJCWkJUb2JSSWpZNkpCX0czcXJqc2xDRG1qNEZhSzBwYzNEdlMtRmVRbzRWRmFTcDFSSTlUZk9VOElPYW5tWGRqN1cxOVFFZXc?oc=5"
+      "title": "Apollo’s Slok Says AI Has Delivered Zero Payoff Outside of Tech",
+      "source": "Bloomberg.com",
+      "date": "Sun, 25 Oct 2026 09:28:36 GMT",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOR1FnYXFIOUpyU1VUdzNDazE4cFE2VDFyNU5DS3h0R0VSR2xHa0k0V2dHZ0hKbTZ6dFo3X1hUSW96S2dRRE5GODJUSUlCQ0dHUTVpSUJ0ZExNM1FBMVFld0JmSTBDMkpfSG5IOXVlS0hPX1h6OHpRT0xhbzNweEVxVDBLZGRreHVCc0VPZjVEQjN5dEIxQ2x4TGhfN2o3UHA3dVZrTXhRNVhsV216MGxNSnZWUGdNU1JiQjMxbQ?oc=5"
     }
   ],
   "events": [

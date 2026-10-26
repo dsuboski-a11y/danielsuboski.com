@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T01:09:57.202916Z",
+  "updatedAt": "2026-10-26T06:13:18.820087Z",
   "locationLabel": "Victoria, BC",
   "headlines": [
     {
@@ -7,6 +7,42 @@
       "source": "Cureus",
       "date": "Sun, 25 Oct 2026 15:38:11 GMT",
       "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPWGRxTmZ2akZrZXB6TjhyQWdLeHoyTUdnV2ZHSFdVVnkydHVEYS1Ndkk4TWxBN3FobElBX1dDTFc4alZmVjcyd1pVTVZ6RzhQVE1vel9iVmM2VENDNk12dzR1WEVWUVROdHNwLVJzRWN1ZEJFRlRHa0VLQ0pzS2I3enNDQmRKSFdNc3BaZUo2TXlDT0F6dmpSWmM0dUg4WHBmRDVyQ1VFQ28wd1lWY2JLZkhmdmZsQkhJeTVqRUFKMnNzTVZkeHpSVE1qalNxZHpJeDF4djJ2d25lbFJiZFVwRWsxb3NwRWRPbU9nTTBJbnlUdWM4QWtrVmZUZHZRbFVWTi1sTTVMQnJkbEhuSWNfZ1FaTjE5Z2p6MzBfY2xubHVmZ0QwMHZkemt2aVFqZWVuekE?oc=5"
+    },
+    {
+      "title": "Moonshot resets subscriber quotas after Kimi K3.1 Pro launch issues",
+      "source": "Yahoo News Canada",
+      "date": "Mon, 26 Oct 2026 02:22:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWWtRamZ4X0RHR1N3WTk0bTROTlhONTE4c1RxRTNlY243QTNKVEdua1pJTGFVdVhBNHVKMWlRNHVzWEhGY2hodGZrWXh3N2k5cGpDY0NHVTZ2aFRVd21MSG1ZZmRTUTFOZnBJSlNUbUw4M2NzSXZKNGloRDhBS2c5U1FRYlk2Zw?oc=5"
+    },
+    {
+      "title": "HKEX Launches Artificial Intelligence and Semiconductor Indices",
+      "source": "TradingView",
+      "date": "Mon, 26 Oct 2026 05:49:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQT1VRNTZ6NE5zZVc2aTBCY18yYW5JRGE5RnJQQjJ6Tm5xNWxnS2xjSFoyZi1rTGdiQVU0NUhUeDRVNWNMb2kzbjZtaFNkMi1CeUdOalpESFFkdllSbndEY2tzN3ZHNmsyT2FnMjhhWW1aTlNvUUU4YmVULVQ5ZjBheUgtVThLSTlIMFFwektfY1pkaGlZNW13S3VNR05VLTVXN3IzY0w5cnVPckRXdEdZLWRJTFQ0SDNRSHhmOUxzdnN3dw?oc=5"
+    },
+    {
+      "title": "Commentary: Citation graphs may underestimate neuroscience’s influence on AI",
+      "source": "The Transmitter",
+      "date": "Mon, 26 Oct 2026 04:02:27 GMT",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNczliaUtnRVZ0QUV6OHpOaDRZenRYODI2bXRULUdUVS0wNGNGOTVxQ0xJdzJITl8wWlFaWlVmYWZjT2dOY3ZBYUtCNFhuYzRkb2xVemZOc3c3aVljem9RR3RNZm9LVFhuYy1WQkJpQ2Y1YzNlX1JmNDd2MFMwZXVmRjJEbEZrWUxBU2JLcG01anJFUzM0ZXJqY0k3OWs0enhoc1hiRzMyYlNBLVVsbnNvODNWb1E?oc=5"
+    },
+    {
+      "title": "Artificial intelligence in focus as global humanities leaders meet in Melbourne",
+      "source": "The University of Melbourne",
+      "date": "Mon, 26 Oct 2026 01:26:38 GMT",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZjhYeUlBclZlbVdsWHVRYjJJekNLaVB3NU56WGpzLWxLeUtYcmNiMmtvYWVfZ1MzODh1a2lEcEFvd0hQQ1RFTE9WSGFvR3lYc0E1aXFfZmc3a2xNaS1yV21zMnQ3Y2hwdjlhb2FxY1h4aDFuaGF0bFpqeGVIR2dDODdTSmhXV0VBeFQxQTRySDZtRFhLWEJJb182aURGVkcxMmgwMzZCc29UckdQQlZzbGdIUWYxQjdHMVZoNm9FdjQ5UEdsZ3pGdjhlbmI1UQ?oc=5"
+    },
+    {
+      "title": "AI ethics guidelines overlook labour standards, ILO paper finds",
+      "source": "Human Resources Director",
+      "date": "Mon, 26 Oct 2026 05:49:21 GMT",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVVdndnRxNHpnVVhXNzhxY25qOHpsMkZXMU5oU2tvOW14YU53eGk5T0wyYlhBd0FscHFVcDlNWE9HbWZVTHg3cWdjV243amJtZHNiUXlLQjlpNFk3UjcyeS1QSU1vY2c1cWYyTzJLeXBWSGRrb1hZaUJPWDFVZ1FwbXB6WVdmcXhBa2FYTGhwZUFTXzZ4dFY4dW53Mlh1ZUdPSTJoMjl3WnMwbEVs?oc=5"
+    },
+    {
+      "title": "Cassava Artificial Intelligence AI deploys NVIDIA Nemotron to accelerate agentic AI adoption across its markets",
+      "source": "Cyprus Shipping News",
+      "date": "Mon, 26 Oct 2026 03:19:02 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNb3VNbk8zelVQVGZxS05SZm82N1hTY0FTa0JXR3BQR0RUclp3WFJjc1hTMzhCeFBrb092eHpIN2tydmEwUlRMVkJzOHBUSTA0Y1pwdVVnZDM4VU91Y2k1ZnNzN3F0cWhWMXFrM00yTTktelc2QjJHY3FVcmVmeTlKY1RFZ1BiM0tHdi03S0FsTmZlQXdDc2xYYll5SUVUOHZTRTRKQTNJNjhBTUlKZVpfOGNSTDdGcnZSQUwxdk12SWE1Skc4VjlQdC1tcm1ORS1sTkdMdDdBZHVQYzBWalhZWHk5RVl5aDhxeVE?oc=5"
     },
     {
       "title": "Intel vs. SK Hynix: Revenue Trends to Help Investors Weigh Which Artificial Intelligence Stock to Buy",
@@ -21,46 +57,10 @@
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObTJraElPSjF3Z3FTMzJHSVNIcUhCZ3VEV0dEMG5icWdyNjlLVWkyTmdlVTJMeVFYV0ZsM1FkYTBkSVB0RHQ0bkZUeVd3MEVOajRIZEFKbjY4M2NFN3dCZHlNUEhtc0w1T0VxUlc3NWp5RXIwZE9DbDFtMHM2aWN4YWtfMFBwT3VFeVpVd25vVU1oa3FpR19wS0dxRVUyWEIwdlo3LWlIeTNyUHlOTS1FZ3FhekFaUXBfWWJSN0djRlhyY0UtNkJpNHdqMS0?oc=5"
     },
     {
-      "title": "Treat a Deadly Brain Tumor Before It Recurs? This AI Tool May Help",
-      "source": "Cancer Health",
-      "date": "Sun, 25 Oct 2026 21:39:07 GMT",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQS2o5SHFvMVp1bHJYNnNtWURFNHNMVEFHeDhtTmxocG5xeWxxUEtCdVp1d2FvRGZ3QkthNGxWQmk0bnVqYjFZc25WS3NBdVdBRXpaX2VqNXdXVFZWTU52SjZTQW1TdV9tLTM0X3ViOUZJNDZ0QVN3eG54ZEhXU0JZeGVJTEpvR0hJbVRGTHNR?oc=5"
-    },
-    {
-      "title": "The importance of usage intelligence for artificial intelligence companies",
-      "source": "SC Media",
-      "date": "Sun, 25 Oct 2026 20:54:31 GMT",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUFFQU09RSWstSEN5YWpKcmJHU2hEaC1YRGRZaE9jc0JBLTJsYW5waUx1UU1OVk51Q2YwcmxBaU9kd1RCUWNQTU53Zlh2NXE4UGhBekg0ZEtEZEp4Yy1VRXA4TDlFQnZsMWlyVG9uUzJJNnY3ZFN6bk9OdzgzLWdOMl9ldnRnVHM0dVlVN0pZNG9fUnRzcWpnUVE0SEo0OW5aZUdCSVFQTQ?oc=5"
-    },
-    {
-      "title": "Analysis of Edge Artificial Intelligence Chips Market Segment Highlights Significant Growth Opportunities Through 2030",
-      "source": "EIN Presswire",
-      "date": "Mon, 26 Oct 2026 00:30:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQbGNXRE1zdVo3bE9ZS244QWxvcngtRmNIbUNhbC1kY1luUFdrSmRNU2tjVHR2dDFqNmV6M0hid25LWVh1Rm9rbVBYeFhvN3hZQ1o3NExkYmstMlJLTHkxR0dqbWZsSWZrV2oyLXVfdHpwRWc3dnpkUlVnaTV2U28zYV9nSmlKNklaNUhuR3R5RXZmTm1SMURSWjc2QjNRZm9JUjFLeW9kNjE1d01XSXFjMUk2d2x1ekladDI0T0k0aEg3TXhSdzk2cXNxZ0lncXNuRjczdjAzWG1xU1RBNkxld1hTQS1QU3VpbWdPc0Z1d1dDN3o1SWxZZw?oc=5"
-    },
-    {
-      "title": "Apollo Says AI Has Shown ‘Zero’ Payoff Outside Tech",
-      "source": "PYMNTS.com",
-      "date": "Mon, 26 Oct 2026 00:54:37 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQV9LZC10MURRcHdvRTRzRTNyUGhnR2tYZ3ZaOEl4Vk9NN3lzMVFOLWx1eDdSZmxLQi1hajdPSHBuV3JMUk5uUUdzRjhjS0wxMC1adDVpSlEzQ0QtaVF4bjY4WmtTY25BVW51QjFhcDE1Ykd6Q0FSUFJ5ZmdhVV9yY1c3MXF0NmNTX0x0SVAxZWhkdkZwSXN0Z2VicWZlMHNSWXdLYU1uaXVwVzQ?oc=5"
-    },
-    {
-      "title": "SpaceX closes $40 billion debt deal for AI chips, Elon Musk says",
-      "source": "CNBC",
-      "date": "Mon, 26 Oct 2026 00:37:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVTJ4MWVBeEtEdjR1T3U3TDJvZnFSd1UtTVJ5RFljSG90MUs3OW0xRUFTZ2p3T3FjRGZINFUzY1Qwa2MyZWZ3cmlYbkQwd09xTzF1cEdZSFkzTHdpNGhaNno5bW13RXdmaldaSlpBYTN4djJnTUF0YXRsX0ZaX0FQYXlfQnBWSzU4bWJweC1CcjNPNGVKNV9MMHhqTdIBoAFBVV95cUxNOExaVU8tRkNSSVpLS19wVmxBMzl3a2tvYVJfQy1PTzBoTUlGc21yQ2pHNWpnSWxxN1IzN0RiSHZROFBqNFlTR2dfeS11T1BWMUxKMktpMHVlbFRmTjVGdmxqbFBBeUJHelM0eU8tSWQyRDhEVGc3cmdnbGxlSDVDbE1hc3BqNUlNUktNUUR5SGNNT3poc1k4QUxOczJNNm5j?oc=5"
-    },
-    {
-      "title": "Competitive Landscape of the Artificial Intelligence in Healthcare Market Examined Among Top Global Companies",
-      "source": "EIN News",
-      "date": "Mon, 26 Oct 2026 00:30:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcHZ3eUdCaERRUFo0ZmVaejNDaHMyNHJrOExlelFVOG14Znp0Y1VfQi1ZWGluZ0VweVZSck5RaUw3ZzdURlNKdXZYcVRiZDk4eDF2TV9Zd1BnTmcwanNsaG45MnVHRjRYb0haLThsNFJnRm5DX21wZDkwSnpmN3ZzLTdKZHRvV1Z3YjhFeHotZkhjeXVGMWdpYXFUSG1HamdBZkxncWNteXhLRE1xcVdhQmRENHAyeUtmWWxVb1l6Tzl2ZTNOTTdYb3Zoc01INjV2T2NjV210cmJ5VnFYcUVGMFFQZmc4Zw?oc=5"
-    },
-    {
-      "title": "In the age of AI, what does consent mean?",
-      "source": "Sudbury Star",
-      "date": "Sun, 25 Oct 2026 08:12:22 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBSZ1E1dUkycDJLZVZBbU5aWEgwdV9SQjFoWlhyNy1yZWVIOXpBNXplVHo5NGp4WUZfXzVYTDMwLWtkQ1BRdDkyN2ZmUWlESkhMQkJ5bXNMVjFjUlQwNmRLS2FDWQ?oc=5"
+      "title": "AI awareness relates to university students’ boundaryless career through the parallel mediation of intrinsic motivation and future job insecurity",
+      "source": "Nature",
+      "date": "Mon, 26 Oct 2026 02:13:07 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5PS0p5Wk54b0I3UG1UcDhJdFRUdTVXVjU4ZzNmT1VIcEt1VkRNWVpOWEQ2b3BQX3VoRjhkUEpGNExDUnhkQ1lQM1o1eXRGbEl5dndIRGxqNjhKa2t5azVj?oc=5"
     }
   ],
   "events": [

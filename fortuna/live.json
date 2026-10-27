@@ -1,30 +1,12 @@
 {
-  "updatedAt": "2026-10-27T05:04:25.207642Z",
+  "updatedAt": "2026-10-27T10:33:56.750508Z",
   "locationLabel": "Victoria, BC",
   "headlines": [
     {
-      "title": "Ontario Tech University - Ontario Tech researcher gearing up for second term as leading national expert in trustworthy AI",
+      "title": "UNIVERSITY OF OTTAWA uOttawa launches Centre for Applied Artificial Intelligence",
       "source": "Education News Canada",
-      "date": "Tue, 27 Oct 2026 04:54:30 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQSkRocG13VW45N1IyN09tQlRqdzJ2UW1hWWZXWnBFazRUNjBVSGpEZUtqZXdMSzRpWEhENm9VTFd0NVV5WFNWd1JSa3hyRmpNck5mVEhjWGxYUFV6T18tb3QxSUZ6YWlJOXlEcnZuSGpDWjdTY09KSGw1eWVDR1JUT3ZCLXZzazR5X2VOSUMzODFPRUZfVmN4aHRwVWphZlJpVXV6aDFYOE51SEpwcW51aHNUYVhiZm1BXzBCZHFfLXV2bzBZNTBIZ01Cd1hBZHFnUXFiMmNpWWZ2YmpMSHNXNUtOQWJjSkI2R2NzSm9uY1pGTC1iazJENXJNZ0llTmRCNVZZQ0FHUjU?oc=5"
-    },
-    {
-      "title": "AI laws update: what now after Artificial Intelligence and Data Act?",
-      "source": "Lexpert",
-      "date": "Mon, 26 Oct 2026 13:19:59 GMT",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQY1dPRmU4d2E2M0RxT0w0clo5ZFpJSC1lVC14MGZRYmZNS1pOWUJqVHItMUhBb3FIVExULWp3dG54NjJRSjY3WFZjRmR1bXhINHRTaVhmOUl0emlEVWRSaU85dHBmYllvNC1ZUDlnRDl0WUF1MVY1NGF1TVRoWEtkNV9yYXdjdHRGQWpqTERLNDEwSnZfSFY5ZzlYc3Q2OFdTRFp5WnVKXzFySm9hODV1a2liNVR6REU?oc=5"
-    },
-    {
-      "title": "The AI companies that are barrelling toward huge Wall Street debuts",
-      "source": "Investment Executive",
-      "date": "Mon, 26 Oct 2026 15:25:21 GMT",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQLU4zV3hIZEU5Nzk3UFI5U0RqT3FNZmdNak9WMHBIZWJqNWgyajhMUThMY0JIeWtUbjdSY1QxYUlEMWwxTmpBajE0SFBLTG5EMmhDWUVtTmlCLVNkSmJyd1paWnJyMENCaWZFNDMyOGhXVWg5Vkk0RXQ3V0M1cjBvWkc5NEpIR1pzSHRtcmtQZFpLemwxMVRXVnBOWmNkM3k2MWUyQ0pvT2lIZm5SdVE?oc=5"
-    },
-    {
-      "title": "The AI Singularity: How Artificial Intelligence Could Transform the Economy",
-      "source": "The Acquirer's Multiple",
-      "date": "Mon, 26 Oct 2026 21:28:21 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObmNPSXlmSDdYX3NsSVlGajlWT09qZ1BVYmFPRzVEQ0hDbUY2UHNuU1RiLXhQZmtVbWV1cm1NUTI0eU1EbW9mRkp0Qzd6eEZXUkpWM3IzUlBQS1ZTNjZ3SFhMWks5NHZYQWJrU0FCUWlnRW5YLVdUVXlFRm83dkw4ME1lTGNSelZYU25YeE9tdG03QnlJZVBoaEZEalJOd0paU2JHam9HZ09vdkJTSlNINkZmNA?oc=5"
+      "date": "Tue, 27 Oct 2026 04:03:58 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWlc4RlFxT0txOFprUUV1b2FhNTJhU2t4VjRaWVJDdFQ0Q0V2NGVHWGNFWkh0STBUTFNCYnVpQjd3VElJUi0tcFFUQmtETUF3anNxNVRXODJwcVhnb3R5Rll0Z0pJUmlFQmxuWXpuRkNoejRDOEFDMkpGZElPbXVneVh0MXh3SmZzWnE5UHVrSDBLeUhPUlo5eFRETkYydGJrR1E1U0xVcEVfRE5KdzZSUUFJME10Z3doNXVkUEVGem9PVEcyTUVrMkNveFdZV08zQk5hdWQ0clg?oc=5"
     },
     {
       "title": "UNESCO supports the ethical use of artificial intelligence in Mongolian journalism",
@@ -33,34 +15,52 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQUNScjNaYjZjSWpINi1tc3ZXeVo2WDU0MFB2VnBzNG5hcWFnUTFHUFpIQTQ3ZnZVaExOOXZBVmw1MGtybG81bF8tQ3lENXY3eV9aZU5qQnFiOElPc1RhRklzdVlkTXkxVW1mVjc5NlV2MGgtWTUyTTRaM2hfbkRSeGZJQUhSbUozU2g1bllwTDNFZm5teEZzNkUzaFB2cV9PM0x4b2NINm9PVVU?oc=5"
     },
     {
-      "title": "REVIEW: Artificial intelligence: don’t fear it – embrace it",
-      "source": "Vet Times",
-      "date": "Mon, 26 Oct 2026 21:07:05 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWEZUTmdLeHdKXzhha3dQQjFsVVltYkhGYnFhZ2xiNFVqNGFoR0FXYm5kX21ucW14QXV6TnFXbWVUTXhCNWd3cWJwcDc2d2VlTUdNX0ZmQTFoUmVDa2JydHA2a2hwODFsRWp3RGVSWkRaZzluSS1yYUN1akpCYXl2MlVCbFdqSi10bkZGYzFrc05QcUMwaU5iLTZBSDFTVlJJUERR?oc=5"
+      "title": "iFLYTEK launches Spark X2 6 device cloud artificial intelligence model series - Vietnam Investment Review",
+      "source": "Vietnam Investment Review - VIR",
+      "date": "Tue, 27 Oct 2026 04:53:51 GMT",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdk04bnJ5NUJuSGIxeG02clJRcHlJT092c1FibENEcEE0a3daQ2o1RU8tTmpBOUg1WkJ0Y08zVnlUTy1KbUZXdmhwUkhLTGlWcEtrRjFzQTItTVJZZnVJaGp4cGhwREUxbEo2NmRQT0JkbkMtUTFNMGczLURuTHhVWkpwc3BkSHg1VTBLQ2FHcEJaLVoyVkZkRG1TTUJreWdzSVZzTEFGN3FBTWtq?oc=5"
     },
     {
-      "title": "Impact of Artificial Intelligence, budget bill and lobbying laws on the agenda",
-      "source": "iPolitics",
-      "date": "Mon, 26 Oct 2026 10:52:39 GMT",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSnNVRi14QVhEQ0UxcXBaWlQwYUR0LVdoY2ptMzVmVXdtVVU5a2YwQmQxMmFFZVRmOHBkcWtOTDRUbzVjSG5sQ28zR3NqSk9fckRURnlOOFVKSjAxLU56RHlsRk9iN3pkbk16M2lEQ3F0UE14cU5FZ2d0WksyaGZTQUlVb0NjNzdJYWZpeGRZU2pOWVM2YlFEaHVUcVNyV20wWTBkbnNfekV3VmhjUHJ4ZnV2cGs?oc=5"
+      "title": "AI laws update: what now after Artificial Intelligence and Data Act?",
+      "source": "Lexpert",
+      "date": "Mon, 26 Oct 2026 13:19:59 GMT",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQY1dPRmU4d2E2M0RxT0w0clo5ZFpJSC1lVC14MGZRYmZNS1pOWUJqVHItMUhBb3FIVExULWp3dG54NjJRSjY3WFZjRmR1bXhINHRTaVhmOUl0emlEVWRSaU85dHBmYllvNC1ZUDlnRDl0WUF1MVY1NGF1TVRoWEtkNV9yYXdjdHRGQWpqTERLNDEwSnZfSFY5ZzlYc3Q2OFdTRFp5WnVKXzFySm9hODV1a2liNVR6REU?oc=5"
     },
     {
-      "title": "Does artificial intelligence like to play?",
-      "source": "GovTech",
-      "date": "Mon, 26 Oct 2026 22:04:11 GMT",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPazh4QXE5REtMUGM2dzlfLTZId1E4RUhpOFhTS1l4UEMweVEtajdiT213c3hfREQwbVhGeEgtN0J0dDd5MV9xM01id1VueUJXZm5mSWhUdkxJUUhGZXRscjM0eVZZbzdzLVB1NFNabU04T2h0QWtMX1dHOWRWc1NlU1Jjck5NbnVlSklRNGJB?oc=5"
+      "title": "The AI Singularity: How Artificial Intelligence Could Transform the Economy",
+      "source": "The Acquirer's Multiple",
+      "date": "Mon, 26 Oct 2026 21:28:21 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObmNPSXlmSDdYX3NsSVlGajlWT09qZ1BVYmFPRzVEQ0hDbUY2UHNuU1RiLXhQZmtVbWV1cm1NUTI0eU1EbW9mRkp0Qzd6eEZXUkpWM3IzUlBQS1ZTNjZ3SFhMWks5NHZYQWJrU0FCUWlnRW5YLVdUVXlFRm83dkw4ME1lTGNSelZYU25YeE9tdG03QnlJZVBoaEZEalJOd0paU2JHam9HZ09vdkJTSlNINkZmNA?oc=5"
     },
     {
-      "title": "Apply now for Regional Artificial Intelligence Initiative (Canada)",
-      "source": "fundsforNGOs",
-      "date": "Mon, 26 Oct 2026 22:40:41 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZzg4LVdqN3NaQWVTdXVfSnpyQzVEZ2FhNDQtcWJCLUcwZE92MlRaVWxFd0xLRDZCQ0oxNUtqcUJWMDR0YmZ1eHYxVGllTmdQdWVUMkxOcC0tZjllTDRnaVhlcE9SYnRHX3FzVlVKVk1DX1diWDQzZG5rcy1XVnJYR1lweEhnWkoxX0tRbGRtbllybTRpSjRvbkY3dl9NaG1pQjVvTWlsdmZYZ9IBrwFBVV95cUxPN1ZaVXZvNHliXzVRMWRLUnk3N1NaWUx0UWt6NHFMM1VDRHZNQndBX0o2MzRiczJ1NGZYTFNiM3FLSkV0ZkxjZWVlTUd6b1ZDQTVocndxUW9XajFaYXE4amJNdU01TlpDa3c2TVRZaTVoQXpKU1M3ZmVXRUFDLXV1Wng1bmNhcjdaeXVKZlVwVnRZYjI0LU5FZ3ZSM0xiMDVZZ1BwY2xYUS1LYUxaeUE4?oc=5"
+      "title": "We are incredibly excited about the potential of AI",
+      "source": "World Economic Forum",
+      "date": "Tue, 27 Oct 2026 08:16:06 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTWFWX0VVVVZ6dzFQWDNhV3c3R042eXFBa2NjdHhmMnFXOHEzSDkzZTI1LUU0REI0Zi1GU0JFb1BJNFVSakpxdG9TQ2hIbjhreHlOU01VWXpIOXc0ejJnSFgtWlN0YnhXYU1KYjg5NTgwbWFjV1l3UmFMTnlEeldvaVIxVmZhS1lmdnc?oc=5"
+    },
+    {
+      "title": "‍‍‍Artificial Intelligence at Work {CV45RT}",
+      "source": "NYC Health + Hospitals",
+      "date": "Tue, 27 Oct 2026 08:32:36 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxPME5UaHVQaWxHQ1FnWDBQU1h1c084VHZWMEU1Qm8zMDVqeklaTlBkVFpibW9iT1JhMnhPT2dFZEdBamxTTWlIWFlBb3lFUUpnS3dBM3RDZkpEcnpTeVJYTUt1WHNWcWlsWC1saVZzQWlXU2xaRFJUeW91a3I4NnBzWFpPNTgtS1B5ZTd2YWxNZnBiYnUyMjN2eU9nMkR2NnI2bE5lWExVNUxyb3VnZ1NqRnpKS1BVeVhfa1g1ZGV1akp2ZG5VaXNyVHBCR0otcWFoSi12RUxEUFl2Q01qcUoxMHBWcEkwdEZUZVIwTENpLWc0VlFlZTBSMkVsRDc5aHl1QlhOTXRnRjNpeTZjaHZGQTRUV2pnWDN1cFo5LVJsZXk3MC15a21wWWVEbWF4eFN2eTE1azlmdzEzYS04QWYwR2M5bkItMnB0QUFEcFFOSUtFSWs?oc=5"
+    },
+    {
+      "title": "Privacy group files complaints against Scale AI over alleged worker surveillance",
+      "source": "Reuters",
+      "date": "Tue, 27 Oct 2026 08:45:16 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQ0QzdElNcDhKWkJYRldiRUp4RmE4Z2t6aXdxZjNPM3Q1VEpMb1djS2QyVUdBRWozV0R3QXg1bUdkcDJkeXJsbV9oTmFaaHQtaHMwYzVLNFZaY0Rld3EtckUtSkxyYlZldVV4Unh0VzVkbzF5cHFPUy04aThFbEt2LXJtb1NmSUZZN1A2eHBXYXkyb1hWajliWVdPTTJWNnRaRV9DaHU1MXJpNFNXMjFfVG9SdmhwUFNyaFJqTEVzR0dwaG8?oc=5"
     },
     {
       "title": "Women 'risk being left behind' in AI push, advocates warn Canadian lawmakers",
       "source": "CBC",
       "date": "Mon, 26 Oct 2026 19:12:27 GMT",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1tbmg4ejdMeHR1allyaVlhcVpUY0FEQ1BWUFo3Ui1yaXVpZUhVRnVnaHVSUlQwQ0FTWjdMd014cl9OaDB2WU5OSFBDUUx6MnA4eVB0UEpBN1BCeDRrS3VBX0gtWk9SelZIUDhxcC1WZHI5Nzc3cENV?oc=5"
+    },
+    {
+      "title": "The AI companies that are barrelling toward huge Wall Street debuts",
+      "source": "Investment Executive",
+      "date": "Mon, 26 Oct 2026 15:25:21 GMT",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQLU4zV3hIZEU5Nzk3UFI5U0RqT3FNZmdNak9WMHBIZWJqNWgyajhMUThMY0JIeWtUbjdSY1QxYUlEMWwxTmpBajE0SFBLTG5EMmhDWUVtTmlCLVNkSmJyd1paWnJyMENCaWZFNDMyOGhXVWg5Vkk0RXQ3V0M1cjBvWkc5NEpIR1pzSHRtcmtQZFpLemwxMVRXVnBOWmNkM3k2MWUyQ0pvT2lIZm5SdVE?oc=5"
     }
   ],
   "events": [

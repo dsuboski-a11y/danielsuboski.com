@@ -1,12 +1,30 @@
 {
-  "updatedAt": "2026-10-27T16:38:46.653436Z",
+  "updatedAt": "2026-10-27T21:19:19.852039Z",
   "locationLabel": "Victoria, BC",
   "headlines": [
+    {
+      "title": "Trump Says He Will Ban Term ‘Artificial Intelligence’ In Latest Push For ‘Super Intelligence’",
+      "source": "Forbes",
+      "date": "Tue, 27 Oct 2026 17:38:12 GMT",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNa3BBOFRzNmhiVi10YzJyUVAwWXdVUlRzOHg3bi0yZENqUWk0VzFxUFFMV2NFWUxtdEhyb1pNaTdLcU9RbWU0TDVBUXBHdnN5emZ4SzdVck8zUE5mbnNwbkdqV2VzTHY1cHdBWjlWUmppbDZyMWk0T3FLOUNKR0hwQmIyWlJ5ZlRFbUM4dFJrVGRnb1d4T2tqNUNXUjZUZzQ?oc=5"
+    },
+    {
+      "title": "Trump says he will ban term artificial intelligence",
+      "source": "Reuters",
+      "date": "Tue, 27 Oct 2026 16:26:16 GMT",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSTVKYzJuUHVHb1A0cnVGZGdheE5VT1kwWmZVVEV0YVY4RkhQenRfeTA4bHhaWDRJd2o2NVFCa2VPb2duR0dzZUVmOFBSMEFoSUhDQngtN2V1b0l1YVdVNnp4TEF6Y2lVNjlYM29ueVpjMkFxZUdIUklTZDFIdU5QQnVXV1lBOEp2TFZpLVVqZmp1MElLSmoxRg?oc=5"
+    },
     {
       "title": "The challenges of artificial intelligence in education shaped UNESCO’s participation in the 14th País Digital Summit",
       "source": "UNESCO",
       "date": "Tue, 27 Oct 2026 15:16:56 GMT",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWlNHa0NhdTR2bWJJdEM4LUFQcWFCQ3VFdl9fUjZQQ2F1NXBZcjhlVVB5bjRXOXRsUDliQzRPSFJLMGhMTFBPNXR5MzlHZU5zbTMwczE4QnY3dVVocEkxSkdUNlBBd1cxUmRpOS1SMjZEdlpJaWNlYXlBSUhNSTQ4NVZ6bzJVcm1jLUw5WGFZRmlWYjlQS1RqV2ZNZmdWMFR5VmNCZnR3SzYtc1N1SEJKU2J5SU9RUUV5ekpPSkJWdk10X1lYZGF4alZoOGdvZw?oc=5"
+    },
+    {
+      "title": "Trump Claims He’ll Soon Officially Ban The Term ‘Artificial Intelligence’",
+      "source": "Yahoo News Canada",
+      "date": "Tue, 27 Oct 2026 19:23:29 GMT",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE13T18wODdTc29IdzQxWkVjUVRWYmdaQzhxb3lReXJTeDVmaTh5WmtSZUNVaDhRUjV6WDg5dGFXSmNVV3N6R3JLWnpqY0RBcjQtQUJ3V09BNTVobnVlQWNVa3BQS3RBYkRHN19ZLXFfdzNfNmVYc1h3LUtOYzY?oc=5"
     },
     {
       "title": "The AI backlash is hitting sustainable investors",
@@ -21,46 +39,28 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYkpPaDhwbnU0WE04OWhRX0trWTJNcHA5TXoxQklFcnpkMTFoSTRoM0xNVGFGV1c4cUgyQ180LU9pdFJoMEptY2lYUXhlaDdoc2FhUnd4Z19pY2VUV2VyV3NHbVVrLTVxcDUxTUowWkk3WlJMQW00VXNDTnZtV01BYVNqSnZ1b25sVlBXRm1vRWZ0UklVVFJKVDREM25ZaEYyaHB3dmpDZ2hKbG9XTzdLMXRVanRSZWxLVXfSAb8BQVVfeXFMTXVvT3ppQmVDbkFyRmtTVW1yNV9JNUlaN3Raek92QjZQaVduejVaTk5SLW5JbkJYOXJRTVhlN01XdW9hSTJ0SkNXWGdDN2JfVnRreU5mMjMtdlhaQlItU21KOURfZVBmWDF0dHoxXzh1eDgxMkl4OTdiZ3pjSmxrTHNMSXhia19DRVlTRjRNWVVUMjQ4RGtnUkdkTmEyOU1SOVNsSWdMaUFxOVQ3a1ZOSUd1dDIwTmo2TmxyRmdoMFE?oc=5"
     },
     {
-      "title": "Taxing artificial intelligence: What’s on the table, and what’s at stake",
-      "source": "Brookings",
-      "date": "Tue, 27 Oct 2026 14:04:44 GMT",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOG42dkNVcVlJRS1nbnV1Y214cVJUTDVhN1BaZGowUmNOUnd1dlFVeVdPbTZ0eXB0QTl1T09zbGN6WU1wa3ZBNXNwaUxsTWtCcUcxaXZnWkFaeG9CUEw2NHBibm1hMVlmYmdqTDJKMnF1NDRPS2lOV01hQjVqNG8waEJZaV9NZjZnRmdkZnMwUW1kOEswbUQ2MDFrVFo1Z3kxSWkyRFQ4RQ?oc=5"
+      "title": "Trump Wants to Ban Use of the Term 'Artificial Intelligence' and 'AI'",
+      "source": "Variety",
+      "date": "Tue, 27 Oct 2026 19:43:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNU1NaRHNKaV9MWk9DVTdZSERQX0F5SmwxYS1Jc09JaVMzX1lTV090VVptNi1WcTRKTk9hREs3MVczakIzbzNsbjFLUmxjeTdVWlpGcklXXzZqWmFsLTBsUmFLY2NLLWp4WjJnMk9HTzhMc0psaEpWaU55dlhCRDFRbzF3dV9ib1N5ZER3SEpGcDlXYjlERU1xWE9PdmVtNjFfVDBhRA?oc=5"
     },
     {
-      "title": "Trump says he will ban term artificial intelligence",
-      "source": "Reuters",
-      "date": "Tue, 27 Oct 2026 16:26:16 GMT",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSTVKYzJuUHVHb1A0cnVGZGdheE5VT1kwWmZVVEV0YVY4RkhQenRfeTA4bHhaWDRJd2o2NVFCa2VPb2duR0dzZUVmOFBSMEFoSUhDQngtN2V1b0l1YVdVNnp4TEF6Y2lVNjlYM29ueVpjMkFxZUdIUklTZDFIdU5QQnVXV1lBOEp2TFZpLVVqZmp1MElLSmoxRg?oc=5"
+      "title": "Trump Says He'll Ban The Use Of The Term \"Artificial Intelligence\"",
+      "source": "Deadline",
+      "date": "Tue, 27 Oct 2026 17:27:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQTBMaGQ4bS0yaXBOeXd6bWRRWk9xX2c4ajhITV9qWkFUYTVqUlcxcVloR0dzdFQ0bVI5cGczMGZhQzdHVzZZT1VDZVlwZldCMktoU0lSNlE2NzhuZ2xobXE0aXF5T2kzd3N2ZXJCYkRtUUh3bU1PeWswSGpicUtPQTVaQ3FfMXhybVh4MDkzWQ?oc=5"
     },
     {
-      "title": "Lockheed Martin Invests $10M in AI for RCAF CC-130J Fleet",
-      "source": "Canadian Defence Review",
-      "date": "Tue, 27 Oct 2026 16:26:10 GMT",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRnZ0U0FRUllTUkJWQ1lWZU5xbUF1YkVVRlhLTlRUMU9aVGN1YXEzeGZvVFAwaFR0WUxBWmFieUcxSThHMmxPWGpOOHpWcW5HbFdrbUoybTZWMzVVeTg2eEJ3YWtFdDVOWUxOSTFVaHpkZVVjUUM4Q1ZSZHRDZDFMeS01QXJBVld0WWlmWjNvdjhvV2Y3dXc?oc=5"
-    },
-    {
-      "title": "From Text to Touch: Choosing How Artificial Intelligence Communicates Empathy in Healthcare",
-      "source": "Frontiers",
-      "date": "Tue, 27 Oct 2026 11:40:36 GMT",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOS194SkNQREZvWDZIT3pLNG0xS3YyYnU2OFhzX3B6aTVQdnFFcUJJWjNUWVJfb2RiZXoxR1FjV0lpSkJkb3lnT0dPRHFoQzFQaVA5akFtcEl3Z2w0cHp1bFpyT1JLejlWbjRNeG12RnFUVmtDeHBLNmFFX2JGb2labTZBMlZHMHp4cXE5U3oyTDNrQQ?oc=5"
-    },
-    {
-      "title": "Wall Street Has a New Blockbuster Stock Split Coming in 2027 -- It's an Artificial Intelligence (AI) Stock That's Up 1,615% in 14 Years",
-      "source": "The Globe and Mail",
-      "date": "Tue, 27 Oct 2026 11:10:47 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQdnFHRGpxd2dlZmJtTUVVOTFESFB1MXlwa0x5YVlLWnRqcy1NUTdMbC1qUG0tOTBoLV93bUptRFMta1V4aXQ1elVNWW14YlBzb2ZHRkpDQzh3cm4xaGJud3B1ZGhFX2RnbFNnSDFUUjZqUmVjdERhZXNucmVNRlE0VWtEVWVySTFkVUNjZFpJNFVhWFF1VkdjVmo2NGx3VkliTVBNTGtNUDY4Tk55dHN5QndaWlljcjFMdHVGTEc5eHczMmprTFlwWWlSNk1OaHV5RF9tODJOS0sxSlFEUGlXMHYxU2kwUy13OXpOZHN2WE01a3A2ZklHVWZGRWxmaW4tZTNqV1hmRFUyekQ2S0FMZmw4NW9rcGtEbXBVRHNYekk3bzlmdExUeGt2TDlnYWJEYzdDRVhESm83eFk?oc=5"
-    },
-    {
-      "title": "Anthropic predicts AI will be one of humanity’s most consequential inventions, weighs ‘catastrophic’ risk in IPO filing",
+      "title": "Risks spelled out for Anthropic investors include blowback from runaway AI",
       "source": "BNN Bloomberg",
-      "date": "Tue, 27 Oct 2026 11:40:40 GMT",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOcVRpdWJ4ZnhlRWRfUTdNRGpOUS1ldWtXWjU4TURrQjZKZkRjZFVKOGlqWndrWkpKYWFzTFNBb1NuVjY1Nm9taDA0b1BIdEJnMkl2Y1Ywcllya2ZWUjVoTkdDRkprQTVQbGRheFJFdkJidWFfS2c2dGNWNVJzZFBpN1hzZmg3Y2VLbWdGNHRWS3l2SUd4TTBtSHo2ak1YOUp6R3JCQVVGcGw3QUUwbDlrZTM0bEs2bzl3WEhnb3ZHUHZmMVJ1YWRXUjdURnVVb1pFYmxwZW1fSG5zdmVPNkozdTdwWU42aG5lR1ZtUXpEMHl4VGk4?oc=5"
+      "date": "Tue, 27 Oct 2026 14:14:26 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUFJCdjRpR0UwaWlxN19hVkZONTJIVVBYcDB0U3Rzd2ZvaWdtaHgtQ181dTQtblhqN2daVkt4WkJYTXh0Z1QyaEJXUlJGY3QwSzNLajRVdDRIWDdneFVNOWRPOGVwM3VTMkpPYS1Ea3lOUzRQeEIwMmdxSEltNXF0bmxNNFFCN21qYnkxcW16VmZiWE4tX3FYRXFFTWZoc1pENXdpazJCN2lsVjFYR2dLc3psWVlRRW9mcWJLU1pRYkdMMExEZHBRMFgzVVlqYWc2Zks2aHg4b191VlVmblZWNWl0clBLcDFL?oc=5"
     },
     {
-      "title": "Artificial intelligence in a Jesuit University: A student conversation, Nov. 4",
-      "source": "Marquette Today",
-      "date": "Tue, 27 Oct 2026 15:08:29 GMT",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNX3VETmdCQ1JGTUxiOG9jcERaY1lpbFM1RnNxaHJLWVhLaU0wQXJ5cjFMMzA5TGwwWUNhUlNDX3NoVHFXTVNuUjVaWlE2V2x0NDRrZXJWcG5vZVhxRERVN0F4WGY1R1htYWRZcUV1VGRzdDZqd3FNdjUtTUtra3dVd0dNUzZIZ1BiNUg0Zy13QUhyS3ltbTE1bUlQUW8xd1JEUWcxOG1yQ2ZtMkJnZFFBaXJR?oc=5"
+      "title": "NetraMark Holdings Inc. (TSXV:AIAI): Why Investors Are Watching This Artificial Intelligence Stock on 27 October 2026",
+      "source": "kalkine.ca",
+      "date": "Tue, 27 Oct 2026 16:56:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPbmtRRFo1MnV0azQzLUE4dU1Kc0tqU2xNemNHbDhFd1NMZXBIei1sNjNIa2hCNWF2endfWDlsY0Rtb3AzTHdNVGdDWnNwbzNLLVNfYVJTZzlVUlR4MnN0VDMzQ3kxSENVUmhmZmNidElHdGIxaFJweml6c2ctWDdpUVdoZjdMME1mQWtNWXE4c0NiMFZYV0hXNEdRTGhnZTJYcDQ5NHowNDBDOU53SHpRQ0ZqX0JTLW1RSi1tSnB5a01BUVZNQmY5cmpnT2IwelBHb1NNWjFveE56QlRYM20tN3FCOFFpSHNrZWt3NWZCY25nQQ?oc=5"
     }
   ],
   "events": [

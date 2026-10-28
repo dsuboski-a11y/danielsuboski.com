@@ -1,12 +1,24 @@
 {
-  "updatedAt": "2026-10-28T16:02:03.684290Z",
+  "updatedAt": "2026-10-28T21:04:40.137461Z",
   "locationLabel": "Victoria, BC",
   "headlines": [
+    {
+      "title": "'It's very effective': Impersonation scams aided by artificial intelligence on the rise, police detective says",
+      "source": "CityNews Toronto",
+      "date": "Wed, 28 Oct 2026 19:45:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNN0hiVVE2U2RhVEZaYzQyeWo5NThvSElnZ3A3blVuaW5uMThQb05uMk11aEVKOGF1YmJ4LVlmZFhwN3k1V0QyLXUyeFhZYTZoZG80UTQ5T1c4WjBZTmhBd3RfNjM4YWxLeHBEQ1hYcmRTRUMxaHkyLUFDT0oyVGczOGwwQ0JrUWhidnlyMmVNOWpwd0JKcjhBRmo2Ujg5MTZwMUlNampfU09yUi1HemxWamQ0M3VubEFXMkpfSEs4TF9VWTFxZ1RCNnNuR1BWQlRjZFZiRXdLUmdwZw?oc=5"
+    },
     {
       "title": "The Next Major M&A Opportunity in Central America: Energy, Artificial Intelligence and Digital Infrastructure",
       "source": "Dentons",
       "date": "Wed, 28 Oct 2026 15:23:52 GMT",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOS1NiUXdzb0Yyek5Gemp6UG5xbUE5X2lnanFKOHVYSmxheEowZnViUTJTaFhPYXdHcG1PM0l3TS1BdjI0d0FPc0w5STJOTlBmcHJZVDdmTGxUVG9nWlc3cnNfVGxVY05QV2VDeG1teEc5RUl2MHI0UGY5ZkFuc1ZUa1RmMVpSeGp6enZFTjhHWURKSnNuNWhhZHBkN3BiNGVGdDJULWNYTHZ6dUZMS1dsWEh3OUE?oc=5"
+    },
+    {
+      "title": "ForageCam uses AI to improve silage corn nutrition.",
+      "source": "The Western Producer",
+      "date": "Wed, 28 Oct 2026 19:45:13 GMT",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVFd3U2ljYUNQLUV3RVo4YzdZeUNpa1JyRnFST3NkMERmaUhWaHpMMjAyQmFyRTlHY3VtdkxmWE50RDZVdDZNdFo3a2xEbFhSdnlnSnEtdUFsSFgzNWdPeTZ4SlNoc0tFbmVJbFlvVFVRbEZ5SXFWQ3dBRmJtUWFqaGFYMDlqUEFpVDdHY3BHdXE0dVhDeGVKTVdzQQ?oc=5"
     },
     {
       "title": "Using artificial intelligence to step up the fight against doping",
@@ -15,10 +27,10 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbVBCZGpLZnF4UjFnT1JyUTFjYWF2d0Q4clcwdVZueGFiOXlSOEU0WEczVmdTeHQ5NG8zVl90a2FLR2tHam5ScmZISzFkYV9TSEJlZGpHSS03MmlBbEtYVElfOFQ3OVRJdUc5dC1GT3l2c1NvVGN3UXFnYVYyVTNiMUlCOTVqWFJQQlF6UnlVT0sxXy1TTC1TQl9SWHQ0SERnc3Bn?oc=5"
     },
     {
-      "title": "Canada and Europe Need a Way to See the AI They Cannot Access",
-      "source": "Tech Policy Press",
-      "date": "Wed, 28 Oct 2026 15:07:42 GMT",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPajYyTVVlMTVVRExYa21acTl4MTFfNThqWmlQeHJua1NYcGg4MUJZN09nYVpxT1BZYXRjX0Q1UVltVjVYbUo3dVRyQ2JlMzV6YVg3NXBPY1RiWHFQR2NOajU1SS05b2VsWEhNQmNFLUpZcWFnT25JcGZFQzR3dnp5NDhpZVprc2Zadm5xT0tCODd1bGVpVlE?oc=5"
+      "title": "Artificial Intelligence and the Purposes of Public Health: A Critical Look at Technology",
+      "source": "The Hastings Center for Bioethics",
+      "date": "Wed, 28 Oct 2026 17:28:12 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPaUxOek1SMmhOZnJoZHpzUF9qYnl3MnFLQ0JMck9mSl9VMEFIcXBYM2QwLURMcHphZHU5SlRwQWYxV2pNVEVJYWNQeGloSTFYZklranF3Yks5aDlKOGU2UFZIcENmekRNY1RYTTc1NzhmT3VSVVVHVDBhN29WeG5XQkxld0wwbHhvZFJaY1NqNXFRRmxWajk1OFREcmMtZUtYZk1nRnZicFZpMjVoM3AyZmJLaGhvTEFEU19zQUxsdzd5YXdGZU5nTUFRX1huVGpUVlE?oc=5"
     },
     {
       "title": "AI and work: 'Previous industrial revolutions have, over the long term, always created more jobs than they destroyed'",
@@ -27,40 +39,28 @@
       "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQbmVCOEI0YUdabDhmeHNTZTljY0V6UUJnM1RoX2NYUUxtWnFCeXRUQzc2RlpGcUllT1RtTmlXd2p3bmFYdzhlZmMxYjdNelFhN05Namt6STFTQTVReW45M2Q3UUhHTU9FenE3a2lqRnRwbE02bzR1OEFQajc0eWpBQW0tMW5Vd3NVd1k4bmhUMmpXUFJnblpQcnJiUVNWdEJnNGlnSXgtZTY3bHk3RVFFVEo2NldPY1BDb3NBMGJ5WmRwNVVKNnEtRF9IQmF6dkhIV3Z4c2Qxd0R4TzJLR1JNUlhVZkQzM3NhWTVxTEt2dGxBMGozb1FOZFlJTnVUVGEyaElqSERpTkYxLTYwbmc?oc=5"
     },
     {
+      "title": "Building an Agentic AI Platform on Amazon Bedrock AgentCore | Amazon Web Services",
+      "source": "Amazon Web Services (AWS)",
+      "date": "Wed, 28 Oct 2026 18:28:26 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRldyOHdWSmREakNkdGgwUmZLMkhWdEt1NlpPWGZmaS1JVEhNeUV0UExEUktoaTk1Q091Rmh3VjlNMnI5a0V1RmFGUmJMTmZIUi1kVTZrQ1hZZmdYcVpfNzFKUXB5SzdjbUVyWUtRZ0V6dVMtZG54MGpJSllnWnF6dXVSc2ctUnpPU25aS1pHbGhGVVU2THFmWVpXTXUwWWZORGx2cU9Qa0VSUQ?oc=5"
+    },
+    {
       "title": "Alberta Ecotrust sees role for AI to advance climate solutions",
       "source": "Taproot Edmonton",
       "date": "Wed, 28 Oct 2026 12:00:00 GMT",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaW9pcHF2ZFFWV3dwX2Y0QTlRNWlrdWVNSGN1SWdWdUt2MjdybmpWRllaTjYyei1KNXBqTU02R0Q3QzctTE1LOGlqSzR4cmFMei1hUUhyeEJ1end2QnRhVi03VXRvWmJBN2pQM2NRcFZkMFJJM1I4eE1wcDFZQnJseE1lYzdvWHVBeExBVHN1eG9BcEJkV0N4Zy1xYmQzVkJGdi1WcG5uaWdBUFQt?oc=5"
     },
     {
-      "title": "46% of Canadian CEOs eyeing AI-driven growth with smaller staff, poll shows",
-      "source": "CBC",
-      "date": "Wed, 28 Oct 2026 12:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5TWUpzVXE0VEVIODFiVHFsLTNaVTFjMEpsbGRqZG50OUstdWh5MGE0bGxxcE5wSVZCZ1JrbTNtUTB4TWZvNGFseFRwWnNJb2JqTHRCR29PV0FlNkd6WkVzc2JDQ0lrX0l6TWNRcUVDc3NTUQ?oc=5"
+      "title": "Could next-gen artificial intelligence help map out future space outposts? | Newswise",
+      "source": "Newswise",
+      "date": "Wed, 28 Oct 2026 18:35:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVi0wTzg1ODllZE13VVM5YjVBNFZEWHFnREVSSk1vNnRHZkItUDEtOHF2ZXZoUGZNUXpKSGRqWUxxQUhIVXg2UUIycEdfemo2SEVrak5NNmFvTFRtN0ZTVm5tNWI0RWgwdVlKMzQtc0VGUnc4OV9ZYnV1b3FzekNtODg2eHBRalk0YlFBV2FzZktqYkxEdlpQNGZGUGM3U2owY285MVBTaWd1MURfMDgySmExNmIxelZsMGpKSWNmcW8tR2s10gHEAUFVX3lxTFBWLTBPODU4OWVkTXdVUzliNUE0VkRYcWdERVJKTW82dEdmQi1QMS04cXZldmhQZk1RekpIZGpZTHFBSEhVeDZRQjJwR196ajZIRWtqTk02YW9MVG03RlNWbm01YjRFaDB1WUozNC1zRUZSdzg5X1lidXVvcXN6Q204ODZ4cFFqWTRiUUFXYXNmS2piTER2WlA0ZkZQYzdTajBjbzkxUFNpZ3UxRF8wODJKYTE2YjF6VmwwakpJY2Zxby1HazU?oc=5"
     },
     {
-      "title": "‘There is no inevitable dystopia’: Jeanette Winterson on AI and the future of humanity",
-      "source": "The Guardian",
-      "date": "Wed, 28 Oct 2026 12:29:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWHhoWTNGUmExLUN0c2w4SkJ5cUllajMta0Q1VEFlakdvOVMwVjV4TE0xNGoweFQxc28wSFV6THByeUVGcFZQWW5HXzkzUFdXTXJjU3Y4ems3MzZDWUNudHFwcWwxNnFSSUtSNGdYclQyc3VMM3VOVDJIeVVLd2VNYllkN0YyaGR6ZnAtTUUxenJPTUZQWDhVTGt3OWlxVHNYX1RmYS1TQjlNYXI4ZFE?oc=5"
-    },
-    {
-      "title": "China's new export curbs draw a line around its AI crown jewels",
-      "source": "Reuters",
-      "date": "Wed, 28 Oct 2026 12:20:14 GMT",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaEpIM3FfOEVIU0g3dkIzdlhrWnVpRHNhd3BaQS1XZ0liaXgydVhrTDZ3Z3piOTUyYVlBNFZXdTVPenctR01Hb0RuZEtvNVZObkFHRE9Pb0dkTURvamlKanJVQm1hX2k5cERiSnpQbmRsaTJSS2VZY0NEaEpGanlxODFiR1IxbFozM0p4a3Y0Sl9NdFFMd1Zrd05lQlQyaS1ZYlJqQURvYXpxNVFzSEJUd3JKZ1lGbWtGSDNqaWhR?oc=5"
-    },
-    {
-      "title": "What is artificial general intelligence – and is it already here?",
-      "source": "The Conversation",
-      "date": "Wed, 28 Oct 2026 12:11:48 GMT",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRFdzZS1jeVAzZ3FBOUNxd3VEVkFHQjdINjUyRHViOWxvQ0RUalNXRjlremtlSVgybmVScWJBM25KT0dJWWRHSEtGZ0ttUHNWWUstWk5mdXF5N1Iwd2ZhaDZIYmV2OTg0R004QWV2LUQ5cmxXeWtnTzZLUTBUZjZsYWZVaDVjTjdtU1RLZ1BYODl2Nl9JU3VIbUgxZ1Rtdw?oc=5"
-    },
-    {
-      "title": "Leadership: Judgment, Purpose, and Human Responsibility",
-      "source": "Telefónica",
-      "date": "Wed, 28 Oct 2026 08:30:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNY3JaaDlEdzgyVUh5a3ctVjJ1MmFsVGZLVjBrSmotV3ZFbFBweWRJRUc4aHpjOWN1YzFBWm95NERWa0hCUDB4aWpTZ05jYWFRdzVRVnpnRm0wZDZfQi1xbGIzSzdvaktrMU41akk0bWI1X2xka2dCV1V0WDVmZVdCMVdOb0JGNGpKSWdBY205OXQ3U245d2tHRERpMHVxR19xQm80UmdR?oc=5"
+      "title": "How Artificial Intelligence Can Build Advisers’ Cybersecurity Strategy",
+      "source": "planadviser",
+      "date": "Wed, 28 Oct 2026 18:37:06 GMT",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMEx1NUduTDlPbnlDSmY2YzJVV2xTbDljcnNfOHlFbjRVYThsZmhzTm85M192QjExZ0lUaDZldTFyM3VHY0dDb1h3aHhJTGFQcUVxQ0tQX0ZsNHNxUDlrNzY5VWlmb3B4R1cwMUVPYkhyM3lRUFpVRDhPOXdRdnpCRVVOcUVPcVB6emNLTUQ3N0xCaUMyTGJjdVVqN3JWajg?oc=5"
     }
   ],
   "events": [

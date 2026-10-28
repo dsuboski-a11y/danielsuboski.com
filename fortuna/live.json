@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-10-27T21:19:19.852039Z",
+  "updatedAt": "2026-10-28T01:21:43.661093Z",
   "locationLabel": "Victoria, BC",
   "headlines": [
+    {
+      "title": "Insurers cautious ahead of next artificial intelligence leap - insurance-portal.ca",
+      "source": "insurance-portal.ca",
+      "date": "Tue, 27 Oct 2026 20:12:15 GMT",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxObmxuZGZlczc5SnZfVnd2YWdFSjF0Rk1VYU1QVTBYa1RaVDl2Zkt6SXd1S1FNVlU3X3hVZ1dOOHA2bEtaWnBfYmt2cjh3Z3gwc1FrVHQ3a1FpTG1Ja1dOYUpqOGtuMENTdDFHd3RzN0FPbURCSHp1Und2M29La09QR2dZeUd0dnczbDF1QUp4czNVcHFxNkRNb0gwTlpZZw?oc=5"
+    },
     {
       "title": "Trump Says He Will Ban Term ‘Artificial Intelligence’ In Latest Push For ‘Super Intelligence’",
       "source": "Forbes",
@@ -21,16 +27,16 @@
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWlNHa0NhdTR2bWJJdEM4LUFQcWFCQ3VFdl9fUjZQQ2F1NXBZcjhlVVB5bjRXOXRsUDliQzRPSFJLMGhMTFBPNXR5MzlHZU5zbTMwczE4QnY3dVVocEkxSkdUNlBBd1cxUmRpOS1SMjZEdlpJaWNlYXlBSUhNSTQ4NVZ6bzJVcm1jLUw5WGFZRmlWYjlQS1RqV2ZNZmdWMFR5VmNCZnR3SzYtc1N1SEJKU2J5SU9RUUV5ekpPSkJWdk10X1lYZGF4alZoOGdvZw?oc=5"
     },
     {
-      "title": "Trump Claims He’ll Soon Officially Ban The Term ‘Artificial Intelligence’",
-      "source": "Yahoo News Canada",
-      "date": "Tue, 27 Oct 2026 19:23:29 GMT",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE13T18wODdTc29IdzQxWkVjUVRWYmdaQzhxb3lReXJTeDVmaTh5WmtSZUNVaDhRUjV6WDg5dGFXSmNVV3N6R3JLWnpqY0RBcjQtQUJ3V09BNTVobnVlQWNVa3BQS3RBYkRHN19ZLXFfdzNfNmVYc1h3LUtOYzY?oc=5"
+      "title": "Trump Wants to Ban Use of the Term 'Artificial Intelligence' and 'AI'",
+      "source": "Variety",
+      "date": "Tue, 27 Oct 2026 19:43:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNU1NaRHNKaV9MWk9DVTdZSERQX0F5SmwxYS1Jc09JaVMzX1lTV090VVptNi1WcTRKTk9hREs3MVczakIzbzNsbjFLUmxjeTdVWlpGcklXXzZqWmFsLTBsUmFLY2NLLWp4WjJnMk9HTzhMc0psaEpWaU55dlhCRDFRbzF3dV9ib1N5ZER3SEpGcDlXYjlERU1xWE9PdmVtNjFfVDBhRA?oc=5"
     },
     {
-      "title": "The AI backlash is hitting sustainable investors",
-      "source": "Corporate Knights",
-      "date": "Tue, 27 Oct 2026 15:58:01 GMT",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMlJTOG1VcHZqenhMalotdklTN0ZVOE1nb0pHWUk0OFlIdy10b0tMV0kwQzV6R3FXRkQ1SUhsS0g4andlNzYwQTFKU2VrWktQdXR5Q3U2c0N4NlcxZ1VrUnlfVnVrR2pMMFZTaUxmOFBuYlAtdnZNZWtMMUoxSktYV3FHWFNrMnFnbGtyV1VVQQ?oc=5"
+      "title": "Trump says he is going to ban everyone from using the phrase ‘artificial intelligence’",
+      "source": "The Independent",
+      "date": "Tue, 27 Oct 2026 18:36:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNN2dSeFdLbnF6X080cDF5aXEwakdhTWFTY0F0UWlPdWxSZl94SjRlLWZud3B2Q2w1RGVhOHQtajNBMDNUR3RkeWtpTm9hQVpEelhidndoMHBKM0MzX0NEaTZQS2N3UGFETjJkdGY1aVIwTDRwYlBtSDVVTExHUGdrU2FGV0tjdmtKMDJBQWd3WHUtNEM4VDJXeE9CX0V0T2M4d3dobWZBb1NWYkN1X1pZLUNDZEtmQTQ?oc=5"
     },
     {
       "title": "Artificial intelligence and the erosion of human agency",
@@ -39,28 +45,22 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYkpPaDhwbnU0WE04OWhRX0trWTJNcHA5TXoxQklFcnpkMTFoSTRoM0xNVGFGV1c4cUgyQ180LU9pdFJoMEptY2lYUXhlaDdoc2FhUnd4Z19pY2VUV2VyV3NHbVVrLTVxcDUxTUowWkk3WlJMQW00VXNDTnZtV01BYVNqSnZ1b25sVlBXRm1vRWZ0UklVVFJKVDREM25ZaEYyaHB3dmpDZ2hKbG9XTzdLMXRVanRSZWxLVXfSAb8BQVVfeXFMTXVvT3ppQmVDbkFyRmtTVW1yNV9JNUlaN3Raek92QjZQaVduejVaTk5SLW5JbkJYOXJRTVhlN01XdW9hSTJ0SkNXWGdDN2JfVnRreU5mMjMtdlhaQlItU21KOURfZVBmWDF0dHoxXzh1eDgxMkl4OTdiZ3pjSmxrTHNMSXhia19DRVlTRjRNWVVUMjQ4RGtnUkdkTmEyOU1SOVNsSWdMaUFxOVQ3a1ZOSUd1dDIwTmo2TmxyRmdoMFE?oc=5"
     },
     {
-      "title": "Trump Wants to Ban Use of the Term 'Artificial Intelligence' and 'AI'",
-      "source": "Variety",
-      "date": "Tue, 27 Oct 2026 19:43:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNU1NaRHNKaV9MWk9DVTdZSERQX0F5SmwxYS1Jc09JaVMzX1lTV090VVptNi1WcTRKTk9hREs3MVczakIzbzNsbjFLUmxjeTdVWlpGcklXXzZqWmFsLTBsUmFLY2NLLWp4WjJnMk9HTzhMc0psaEpWaU55dlhCRDFRbzF3dV9ib1N5ZER3SEpGcDlXYjlERU1xWE9PdmVtNjFfVDBhRA?oc=5"
+      "title": "Tech Sell-Off: This All-Star Artificial Intelligence Stock Is Down 50% but Up 127,300% Since Its IPO. Here's Why It's a Screaming Buy Heading Into the Midterms.",
+      "source": "The Globe and Mail",
+      "date": "Tue, 27 Oct 2026 10:45:41 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxPTGloU0FsMlJoWW9VYWphSlNuRk15TzZESlhrcGtWNlF1cE5JUDFCc21lVnhpaHVuRHFMd2E4RXAwWDI0QmQzRHJjY3BpZExPUmd3WlBsLWEyMXlWQm9FeDROYy1lcW40MkV5a1QzaGdGTjI0LUhZMDNQbTlFdEdjcmNqNmlrd1BfZ1JqQVNjODFnVndHeVd2ZndRQnJkd3RtRkhkd0UzU1F2aWQ5eHdiU1FvMTJ5MUV3ODJlU3lNQS1lX0hHVFBMUjNmQVAzSWhEbkg5c3dyVGpBeWRZQVJ0SWNpc2NBdENGYURhVTM2Z2M4M0JrZFR3dGNIMjVWc0QzODE1OExiNkFIU0xSdENzNi1BWC1sdUlqcmFsOEl5ZTlxYVAxWXVzZ3BRSGY0ME14RnZtRGRHMVFSNl9uUE0wRUdaX3hCanZrU0JlMmNxZEFjaTZQYUZjV0JkZU5zdw?oc=5"
     },
     {
-      "title": "Trump Says He'll Ban The Use Of The Term \"Artificial Intelligence\"",
-      "source": "Deadline",
-      "date": "Tue, 27 Oct 2026 17:27:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQTBMaGQ4bS0yaXBOeXd6bWRRWk9xX2c4ajhITV9qWkFUYTVqUlcxcVloR0dzdFQ0bVI5cGczMGZhQzdHVzZZT1VDZVlwZldCMktoU0lSNlE2NzhuZ2xobXE0aXF5T2kzd3N2ZXJCYkRtUUh3bU1PeWswSGpicUtPQTVaQ3FfMXhybVh4MDkzWQ?oc=5"
+      "title": "Waterloo researchers advancing cybersecurity in the age of AI",
+      "source": "University of Waterloo",
+      "date": "Tue, 27 Oct 2026 18:42:31 GMT",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaFJ4U193VXJCdW84aWd4bWdSbC1GWjVleXpON1lMRU5NM1RYTV9UeTYzTkEzaTFNZW00TzlQOHkzdU5HSWVYNzRnYnBLRzE2U0N0c3prT2E3TWJrNzZVNFlTSXcwRTNvZDh5QmNQakFrR2lwdmFadm9sbTQ0R0tNc1FwMA?oc=5"
     },
     {
       "title": "Risks spelled out for Anthropic investors include blowback from runaway AI",
       "source": "BNN Bloomberg",
       "date": "Tue, 27 Oct 2026 14:14:26 GMT",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUFJCdjRpR0UwaWlxN19hVkZONTJIVVBYcDB0U3Rzd2ZvaWdtaHgtQ181dTQtblhqN2daVkt4WkJYTXh0Z1QyaEJXUlJGY3QwSzNLajRVdDRIWDdneFVNOWRPOGVwM3VTMkpPYS1Ea3lOUzRQeEIwMmdxSEltNXF0bmxNNFFCN21qYnkxcW16VmZiWE4tX3FYRXFFTWZoc1pENXdpazJCN2lsVjFYR2dLc3psWVlRRW9mcWJLU1pRYkdMMExEZHBRMFgzVVlqYWc2Zks2aHg4b191VlVmblZWNWl0clBLcDFL?oc=5"
-    },
-    {
-      "title": "NetraMark Holdings Inc. (TSXV:AIAI): Why Investors Are Watching This Artificial Intelligence Stock on 27 October 2026",
-      "source": "kalkine.ca",
-      "date": "Tue, 27 Oct 2026 16:56:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPbmtRRFo1MnV0azQzLUE4dU1Kc0tqU2xNemNHbDhFd1NMZXBIei1sNjNIa2hCNWF2endfWDlsY0Rtb3AzTHdNVGdDWnNwbzNLLVNfYVJTZzlVUlR4MnN0VDMzQ3kxSENVUmhmZmNidElHdGIxaFJweml6c2ctWDdpUVdoZjdMME1mQWtNWXE4c0NiMFZYV0hXNEdRTGhnZTJYcDQ5NHowNDBDOU53SHpRQ0ZqX0JTLW1RSi1tSnB5a01BUVZNQmY5cmpnT2IwelBHb1NNWjFveE56QlRYM20tN3FCOFFpSHNrZWt3NWZCY25nQQ?oc=5"
     }
   ],
   "events": [

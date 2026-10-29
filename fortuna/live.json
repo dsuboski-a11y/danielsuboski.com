@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-10-29T00:56:27.337849Z",
+  "updatedAt": "2026-10-29T07:05:19.484188Z",
   "locationLabel": "Victoria, BC",
   "headlines": [
+    {
+      "title": "Not Nvidia. Not AMD. This Is the Best Artificial Intelligence (AI) Stock to Buy in November",
+      "source": "The Globe and Mail",
+      "date": "Thu, 29 Oct 2026 06:39:59 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNSkVfXzlEaDBLVkxWSklzeGJtM1E0OEJWQ2VEWUhBZnI3dEVJalJDOU9Ia0RVMDIwNHJuYnZweVUwRXk1ZkpXVzlNRkNlYkljNW9Gc0tSYWJaOEJJd3g2ZkJvaml3amFNVDNNRGlPZm5zV0JPSGd3aWJoWjktZzR0T0g2X0ZsaTJuZFRtX1hSTE0weTFQbkxUTkhhMC13LUYtV1ROYzBmajZpUko4Q19fSkFwX3RGQTh0RzRqUG5pejhsUXRySF9STnRsd1RsXzdqT0NOaW1JbFlmbUdTeFUzVXBUTEY3bHJ4aHFId1kzckh0OGxTV1ZiRHRTM1ZNUzFjNEE?oc=5"
+    },
     {
       "title": "Could next-gen artificial intelligence help map out future space outposts?",
       "source": "Phys.org",
@@ -9,16 +15,34 @@
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVEJGTFd6bUpoR05Delo1Y29TWV9yTHhUMGJPWmMza1Y2eEl5YXRpMkEwWDMwQ0JiM2tFVGFPSGstek9Db3ZXZk52OWlkeFdySFhHbVhwV0tNNVluVVhFWHF4ZWRObWVGUXNvcDZGU1RzWnd0YzRLNHd1ODBIMVBEYw?oc=5"
     },
     {
-      "title": "Artificial Intelligence, Explained",
-      "source": "Direxion",
-      "date": "Wed, 28 Oct 2026 20:40:31 GMT",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1nR0Eyek4zaURBVlNrX2J0V0d6UENDMXE4cTZKVVU4NXR4YjN1eVdXUUJpaEl0dHBQTVdKSUtkUmJpN3ZmTTVkdlFJcmw0UXlEZjNVamhueS16NWZUM0NXQnNqNmZSRndPVlEwMVhHWnBTTWZQ?oc=5"
+      "title": "Hiring and job separation rates in the era of generative artificial intelligence: Early evidence",
+      "source": "Statistique Canada",
+      "date": "Wed, 28 Oct 2026 14:32:12 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWUkxcjVsQjNucWE3ZVFFVHQ1SjR3dVpfZi1PaDFUeEdDaVZRWW5rY0hTenJWdnZTSEZLclpwM0NWcV9aYldfazZwb09fTFl6ZVFIRVE0MW50RXJvS2tBNjlZUXVWbzlpN0ZIZ2JjU0t3UGF4endxM0pkYXUxR0dLRUt3?oc=5"
     },
     {
-      "title": "'It's very effective': Impersonation scams aided by artificial intelligence on the rise, police detective says",
-      "source": "CityNews Toronto",
-      "date": "Wed, 28 Oct 2026 19:45:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNN0hiVVE2U2RhVEZaYzQyeWo5NThvSElnZ3A3blVuaW5uMThQb05uMk11aEVKOGF1YmJ4LVlmZFhwN3k1V0QyLXUyeFhZYTZoZG80UTQ5T1c4WjBZTmhBd3RfNjM4YWxLeHBEQ1hYcmRTRUMxaHkyLUFDT0oyVGczOGwwQ0JrUWhidnlyMmVNOWpwd0JKcjhBRmo2Ujg5MTZwMUlNampfU09yUi1HemxWamQ0M3VubEFXMkpfSEs4TF9VWTFxZ1RCNnNuR1BWQlRjZFZiRXdLUmdwZw?oc=5"
+      "title": "2 Warren Buffett Artificial Intelligence (AI) Stocks That Could Soar Even if the Stock Market Crashes in 2027",
+      "source": "Yahoo Finance",
+      "date": "Thu, 29 Oct 2026 01:20:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSTlyUzdEd1pxNHJTdXpkZTZWVi1LMEVKT3RGd2VuUVNJdFFOaHI5cW1nWGU3eXVXX3VyanV1OERJdDRjdDdZNVd0Ykh0MG9vZTJDUjZQYVNNRGoxT3o0OGlSS3JfbUxSUnBsYlhqUUxwbU9yZ2FHZDVjc3VvTEJ3RXRXTzFuaU4tMkEwSGdXUlRiZDZFWWlNeTVWSFU4TUNpTnVHUEtTcHg?oc=5"
+    },
+    {
+      "title": "OpenAI CEO Sam Altman claims AI singularity has arrived: 'Awesome for the world'",
+      "source": "ABC7 Bay Area",
+      "date": "Thu, 29 Oct 2026 04:02:47 GMT",
+      "url": "https://news.google.com/rss/articles/CBMijwtBVV95cUxPMjBOVWRFOU5naGJRMnZ4SkI3eVFaR3Jqbl9LYnR0clVNc3FYRzI1MEVIMEFVbTZmcFdSd24xYVQtR2FGQjVsRTVuclF1dnJYNFVHQlZoOVVoTTU5YkE1X3ZKek9WV2NQb2pqdW5Ua0xzX21VQktBMkxUeDZQTnROVm1MYTlqM2VFQ3dXRTJZR3UzWFh2dk85bms5UDh3UlpMZ19HTHFsTjVneXQ3X3dWSWhnLXRVbW9Fd1V1UGdHTGRLV1E1NWt1SXlyV1gyY1VkS3MyQ21CaldhUVo2RFRhTDM2ck5Xb2RvMXFxX24tX2twLTNiSHl6c0N3WHBBbnlwRWVhMndiLXBTVG9vME5BUEhST1FrZU9KUEplUzhEc1BuZWxuZ2lqZDVOb2RkTW5KRkdnVS1ZZ0xfRHJ5THBqMTZWWmU1Y0p3U3ZJaGl2WVQ0V05OOWZ6U09UOERFdmctVWlYTzBHcVNKNUZ3ODZBLW0yZk1FdnNHS1QwZllybkhDODhlazlVcjE5ZHFOdHB5dC03VF9oeWFiNEUxNnlZR21KRTFETHVxWkV2SXo5VmJsMVE1dV9NR1kyVjZHUmMtclNiRXBsbmtPdDBQZENnRVJWYk1PRmVwb3lyM0xRb3hjVzlaR3N1V0x1WFlTYzNZY1RFRTlsbUdGdjZOMmgxWGR5bmM5Q2FGclBFZE01S19FVE44UXFISnhwWG15bFNvVGFUSWhmTFU5OWNtRVR2TEVGTTR1NVZHdzhEeko2RGFFRkVaZXViaGVrNmstQnhkWlBFUlhHXzVBVjRkbUUyaUJBWXJPalhNTC1BY3p1OHFmUU52bGJyZ3NOaUpWOUlPM1c5TERwa1J5Rk1FOUI2Zy1nLW1JSG1kUFZCMFV5TjJnellJOFluTk12VHYzdmVMU2F6OHhha2tWNmMzcGpveTlBblozeHNMNDd6ZWprNDNROTRUZ09HUlI0VE1aQjVnUk9PajdPQ0VCUmpVdUNsU0g4d2tNSElIZ2hmNm9ydWtISmNYSllMVEdlU2llXzdhMFBCdHc1dWw5Y1d5czFKZ0JobzVBeW9vMmVUOWhZdWpBNG5OWVpTX05sR0R6WWNDZ0N4NXhPbkpNSWFicEpxWWxrbkVjV2JpNXBvTVZOSjZNOG90bFYxQnA3YzVXLWYzNHo4eUsySlNNS204M2piSWJwcldXWFpuU1gxc2dCNkFobFdreU00OUJ1OC1sdVExQzh4T1JuMzZ3eVFlcEZGckU5OWtvdTlUWHd3T0QyNGczMk4xU1VneGljUDRpUXN0YnFiczBNTjVPZmJmQy1PMzVTa1BuY0tKMmlHeG9Oa081UUNSM0gzWGRIdkZFamx6VVBMUmFLdHR0Z1gtUFpVcjlpZ3J4WUVNakR5RlFLUVRVQzFfYzBJd0Fyd0ozdjNZdlptZms5ZDZfX3JZY0FBRURpWFNZblBZR05SQXF5ckwxbjhGaHJHNHBRa0R6WjQ1bWhHNHNPRnlteHV4YURFZDlqZjNLcDRQeGxRS3VodTZUZkk0cnNxNkpYVDlnRnpoLVJZMVVSX1dfQnZFaGtWLUJBRV9Peng4WlJXOWx4cmRTVFVIUUNxb1JSbW1salNDakRxRjNxa3VYLWNVTUxhbU9YSjdCRzg0dVdHb1cwYko0bHg2RG02RVBadl9DZXl1YUh4OFp0MU95QmFjSXZYbG9yYXNwb0xDUVliRVhXT1NLYmwyM0tmSEZFdTQ1empJc1owWFR3RTI5NDZXTzRYTzNZcE1oeUpNTFNGUjZiU29wUzBOVWhvYk5KUDBzNkcybG5yckR2Q2NCWHZ2OC1kSThDQWd0ckJ1TGU1MXBSSXBYNW4yMFRmOXdrRS01VFN4NDVZTkhBazNIdkx5R0FF?oc=5"
+    },
+    {
+      "title": "Artificial Intelligence at Work",
+      "source": "Vantage Data Centers",
+      "date": "Thu, 29 Oct 2026 04:58:59 GMT",
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOb3F0NmxzZnd1NDFlc1FxUF8tTDlEYjNGMVp0YTlVVi1uVHFtTDFoSF9WSUdzb0JPOEJTV0RKSTdiTWtFVktYNVU2azEzalh0ZGQ5R0xGMUgwZldTeEMwM0RYN205a3BqeEtHYlNKdEZyV3FSU3B5ZGVJVEF2Tk5hWk1acDZDdEpCYmdCd3NKM20yLXJKODRsY0c0cjZ2YXhZZUNQZE8zUTVSdW96Y2lQbWxzNE50LTBGRjZ5SG55T0ktNkItX0c4Q0NzUWZRLVpDXzFYeFJMUjVuUFNWUHBLdDh0VXV5anZGUXZpLWZqeURxUzlwTGpOWjBLbUVVaG94V2JiSjIyODU3bzZOMndyMlUtUXJfdUo1?oc=5"
+    },
+    {
+      "title": "My therapist is AI - Artificial intelligence and psychotherapy",
+      "source": "DW.com",
+      "date": "Thu, 29 Oct 2026 06:51:43 GMT",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWTZ4bDFBcU91OU5tcDh2V1IwOWUtc1dOXzlLenVqcUR4cTQtd05DVVFIWEtIS3FMd0hSMXVBaHhQdHdYemZGdFpKb3BXZmNhcDhPUWhPTXhJX1RhU3F6MmZIWkdrN0ZISXhxMktzUUV4bWRyVUFZNUtsVzZEZlFZZGNXSld1UGpUSFp0N2cwSmlDSzBFb3VjZnR1bmlRQQ?oc=5"
     },
     {
       "title": "The Next Major M&A Opportunity in Central America: Energy, Artificial Intelligence and Digital Infrastructure",
@@ -27,40 +51,16 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOS1NiUXdzb0Yyek5Gemp6UG5xbUE5X2lnanFKOHVYSmxheEowZnViUTJTaFhPYXdHcG1PM0l3TS1BdjI0d0FPc0w5STJOTlBmcHJZVDdmTGxUVG9nWlc3cnNfVGxVY05QV2VDeG1teEc5RUl2MHI0UGY5ZkFuc1ZUa1RmMVpSeGp6enZFTjhHWURKSnNuNWhhZHBkN3BiNGVGdDJULWNYTHZ6dUZMS1dsWEh3OUE?oc=5"
     },
     {
-      "title": "Artificial intelligence and childhood: opportunities, risks, and how to support children in using it",
-      "source": "Unicef",
-      "date": "Wed, 28 Oct 2026 19:52:33 GMT",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZFhNVXgwblRIMFVDZUZ4Z2htN1hVc3FzUDJMRGVGVWFGUVBJWU1ReVB6U3c1emhadHd2cEZDNU5KM1Zrd2taRWYxWUVGVjdscmowN2ZPVk43RDh1QnpoX0Q5bDZPS2gyb0p3N0dBaWVUZFkwTHBfT2UwZTR3MlkweC1ydE8tdzlETXhXRTlCdTA0TWltOE1Z?oc=5"
+      "title": "AI Explained: From Machine Learning to Claude | ANTO & ANTD",
+      "source": "Direxion",
+      "date": "Wed, 28 Oct 2026 23:55:22 GMT",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1nR0Eyek4zaURBVlNrX2J0V0d6UENDMXE4cTZKVVU4NXR4YjN1eVdXUUJpaEl0dHBQTVdKSUtkUmJpN3ZmTTVkdlFJcmw0UXlEZjNVamhueS16NWZUM0NXQnNqNmZSRndPVlEwMVhHWnBTTWZQ?oc=5"
     },
     {
-      "title": "46% of Canadian CEOs eyeing AI-driven growth with smaller staff, poll shows - Radio-Canada",
-      "source": "Radio-Canada",
-      "date": "Wed, 28 Oct 2026 20:52:18 GMT",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5VWUE4ZXBHbDJ2ZW4wRG9lRVlyNlhfRUp3UjNyNGEtRDFUeHZvYy1uWngya3NJUlNWLUMxZ1NGVEhGazhXWGdJalp1TWx5a0d6WDA1Q0hhcG5paXFRSVpLSE80YW9BX0p3R2lQNmpwdmEtRmZhTF9kZw?oc=5"
-    },
-    {
-      "title": "ForageCam uses AI to improve silage corn nutrition.",
-      "source": "The Western Producer",
-      "date": "Wed, 28 Oct 2026 19:45:13 GMT",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVFd3U2ljYUNQLUV3RVo4YzdZeUNpa1JyRnFST3NkMERmaUhWaHpMMjAyQmFyRTlHY3VtdkxmWE50RDZVdDZNdFo3a2xEbFhSdnlnSnEtdUFsSFgzNWdPeTZ4SlNoc0tFbmVJbFlvVFVRbEZ5SXFWQ3dBRmJtUWFqaGFYMDlqUEFpVDdHY3BHdXE0dVhDeGVKTVdzQQ?oc=5"
-    },
-    {
-      "title": "When Artificial Intelligence Wears a Famous Face | Newswise",
-      "source": "Newswise",
-      "date": "Thu, 29 Oct 2026 00:45:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWnRVOVAzeVhhbm1HSzRiV2ZGbkprNDdSR2xobWtqLVhrWHNaMU4tUTl1QUVabHd6Z3R0SE9SV2hCR0xJOWFmOG45enhpQXNwc3g3QVcxMWo2aXo4NVY4VTJWdVhGdFhoN2NiU1cwWnhrX0JYNXliRmFhMkk0X0V0dWR6THJPdjI5WlHSAYoBQVVfeXFMTVp0VTlQM3lYYW5tR0s0YldmRm5KazQ3UkdsaG1rai1Ya1hzWjFOLVE5dUFFWmx3emd0dEhPUldoQkdMSTlhZjhuOXp4aUFzcHN4N0FXMTFqNml6ODVWOFUyVnVYRnRYaDdjYlNXMFp4a19CWDV5YkZhYTJJNF9FdHVkekxyT3YyOVpR?oc=5"
-    },
-    {
-      "title": "Artificial intelligence transforms the workforce, regulations",
-      "source": "WAGM",
-      "date": "Wed, 28 Oct 2026 20:11:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTmMyY2hvWmZWLUlITHFDNEpqZEx4X0xWQXFUbGthNVliV2RHbGJJZm9SRGNOUWV2YVRuVk5DM1FOaEVCNzNBcUhoY2FTNkZfdnZKZVFLT0ZscnRGSTVmcGZ2OTFEbVBIQWk5cldOa2g5ejJWNVNWZHFTbC1BTC12YW94WmtYaWtOVEI4Tm5XVU1BM2NyNGYyblBTX0F5dw?oc=5"
-    },
-    {
-      "title": "How Artificial Intelligence Can Build Advisers’ Cybersecurity Strategy",
-      "source": "planadviser",
-      "date": "Wed, 28 Oct 2026 21:52:59 GMT",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMEx1NUduTDlPbnlDSmY2YzJVV2xTbDljcnNfOHlFbjRVYThsZmhzTm85M192QjExZ0lUaDZldTFyM3VHY0dDb1h3aHhJTGFQcUVxQ0tQX0ZsNHNxUDlrNzY5VWlmb3B4R1cwMUVPYkhyM3lRUFpVRDhPOXdRdnpCRVVOcUVPcVB6emNLTUQ3N0xCaUMyTGJjdVVqN3JWajg?oc=5"
+      "title": "'It's very effective': Impersonation scams aided by artificial intelligence on the rise, police detective says",
+      "source": "CityNews Toronto",
+      "date": "Wed, 28 Oct 2026 19:45:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNN0hiVVE2U2RhVEZaYzQyeWo5NThvSElnZ3A3blVuaW5uMThQb05uMk11aEVKOGF1YmJ4LVlmZFhwN3k1V0QyLXUyeFhZYTZoZG80UTQ5T1c4WjBZTmhBd3RfNjM4YWxLeHBEQ1hYcmRTRUMxaHkyLUFDT0oyVGczOGwwQ0JrUWhidnlyMmVNOWpwd0JKcjhBRmo2Ujg5MTZwMUlNampfU09yUi1HemxWamQ0M3VubEFXMkpfSEs4TF9VWTFxZ1RCNnNuR1BWQlRjZFZiRXdLUmdwZw?oc=5"
     }
   ],
   "events": [

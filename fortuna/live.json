@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-10-29T20:17:31.459549Z",
+  "updatedAt": "2026-10-30T00:58:59.972215Z",
   "locationLabel": "Victoria, BC",
   "headlines": [
+    {
+      "title": "Billionaire Bill Gates Just Issued a Blunt Warning About Artificial Intelligence",
+      "source": "The Globe and Mail",
+      "date": "Thu, 29 Oct 2026 22:32:22 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQbWZNRndWNjNhRUt5UHlfZTlzNVBUWkZZbHBSNy03elh6MzI0Y0NSdnd3ZXN1bjByRG5uckdpRzVPMFgwb1dVa0dtR195allPZm0tTVBQRDdtclZKaVdOQWo1bFhqSjl0RFdGVWxzbEEwOGF1R2k1Z0tfaEtpYjBWN2NFTnd1bklPY0UxUE82ZGJrT0oxLVBLVlQ0ZjJqVmhHQjZ6bzVrME95MmpxTHdkQnVkMG9iV3MwVm9aZFBYMHdHdmFPY0tESDQ1MTdvWmhKbkdkb0hzZHV4dkV6cFBqQjdYbWttSWZ4em0xS2dJWlY2Rkd5LV9CVw?oc=5"
+    },
+    {
+      "title": "Dartmouth provost resigns following accusations he used artificial intelligence for writing",
+      "source": "Toronto Star",
+      "date": "Thu, 29 Oct 2026 20:19:08 GMT",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNOE5KcDJrNTJBNjRXS1ZEU05ldnhwR2xqbjAxSUhTam1IdEg3YmR4c2twTDh3UWh1NUJDVXh4M2Q5TWtJb3R3MzBYX2t6TFhmdG1vN21GTFhjYnJFS2tIR2ExQXBabFk3eEhLbnE1b3h0WHBPX0NMbVprZ05oT2JONHdDcUxTdFNvT3M1NDlpX2VkbXpvdzd5OTQ2WmNfc0V1U19WaXh2VG85d2JDbWRlLXZscFYzRnlBdzZ6OWdDQXhMR3NMM1BhcUxWOW5CLVJRSGQxblFNbVJ1enlHM0wzb1dnb0ctSkc3blE1RWVRRVhXamlFbXAtdnBWbVhqU19fNHNmTWxhaVBma2NQNWROWXUzQjZ1UVBCdkE?oc=5"
+    },
+    {
+      "title": "Schooled by AI: The evolving role of artificial intelligence in medical education",
+      "source": "Association of Health Care Journalists",
+      "date": "Thu, 29 Oct 2026 18:56:37 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdkp0NzVoNlpuWXh1VDdBenJweXFkSk1zT1FYN3Fua1djZDhIaEZiYjh3Mkw5a3hXYVJuSnN4ZFZxRnpTMEFyM0dxU3ZEbGE5NUF0Z24yLVFMeUE2QVJKWnM5T2pvOUtGdm15Y2Q2UnRQTjJkMFJKNjVuaTJIWEIwcV9uemdvc2tSSHJJenE0Q3F2ci1uMmdDVjliVVRmbW9qZXA4d2JGQnJUNjdFN1JKanNyZi11dlBIVmxyU2hSWkQ?oc=5"
+    },
     {
       "title": "How to Make Artificial Intelligence More Environmentally Sustainable",
       "source": "infoq.com",
@@ -9,15 +27,9 @@
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1hMHUwLVU1UXR6M0djUnNnNVlGaHluUkFISk9NLVItV0oyTm1uZUVKZ1VxWk0yeWZMUWFlSWlPZjJhZWJzNnBOanlJZUNEZ2lJV1hGS1ZmUzlwV3lzMHZneFBVS3VPVXA2NV9TV0tYYUx2eHNJ?oc=5"
     },
     {
-      "title": "Artificial Intelligence and the Security Sector: Governance Risk or Reform Opportunity?",
-      "source": "Arab Reform Initiative",
-      "date": "Thu, 29 Oct 2026 13:20:44 GMT",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNOWNtRlRGRDBQeG9zSDI1MGtSVDV0T1VhYXNYRnFna0hyZVZYR29WaDJ3WWxOUF9obEpQcDNrUVZXSjFDWEswanVyaWdsV1pjeVR1RFF6R3hxMnB0dFBWeWxtMlJmcmxKVWFHajNEaUZKa0RVblBxZEtXdGdVcndVYVJhWmlKRVNDNkdGUC1GdUcwM1B6ZHF0TXR6OFBTcnZwUjN6M1h6OXFUZjJrMEUxN1hqXy1ZeUhnS3dka1A1OFBQY2xV?oc=5"
-    },
-    {
       "title": "Financial Literacy Month - Understanding your finances in the era of artificial intelligence and finfluencers",
       "source": "PR Newswire Canada",
-      "date": "Thu, 29 Oct 2026 14:35:31 GMT",
+      "date": "Thu, 29 Oct 2026 15:31:00 GMT",
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQX21EVEoteGhBTkRZX1VvVWVzSjk3UWEyS2d2V28zTXZrTUFOSEtpMy1Yclk5SUxNUjdia1pZb3JCT1A0YXZUQVdqT3dvWUdkMlpSTzVETVBRWTFvYWpKS1dXaDJRODdqTG9SVGZUWkJHbG16RG1Na21neDJpZ3VvaG1PTXVBX2NOTF9IaGxBanN1M25MbHpJNVRMN2w3ZjRVWWVHN1QxYTJHMi1mUDZtdERpUm9JYy11QklrbG9GcmZtZ1RJbGVpdU43MXVFdkNYY1ZmdU9la3hOSFE3dzIxeEdaSmhmUEFrNWZtLWVkTFBYQQ?oc=5"
     },
     {
@@ -27,40 +39,28 @@
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNN1otRG9mUmdtWGhmZzFrZjlETTBsS19DcXZrZ1BCRmVONml0aXNNeEgwTHpfczU3S0VxOTlxbVBpUWZZazRwa3lmX2tNYlQwZ3VPdzF2U2IxQ19BeUMxdFRHYmdCanJJOGlFdmRySDJCdXFMV213cVYzM25CZThEeXM3bWRNVEZpUndOZDFVNGxMTHpId05QS0JxY1NpV0lmOGFhM1NBbXM1TTg2azRDcUZ6blJHaXQzbFR3WXJBcVJyVERjQ2JOMA?oc=5"
     },
     {
-      "title": "Ottawa investing up to $1.6B in Canadian AI company Cohere",
-      "source": "BNN Bloomberg",
-      "date": "Thu, 29 Oct 2026 18:21:25 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdVdnN2p3YXB3UFNpLVZ5VnhMSFRnOHZZMHliZWxzaTFpbV9NN0dqTGNqQ3VIdXNwOFFhTHI5XzNzc2RmNmZtUFBmX0NvTURTRDJUWnpXVlMtUGFqYi1fRG1ndmdMNXhGMG01NUs4ZTdOSXNGc1JhQzlQQ0h4VUNIUHUyb0hYM0pzSW5CZkt1UUU4eWlpX1lTbldrUU5Wb0RXbUVTWU55LW5mTzA4aE55am5NSDZ4cUwyUkx6LVVOSU04NktKeXllLQ?oc=5"
-    },
-    {
       "title": "NetraMark Holdings Inc (TSX:AIAI): What Could Move This Canadian Artificial Intelligence Stock Next?",
       "source": "kalkine.ca",
       "date": "Thu, 29 Oct 2026 15:02:00 GMT",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxORU9mOVVTVWpSOUhWb0UtVFh4R0diNkVrTjdpdkM5SHl6M25USUtka3VyZjljdU1KZGhsaG1TaUZoX2R4WW5WdEJrRlZpZjRzNXk2Tl94a19BUUtGLWUzcDg0UDBvNTVuNDZaRWY5S0hMRjZQbEJDU29HMXlwZjlCN1g1T3dOX1ZQSnFCWW1sT0Y2NFVHbG1RajVqV3prSExUMGhBYXhGSW05aXVmZ2VfelU3VFNxcEJ0enc1d3hNdzRTN2hudmIxdnJCSXo0NW9OOVNsd3plQUJwRnM?oc=5"
     },
     {
-      "title": "ServiceNow: 3 Key Takeaways for Long-Term Investors",
-      "source": "The Globe and Mail",
-      "date": "Thu, 29 Oct 2026 18:54:26 GMT",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcTZ4RGJUaU9XcW5DY2k5NURPcXFZblJ2RE5PY0hMa3ZkeV9FdmszMUhFaXNqWE50aGZQSUlKTi1oRHNpSXNyLXlEMVV1UUp5UkdxT0NhYWREb2JEM2NjT3YySDRsUndzLXkyM3ZzRnpjaHdNOGRHYWtIRkhXVG9JUHZBdUlpWmZqUy1JVm02cDduQjNNN3dlb0ktb2xzWmt1YnFMallZWVdPZjVVMW5MSHU3dVRxdXVOSmNieFhqcWU2WkhOYjVFWDNnN3EtQmlLOGc?oc=5"
-    },
-    {
-      "title": "Governments across Europe and Central Asia unanimously adopt new vision for AI in health care",
-      "source": "World Health Organization (WHO)",
-      "date": "Thu, 29 Oct 2026 14:53:36 GMT",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWVhFNGpJT200ZUhIWFllNDI2WXp6dnZYMWxBSzdhUU54T2ZXeENLa1RLOWtGTjBUNlZoWS1fWER5S3M2NC1YVlAwczYwLVNnSGNWdC1MVGFDYTVZYnNqSElqN0Z5aU94R3BYSS05eVJZV1NWcmhvVG5KVmcwN2JiWklZV1BORnNjN3UtbE5MYWFlRHNRMVhMN1BCUUY5SWlrWUdVczFSMmp1Q29BRHA3MVhQdGJVcXhIX3Q1ODFWWDl5c1lMclFIeU4tVHFreWFsZ1JtV0Jjdkk?oc=5"
+      "title": "Feds to invest up to $1.6 billion in Canadian AI company Cohere in its $7-billion fundraise",
+      "source": "Financial Post",
+      "date": "Thu, 29 Oct 2026 20:07:05 GMT",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSnFmNW5ObXVSajRWek91M1VwN1NDdm1Jc21qRGtoeGZQS2gyT0hLbjlwekRZLTFzQkREV2RPNkdrU3E5bzFZdnltMEg5bU94dTJocko0b21xT0JCQm9qVkFyM0M4VUsxbDRJNGtlbFZkUkJuWWxVYVQ1eFY3RnZObHpKZFR6STROdVB6dg?oc=5"
     },
     {
       "title": "OGCA Launches Artificial Intelligence in Construction, Executive Brief, and AI Governance Policy Builder",
       "source": "Ontario General Contractors Association",
-      "date": "Thu, 29 Oct 2026 17:51:18 GMT",
+      "date": "Thu, 29 Oct 2026 20:05:50 GMT",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPV19PWlp5QTNXVlRySzdPRzBmdnVHdnlqWWNQOHNleTBpeGQyTGFCYUo0dU5Rc1hjZXptRjNmczhOVG96Q3pFNnhWSjhWbVZ6aDMxc2dHSGFpMnM3Qm8wQnFJY01NSFh5WFJKZUMwRFhfNVJBVUNiSndUa3JXc0F4QjR1V0pTMmhhSjdKRHlKam5nLWt0VnJnMDl5alhRTW5uM2d5Q1NVRkRDc1REeVBYODUzeGRwaVZtZllaLWs3ZmMxOTByTEE?oc=5"
     },
     {
-      "title": "Feds to invest up to $1.6 billion in Canadian AI company Cohere in its $7-billion fundraise",
-      "source": "Financial Post",
-      "date": "Thu, 29 Oct 2026 17:43:22 GMT",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSnFmNW5ObXVSajRWek91M1VwN1NDdm1Jc21qRGtoeGZQS2gyT0hLbjlwekRZLTFzQkREV2RPNkdrU3E5bzFZdnltMEg5bU94dTJocko0b21xT0JCQm9qVkFyM0M4VUsxbDRJNGtlbFZkUkJuWWxVYVQ1eFY3RnZObHpKZFR6STROdVB6dg?oc=5"
+      "title": "Ottawa investing up to $1.6B in Cohere",
+      "source": "Investment Executive",
+      "date": "Thu, 29 Oct 2026 16:23:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPY2t3bWVZcUJFOXR5OWl1akRPNExiLTN2LXhHRnhYUHZXbzVfbEVVNzE0MDF1aGViVFhjR1k3N2JIVXZ5WTQtNzdxMzJmZFBPczR3SXd2N2NJQnJkOV93czk2WGRzZms4eHBrY0x1bFVmYUxabkJodXJsYUNydHlOSHE5ZVNvX3RFZ3FHMUdSTno2N0ExSzRGUGVyWDh3WGps?oc=5"
     }
   ],
   "events": [

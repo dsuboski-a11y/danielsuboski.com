@@ -1,12 +1,30 @@
 {
-  "updatedAt": "2026-10-30T07:06:20.201034Z",
+  "updatedAt": "2026-10-30T14:07:58.001064Z",
   "locationLabel": "Victoria, BC",
   "headlines": [
     {
-      "title": "Billionaire Bill Gates Just Issued a Blunt Warning About Artificial Intelligence",
+      "title": "Artificial Intelligence deal at Canada-E.U. summit is significant given China and U.S. AI dominance",
+      "source": "CTV News",
+      "date": "Fri, 30 Oct 2026 13:25:25 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVVdNejRrRjlGcks0STNYM0RXd3lRS0o2eC1XZzFEWm15M2RGdTg2U2lZYWtWek5NVXE3ZjZXTjJWX1VSMUQ1NXNuNzBCMHBsUDhvd09xNFFhYjV5T0pqSmVESHI0dmVJOGk4NXlkZlBpWU1iVFYteXBqc2k5NmdEZTdKV01valJrVTRrand3S3RVNnEzUVdBLTJUQzNqUGhvVUZQUnZOQ0MzTmtTTlFNUnhxdENjamwzSnRLMEg3bHVTVnZwVXVsdk16SGFMdk9FcUZ1RWhrVXJLNWl3UHc?oc=5"
+    },
+    {
+      "title": "Editor’s Note: Fish ‘n’ chips",
       "source": "The Globe and Mail",
-      "date": "Thu, 29 Oct 2026 22:32:22 GMT",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQbWZNRndWNjNhRUt5UHlfZTlzNVBUWkZZbHBSNy03elh6MzI0Y0NSdnd3ZXN1bjByRG5uckdpRzVPMFgwb1dVa0dtR195allPZm0tTVBQRDdtclZKaVdOQWo1bFhqSjl0RFdGVWxzbEEwOGF1R2k1Z0tfaEtpYjBWN2NFTnd1bklPY0UxUE82ZGJrT0oxLVBLVlQ0ZjJqVmhHQjZ6bzVrME95MmpxTHdkQnVkMG9iV3MwVm9aZFBYMHdHdmFPY0tESDQ1MTdvWmhKbkdkb0hzZHV4dkV6cFBqQjdYbWttSWZ4em0xS2dJWlY2Rkd5LV9CVw?oc=5"
+      "date": "Fri, 30 Oct 2026 13:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUWI2QnVrVXRLRlZDVTRBbXMxSF9kM2NKdkFvaU1OeXJJSlJsbEhPTVp6U1NxU1lrZTNjakVjMHdzVzNubUppTV93NG92aXFOd3lhSS1sMEFmTWxfNVNOTDRNSUxNQi1tVE5pWnR6SWcyMXpUVWNvT25YSHg3ZTFxQkhpSklVMXNDUVJQRzZCLUsxQQ?oc=5"
+    },
+    {
+      "title": "Artificial Intelligence is a Horror Story",
+      "source": "Literary Hub",
+      "date": "Fri, 30 Oct 2026 09:00:29 GMT",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9fSTRQUGFjdVBtcHlhR3JzcnFBNktqa2VBb3FaV0I2RWJfRWdUMEZMLVJDckJrbUlQTHcwRzNFLWQzZ2Jna2RQTnJHcEswNlprZWM3QjNPRkl3S0VuVnU4UDFaYXZESjFHUjBHT3N3?oc=5"
+    },
+    {
+      "title": "Radiology, Mathematics, Artificial Intelligence, And Human Understanding",
+      "source": "Forbes",
+      "date": "Fri, 30 Oct 2026 11:30:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNHZqVmVXay0tUmE1Y3B3MVdtTDhfUndkcWhpZExaT1pybUVYLTkxZ05UQWNUZHI1YTJuR1Y3VjJoWDA3RmkxbFVYSjRzWkhDMktIN0o1Z1BLRVd5Q3hwN1BHclplc2dSNUx3VFZ2aE9UeExtRFVBb0IxRGZZWHcwTF9rX1NkN0ZCX2l6YV9zMTJpWVpoZVVxYXd2YzVQcEh6bWhvMnNpY0N0WGZXQmNmVDZfeFZMTnZCT3JTUw?oc=5"
     },
     {
       "title": "Dartmouth provost resigns following accusations he used artificial intelligence for writing",
@@ -15,52 +33,34 @@
       "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNOE5KcDJrNTJBNjRXS1ZEU05ldnhwR2xqbjAxSUhTam1IdEg3YmR4c2twTDh3UWh1NUJDVXh4M2Q5TWtJb3R3MzBYX2t6TFhmdG1vN21GTFhjYnJFS2tIR2ExQXBabFk3eEhLbnE1b3h0WHBPX0NMbVprZ05oT2JONHdDcUxTdFNvT3M1NDlpX2VkbXpvdzd5OTQ2WmNfc0V1U19WaXh2VG85d2JDbWRlLXZscFYzRnlBdzZ6OWdDQXhMR3NMM1BhcUxWOW5CLVJRSGQxblFNbVJ1enlHM0wzb1dnb0ctSkc3blE1RWVRRVhXamlFbXAtdnBWbVhqU19fNHNmTWxhaVBma2NQNWROWXUzQjZ1UVBCdkE?oc=5"
     },
     {
-      "title": "Ottawa investing up to $1.6B in Canadian AI company Cohere",
-      "source": "BNN Bloomberg",
-      "date": "Thu, 29 Oct 2026 23:51:22 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdVdnN2p3YXB3UFNpLVZ5VnhMSFRnOHZZMHliZWxzaTFpbV9NN0dqTGNqQ3VIdXNwOFFhTHI5XzNzc2RmNmZtUFBmX0NvTURTRDJUWnpXVlMtUGFqYi1fRG1ndmdMNXhGMG01NUs4ZTdOSXNGc1JhQzlQQ0h4VUNIUHUyb0hYM0pzSW5CZkt1UUU4eWlpX1lTbldrUU5Wb0RXbUVTWU55LW5mTzA4aE55am5NSDZ4cUwyUkx6LVVOSU04NktKeXllLQ?oc=5"
+      "title": "How AI-Driven Account Takeovers Are Threatening Fleet Security",
+      "source": "Commercial Carrier Journal",
+      "date": "Fri, 30 Oct 2026 12:38:03 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdUNwWi1vMndYTE1XdWo2b1VkNVo1dEdfYnJaM29qaU1XanBGYzVZZGNWUWVPbEJvZnNwc0t4MkJheWJSYmZRUGpNWEJ3dGhUR0FGV2JBRkpwaHRuSlNqaUdoTmJDOHBmdklVWUpubnk4Rm03UUxCcXVQb0M4eWN5aXhuUEhYb1MwYTN6MHVDaGw4VmRRUWRVZnROcVZyX3c3Sm0zZjgxTDJqWU0xbl9waEhyRG9odlprS3NtdTRWZUl3YkxiLXZDVU1iaEJxeGdNNk1HVEFwSQ?oc=5"
     },
     {
-      "title": "How to Make Artificial Intelligence More Environmentally Sustainable",
-      "source": "infoq.com",
-      "date": "Thu, 29 Oct 2026 11:42:48 GMT",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1hMHUwLVU1UXR6M0djUnNnNVlGaHluUkFISk9NLVItV0oyTm1uZUVKZ1VxWk0yeWZMUWFlSWlPZjJhZWJzNnBOanlJZUNEZ2lJV1hGS1ZmUzlwV3lzMHZneFBVS3VPVXA2NV9TV0tYYUx2eHNJ?oc=5"
+      "title": "TPR flags pension trustee oversight gaps as AI adoption grows",
+      "source": "Investment & Pensions Europe",
+      "date": "Fri, 30 Oct 2026 12:56:15 GMT",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVUl5RzNHdWVIbEd5OGtrLWxCbGk2T1lfdU9HZkpLRXk0U1QtSllwZ2ZvY3RVVDhPS3hTX2l2ZHEwbGFBa1FOR1R1QVY2eUw0YXV1a3lheFFQX1hOVkxRQkxXRWo0MjhLS2R4ZDJEbUhNT2RfTW44Tk5lY0ctNVZudV9OOWQzYWE1OERQRy05cWc4Tm1XdklHdGFRQmdsbFNMdDVwbGlR?oc=5"
     },
     {
-      "title": "Schooled by AI: The evolving role of artificial intelligence in medical education",
-      "source": "Association of Health Care Journalists",
-      "date": "Thu, 29 Oct 2026 18:56:37 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdkp0NzVoNlpuWXh1VDdBenJweXFkSk1zT1FYN3Fua1djZDhIaEZiYjh3Mkw5a3hXYVJuSnN4ZFZxRnpTMEFyM0dxU3ZEbGE5NUF0Z24yLVFMeUE2QVJKWnM5T2pvOUtGdm15Y2Q2UnRQTjJkMFJKNjVuaTJIWEIwcV9uemdvc2tSSHJJenE0Q3F2ci1uMmdDVjliVVRmbW9qZXA4d2JGQnJUNjdFN1JKanNyZi11dlBIVmxyU2hSWkQ?oc=5"
+      "title": "High-level panel discussion on AI - Villa Europa",
+      "source": "EEAS",
+      "date": "Fri, 30 Oct 2026 07:47:58 GMT",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSDdzZDlBYlRvLWRLeG80WjdHd3N4b0hSRGR6S1JNQUoxZXZzU0RpdTUzeDNxOGtMamxOXzhUZ29CLVp0QmdRV1E3ZWRqNE5KRjRpdHVuNVh5dnc3YWxkTnNMdGJkYkloZkgxaDRWUkswdHZuN3o0VGpMWW9JRnRobFBTcmxUVnFrNFJORkFLSVV2ZDVqWDdta21MTHNVSnJLYk94Ull3S3hraklaT01BdFc3RmU?oc=5"
     },
     {
-      "title": "Financial Literacy Month - Understanding your finances in the era of artificial intelligence and finfluencers",
-      "source": "PR Newswire Canada",
-      "date": "Thu, 29 Oct 2026 15:31:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQX21EVEoteGhBTkRZX1VvVWVzSjk3UWEyS2d2V28zTXZrTUFOSEtpMy1Yclk5SUxNUjdia1pZb3JCT1A0YXZUQVdqT3dvWUdkMlpSTzVETVBRWTFvYWpKS1dXaDJRODdqTG9SVGZUWkJHbG16RG1Na21neDJpZ3VvaG1PTXVBX2NOTF9IaGxBanN1M25MbHpJNVRMN2w3ZjRVWWVHN1QxYTJHMi1mUDZtdERpUm9JYy11QklrbG9GcmZtZ1RJbGVpdU43MXVFdkNYY1ZmdU9la3hOSFE3dzIxeEdaSmhmUEFrNWZtLWVkTFBYQQ?oc=5"
+      "title": "Buy This Incredible Artificial Intelligence (AI) Stock Before It Soars 144% (Hint: It Will Outpace Nvidia’s Growth)",
+      "source": "Yahoo Finance",
+      "date": "Fri, 30 Oct 2026 12:24:02 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSEhOWDBSZkJ3R3VuSjZycG5ZQUZZemdOeWthWE4tR1R1Sjc4bnNQY1g4U2g0YnkwMndaQTNHYlZhVEFWZHRPQ0tTVmo0aV9ucHVwby15MnN4U1FQZVBBVk9QZXNhakJxMWZ6Y2pNTXR2bFpOY1ZKTWtTUFRlNnpRR003b3RYMU5SUDBkVmMwclc3dllhako5ZlNNSGVIdkJjb3VIeG0wNEk?oc=5"
     },
     {
-      "title": "Artificial Intelligence, Media and Information Integrity in Bosnia and Herzegovina",
-      "source": "www.coe.int",
-      "date": "Thu, 29 Oct 2026 09:22:10 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNN1otRG9mUmdtWGhmZzFrZjlETTBsS19DcXZrZ1BCRmVONml0aXNNeEgwTHpfczU3S0VxOTlxbVBpUWZZazRwa3lmX2tNYlQwZ3VPdzF2U2IxQ19BeUMxdFRHYmdCanJJOGlFdmRySDJCdXFMV213cVYzM25CZThEeXM3bWRNVEZpUndOZDFVNGxMTHpId05QS0JxY1NpV0lmOGFhM1NBbXM1TTg2azRDcUZ6blJHaXQzbFR3WXJBcVJyVERjQ2JOMA?oc=5"
-    },
-    {
-      "title": "NetraMark Holdings Inc (TSX:AIAI): What Could Move This Canadian Artificial Intelligence Stock Next?",
-      "source": "kalkine.ca",
-      "date": "Thu, 29 Oct 2026 15:02:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxORU9mOVVTVWpSOUhWb0UtVFh4R0diNkVrTjdpdkM5SHl6M25USUtka3VyZjljdU1KZGhsaG1TaUZoX2R4WW5WdEJrRlZpZjRzNXk2Tl94a19BUUtGLWUzcDg0UDBvNTVuNDZaRWY5S0hMRjZQbEJDU29HMXlwZjlCN1g1T3dOX1ZQSnFCWW1sT0Y2NFVHbG1RajVqV3prSExUMGhBYXhGSW05aXVmZ2VfelU3VFNxcEJ0enc1d3hNdzRTN2hudmIxdnJCSXo0NW9OOVNsd3plQUJwRnM?oc=5"
-    },
-    {
-      "title": "2 Stocks That Could Quietly Become Big Winners in the Artificial Intelligence (AI) Revolution",
-      "source": "The Motley Fool",
-      "date": "Thu, 29 Oct 2026 22:02:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVW9QZTVPZGJwb25kRkhvUVZCd2FKQ01uVUpuYVZMWS1PZVFITmcyMUE2aTlWZ2p3bUxQelBldEdaNU5LeC1CYmRrU0ptc0pHN3RsbElpZHZGYnM0ekJYNXhXUm00ZmhCMUlJb0xCSVVqNkpFcjgteTRfNS1uRkZUTm5lMGRoMGpUS0Z4YVJ4dkZlVGNsQ0dEUHI5SkNBdFg5SUoxT0IxMDVEUmZrc0wzMVVrRk53VTlzc0lzYnBXN3N0M01qN3lla2pLaEZwUUE?oc=5"
-    },
-    {
-      "title": "Feds to invest up to $1.6 billion in Canadian AI company Cohere in its $7-billion fundraise",
-      "source": "Financial Post",
-      "date": "Thu, 29 Oct 2026 20:07:05 GMT",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSnFmNW5ObXVSajRWek91M1VwN1NDdm1Jc21qRGtoeGZQS2gyT0hLbjlwekRZLTFzQkREV2RPNkdrU3E5bzFZdnltMEg5bU94dTJocko0b21xT0JCQm9qVkFyM0M4VUsxbDRJNGtlbFZkUkJuWWxVYVQ1eFY3RnZObHpKZFR6STROdVB6dg?oc=5"
+      "title": "Why artificial intelligence can’t replace your financial planner",
+      "source": "The South Dakota Standard",
+      "date": "Fri, 30 Oct 2026 10:50:07 GMT",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZEZnZHBQY1FER3c2UlVMekJKYkZPN3VYcVZXaV9wVkEybmRlQl96UldxV3hFUUFTVHRRajlRM0w4bjZLc2E4d3M1TG45SWsxQkdvV2pHNlBhM3NiUHZvbm1pTS1CMUVNXzFyazdzbEJOVkpDcTBoVXNyUkRUQXhaVFhvM0dHbDFwRHB0MnJEZm8wZzNJRTNPYVhTTUMwNzg?oc=5"
     }
   ],
   "events": [

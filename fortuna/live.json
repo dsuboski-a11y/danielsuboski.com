@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T23:46:46.271729Z",
+  "updatedAt": "2026-10-31T05:40:53.719800Z",
   "locationLabel": "Victoria, BC",
   "headlines": [
     {
@@ -15,12 +15,6 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5kRkkzUGFnMGxCTWtVczdraDc5YzNOc3Uzb002X3R6SHRjSkZWeXRmSXJqSkpvM1k4d2lmNTFHZGtYaHVUSUpaalRDMXdERV9FSUdEYWN3bVdLckZGeFBkaG4zOGJLUUZ1ZGJ2Zi1kLW4?oc=5"
     },
     {
-      "title": "How a Brock researcher is rethinking translation in the AI era – The Brock News",
-      "source": "Brock University",
-      "date": "Fri, 30 Oct 2026 21:05:50 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQ2FUS3ozWk55dXZrcGlCNllPMkNWMl9KbWJtQ2RFODBsQ0tpUEZZb1VTOG9FMGxCY0NMVTU0bmpJU1pkNmpFbDVCLTVZSXBMaDhQOG1yaURndk5WcU95YThDYURZdXJ2Q29XUG55RDJXNU94ckZEZmZJM3l3SnlxX3A4U1RhYTNRMWl6ZE8tVFYyT0wwbGUxVEY3aHJlRTRpWVE?oc=5"
-    },
-    {
       "title": "Earnings stoke AI fears and send tech stocks tumbling",
       "source": "Le Monde.fr",
       "date": "Fri, 30 Oct 2026 21:39:54 GMT",
@@ -33,34 +27,40 @@
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVVdNejRrRjlGcks0STNYM0RXd3lRS0o2eC1XZzFEWm15M2RGdTg2U2lZYWtWek5NVXE3ZjZXTjJWX1VSMUQ1NXNuNzBCMHBsUDhvd09xNFFhYjV5T0pqSmVESHI0dmVJOGk4NXlkZlBpWU1iVFYteXBqc2k5NmdEZTdKV01valJrVTRrand3S3RVNnEzUVdBLTJUQzNqUGhvVUZQUnZOQ0MzTmtTTlFNUnhxdENjamwzSnRLMEg3bHVTVnZwVXVsdk16SGFMdk9FcUZ1RWhrVXJLNWl3UHc?oc=5"
     },
     {
-      "title": "Meet the Underrated Artificial Intelligence (AI) Stock That Could Soar 255% in a Year, According to Wall Street",
-      "source": "The Globe and Mail",
-      "date": "Fri, 30 Oct 2026 14:27:19 GMT",
-      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxPNFh5Z2syb1o5LWhoRF9WTnRrVy1zaHdrU25uQUQ4LVpOVHJjakJ0VzZKVVNWTGw3SlRINjRNSnFZSHlmWS1QZTRwaEZPZmg0dkFhdG40TXJPczVtSU5HbHltczYwbmJSc0s1dFd4dy1aRFp6WEU2eks2cktReUdWZ3dTNk1kb3AzWUtXTVl1Uk5idjljNjlPWEZ6VU0tOUhWZFhMMllTTkRQencwVVZRenJFa3JrWnctLUhCOE41eTJCZ1Y4bW5Sd2tmaGlEWjRRTnBWTzdtZFJWVFUydER5MjlzWHM5dmdHdUc3X0J2TkxxbFZ0UTM4bW84R05EclBqVTFJME94dkRUaGlCQnQ0U040ZDA5bTM0TEVXNGp3?oc=5"
-    },
-    {
       "title": "Sam Altman Absolutely Hates the Idea of People Running Their Own AI Models at Home, Argues They Shouldn't Own Computers",
       "source": "Futurism",
       "date": "Fri, 30 Oct 2026 17:02:15 GMT",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUkZ6TklhOVUtME5HbWptQ2lRZ093djBXay1aMVZqa1U2WFQ0RC1FcFl0TmVHNEoyRWVacVdseUJHajFvX3pSbFBCNjEyZU1TNjUxbkJITUdCS1cxenFzNVVCektvV0dvWC1ZZDZTOU9nRVVsZHNwWWVXTllEQXBndE16X1gxal9Nb05EajNScU0?oc=5"
     },
     {
-      "title": "Walmart launches AI shopping assistant in Canada, but are shoppers buying in?",
-      "source": "CP24",
-      "date": "Fri, 30 Oct 2026 23:26:40 GMT",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUTYzYWlhd215VGIwQXZ6ejZDTFV0WlV6azZobldRcWcwSVc0c2xIWHhhM1Bsa2U3VzFid3lvbUt2V0ZQNzd2NFMwdDI4NnMzNGlwUTNwVGJhYWVraU53dk4zajRpX3Myd2Z2YkdnUzhUS0p6dGgwVV90SlBJdkN4QjBLcnpPT2cxTm00ZnRBVzRvZ0x1Qzd0UTFaRnlyTW9kMXhDa1lVRW50b2ZsNHFfeXFDY212RWFtbmc0aw?oc=5"
+      "title": "Meet the Underrated Artificial Intelligence (AI) Stock That Could Soar 255% in a Year, According to Wall Street",
+      "source": "The Globe and Mail",
+      "date": "Fri, 30 Oct 2026 14:27:19 GMT",
+      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxPNFh5Z2syb1o5LWhoRF9WTnRrVy1zaHdrU25uQUQ4LVpOVHJjakJ0VzZKVVNWTGw3SlRINjRNSnFZSHlmWS1QZTRwaEZPZmg0dkFhdG40TXJPczVtSU5HbHltczYwbmJSc0s1dFd4dy1aRFp6WEU2eks2cktReUdWZ3dTNk1kb3AzWUtXTVl1Uk5idjljNjlPWEZ6VU0tOUhWZFhMMllTTkRQencwVVZRenJFa3JrWnctLUhCOE41eTJCZ1Y4bW5Sd2tmaGlEWjRRTnBWTzdtZFJWVFUydER5MjlzWHM5dmdHdUc3X0J2TkxxbFZ0UTM4bW84R05EclBqVTFJME94dkRUaGlCQnQ0U040ZDA5bTM0TEVXNGp3?oc=5"
     },
     {
-      "title": "Artificial Intelligence is a Horror Story",
-      "source": "Literary Hub",
-      "date": "Fri, 30 Oct 2026 09:00:29 GMT",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9fSTRQUGFjdVBtcHlhR3JzcnFBNktqa2VBb3FaV0I2RWJfRWdUMEZMLVJDckJrbUlQTHcwRzNFLWQzZ2Jna2RQTnJHcEswNlprZWM3QjNPRkl3S0VuVnU4UDFaYXZESjFHUjBHT3N3?oc=5"
+      "title": "Building tool to help courts spot AI-generated evidence is ‘challenging’: researcher",
+      "source": "CityNews Ottawa",
+      "date": "Fri, 30 Oct 2026 22:51:31 GMT",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSUlJLWQyN1paRm5hZUxPMkNhSnFuTTMtS2dVRi1UT2pVekc4U2RmMlVyZmlsanZ4WklBbHN1X0FhUWZWU3VSUElxLTViYmZpSVFXQTVJRkR4akVrQk1HSk82OEFYdFF2VlU0WjZMOVFDLTJ4QWhoOEY4czlIQUxncjZuRjF2M3FUelZUT05fRU1saTRMMW9HWUpjakJvcDF4NUYyVlpxczlJX1diTTZWcGhJZ2NUTURrWXRRdQ?oc=5"
     },
     {
-      "title": "HealWELL AI Inc. Class A (TSX:AIDX): Why Healthcare Artificial Intelligence Is Back on the S&P/TSX Composite Index Investor Radar",
-      "source": "kalkine.ca",
-      "date": "Fri, 30 Oct 2026 17:12:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOdWxjbGwtcVdQMmR1XzZvbTFlUjcxWTN1MVFialFRXzk1cnFUSUJybF8zNkJoRkRpRFdCNVdPdzh6a3JhWkozZGhXSW9velVaSWpIR29uaVlwYVAydVNIc25mLUVfWTNDTWRaTlRucGpwUlY1MTB1aE1ESUxGS3BWcWx5VzN5N3d0WDRjREJoMVZHMGhvdndGcGx4NlhWZ2tJWGIzM0VyRXh6Q25VeXQ5b1RZQmJDMFJFQ1Y4eTczOEpza2ZxWjlHbHY2blBBbHYzNHFMUFBFZC1SczFpeTAzbGdSdHhtaVZoRFJRS1h3?oc=5"
+      "title": "Virtual Influencers, Real Reservations: How Artificial Intelligence Drives Hotel Bookings",
+      "source": "Macau Business",
+      "date": "Sat, 31 Oct 2026 03:34:41 GMT",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdGRDWmJ6eVB0eHUwMzYtd1pYZGlvVnQxakdNaFY3NXFTazlTS3l0c25LVkQzbHFzTTRlNVdjaDlGMG41d00zb3BrN3ItRjBEUmcwUGFOZ3BnbENwcjdlNWtVLWttSHZtb05UR0xTNUN2V1BQbjVNUUZyckFaY2FDa0ZWbUlxQTA1cWRGUHI1SWFCZXZTV3dzNGdWSDJyaHY1VUsxWTdmXzhVQmN6NEk4dUxxQ0o?oc=5"
+    },
+    {
+      "title": "Will artificial intelligence spell the end for SaaS?",
+      "source": "Computer Weekly",
+      "date": "Fri, 30 Oct 2026 17:50:08 GMT",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaGxYQ25YS1pJUlJlZVg4bnpnNktrczU4M3NpamlwTlNDblgxUnhZS0xSLWdtdHNfUmtjajZCWlV1WnhtYTdyMWlzNGdkaDc3V3ZJSEh1NzRTaU1Mc0xHWC1xdWNDT1I3VnQ3TmVkS3Bfa191OFZLbjNuVEJaMF9adTdlRE9PNnVJNExKN1A0bXJ1bnJS?oc=5"
+    },
+    {
+      "title": "Biosecurity and Artificial Intelligence—Risk, Myths, and Opportunities",
+      "source": "Nixon Peabody",
+      "date": "Sat, 31 Oct 2026 00:57:02 GMT",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSWdDZGRhaFpXTGhSb2IwM2Zyb1lUdW9Rdmw4TkstendpVTNmY1E3VTh6bU9BdTAydHMxY2xjZVVzb1pvUm1qSDZyTE1PQzhXSGdYekI0UnlLUVJJb3g3dENWR3hxQ3FyaDhiLUFHdjc5dHhmMzVabmRtOGtWTTRqOVZJN3RabFpPbnVKYUdQS2RhZUFTcy1lT2U1YWl3aGxKUmpraDdEUQ?oc=5"
     }
   ],
   "events": [

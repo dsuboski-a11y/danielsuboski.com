@@ -1,24 +1,12 @@
 {
-  "updatedAt": "2026-10-31T12:28:51.896180Z",
+  "updatedAt": "2026-10-31T17:43:58.346510Z",
   "locationLabel": "Victoria, BC",
   "headlines": [
     {
       "title": "Big Tech's AI bill comes due, but Michigan automakers see a rebound",
       "source": "Detroit Free Press",
-      "date": "Sat, 31 Oct 2026 11:09:34 GMT",
+      "date": "Sat, 31 Oct 2026 12:02:00 GMT",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUC1URVlaSzR4T3lZbFhGeW5Hb3U5SEg1N2xPcXJpMEZSX3g5aUVIUUNlanRQX0lTV2Vudm56cVh2UEZiSFp6V1hXSm5mSGxMZWZBNTcyUmNjRkVYc1hEMkJra2NXVEhHSklEX1JIczlDWERxeGtNeHRDNkc0WmR5bWJKdko2TFVFYjN6Z185WTI2Y3JfaUUwZm1DZFFzRGFVMmtKc01pUHJaWEctcmZYVw?oc=5"
-    },
-    {
-      "title": "Super Intelligence",
-      "source": "NASA (.gov)",
-      "date": "Fri, 30 Oct 2026 15:37:41 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1LNDdCUDJLUjJFbjJuNXNwbWgyMjFJRkg0a2MzR25XNFBWb1U2WUh6QWRNMXRWd1JqXy1RVzhhSTVIVlNCOWhCSGVzdFVOcUw1bnc?oc=5"
-    },
-    {
-      "title": "Celestica could be the AI bet you’re looking for now",
-      "source": "The Globe and Mail",
-      "date": "Sat, 31 Oct 2026 09:00:01 GMT",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOYVhkdG9fbDdtU1p5VXNhNTRXaWlrTlN1VDdTRFlJTTNOODZKS2s1OXZnSmNTX29DR191VzhiMlJvXzZfSTF1dGpaM05EQjgwTHYzVmFIN3lJNW80ZHZaMUV5RmJFQ3hoTWdIVWVBS1NlVUZ3MUljdGpsdWlycGZZREVaRHkxcVhVVWRFSXBJUS1SMW55SlBFWEM2a3Q5MFFHM0pzLWUxUTFiVGxVTklGMFlpSUlQRkFVRk5LYmdWamtiMGt3d0lSVTlvZGo?oc=5"
     },
     {
       "title": "Artificial Intelligence deal at Canada-E.U. summit is significant given China and U.S. AI dominance",
@@ -27,10 +15,34 @@
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVVdNejRrRjlGcks0STNYM0RXd3lRS0o2eC1XZzFEWm15M2RGdTg2U2lZYWtWek5NVXE3ZjZXTjJWX1VSMUQ1NXNuNzBCMHBsUDhvd09xNFFhYjV5T0pqSmVESHI0dmVJOGk4NXlkZlBpWU1iVFYteXBqc2k5NmdEZTdKV01valJrVTRrand3S3RVNnEzUVdBLTJUQzNqUGhvVUZQUnZOQ0MzTmtTTlFNUnhxdENjamwzSnRLMEg3bHVTVnZwVXVsdk16SGFMdk9FcUZ1RWhrVXJLNWl3UHc?oc=5"
     },
     {
-      "title": "Sam Altman Absolutely Hates the Idea of People Running Their Own AI Models at Home, Argues They Shouldn't Own Computers",
-      "source": "Futurism",
-      "date": "Fri, 30 Oct 2026 17:02:15 GMT",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUkZ6TklhOVUtME5HbWptQ2lRZ093djBXay1aMVZqa1U2WFQ0RC1FcFl0TmVHNEoyRWVacVdseUJHajFvX3pSbFBCNjEyZU1TNjUxbkJITUdCS1cxenFzNVVCektvV0dvWC1ZZDZTOU9nRVVsZHNwWWVXTllEQXBndE16X1gxal9Nb05EajNScU0?oc=5"
+      "title": "Israeli AI founders bring Jigso team to Placer.ai in push beyond traditional analytics",
+      "source": "Ynetnews",
+      "date": "Sat, 31 Oct 2026 16:21:07 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAzYkpuSWJhcDBPTlFaM3BrZkd5Nm9LZW41ZGYtdHBzVlBtdEphZjVZanBwb1FlX1VsUXp4a2lSS2ljN2E3a1N3Wk16OTNvZnRSbXI0QU5PNHVNVTNHeG1odDJR?oc=5"
+    },
+    {
+      "title": "Celestica could be the AI bet you’re looking for now",
+      "source": "The Globe and Mail",
+      "date": "Sat, 31 Oct 2026 09:00:01 GMT",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOYVhkdG9fbDdtU1p5VXNhNTRXaWlrTlN1VDdTRFlJTTNOODZKS2s1OXZnSmNTX29DR191VzhiMlJvXzZfSTF1dGpaM05EQjgwTHYzVmFIN3lJNW80ZHZaMUV5RmJFQ3hoTWdIVWVBS1NlVUZ3MUljdGpsdWlycGZZREVaRHkxcVhVVWRFSXBJUS1SMW55SlBFWEM2a3Q5MFFHM0pzLWUxUTFiVGxVTklGMFlpSUlQRkFVRk5LYmdWamtiMGt3d0lSVTlvZGo?oc=5"
+    },
+    {
+      "title": "Super Intelligence",
+      "source": "NASA (.gov)",
+      "date": "Fri, 30 Oct 2026 15:34:50 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1LNDdCUDJLUjJFbjJuNXNwbWgyMjFJRkg0a2MzR25XNFBWb1U2WUh6QWRNMXRWd1JqXy1RVzhhSTVIVlNCOWhCSGVzdFVOcUw1bnc?oc=5"
+    },
+    {
+      "title": "Best Artificial Intelligence Speakers 2027 | Scott Steinberg",
+      "source": "https://www.futuristsspeakers.com/",
+      "date": "Sat, 31 Oct 2026 17:19:32 GMT",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOTA5VjJJZXl5M1QteEE0VHdzMS1tcXZGOU51LXBXSFZodW1RZWUzbjVEX3JXTU1pY21SYmlKSkRGSFJCclVnd01hU3pKUThHeF9NSUJPWUp3bDVyZ2s4VU1KZlVYM0JPc2FOUWVXdld0dUM0Slg3VDN4RlJiTzBQYTJBaWJMSU1CMEtmaUpkdXJsZw?oc=5"
+    },
+    {
+      "title": "Report from the Vatican",
+      "source": "Marcus on AI | Substack",
+      "date": "Sat, 31 Oct 2026 15:17:33 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB4a2xLRGtVZGVONkV4VW9mVmVnSGtnV1dMMmxEWllBd0pWSXZHMHM3alV3amszU0JfNkNiaTVOY21KTVBlcm9sVjQxS21tTnVEMWduYXdLV2JhMW5jTEpBZmpDajFlbk9L?oc=5"
     },
     {
       "title": "Earnings stoke AI fears and send tech stocks tumbling",
@@ -39,28 +51,16 @@
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUV9HVk91NlhYX1lmZWJKUjd5dTRJUzFnSTVWN0xaYWROMERpSzl3U1Q3N3dCelctRmxkZ24xTHoybjlCTjhGc3JQYnRGMjEtTmpGb0RlWDZQRDNjNFF3Q1U2bGVXblpoSVhBakxjaFU3aHNfNkI5UHNLSXQwdEdJbHVUTTlaLTc1WTlNTzVDQ0sxb1U4a1huS3hrMUl1OVVjYUJ2dnZ3R2tSb01IWVNqaXhGNWRRQ0t2cDNkUFp3?oc=5"
     },
     {
-      "title": "Wahoo CEO talks finances, artificial intelligence and the company's 'next big opportunity'",
-      "source": "Cyclingnews",
-      "date": "Sat, 31 Oct 2026 09:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNGh4LU9DQlhQeDFzaEdfZ1dsVllnTzdaMFJ2MmdSb3VOVjBFamx2THYtSGc4c2lVRk9sUnh5MkdGc2x4ellrcmdjVWNrdndObVdCbFVTOUVYaUJ2OGQ3dWN4TWRXUXhDZDRFamY2cG02eGZ0Rl9OZ0xHYVF2N280N2lGRzMtMzlNb3NRV2ZrNTRsdlZWSVZyOG9Na0tCdVNWM0ZOQ0lPbGpscENWNDlNSmpCek9tdUR1VmQ3WXdHcFJ6NTY3OGVWNmJHRWU1bzVuSDBqNmVidw?oc=5"
-    },
-    {
       "title": "Machine Learning Has High Accuracy, Little Prospective Validation in MPNs",
       "source": "The American Journal of Managed Care",
       "date": "Sat, 31 Oct 2026 12:12:26 GMT",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOb28xZFJtS2h2bVU0R1ltaklZRGwzTG8yMnhINmFweDlRQnpxSHlReXRtZm9odW0tR2EwZXk0ZlRDcU4wQWctVUMybVlJMnRJTEgwQ0lQM0FsQllnWHJDRXN4QnBQeE9EYXVqU1hmY2JET1FoR3ZNY2pkdi1QdHY1aWxOYXlkWkFobE1xWTFCUUNtT2txVFNoczNFd2JnYW8?oc=5"
     },
     {
-      "title": "Building tool to help courts spot AI-generated evidence is ‘challenging’: researcher",
-      "source": "CityNews Ottawa",
-      "date": "Fri, 30 Oct 2026 22:51:31 GMT",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSUlJLWQyN1paRm5hZUxPMkNhSnFuTTMtS2dVRi1UT2pVekc4U2RmMlVyZmlsanZ4WklBbHN1X0FhUWZWU3VSUElxLTViYmZpSVFXQTVJRkR4akVrQk1HSk82OEFYdFF2VlU0WjZMOVFDLTJ4QWhoOEY4czlIQUxncjZuRjF2M3FUelZUT05fRU1saTRMMW9HWUpjakJvcDF4NUYyVlpxczlJX1diTTZWcGhJZ2NUTURrWXRRdQ?oc=5"
-    },
-    {
-      "title": "Amazon's secret AI tool ranked Canadian warehouses on a 100-to-900 scale for unionization risk",
-      "source": "Yahoo! Finance Canada",
-      "date": "Sat, 31 Oct 2026 12:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTFU3QUxKTzFldzlHYi1VUDVBb3ZhRHVHNlh2WG1xR29ST0Jhc3hNeGNKamhoeUFYTEh1WWdvOXp5WmxmWEZxQllsck5sMV9VVjlOQVhlM000ZURfZEdPcW5ESWNvUHJQNE1SZ2QxTDhUbVlXa3dQSGExMnJaaVA5NUJKcHQ?oc=5"
+      "title": "Dartmouth provost resigns following accusations he used artificial intelligence for writing",
+      "source": "Toronto Star",
+      "date": "Thu, 29 Oct 2026 20:19:08 GMT",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNOE5KcDJrNTJBNjRXS1ZEU05ldnhwR2xqbjAxSUhTam1IdEg3YmR4c2twTDh3UWh1NUJDVXh4M2Q5TWtJb3R3MzBYX2t6TFhmdG1vN21GTFhjYnJFS2tIR2ExQXBabFk3eEhLbnE1b3h0WHBPX0NMbVprZ05oT2JONHdDcUxTdFNvT3M1NDlpX2VkbXpvdzd5OTQ2WmNfc0V1U19WaXh2VG85d2JDbWRlLXZscFYzRnlBdzZ6OWdDQXhMR3NMM1BhcUxWOW5CLVJRSGQxblFNbVJ1enlHM0wzb1dnb0ctSkc3blE1RWVRRVhXamlFbXAtdnBWbVhqU19fNHNmTWxhaVBma2NQNWROWXUzQjZ1UVBCdkE?oc=5"
     }
   ],
   "events": [

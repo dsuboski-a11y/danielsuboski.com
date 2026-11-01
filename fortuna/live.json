@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-11-01T19:39:52.437406Z",
+  "updatedAt": "2026-11-01T23:35:36.155505Z",
   "locationLabel": "Victoria, BC",
   "headlines": [
+    {
+      "title": "Canadian taxpayers now own a part of Cohere AI, what that means for digital sovereignty",
+      "source": "CTV News",
+      "date": "Sun, 01 Nov 2026 19:53:14 GMT",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTGViUlZZMDhkcl9kbjRUV0J2MUlUQkxwYmlKZ21JNWZnVkZYcXpIU3NSWTdheE1xcVhFZ2VNU2V0cS1RSmpsTDdtSUwyYUlBTmVUc1EyaVpnRDZsMTNQMHJqLXJOaEZiUGJxcjhQVng0ZHNLYkxsVlAzWG9Ed3djR2lSdnY1Wk9sVXlxUVZmZEs3MXE2T0VFZ3R0ckdVeXhZWC1NdnFMV2ZjSC11TGx0enhsajMwaFRRNFpRSEFQbVo4V0V3ZUE?oc=5"
+    },
     {
       "title": "One of the Fastest-Growing Segments of the Crypto Market Involves Artificial Intelligence. Here's the 1 Cryptocurrency I'm Buying Now.",
       "source": "The Globe and Mail",
@@ -21,10 +27,10 @@
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcFlIWmZhcC1FWkozU3lXRXNqRWRCcXFYZFVPRUNPSS12aWdkQXpCdWpxT2lGV0pud2VvNVRBTlFIa1htQVlzZ2dPUHVCQWN2VDYzdVJwa1VTeDRfQXdRaWxPVmRWTzA2NmZXdGhwdndPQklOZXg4Q3FTUXVKbmV5dDFTQ3RWV3FJVHJlVVc4ZjhGcnJkLXUwbFNtVHZfTFFjVUxibmJHcG53RkVlTFJfNV9WRXhLRkNUdzJFUkZHWEh6ZUFP?oc=5"
     },
     {
-      "title": "Wall Street's Black October: Why the worst may still be ahead",
-      "source": "Ynetnews",
-      "date": "Sun, 01 Nov 2026 18:37:41 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB5SVhxOUVISjR6bkhBZHlxalhJODNOSjlCRlhRb1U3SmVtb0ZBQkVTeUNIVjloUjE3X09XeGtXS3g1TEd2OG5INTRnek0tNGJBcVBzVjlsc1MyZ0lQU090dWt3?oc=5"
+      "title": "Communicating Christ in Asia in the Age of Artificial Intelligence",
+      "source": "AsiaNews",
+      "date": "Sun, 01 Nov 2026 11:02:24 GMT",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRWlUQ3U3U3VfQXFQbUU5QlJTZ2E0RkxtWVdILVo1NzJleFBrRTVoM0xTX3pHSjhuVkE0SnViV3FCbFhvMXNyemJjdjAwbm4zbm5ab3BITjJEOW16WGNVX0RSLUR3NnRfYUFFTlo0YUlDT0xSdFhYOFRIYXd5ZU8xMUhzYWZGem9CWXY2eUVaQ2VSVm15VkJZeGNqd1pPZzlVaEdLX3MwYzljenhUdEE?oc=5"
     },
     {
       "title": "PSUs are back-but they should exercise caution when implementing artificial intelligence",
@@ -33,16 +39,16 @@
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxORVloeV9TdVNoVFVCU1htMm5mYjhqbk5Vc3l0c2tBekpGSGNzRm53b0ZLeWN2Y0w5LXJ6dGp4UVNLNF9IcGo4U0dVOXh0c2MzcExKWGRZZ01CX0lnYUM3T3BnUEdVMGpoWGltQ29hZUQxc3l5MTJWX2ZVNmUwdUdNaFF4YUlLanUzajZBaUVnb0tELUwzTUFhdWg0cmlrRnZqNFRUMVNWY25mOVlQZ3Q4R0MyeFExNXBBb25QcTllaFNhcjlYUUJLZ0N4UDBRcWtNSTRPMHFGTk9ocldlQVE?oc=5"
     },
     {
+      "title": "Wall Street's Black October: Why the worst may still be ahead",
+      "source": "Ynetnews",
+      "date": "Sun, 01 Nov 2026 18:37:41 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB5SVhxOUVISjR6bkhBZHlxalhJODNOSjlCRlhRb1U3SmVtb0ZBQkVTeUNIVjloUjE3X09XeGtXS3g1TEd2OG5INTRnek0tNGJBcVBzVjlsc1MyZ0lQU090dWt3?oc=5"
+    },
+    {
       "title": "What to consider if a company that made AI-related job cuts wants you back",
       "source": "Barrie 360",
       "date": "Sun, 01 Nov 2026 14:36:13 GMT",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBQV1RCTExHRF9wazczSFE4NUNWanFIMllwaEgxNVBlanlFZE1kLUVhR09DYmV1N1luWEdHMzBKeWFyckNqa3ZsU21YbWNCbTNEWl96dmlyV0FWZHdCUlpLZkY1eUw?oc=5"
-    },
-    {
-      "title": "UNESCO Santiago commemorated the 25th anniversary of the Information",
-      "source": "UNESCO",
-      "date": "Sun, 01 Nov 2026 07:59:53 GMT",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUGJ4NXBWWlB5aExJU2F2WTRzb3loWGRuOHQyZDktRW83OG5XVlNFWXVhYWU5SHlfZ2MxME1rNmRtc3kxMlluWkJzRHE4Y2ZaRkxpeXd5ZFNEaEhlM2tUUGZnSFRDUWRwdlVETldDZjVvQ1Fqb1BQX0RianA3eFdOa1RPajhCV20wd0lqYVBlOTdGUnhiQW9fZWoyT0EtSDJpVkdOakZTdTdXbFo4OXA2aGZ0Z285RW5LUk9ZVFB5OEFYVExseXc?oc=5"
     },
     {
       "title": "Microsoft Patents an AI That Can Literally Put Words in People’s Mouths in Real Time",
@@ -51,16 +57,10 @@
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQS2hoMWw5c2MwUVlFbUxRYVhLLUhvT2pZQXVPMnJPUWVyZU52R2FWbE5ZdENMQTU4dHlQSmVJVHE5WTR3VFlIeE14M3VxOW5OVm5SYlFCeG9vb09ZNHBKMUc2TUtUS3ZMc3p4RkVLUFN4NnpMOHhoRDdMcTBlNFlxWS04dk1Gc3BJdEFNNkgwWkNmS0E?oc=5"
     },
     {
-      "title": "Artificial Intelligence and the Things That Matter Most",
-      "source": "Good News Magazine",
-      "date": "Sun, 01 Nov 2026 17:23:25 GMT",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMVhLa051RWlnYVJYWlZTeUxwRUhYUVQtcnU4YkhZZm5mcXIzcXN1X0hCNk5kMWxJS3NnUVctalBaVENaWkR5RWtqb0dTVVJadHkxakV0cXFNQkpzWEJrQzlUZ2ktbG9TdG1URUlJVWoyNk05aDgtcHNVNmNFdXJRTnh2Y0xCYjQ?oc=5"
-    },
-    {
-      "title": "Communicating Christ in Asia in the Age of Artificial Intelligence",
-      "source": "AsiaNews",
-      "date": "Sun, 01 Nov 2026 11:02:24 GMT",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRWlUQ3U3U3VfQXFQbUU5QlJTZ2E0RkxtWVdILVo1NzJleFBrRTVoM0xTX3pHSjhuVkE0SnViV3FCbFhvMXNyemJjdjAwbm4zbm5ab3BITjJEOW16WGNVX0RSLUR3NnRfYUFFTlo0YUlDT0xSdFhYOFRIYXd5ZU8xMUhzYWZGem9CWXY2eUVaQ2VSVm15VkJZeGNqd1pPZzlVaEdLX3MwYzljenhUdEE?oc=5"
+      "title": "Hackers are running riot with AI. Its makers want to cash in",
+      "source": "The Economist",
+      "date": "Sun, 01 Nov 2026 21:41:42 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdF80NkpLZHJxNVlWX0s0UEhLMlRKVnVqZldzN2tjY2tveUJ1NTdqeEtTeW9kWnBnakZzcEd1ZURSemt1dFR1RXdpYUNRSVp2ZFg5VGxuOTBfOE5uMEZfbl9raVB4Ym5SZ0JpdVd0MU9Xa1RpdWxrRml3aHVnN21HYTBaNnhmU292RS1XaDBYYVNqa3BoZVBMYk45aXpKVXhtM295VGZQelE?oc=5"
     }
   ],
   "events": [

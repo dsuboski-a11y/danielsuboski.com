@@ -1,12 +1,30 @@
 {
-  "updatedAt": "2026-11-02T15:51:24.378531Z",
+  "updatedAt": "2026-11-02T23:29:44.073779Z",
   "locationLabel": "Victoria, BC",
   "headlines": [
     {
       "title": "Artificial intelligence and the human element",
       "source": "Canadian Institute of Mining, Metallurgy",
-      "date": "Mon, 02 Nov 2026 15:49:24 GMT",
+      "date": "Mon, 02 Nov 2026 16:40:58 GMT",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYnVwaUdDaElSVkoxNngzLVRRU0ZOVTNaMXlWemhFNTFZTWViRU5PVGdlMFNiLUVlbkhLYjM4QnJzRE9mZHhXS0k5aUV5dVVJdFl0bVhXUUhNSXplMXpJeWh3OEYzZ19JOTMtVUhfSU9rRG1yd2o2Si1kcVc2U2pVR1M5X2YyRXhn?oc=5"
+    },
+    {
+      "title": "The 3 Best Artificial Intelligence (AI) Stocks to Buy in November",
+      "source": "The Globe and Mail",
+      "date": "Mon, 02 Nov 2026 20:03:09 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSXlOUWpJTDhhSVhGTmZRQTF5c2UybGtFUDExcmVoLW5aNmVjTUU5UTVLalB5cXp2OHpfUktEeV9aRnFvVlNjZU05WnBjTXZnTGlRMUFqcm81eXV1Ym9sdU94SGxuSHVySHFhMzNpV0l6cnJxZ2JPV0lZLWQzX21yWDRnWXhEbFZRYXNZTHZDci11SzJDTjl3TDVIUFp4UEg4b210Z1RSRWZwVWUzN1lrVlVHWXBaUzh2b2pPdTlBd1FsSXNsVTQ3aVBlSGx4NDlvSnpjZkJ5OHlOVENvTWlrV2FPTQ?oc=5"
+    },
+    {
+      "title": "Manitoba Leading the Way in Helping Businesses Put AI to Work",
+      "source": "Manitoba Chambers of Commerce",
+      "date": "Mon, 02 Nov 2026 19:01:59 GMT",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYV91bWtCNE5BUkpBQnNBTXVjV19iZEdoVmRXTzlxUno3eHZHM1VYbm9adjh3NXhBM2xZYVgwSG1OZDhIT2R6MzUtZW1TV19tRWtOaDVKRnU2LWl0YjY0UmxneWUzek92WUZ0bmEtOFN6elJVcnluMzlIWnd4aFFvdVJPQ25iZlJzb0pKR2FzR19wNS1ic3RLTnpHZ2wyUQ?oc=5"
+    },
+    {
+      "title": "Generative Artificial Intelligence in Clinical Reasoning Education: A Focused Review and Framework",
+      "source": "Cureus",
+      "date": "Mon, 02 Nov 2026 15:14:59 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTjdmaWJjVHEwYlVXTnFjZTVaMTZlalRTYXQ4LTc3NS1UUnpQQVQ0clJPLVVyZ3ZOZG1ZRVlzbUduWTVzSERLaWIzMjJoLVpHaFVlcmg1Q0U0TzF6NGVvX3ZMMzdNQWZhVUpsanpld01XcGVva2k2Ung2Z19va3E5bHBxWl8wTjRLblBIX082U1UzczZTTWl5d202djJEUVEtSzQxWlNmUGhsT1F6THZaWVZlLTU4c1RGMGwzdFRDS2VTSnlwN1BRamRIamZCLVFnenc?oc=5"
     },
     {
       "title": "We have to cool it on artificial intelligence",
@@ -15,52 +33,34 @@
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPeENsdmZUSmVpYTFjME9PbXlTRVpsMHc3UG9UZ2FNVDJORFBkR2oyemRYTWtwUnJtOHVCOHF1VVRZQjdSRnJYUEVESVZpWXRiUE1oNEdmOXZxTkNmM1F1bDZ0Y2FKZkRHQXJ6cXpYaHdUWXA2dHB2S0dfanJVWENvSjVTSWV6dHlnSTh0Y2w4aXc?oc=5"
     },
     {
-      "title": "Generative Artificial Intelligence in Clinical Reasoning Education: A Focused Review and Framework",
-      "source": "Cureus",
-      "date": "Mon, 02 Nov 2026 13:30:15 GMT",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPajdGWWV3cDNHNkpNa2lyRTd5UUR1bnE0UlZzbWZfR2VVTExQblVvZGppNS05TWR5ZWV0bHpYUkFtRnBmYnl6S1NkQm1xUm5ubmU2Z3Z0aGVsM0k3TGpxVU5ERXBOVDZETzQ3STFBRVhPZ3lhbl9qRF9XSlFHUllzVHFSbngxd1BseFJKZDdCN1daQ1BHOS1YekxKM21OWnFyM1AxMmN3bzhVM3dyWVp2NlVxaWRsdEc1VXBXRTR3RkFIaV9LOVlRU0ZrbVJrNHBvQUdKRFFnTzFJSjlORUc5b2hUaTlYY1N1WExF?oc=5"
+      "title": "Artificial Intelligence In Africa : Majority Of Businesses Adopt AI Technology-Report Shows",
+      "source": "pan african visions",
+      "date": "Mon, 02 Nov 2026 19:13:59 GMT",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPeEpLaGdoU1Nsa2lZNzZmbFVqTkx4ME1yVnZ6M040eVVXZ21qdWlUMDR5dmZISDgySHRfMGZfMmNJcWxOQXk3enVWV3ZKVW5pUXJ1Qk5OeHVub3EyQUJ1Z2gwckxDUTFlU0VUMEREM2lxREhobUJtVjRrYVZqNWpxS2UxSGV4ZW4yM05rTEUyVHh4SU96Tlk4X1hLUkU4aDJmZmFuSGtGYXUzRkNGb1VhSE9lSFpVVzdUR2dRUHNvcGNNQ19OM0Fz?oc=5"
     },
     {
-      "title": "Marlos Cholodovskis Machado",
-      "source": "Edify Edmonton",
-      "date": "Mon, 02 Nov 2026 13:33:57 GMT",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1LS1FEU3gzN2MxektxR1IzRzRlYjF0a1NDRTBNRWw4VkcySGxzT3Z2MzR3bFo1RHFBLV9ISk90V19JSGMwRTFDTERJbnFFcFhVUFVIVzRGb0I4Y0ZNWWw0ZTNHV0dPS3dkUWJRT3RmU0x2dXM3WHBOV2hBUUtkZw?oc=5"
+      "title": "Jennifer Miller to Serve on Connie's Artificial Intelligence Evaluation Committee (AIEC)",
+      "source": "Yale School of Medicine",
+      "date": "Mon, 02 Nov 2026 16:45:55 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWktCTzZGUnJCWDBKNmZjSkRlcXEwaTlTUnNyUld3Qk5RZWJ1NEFQR0dhS24wYkUxM2lUTWpZTWs4d3FraDB5enUyY0VXbkhCSkg0S1Y2a2QwaTBCV1QxUWh3dFZaZmUtTVdTS3BjdXNmWV9DRFZVZ1lVWHRERmQzT0Nkc3pGcV9hMl9ZVVRpSFN5S0IzTm5xcHVtWlJmQW92X2ZlTGFwN0tUUGs4ZU9GTmxkellYdFR3d3Y3TjBUUUZ6Q1U?oc=5"
     },
     {
-      "title": "Redwood AI Corp. Shares Decline as AI Sector Sentiment Softens Amid Scaling Pressures",
-      "source": "kalkine.ca",
-      "date": "Mon, 02 Nov 2026 15:11:45 GMT",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRGxPaWM5QXlSNXN3cVowMy1wNDVLdzBqVUIxbWU1aWxYLV8zaFM1U1dFbG4xYjlBOVozUmVmRVZyTmFPQXRBcGxyZUJ5RzFVNzd1aHJfRW5pQWt1RlVxZzdTYl9ObjJtSG5nbEhFdWFIU3JNdVpVU3oxWUJqY3J0dzVwQzl2RGt2eGVHZnJVZ3BsQ0VoVHVIY0ROdHBXNXpGZXN1NjB2ejhfVER2aXJUWXBKV192LWItWFNJbmVyclp0U2lxQmladmZHT0U?oc=5"
+      "title": "Maintaining the ITU “Artificial Intelligence” Resolution",
+      "source": "CircleID",
+      "date": "Mon, 02 Nov 2026 16:24:56 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPei1OMWdhRl8wS1g0OWxEb2VXQlRUbGZteFp6WGRVR2Nqc19uSmpsV3JOeXB4bjRxS0V1Z2JGZzdPd1J6WnhOY1dqbzFDSHMyOWdDcDRFQUJjZ24tbUhpdS0wc19QNGxrVklnMHJHOUx6YmJxUnhEMzNNWlVUWm1uM2llUGgya2gy?oc=5"
     },
     {
-      "title": "No Bailouts, Just Confiscations: Nationalize The Artificial Intelligence Companies",
-      "source": "FOREVER WARS by Spencer Ackerman",
-      "date": "Mon, 02 Nov 2026 15:19:31 GMT",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOb3ZsdTkyUThVXzdiaXFhWEptNDluMmxjSkwtaHNRWmNIN1oyNWRkMnRqMlVFRER0OVMyRUVNcVBNdXNmVmd6NEN1TFpVZGJkeUdKZ3A4MDl2NUU1UHB5cU9lOGZIeGdTM2w1R05nQWVpSmhvdDlPZHJfZlNFSG9xRDZUMmVvQUlEQjMtR00zcEpwLVB4TVVTWHNlMTJGQTlwOUlYbFpJREZ6NFBDSVJz?oc=5"
+      "title": "Computer science students uncertain of job prospects",
+      "source": "University Affairs",
+      "date": "Mon, 02 Nov 2026 15:05:18 GMT",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaGhRNVg3a2Nkc0M4NnpIYTZtZEVlRnZOUXNYU0JzM1FIWGlQMVZzU1VPZzF6c1pFSnVOZC1fY0E5eV8wc21MZ0FweFVjTXMyMGFmel8wZzZMbEFza000bFc4QVhRRE1pTWZET1VhdWlvc042aU9HVjluVEZFYjdaUnZ4Rlo2elU1cklMbEljVGE?oc=5"
     },
     {
-      "title": "Understanding Artificial Intelligence: What to Watch and Learn",
-      "source": "Nebraska Public Media",
-      "date": "Mon, 02 Nov 2026 14:22:33 GMT",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRG56Q0kyeWRGb0hzUXlkM2ZSa1pzS29YX1ViS3R5Z3l2blU3a0s1UmhJX3MtYjVWTC02S0dmTnBZcHh4Mk1JMURCWXNnX25BaUFrbHgwS2d0ZTItMWJZUDFwd01rbVdOeE85VVZRT2RTSWF5a0NwZDEyanJRZkptZGpDbUZmQk1HT3UwOWhGd0p0LVhNeWpBM1NQMGV1RHBNbjlvZVV5S3R3ZFZsdk9GWWVrSEhZOUYxN0ZES1lWQUxwbHJS?oc=5"
-    },
-    {
-      "title": "Marvell to buy Lumentum in US$115 billion deal in AI data-center bet",
-      "source": "BNN Bloomberg",
-      "date": "Mon, 02 Nov 2026 12:52:38 GMT",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxORG5xWmwyVjBTMzRYLTNlYXJDblhmTVMyUGFfLWowYzg1TWJfVEtDUWVOVmFjUWFWOVhTaGNjTWt0RFJURUxLTVFzb3pmSV9pbXNuaWZQR2Y1NGowS29wNnl4enVQa1FKZ0pocXEtY0NJUlFhdk0xZkMzaTM1aXNIaF9oMHpSb0VyRHloZzBPUXVKdzAwVmlXSDJXWE5OWW1iWXZMT3dMSVZOQVB6Z0haRmNGNDVRODczRmlFekxCVFlOenFCSGZOUF9ZdEF4TkFjZTAyM2I3OA?oc=5"
-    },
-    {
-      "title": "AI Stocks Face Possible Ballot-Box Backlash As Financing Fears Mount",
-      "source": "Investor's Business Daily",
-      "date": "Mon, 02 Nov 2026 13:42:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQck1JWkRIMEljUUdKUTBnTnduWmJGUS1KWENHZ2FRbFFLMGlvUFYtRHkwMWxobzFySTFPWFRhU202eU5FRVgya2p2RlRLYTNNVlpWUGdCcXcxR3pmSG1XVlZmYkN6Q1VoblhiaDZkclg3cW1xN29Zei10YVZ6bGVnQjljclMxamU5b3R3RHJaeGRSWmZHTDVtcGk4dWNTS3BTNHhNVg?oc=5"
-    },
-    {
-      "title": "AI compute is a strategic asset and it's shaping how governments protect national sovereignty interests, says new OECD report",
-      "source": "The Hill Times",
-      "date": "Mon, 02 Nov 2026 06:03:21 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUWFITEVNZ3AwdzQtZEZhTHBJcUpZWTZQOFM4V3lvcXRxbUN5U0VlaTVlTjBLTC1xdFNJWFhMM3NFVFg3eE81bHVTY1FXaHEyYzJ5cHZRNjNRdXBhVlhyV0prNTlUSTBhQUhkVlhiYVhWX29TbW8waHhmOTkxTUliSUNpei02cXk4ZzBhR1Y1U0JGYVFKNE1UZmZXMmRTR0dlXzNJRENNd0VPX3BvYjRlRXJoelRhY1hISXc?oc=5"
+      "title": "Artificial Intelligence (AI) Heart Sound Digital Twin Analytics Market Projected to Reach $1.91 Billion by 2030",
+      "source": "The National Law Review",
+      "date": "Mon, 02 Nov 2026 19:05:47 GMT",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVnZGWGVUSmhLbE04S1gzeDlQajFhVVQ5eXZ4NUFlaXhYRVlheW5MQVByV0hsNGUybzI5cm8xb3RmMVlNMEVCcGEybk1LSWtZeXN5R2JMalVvaGVpdS05eXBVWFZxeXpNcGRLR3lPaDdzTmZTNWtzT2dlemVQY2tOVXR3b1FOWjZZbVdMS1BLdlBKd3oyWExvWWloZ2Q4RGNhVXoydUZ1VVFqTjRL?oc=5"
     }
   ],
   "events": [

@@ -1,66 +1,66 @@
 {
-  "updatedAt": "2026-11-02T06:01:43.847162Z",
+  "updatedAt": "2026-11-02T15:51:24.378531Z",
   "locationLabel": "Victoria, BC",
   "headlines": [
     {
-      "title": "Can SpaceX Overcome the AI Trade Sell-Off?",
-      "source": "The Globe and Mail",
-      "date": "Mon, 02 Nov 2026 04:50:09 GMT",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNYTR3dlFWMk9UQkt5bDRSZFFlbEp2Q2pPT294NTlTXzlhcXFLZTN3Q0J2cmNtU28xWW9GS2l2dXJrZnYyaHNvNlFMTWVaYS11Yl9zOVkyZ055WVp5UHhiUnJyUDVXYTI5c1hxbktOVHdYUEVQVmJfNkhBQUc0TFY4MDZWNm4tQ3lHNGQ3dlN4aVlDbzM2WVR1M1ZiSmdPUkQzS0R5bmhvNXp2aGJYV3VOd0dVRDJ4aUtEZ1NrZlhaWTBPSGFoQWw0?oc=5"
+      "title": "Artificial intelligence and the human element",
+      "source": "Canadian Institute of Mining, Metallurgy",
+      "date": "Mon, 02 Nov 2026 15:49:24 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYnVwaUdDaElSVkoxNngzLVRRU0ZOVTNaMXlWemhFNTFZTWViRU5PVGdlMFNiLUVlbkhLYjM4QnJzRE9mZHhXS0k5aUV5dVVJdFl0bVhXUUhNSXplMXpJeWh3OEYzZ19JOTMtVUhfSU9rRG1yd2o2Si1kcVc2U2pVR1M5X2YyRXhn?oc=5"
     },
     {
-      "title": "Artificial Intelligence Versus Human Interpretation in Diagnostic Radiology: A Systematic Review of Diagnostic Accuracy and Operational Efficiency",
+      "title": "We have to cool it on artificial intelligence",
+      "source": "Seaway News",
+      "date": "Mon, 02 Nov 2026 12:29:22 GMT",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPeENsdmZUSmVpYTFjME9PbXlTRVpsMHc3UG9UZ2FNVDJORFBkR2oyemRYTWtwUnJtOHVCOHF1VVRZQjdSRnJYUEVESVZpWXRiUE1oNEdmOXZxTkNmM1F1bDZ0Y2FKZkRHQXJ6cXpYaHdUWXA2dHB2S0dfanJVWENvSjVTSWV6dHlnSTh0Y2w4aXc?oc=5"
+    },
+    {
+      "title": "Generative Artificial Intelligence in Clinical Reasoning Education: A Focused Review and Framework",
       "source": "Cureus",
-      "date": "Sun, 01 Nov 2026 18:19:58 GMT",
-      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPXzRWdm1ncnFCckFlWUh2dUllbTFaeXJEYzUxcEl1VkJWSXo3Rk1kZ1daQU9xUWp5Y2dySzdqSDh2bGJEVzJfdTd4N0pzcFF3dHAySzJYTTh4MUtDNnRDRnhFaXZnMVFtYUxOenJUQzN3ejlMU19sTExQQk8wT2xsMUM2SzVCcHVCWG1ZZXM0MGJ5d3F3bFZGZmV5WTBQbWM3RUFzWHQ1UzNDcUtQRTZ6c1phbmNHRTA0WDV0cS0tMVVTb19SUXpLTmpCZWpzc0NLcW9qRnhoSldoYmV0YTZGYll0bUFUb2puX0VuQ2pobFowNzE5a0VSWktKTGhVVjhKSk02aG16UjlhTGw0c1kyM3dR?oc=5"
+      "date": "Mon, 02 Nov 2026 13:30:15 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPajdGWWV3cDNHNkpNa2lyRTd5UUR1bnE0UlZzbWZfR2VVTExQblVvZGppNS05TWR5ZWV0bHpYUkFtRnBmYnl6S1NkQm1xUm5ubmU2Z3Z0aGVsM0k3TGpxVU5ERXBOVDZETzQ3STFBRVhPZ3lhbl9qRF9XSlFHUllzVHFSbngxd1BseFJKZDdCN1daQ1BHOS1YekxKM21OWnFyM1AxMmN3bzhVM3dyWVp2NlVxaWRsdEc1VXBXRTR3RkFIaV9LOVlRU0ZrbVJrNHBvQUdKRFFnTzFJSjlORUc5b2hUaTlYY1N1WExF?oc=5"
     },
     {
-      "title": "Libya links Artificial Intelligence AI and Connectivity to its next production cycle",
-      "source": "Cyprus Shipping News",
-      "date": "Mon, 02 Nov 2026 03:15:45 GMT",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZGJ5U3pxX01pZ1dTVzZzYmp4VVZ0bWNvWVhmV1pwa01udnlnVEU4dFV3YmdZNlZpMm9ZUENpTFh6Y2xtU3RYMnZZSGlaR2RmYm5KNGQzR3BVR2ZiLWg3eU5qOVlQd3NQaDltdmVvc0pPbm9mcU8wWl9hMGlmUC1sUXVYQ2R4bVppRzVVZWg5a3ZZVEJUZG9VZzBGMWVxVXpmcHkzd3BDUnZvY2VrRko0V0dzV0RZYlQ0RXgydG9teEVxWE52bXc?oc=5"
+      "title": "Marlos Cholodovskis Machado",
+      "source": "Edify Edmonton",
+      "date": "Mon, 02 Nov 2026 13:33:57 GMT",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1LS1FEU3gzN2MxektxR1IzRzRlYjF0a1NDRTBNRWw4VkcySGxzT3Z2MzR3bFo1RHFBLV9ISk90V19JSGMwRTFDTERJbnFFcFhVUFVIVzRGb0I4Y0ZNWWw0ZTNHV0dPS3dkUWJRT3RmU0x2dXM3WHBOV2hBUUtkZw?oc=5"
     },
     {
-      "title": "AI is becoming a larger part of Penn’s curriculum. Here’s what the numbers show",
-      "source": "The Daily Pennsylvanian",
-      "date": "Mon, 02 Nov 2026 04:37:37 GMT",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQXMyam5ueXdVR0dhakxZVk5ScnN4SXdrcUlSR2t6NEJOTzNJRnpscUljXzZIbzJMWDlRbGk0MFpYbl9TVW1oa3FzY1NJa2EwMUNydHNqT1JzbnA2MjZTOXdMaUdYSlFJWTBvUHM1bmh4RTYyT0RQTkplT3lSYXlxR2doVTBLUkxCSXZhU3NLaw?oc=5"
+      "title": "Redwood AI Corp. Shares Decline as AI Sector Sentiment Softens Amid Scaling Pressures",
+      "source": "kalkine.ca",
+      "date": "Mon, 02 Nov 2026 15:11:45 GMT",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRGxPaWM5QXlSNXN3cVowMy1wNDVLdzBqVUIxbWU1aWxYLV8zaFM1U1dFbG4xYjlBOVozUmVmRVZyTmFPQXRBcGxyZUJ5RzFVNzd1aHJfRW5pQWt1RlVxZzdTYl9ObjJtSG5nbEhFdWFIU3JNdVpVU3oxWUJqY3J0dzVwQzl2RGt2eGVHZnJVZ3BsQ0VoVHVIY0ROdHBXNXpGZXN1NjB2ejhfVER2aXJUWXBKV192LWItWFNJbmVyclp0U2lxQmladmZHT0U?oc=5"
     },
     {
-      "title": "The Artificial Intelligence (AI) Enhanced Remote Physiotherapy Market Is Projected to Grow to $6.44 Billion by 2030",
-      "source": "EIN News",
-      "date": "Sun, 01 Nov 2026 23:45:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOS2F0Z1VLSEx6VGZWaTBRSG9tOUFFbmxiSDJncmNuRW0wYk1yai1JZzF6WE9PWElEMTdVWnhuTFBFeGo0RnRPY2FtNDdSUTNnX19oS1lpTElNbjhnczR0QTBJSGxjVllUaE1MaWNXcEJYTkpZSThJWFlkeTFNNmhuLUx1eEwtNVhqd2d2YUUtb1lZTWU3M0dsQnpoRHFYUXl1U29QSDNYcEhnOFI3YXZxaER3YllyWmJpSU51QkxzMDN6VEV4RWtGTkVWSGJRYTlQVWpfcGc1b2JUUlJNdmdyd3hPMEVsWXNaTWc?oc=5"
+      "title": "No Bailouts, Just Confiscations: Nationalize The Artificial Intelligence Companies",
+      "source": "FOREVER WARS by Spencer Ackerman",
+      "date": "Mon, 02 Nov 2026 15:19:31 GMT",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOb3ZsdTkyUThVXzdiaXFhWEptNDluMmxjSkwtaHNRWmNIN1oyNWRkMnRqMlVFRER0OVMyRUVNcVBNdXNmVmd6NEN1TFpVZGJkeUdKZ3A4MDl2NUU1UHB5cU9lOGZIeGdTM2w1R05nQWVpSmhvdDlPZHJfZlNFSG9xRDZUMmVvQUlEQjMtR00zcEpwLVB4TVVTWHNlMTJGQTlwOUlYbFpJREZ6NFBDSVJz?oc=5"
     },
     {
-      "title": "Rise of artificial intelligence in Athens affects local artists",
-      "source": "www.thepostathens.com",
-      "date": "Mon, 02 Nov 2026 05:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRjlzQ1NCZURyTThKOHdhU3JFblhCeDAtVllKWnVkZ2NGZWdZVlVsT09vbEtiMS1ORHk4VWYyTG9zVGJMLTQtZHRYaHRfa0RWUmxXNnVkYU5Xd284aTItaW5KUTYxVVVKanFVTURXR3NQNU5sdml3RmtlczVuSWxuSGhVcmdvMHVCLW1tUnFkblF3NkZO?oc=5"
+      "title": "Understanding Artificial Intelligence: What to Watch and Learn",
+      "source": "Nebraska Public Media",
+      "date": "Mon, 02 Nov 2026 14:22:33 GMT",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRG56Q0kyeWRGb0hzUXlkM2ZSa1pzS29YX1ViS3R5Z3l2blU3a0s1UmhJX3MtYjVWTC02S0dmTnBZcHh4Mk1JMURCWXNnX25BaUFrbHgwS2d0ZTItMWJZUDFwd01rbVdOeE85VVZRT2RTSWF5a0NwZDEyanJRZkptZGpDbUZmQk1HT3UwOWhGd0p0LVhNeWpBM1NQMGV1RHBNbjlvZVV5S3R3ZFZsdk9GWWVrSEhZOUYxN0ZES1lWQUxwbHJS?oc=5"
     },
     {
-      "title": "Canadian taxpayers now own a part of Cohere AI, what that means for digital sovereignty",
-      "source": "CTV News",
-      "date": "Sun, 01 Nov 2026 19:53:14 GMT",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTGViUlZZMDhkcl9kbjRUV0J2MUlUQkxwYmlKZ21JNWZnVkZYcXpIU3NSWTdheE1xcVhFZ2VNU2V0cS1RSmpsTDdtSUwyYUlBTmVUc1EyaVpnRDZsMTNQMHJqLXJOaEZiUGJxcjhQVng0ZHNLYkxsVlAzWG9Ed3djR2lSdnY1Wk9sVXlxUVZmZEs3MXE2T0VFZ3R0ckdVeXhZWC1NdnFMV2ZjSC11TGx0enhsajMwaFRRNFpRSEFQbVo4V0V3ZUE?oc=5"
+      "title": "Marvell to buy Lumentum in US$115 billion deal in AI data-center bet",
+      "source": "BNN Bloomberg",
+      "date": "Mon, 02 Nov 2026 12:52:38 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxORG5xWmwyVjBTMzRYLTNlYXJDblhmTVMyUGFfLWowYzg1TWJfVEtDUWVOVmFjUWFWOVhTaGNjTWt0RFJURUxLTVFzb3pmSV9pbXNuaWZQR2Y1NGowS29wNnl4enVQa1FKZ0pocXEtY0NJUlFhdk0xZkMzaTM1aXNIaF9oMHpSb0VyRHloZzBPUXVKdzAwVmlXSDJXWE5OWW1iWXZMT3dMSVZOQVB6Z0haRmNGNDVRODczRmlFekxCVFlOenFCSGZOUF9ZdEF4TkFjZTAyM2I3OA?oc=5"
     },
     {
-      "title": "Argentina’s Milei pitches a regulation-free AI haven at the end of the world",
-      "source": "Yahoo News Canada",
-      "date": "Mon, 02 Nov 2026 05:03:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQaktieTBCaVA0dDlYenp4eXhuODkwNDIzUjhOcWNUeTV4aFJ3M1Q2OVRyUkNzTUlmRDZUQk45LTI3TFdfQ1I1Rzl1dk5ZVFpPSTllT1JzbTVxakRuSTdNRGV2cTVEb0dzZkNsZUFMYUZHNUZMS0d2VWZBM0s0Q1dDdmtreXhSTFE?oc=5"
+      "title": "AI Stocks Face Possible Ballot-Box Backlash As Financing Fears Mount",
+      "source": "Investor's Business Daily",
+      "date": "Mon, 02 Nov 2026 13:42:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQck1JWkRIMEljUUdKUTBnTnduWmJGUS1KWENHZ2FRbFFLMGlvUFYtRHkwMWxobzFySTFPWFRhU202eU5FRVgya2p2RlRLYTNNVlpWUGdCcXcxR3pmSG1XVlZmYkN6Q1VoblhiaDZkclg3cW1xN29Zei10YVZ6bGVnQjljclMxamU5b3R3RHJaeGRSWmZHTDVtcGk4dWNTS3BTNHhNVg?oc=5"
     },
     {
-      "title": "Mastering the CRAAP test: Why AI chatbots can't replace human critical thinking",
-      "source": "St. Albert Gazette",
-      "date": "Sun, 01 Nov 2026 13:05:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcFlIWmZhcC1FWkozU3lXRXNqRWRCcXFYZFVPRUNPSS12aWdkQXpCdWpxT2lGV0pud2VvNVRBTlFIa1htQVlzZ2dPUHVCQWN2VDYzdVJwa1VTeDRfQXdRaWxPVmRWTzA2NmZXdGhwdndPQklOZXg4Q3FTUXVKbmV5dDFTQ3RWV3FJVHJlVVc4ZjhGcnJkLXUwbFNtVHZfTFFjVUxibmJHcG53RkVlTFJfNV9WRXhLRkNUdzJFUkZHWEh6ZUFP?oc=5"
-    },
-    {
-      "title": "AI acceleration of science – a personal reflection",
-      "source": "Wellcome Sanger Institute Blog",
-      "date": "Mon, 02 Nov 2026 00:01:50 GMT",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPU2Y3ZEVuUlJscXJla2QtdlN4TEw3eEU1d2tvMUZrYUpPQ3hWMTVhQURRbm5oVEkxZ05FQ1psSlJidkxyaE9XcDgyTVY0THc4dUFuVjBYQTBqVU83Q0tsTDlSbWU4UzhyTC1FdkhGREdsYjh6T1BzVm5XQ0ZLeTRwYkdpaG81bG9RazZXTHlfVVVRR28?oc=5"
+      "title": "AI compute is a strategic asset and it's shaping how governments protect national sovereignty interests, says new OECD report",
+      "source": "The Hill Times",
+      "date": "Mon, 02 Nov 2026 06:03:21 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUWFITEVNZ3AwdzQtZEZhTHBJcUpZWTZQOFM4V3lvcXRxbUN5U0VlaTVlTjBLTC1xdFNJWFhMM3NFVFg3eE81bHVTY1FXaHEyYzJ5cHZRNjNRdXBhVlhyV0prNTlUSTBhQUhkVlhiYVhWX29TbW8waHhmOTkxTUliSUNpei02cXk4ZzBhR1Y1U0JGYVFKNE1UZmZXMmRTR0dlXzNJRENNd0VPX3BvYjRlRXJoelRhY1hISXc?oc=5"
     }
   ],
   "events": [

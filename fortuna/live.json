@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T17:14:50.134648Z",
+  "updatedAt": "2026-11-04T22:39:04.927691Z",
   "locationLabel": "Victoria, BC",
   "headlines": [
     {
@@ -21,22 +21,10 @@
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOGdqWGx4WWg2c3h6dG1ZcEg4Ylh1Nk4xWWxDZy16ZlhBdS00R0ZFTG1XcXZHOFprMmZseU5udGRMMmpPeDNLYnN2eWctWHRPWHVCdHBqVHdFd2duZU9KUHV2aUV3TEkwRWJ2VU5YRG11Q1hZTWdsTWZMT2R5SndEVWFYd203aDJvaEZNaC1BaFFFSEJSTWh3N0lNeldEWTUyZURjNDNqSGFjSnVSYzQtWlFCd1Rha3ViMTlyZ0hlNmVzemwt?oc=5"
     },
     {
-      "title": "'AI earthquake': Democrats eye a Silicon Valley reckoning",
-      "source": "Politico",
-      "date": "Wed, 04 Nov 2026 15:06:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQam9BYnlkekhXbVVvWktfYnhhcmpwdEpHV2FMYm00MlZWc2R5WU1zVnFtbTNqSjV6XzJuYlNZVjByeVhQN2loUEdmUlNWenNNbVhXWVkzd01RUF9GTXFaUXZMYVNmSWdHLUFBbmpVdWZkRGh0N1ZjbE0zWnRvMkNUVXoycDlmalJDX19Fa1g2TlZ6QTJKWnZSbg?oc=5"
-    },
-    {
-      "title": "Google says there’s no way to use Search without using artificial intelligence",
-      "source": "The Guardian",
-      "date": "Tue, 03 Nov 2026 21:47:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQejExRlAwVmpXSkJOMFppQ3NXOFRGT2lkOGQ3LURUVS16UjRQa3llY01OY3FxdW1TYWVHZUR4c3NXbTRIT0pUQ2hIZGxlYzRFS2Q1ZG5qRTNNbDV0cnZJMHJaOFRfU1RzTzkzWFF1OVhUaUVhWFh1anhEV0JTb2lSLWJ0UEo5X3pyeWhNTkFSMWMtUQ?oc=5"
-    },
-    {
-      "title": "EU rules on Artificial intelligence devices will apply in NI",
-      "source": "BBC",
-      "date": "Wed, 04 Nov 2026 14:10:08 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9XLVFyNmp2WG1CSG1aU2NodnRlRUt0QjBsaHYtb0pFTEpkQlFUUWcwZ2dQWmFzaU5IajJ6VlMxZDNiTVFST1ZhQTduXzFCR1liLVNNTkQ2Um5jY28?oc=5"
+      "title": "Arm Holdings Sales Climb 27% on AI Demand",
+      "source": "WSJ",
+      "date": "Wed, 04 Nov 2026 21:20:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRXpoNFE4WG9aNjkwazZlZEM1VWtKWlU2d21jZFRjWm12a0ZjckU0SDAxWWYwSzJhLWY1SmtQaTRSdVFoV1FvOE5KNHJMOXo5bG15amtKdGdMdmpZUFJScF9RNHNyMGFDcFhPT3ZpVDFhSVFTc0xXbnJ2blUwT3VnMHFmYUJtcWxYX0liQUhkUlc?oc=5"
     },
     {
       "title": "Can Artificial Intelligence Help Cities Predict Traffic-Related Pollution?",
@@ -45,22 +33,34 @@
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9XQWNsVXMwNmhpRlNTT1VNVjB0ZXBMUXhGWWxkMW1BeFVxMFZyNndCYW94Z2ktU2hlSUxNRE1yVkhjQi1HWnFNZ3dDWjNZd0ppY3Nvc2ZGQTI1NFRfOWN5NFdkbmw4Mmc?oc=5"
     },
     {
+      "title": "Google says there’s no way to use Search without using artificial intelligence",
+      "source": "The Guardian",
+      "date": "Tue, 03 Nov 2026 21:47:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQejExRlAwVmpXSkJOMFppQ3NXOFRGT2lkOGQ3LURUVS16UjRQa3llY01OY3FxdW1TYWVHZUR4c3NXbTRIT0pUQ2hIZGxlYzRFS2Q1ZG5qRTNNbDV0cnZJMHJaOFRfU1RzTzkzWFF1OVhUaUVhWFh1anhEV0JTb2lSLWJ0UEo5X3pyeWhNTkFSMWMtUQ?oc=5"
+    },
+    {
+      "title": "Six quantum and AI solutions for business challenges win the Santander X Global Challenge | The Quantum AI Leap",
+      "source": "Banco Santander",
+      "date": "Wed, 04 Nov 2026 20:12:55 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNckRNMHRUa3pSYU9GMkdtMHNnaHNTcm9hTVJMNE1qRWJwVldiR1lLUzlRYllMWXpXakFtV2xiU25nRzNqME53dlNxal9idlVGZXVvUGxFVDJVMVJ0NU51ejh2d3lnNHNGTXZlUFhDN0dseHVJRnFkTmZuTDZXQUFGNnJoS1NvYjl0MkJiQ3gxR2NKOF9wVDdPZ1hoWjRqTTZnRF85a3NKZ1p6ZnpwTXBXbzYzdWNKTGxjRnlYTzVsTkRtdW1VVUJXcTNJUVJYbXdqQTg5Rk41dUFDbmtHMmE5Zm0zZGpiS0J3MXowd1hTSUhCRk9KWTFyeWt0Y2NGUE53OXc?oc=5"
+    },
+    {
       "title": "Artificial intelligence in a Jesuit University: A student conversation",
       "source": "Marquette Today",
       "date": "Wed, 04 Nov 2026 13:21:48 GMT",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbnJXdC1hTXNGZGdJRUFMOEV0SVhsank1eG5IUEtkUS1Qa1FEZ05GbUxwTGtlaW9ieVlxSmdRbVBOWDlrcUJQZ1lHSjdkLU5tX3Z1djQ2c0MzU0NabldzTlI5bDJETHFPdHVWYk1ncW5xeTVYdHlDUFFyR25DdS1tZi0yck0ybENMeERhQ1VhNmQzX1FKcHg2b1JkbnVrSENoZi14aXptazF0MzA?oc=5"
     },
     {
-      "title": "Google AI lets Canadians buy from Lululemon, Shoppers Drug Mart without leaving app",
-      "source": "BNN Bloomberg",
-      "date": "Wed, 04 Nov 2026 15:28:39 GMT",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUEsydF9RcFluS0hFbjJNY19Ia1dGb2JVbl9HY1prWTNreTVSUDV1VXpfV0NJSUZtRUgzSXdFUTJyOVJ2Y3d2ZmRHT0pldkI1WnVycU1hQWZ6RHppOEdteEtEemJWcXNLb3BzSExQVGFtM1RCTFlqNVI1TW9XLUtFOE01NG5mYzgxem12bW9CSEgxSVFLZXJxZmtiTGxvSmFFOUU5S3VxdVZQeTZfT3RQeFBENERhelljVGNhUGVQRWJDVDlmVlV5WnZHQTVUc3ZUMDhKU2Z2VnhCRGNV?oc=5"
+      "title": "AI is making it harder for voters to get accurate information: Elections Canada chief - Radio-Canada",
+      "source": "Radio-Canada",
+      "date": "Wed, 04 Nov 2026 10:16:06 GMT",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYnBVdmliRlFNZWJ2aHhmdkl5c09xUUFpTWp1Y1lMNHE5TkFhQ0x1T0cxQ0VVRlI4cGUyV3pnVmlpM3R1ZEVLSUpBb3J0MENTcmRPZENSR045S2pOYjVHSXJsX0VGM1VpS1lJU1RWU0N0em9OZFBpWkZNcDlIanB2T0wyZkU3UmxySjhWSTFYQUw5MTFIRzhWdng1TnBKc2RrX01BQUNEOTZWME1yU3NsYXhWcVF0MlcxNU1GQkxza3VzMS1oa09VaE1SWEo?oc=5"
     },
     {
-      "title": "artificial intelligence in sports News & Updates",
-      "source": "Front Office Sports",
-      "date": "Wed, 04 Nov 2026 15:28:35 GMT",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1QaGp3RWRTRk01SXhPSzZHcnA3R1RNcWx4ODlFTUtvdEYtSUI5WXdlZy1YTkFuNFJRVElVdVd0aGtwY1pfZk5HR3BQSWRRbGRUUjkzbFNuMk9QcEJTaUFNM0IxWl8wLTdobkdYc0hDLUtkZEFZYV9J?oc=5"
+      "title": "Artificial Intelligence Expert #1 AI Speaker Scott Steinberg",
+      "source": "https://www.futuristsspeakers.com/",
+      "date": "Wed, 04 Nov 2026 18:49:23 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOalpobWtneGdZaDhhQ2hvMWlpRnFJaDk2X3lKdTE4blJFOHNsNXQ3bjYxbVJ4c1dpMjlFUnRUTi1ieTdUZHdobHloc2lRbk0yYW5aLXJabU1nbW1iVGtsTE1wbFVfNW5Zel9QZVd2Q3NfZVc4R0U1ZzlGOFl3cXp0Z1dPV21VSUM2SWYw?oc=5"
     }
   ],
   "events": [

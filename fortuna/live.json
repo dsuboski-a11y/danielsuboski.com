@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-11-05T20:39:47.912192Z",
+  "updatedAt": "2026-11-06T01:32:24.095559Z",
   "locationLabel": "Victoria, BC",
   "headlines": [
+    {
+      "title": "Google offers schools AI-boosted search or none at all",
+      "source": "CBC",
+      "date": "Thu, 05 Nov 2026 18:28:20 GMT",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE16Z0g1ak54cUI4RTljczBhNWpVQmIzbEJzR1J1eXVtQXJrc0lEalQ5U0lpQmZ4X2xsQlhIejE0SHZ5aURQeDAxWVM4SGZIX3JiUk1NSFAxRXh5RFd0azQtQ08xcWFWLTJjVkhTaGZyQ3VVR05EMlpEYUtCZkhqUQ?oc=5"
+    },
     {
       "title": "Responsible use of artificial intelligence",
       "source": "Nature",
@@ -9,16 +15,16 @@
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA1MWNlUnlUc3NDTjV5dk5zQUZHYkU4aVk1N1B0ZFAxRVYyR3V4T2ttS2x2SEZhdXNfSnBrZElyM2J0OVJCUEdqX0pRaHhFa25MY2FxOGpodVZEX2ltYnVR?oc=5"
     },
     {
+      "title": "On Wall Street, Democrats' midterm victory bursts the AI bubble",
+      "source": "Le Monde.fr",
+      "date": "Fri, 06 Nov 2026 01:26:47 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdGQ1b1JCY21WYUJnVHpoUklyVUtMLVMzNk5aX2l3ZUd4T0RSWFU3MWJ0RnRneHF4THJXOXQtMlNsOS1QcUZzd05DTTg4Mmthem5meUxTVGJsSlFZQ0U1OFc2Mjk0SDdFZkF3VXgtTTZXc3NlMUZUYUdUaWpGaUprNVByMjl2LTA5T1ItcHBLQnRNUXVESnJScTVDdFE0Rm5kanJFUzAwZnZ5emc1SjFBX1RwOXJvQnV5cTNQd25fOWZvRVRqMjNSVGVB?oc=5"
+    },
+    {
       "title": "When Use of Artificial Intelligence Conflicts With Employees’ Sincerely Held Religious Beliefs (US)",
       "source": "Employment Law Worldview",
       "date": "Thu, 05 Nov 2026 17:37:53 GMT",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTU5Jb0Jta1hQdDNxTmtGc3ZBN0FfNmJDX3g5SGFFa1Z6c0hmUEh1WGVIeXRvaHFLS0sxNHJrcm9CWjU5UG1tWTNiQXU5U1Zsemh2SVA2dGFyX05WamtneC1JMGh0MkdlaDJHU0EzbnFFQWh4U2JwUGlnYnZBdWVBT0JRZzhUd1VRRjlfT2dqSjc2VFZfRzlGdEd1QmpmejhtLXBtZHhZNVk4MTlCOHdFY2RmV2dhQUJaV3JxTG9VZjZLTjV2eEsyTkRrdU5BaVBnU2c?oc=5"
-    },
-    {
-      "title": "Google offers schools AI-boosted search or none at all",
-      "source": "CBC",
-      "date": "Thu, 05 Nov 2026 18:28:20 GMT",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE16Z0g1ak54cUI4RTljczBhNWpVQmIzbEJzR1J1eXVtQXJrc0lEalQ5U0lpQmZ4X2xsQlhIejE0SHZ5aURQeDAxWVM4SGZIX3JiUk1NSFAxRXh5RFd0azQtQ08xcWFWLTJjVkhTaGZyQ3VVR05EMlpEYUtCZkhqUQ?oc=5"
     },
     {
       "title": "Artificial Intelligence Technology Solutions Inc. (AITX) Stock Price, News, Quote & History",
@@ -33,34 +39,28 @@
       "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxObW0xczk5Sk9ocTlYdC1aNWI0Vy1BZFh1S3JWSkNwNWVHNVBsX3NhRTVfRF80eURTMlE1UlFmVWZQNjBfMEVIR0VDblZtbG1DMDNZR05pdUdVYkNiekNfUTlDdy0wd3V1WGZ6b1FrTFg1NzRNQU03dXlLSlFUSGV6b2ZSMEZKVHBCVUdvdTlIV2txSGxuM3I4YnBGVktCZGo1QUZkaTJQMFFhSl92ZXZSN1NMZkpJOFNmY3JFdkhOVlhaU1Jtb2N5REh2VUZWbUZmTXYtRzF1SHdYRWhMTDZ1TXl4WmVSMUF3MXJfZTUtQ01DVU9Za2tuMmlxS1hKUFh6UnpkZA?oc=5"
     },
     {
+      "title": "Connecting artificial intelligence with the tools of astrophysical research",
+      "source": "Phys.org",
+      "date": "Thu, 05 Nov 2026 22:00:07 GMT",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNallRdlVIcUh5WXhLMFJIQXRkcXJvM2ZrTzdxX2ppRHVwdmJROUVOeE5CeWs2YU8tMkJDYkV3QU50N3VXbXFtcEhLSF9GanRlenJCSXBnREdiZk1QOHFfcEFrbEJndGRXM3E0LVVRY0VBQ1A3V25JTW5rZ2tGU2NXUGtCZ1g?oc=5"
+    },
+    {
+      "title": "Artificial intelligence-generated pre-visit summaries improved communication outcomes in neurosurgical consultations",
+      "source": "2 Minute Medicine",
+      "date": "Thu, 05 Nov 2026 20:48:45 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxObGFpRkFuLW5teTV6bkFUSm9rZ3o3Y04wcEhralFWR2didDZ2NW9xajR1bXR0UnlUbm1BbVJ3bGpJcGRHY2JjaUpOYWtpd25fRDMtVGg2eXNTd21jb1ZEWm5XV3ZFZDVjaHg4RWd4ZTJNQkdTNENvWFZfcEMwbnRSTHFjQUVqc2paMnM2RS1LdkQ2eGFNdDZLUGFlcVZMLVU0Z3ZfVVBsaFU3dEtsNkFhaVIyc3Vjb3lwcDI3SlhWdUh4WDNsUGt2Y3V5ZVBzN1lwemw5akFZcEFyX2ZtMWFEV2UwUQ?oc=5"
+    },
+    {
+      "title": "Artificial intelligence points researchers toward new disease targets hidden in mitochondria",
+      "source": "AgriLife Today",
+      "date": "Thu, 05 Nov 2026 23:02:49 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMVJpd2hYUmNnOEFET2U1cjBuTzJWSWZVNy0yLWRYMlhDYWFSLVFOa2VHQWFpYUl4UHRnOE1OOURPMEJPWFVScVQ5ckZTNFZQM1ZSMzFXMnJiY0FmdnhFejNOblYzcklhc2hkUTF5cUNwcUlYY25xU1h0eFdxRkZ5MEJEeG5Mc3gxRmx1aDhlZDFVUjBvYVNCTFJHNTN4d0RDYzNaT0t2QW5MdVhRVVVJcWd5eFhQa2N0blFTY0pYeTh0Ulg5NzJENXpKYVhQaWJx?oc=5"
+    },
+    {
       "title": "Outsmart Artificial Intelligence with CEDMO Game!",
       "source": "CEDMO",
       "date": "Thu, 05 Nov 2026 12:17:43 GMT",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE92TjlzQm5nbmZjOEdkM2RUaTlZWmJ0WHJDQlpvWHI2X1VwMnV3ZlBQWGxZdHNSSnNlVFJMUFVBbnNpNWFkWWxkSllvRWl2TEFESGptTmc4Z25yMlR5VlRHMU5rd1NGSk9NekEwcEdLNmp4cFFpMnJXMQ?oc=5"
-    },
-    {
-      "title": "Wealthsimple launches AI banking assistant that can help move money, place trades",
-      "source": "BNN Bloomberg",
-      "date": "Thu, 05 Nov 2026 18:21:07 GMT",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNaDFnWVJHX0dVYkZUWTlBYU9tWWdGUjIzeDFpaTlxU3BJX3pFVWgydDJUSW5sSUNMNVdrdkc4ZXluMXdFY2puaXdGcXNhTEFBaGY4dGNtR0pNMC1zR0dIU0ZkMlFFeEVqcy1NUFA3R3F2UjA2ZUVUYTFVcElfdE5JYnJtdkxfdktQemVoQnU0dHQtTGx1cndmYndfODg2d0haYlNvVS00YjVKbDVlSmRQLUJZWXAzWjdHZnFCZlhvNk44dkE1dW14Z3lFdHZTOFNRMzFYNTNfLUdReU9kdXdONG05MGNEZ0Jw?oc=5"
-    },
-    {
-      "title": "Using genomics, AI to predict, prevent, and treat disease - Harvard T.H. Chan School of Public Health",
-      "source": "Harvard T.H. Chan School of Public Health",
-      "date": "Thu, 05 Nov 2026 18:04:30 GMT",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNd200d0NXLWx0amRxUkhOdGkwVG5GN2U1QU1Ja05RczB2YmxRU3k0elVHV0N0cXlydDhmUDVWSmRaRjR5QnotM09jLTdnSEhmTkRfOVNCOFlHdmZqeExZdHFsdkg2SGtGZVFaRHdINVB1ZG9NOVVaM0Y3OTJsVlVKdUF5VmNQVXJWMkVrMzB3?oc=5"
-    },
-    {
-      "title": "How Amazon Marketplace evaluates content quality with Amazon SageMaker AI",
-      "source": "Amazon Web Services (AWS)",
-      "date": "Thu, 05 Nov 2026 18:06:43 GMT",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTGRzTGJsV0ZFVVJ6NXlkNnB3emVFcDJmOGhCUjFsZTJEVWxJS3VxN1JDZ1VLOUVRSzZXTGJiTEV4LTR3TGFfQi1aeHhpdF9SY0hoZlUtSVByVDU1N2tyakZfdlk3ZEhFR21CdUI0dHg0ZjVXMDVfWUtNaGVZVTE5Z1hMMUxtNVZmN2dWN2FXdkFGcTkyYnFrOGpTRThrWHBtNDNQQ1EwU2pTeFhibVpVNlZyb0J6YXlwdjUtaA?oc=5"
-    },
-    {
-      "title": "Prix Goncourt winner Philippe Jaenada winner touts using AI",
-      "source": "Le Monde.fr",
-      "date": "Thu, 05 Nov 2026 19:43:19 GMT",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWmF0VDFWNGloUGpSOWNjVVMxYnc3RVRIdlFDSktIdGF6ckQ1NzYxVEctNkh4aUMzYmN3SS1hb1ZaeWhETmlJUUlTVHFpZmJLdjNPUWRYLXJkRGhhcUVMN3BzajVCTU5oRlh2NTRWMzllVlRyQW40OVNPc0o1NGVqVkFFZ3J5X0xaQmUwWU51ZEktRXNVRGtReXZyV25MNmY1M2xoV2hLNXNFSlltbV9PZkZTVUpHN3FDYWhoakFtdURtWEdwTGVJ?oc=5"
     }
   ],
   "events": [

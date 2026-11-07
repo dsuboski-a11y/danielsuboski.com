@@ -1,13 +1,7 @@
 {
-  "updatedAt": "2026-11-07T02:47:14.620542Z",
+  "updatedAt": "2026-11-07T10:07:52.345639Z",
   "locationLabel": "Victoria, BC",
   "headlines": [
-    {
-      "title": "Global X Artificial Intelligence & Technology ETF (AIQ) Stock Price, News, Quote & History",
-      "source": "Yahoo! Finance Canada",
-      "date": "Fri, 06 Nov 2026 21:25:24 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9pLUE4Wmd4NVViOGlZc2N1YkNPZnZCdzc0VlpxUUdXVVRVbGo1V1FpSUx5X3JiWEd6dHo4S29LLUhLY3pFZ09Ld2FtaWhIMk9V?oc=5"
-    },
     {
       "title": "Cerebras Systems vs. Nebius: Which Artificial Intelligence Stock Is a Better Buy Going into 2027?",
       "source": "The Globe and Mail",
@@ -15,10 +9,16 @@
       "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNbFNyczlWcWdaU2dtV1NldTg2VWlYS29xam9GSFpxdzJVRmxZMWR1dkJKLXlDSnJzNC1wMFZRX2lXeUxwMnpvZXpMTHZOMkNXbkszTGxjX1JLaks3Mi1nWkUzekEteXNIVUY5akZhMDJmdjhublB3RklGbEtWa2lPRWJPV3I0SXNjVVQwa083cG96WTQ1QkxkWjZHM2t3ZnhiMjRoWkRjYVh2dmtmVVZTcHVZODdCN3phSUpDLThHT3BfMDJlSm1CUDliZ3hqdEs1VUwwYld3ckxXeVlnczlfRGx5NG5lckNBdXVFQ1MzSXlEN2pPTTdndVotVlJOc0QzT1BCdEl1UHdDUzloVlE?oc=5"
     },
     {
-      "title": "Artificial intelligence and law: uses and risks",
+      "title": "Artificial intelligence and law: how AI is transforming legal practice",
       "source": "Esade",
       "date": "Fri, 06 Nov 2026 19:07:48 GMT",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4zQ0hYSzQ1V0VESUFhOXAtN3hsa1dDY2JETDVYcUxjbXdPZjBNWmNXT1dlbWFIXzhrYVRhamt0Q2NZeHlWM1NHX0N3VkY0OU11dEF3VDVJV2xEek80UWxqejd0NWZjRWZXakQwdQ?oc=5"
+    },
+    {
+      "title": "The age of AI warfare has dawned. Is Canada ready?",
+      "source": "CBC",
+      "date": "Sat, 07 Nov 2026 09:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAxcG04Wm9lZlJZM1J2TUtNQXV6ajdJT0NmZjhzZ0llT1JmMlktSTdHNTVweWhXREdCV0IwYWk5ckF1aTRFRDU3VjVXbEExNVcxXzQzRlRtalVuSWdTMlFJZnBkR3JzWXZnYkF6WXpB?oc=5"
     },
     {
       "title": "Latin America Makes Progress in Data Governance for Ethical and Inclusive Artificial Intelligence",
@@ -33,16 +33,22 @@
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcWIxTVI0QjREbEdHZGUyY21Ddldpc0FDZGF0N2d0eVlXOTRzRy03eFpNSi1yLW5WZUZRSElFUnIxQ3BUU1E0a0FYYWJZbjNhZ0c2QmJWalZNYVJfZ2p6ZG5zZ09oLTFpamttWFpNYlZ0Vm91ZWp3T0gyVGJMTlBlQ1BkVGJTZ3lMdzdGYlRqRQ?oc=5"
     },
     {
-      "title": "Parental Trust in Artificial Intelligence and Pediatricians: A Cross-Sectional Study of Diagnostic Preferences and Healthcare-Seeking Behaviors in Saudi Arabia",
-      "source": "Cureus",
-      "date": "Sat, 07 Nov 2026 01:25:12 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOZ0dHZTZfbjcwVXNNMVVRLWY5dEFHWE1Ed1B6a1E5SzdsWDdiSFBUbXZoTnRVVVZSNGRlWEJQTVhHVUgtSC1kZzJ6Z2RtRms5YVpiVVhFaVhCREp6S2hxQk1EZUdzaHZ4MXUwUUJ2NDZCaVpjSDlpTU9WYjY5MVQ1NFM5ZmktQWYyZ3JLaGFYUlBoZC1jSmlPM0pnemRFaks0dnFDRFBLQzk3czI2OHhoRlpESklmZHlnVGQ5WDRsMVYyemZ1V2JWSEIydW5XQjNIbmw5cWpkaHFkUmdFR1QyLTlxaWNCeFJEblFMWnB5Z2FZQThrQ1ItdHZsdXBQTVlXR3dEQjl1ZGh1STdSX1FjQWl5SG0yTk12bHNQdlY4eTk4MkU?oc=5"
+      "title": "Canada Must Put AI at the Core of Electronic Defence",
+      "source": "National Newswatch",
+      "date": "Sat, 07 Nov 2026 09:55:26 GMT",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQN2NoUFUzSzBpc1VBbnZ0UXh3N0NjTEtoM1pqWUpzekhEeTFiQUF0NmxDbGItajZHSFR4WFFGd2U3dmtnWTVMQ3BkLXBMZ256VTBOZlZfcFoySDdYNlM5VTk0VzIwcUx0UkVqbDFrSXprQ2RBa3phcTdYX0hMUmpkVmJtSGpFWGlYeGVWdFp4b29FVEI0SGg2dA?oc=5"
     },
     {
-      "title": "Arm Holdings Sales Climb 27% on AI Demand",
-      "source": "WSJ",
-      "date": "Sat, 07 Nov 2026 00:54:34 GMT",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRXpoNFE4WG9aNjkwazZlZEM1VWtKWlU2d21jZFRjWm12a0ZjckU0SDAxWWYwSzJhLWY1SmtQaTRSdVFoV1FvOE5KNHJMOXo5bG15amtKdGdMdmpZUFJScF9RNHNyMGFDcFhPT3ZpVDFhSVFTc0xXbnJ2blUwT3VnMHFmYUJtcWxYX0liQUhkUlc?oc=5"
+      "title": "European stocks fall amid growing concerns over artificial intelligence",
+      "source": "سانا",
+      "date": "Sat, 07 Nov 2026 07:50:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFAwLUxLR3liWmlxSEpsLVlxb0NNVnJIbURoY2ZqN2FoanhqRnBXSmljSVVzX2pTbVFUM0lrajRSNVFqRzhrWU5iNVFLc3g?oc=5"
+    },
+    {
+      "title": "If I Could Buy and Hold Only 1 Artificial Intelligence (AI) Stock Through a Democratic Congress, It Would Be This One",
+      "source": "Yahoo Finance",
+      "date": "Fri, 06 Nov 2026 23:11:44 GMT",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNclB3MlZiSWZrSGZaZ3hQRmlRUm5LLTVwN3Y0V3lheVV0NmhlLW9sbXdXbnFPTFF6VXFTTjJNMkQ0VFFTNXRtZ3RiTUpSZElycEgwZEFDaTJjTXBpVVlFcGdMa1c1LTZ4RDV3UUZBZnprSXZaeU1pUE9icFlWSS1LTXY3S3UyaXNOYk82RDFB?oc=5"
     },
     {
       "title": "Taxonomy of agentic primitives in Amazon Quick | Amazon Web Services",
@@ -51,16 +57,10 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaThEYUFaYlMxWkpoSHlCTng5Z1JDQlRvdF9KblpWQ1VpSnVBV3YzckFnaDdORWNrX0c3VXI1eWM4NHBDME01M0NCcHJDU1RCZXhkeHpLVk1DWDlDMVR3RThvNXdVMW1KMy1NNGoyYXhZWW4zOURtZVRVOHFfcHg4VVBfRUVMcWs3WjF2SmJSdkVpWDlNX2hXMg?oc=5"
     },
     {
-      "title": "If I Could Buy and Hold Only 1 Artificial Intelligence (AI) Stock Through a Democratic Congress, It Would Be This One",
-      "source": "The Motley Fool",
-      "date": "Fri, 06 Nov 2026 22:51:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZ0RPcGlEU3JNSjVhWU1ERXotZldTbVVKd2JFeFMxZDBuZ1NhbERvS2dVaU9PTU9ROXA0ZDFySWViMnZvNGRieGRaamprdXNYUXgyNWFGVFVaNEVRbnd2WUh4YkthVFBySVE1VG5ZeHhOQjlzUnJNNkM3VlBqWWliVXRiTFpkNU9fSnZOYjluQ1BLZVQ0OW95Sg?oc=5"
-    },
-    {
-      "title": "Column: Artificial intelligence becomes artificial connection, too",
-      "source": "The Daily Tar Heel",
-      "date": "Sat, 07 Nov 2026 01:02:10 GMT",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQnJxQlRoYl9pdlBxX1hVSWdhUWhVT3hpTkJIeXFveWxQb3I1V3NvM0lQTlMteGdkQXAwc1JHNW1WQ0ZFMGtXQWg1aTJ5Z0N6bXV0RmYycFhjbW1Rc1ptN3FFZG04QmJGMWh3YWlveDEtRDUyUXgtVEx2YWQtdUlIOWZKOA?oc=5"
+      "title": "AI stocks bounce back after trillions wiped from market values",
+      "source": "BBC",
+      "date": "Fri, 06 Nov 2026 21:06:25 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5kNlQ2MXB3TldBa2dOdXBzUXpYUlNBenNaZTlFX3E1ZUE1V040UnpKQlVZSjNpWm1TVEx2NnRfWUowVmsydV85TEJHbjJKSVVUNTF1d1Y0YU5RYjQ?oc=5"
     }
   ],
   "events": [

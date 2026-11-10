@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-11-10T09:49:57.705958Z",
+  "updatedAt": "2026-11-10T17:50:00.122928Z",
   "locationLabel": "Victoria, BC",
   "headlines": [
+    {
+      "title": "AMD vs. Intel: Which Is the Better Artificial Intelligence (AI) Chip Stock to Buy Right Now?",
+      "source": "The Globe and Mail",
+      "date": "Tue, 10 Nov 2026 14:35:30 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQSThwMTIyUWZjTjljN0VzUE1rU2RNcGtlR19QaFh4LV9iQ1pVLWc1dEFvVnlXUkVJOE9MMk1wdkZWRkdRa083LXJnTVRaOEdUOU9heHVqSy1PZERnOEVscnZ2TEIyQUpoTDl1eDZOSTZuU19oOG4xSFVlcHM5UnpFV0JZQVNkQkJCeHhxbXZRS0FIYzhxT2VtZE1wS1o4bnMxYVdTM1I5d2hxd09FWlNlbEVWOXlEdDJKS3I1dHpqeW4xOGRvVy1lWnpDSkdIbHlnUEQtbm1hRUp4em4zeFZlOHkxcW91MXQ3R0plS3ZhODF1YlVsWWdvUkhYWjFackl0QUE?oc=5"
+    },
+    {
+      "title": "Global X Artificial Intelligence & Technology ETF (AIQ) Stock Price, News, Quote & History",
+      "source": "Yahoo! Finance Canada",
+      "date": "Tue, 10 Nov 2026 05:29:05 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9pLUE4Wmd4NVViOGlZc2N1YkNPZnZCdzc0VlpxUUdXVVRVbGo1V1FpSUx5X3JiWEd6dHo4S29LLUhLY3pFZ09Ld2FtaWhIMk9V?oc=5"
+    },
     {
       "title": "Best AI Stocks to Buy in 2026: 10 Top Picks & How to Invest",
       "source": "The Motley Fool",
@@ -9,58 +21,46 @@
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcTN4SWRQbVZpY1lwSnJjN3YxWmY5LU5Qck5ia2psWWRwcWplZ0RGTFo3ZmJrZDZ1S1RQZFF2NUcwOTh0NXA3NlM0a25ieHhPWHprdTBmbWxzY2FtdHRIMlpSY1pzcTU5ZkhfN0wtcF9UeDg4WnZVYTZPSkRtcDNZaUJ1djdPQ1RVRkVQeVFUTnJrMFJ5VXdj?oc=5"
     },
     {
-      "title": "Global X Artificial Intelligence & Technology ETF (AIQ) Stock Price, News, Quote & History",
-      "source": "Yahoo! Finance Canada",
-      "date": "Mon, 09 Nov 2026 21:22:25 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9pLUE4Wmd4NVViOGlZc2N1YkNPZnZCdzc0VlpxUUdXVVRVbGo1V1FpSUx5X3JiWEd6dHo4S29LLUhLY3pFZ09Ld2FtaWhIMk9V?oc=5"
+      "title": "Artificial intelligence is desperately seeking its narrative",
+      "source": "The Conversation",
+      "date": "Tue, 10 Nov 2026 13:12:58 GMT",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOWk0NGkyaTZjT29pR0VlM25mNGtrQmZqSnFxUS16cGgyU3dFcXNpQ0I5OGtrVzY4UmpsMHprcjJIQ0E5U1YwTTJtS3ZLTzNPMHhPMFd2TklGSHFMOUhsc2kwZkN6V21hY3ItVC1YM1hVSDd3UDhheXF1QjR6bUJUbVBEbjdCa0E1bnIyc3VuNXhiX3o5enBGYTlaSQ?oc=5"
     },
     {
-      "title": "Australia to introduce mandatory reporting after OpenAI hack to combat artificial intelligence ‘going rogue’",
-      "source": "The Guardian",
-      "date": "Tue, 10 Nov 2026 02:31:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdnBiX0Z2cUluNEtMVUJhSG83U09OQUo0ZzVxSUQtTXpxa2FMOWNvN1JZNVdMT1FUbW9tenFYOGNIWmxuLWZpOFc1bkFSN1d6Nk9kaklCczUwYjZXNkktT3NkX2hDOTRzT1prb0pmWWlObm9nbGJVa0NmWlZ4dU5NRS1XNXNHMkFLbDFreGxmd05EY3BZczR5NS1aYkdtSTAyQXl2eA?oc=5"
+      "title": "AI100 Report: AI has entered the mainstream and is reshaping society - Max-Planck-Gesellschaft",
+      "source": "Max-Planck-Gesellschaft",
+      "date": "Tue, 10 Nov 2026 14:00:10 GMT",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWTJ5RzgyVmJoQnhYODBkaTdBcTdtV1Z6UnRVOE9YdC1KeVhOemZERXRyTDl6cnVOV05ValR0N3hCdXBURk5lbGlTVUdtMEZTb1pKaVB3aHN4Y3UwNUR3OGl4eHlUS29uNXl3OUh4Wmd6bUYzR3c0ZGJJTEFGWjR5SWRQdVdGbVNLbEJtaEItdE0xSkJpdktISlZqMVEtdDJ3SU4tYg?oc=5"
     },
     {
-      "title": "Cisco unveils security tools for enterprise artificial intelligence - Vietnam Investment Review",
-      "source": "Vietnam Investment Review - VIR",
-      "date": "Tue, 10 Nov 2026 08:06:23 GMT",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeGJSeXV3ZHVnaGcwNDlBaldwODVEN2JuOGV3WGFCVkdJTElPdmFCYkNPLVY2aDlDenltbl9md3NsRy1ISzRicmdEZnlTOGRVek1reHpwNVo2NWtia0FBNmNuV1I2Wkh5MlBvaHNmUTBzb3FuMllMXzZ5cFo3NzhlLTN2WmdleHdTWHUzc1dTRGUyRXotNHM0ckpzNW9Oem8?oc=5"
+      "title": "Form 8K ARTIFICIAL INTELLIGENCE TECHNOLOGY SOLUTIONS INC. For: 10 November",
+      "source": "Investing.com Canada",
+      "date": "Tue, 10 Nov 2026 13:35:13 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQbEsxUms3OU9GRUFzR3dodWZNaEZqMWVXMzhjakhYbElRb1JNQ1NFT0pTenZmY1NVcE51bVdLTjN2LU1odjZwUEQ5VERNTU1TOW9aaWdiQTU2N0tWLVpLcjAyek1TOEhRTnpRZVhJdVBxZDd4a0V5RHUyQnh5TzIwcmIzQThWMzZFSmloQmhNWEVvNWphVWRzWjdWS0ozZmdXaTNkY3VwcnVZeTN0eGVLdVBOY01ZMHB2UWljQXAtWGVLLUYzR1A4bTd3NVhnZ2V2dktkNEh3WmRkTlhoaEU5RG1PdkZZM2NfamhrSHgzNW9lMTYxWlFnVERaMHRJUHBoRnF6anZZOUpyc0E?oc=5"
     },
     {
-      "title": "Open Text Corporation (TSX:OTEX) Reports First Quarter Fiscal 2027 Results as Cloud Grows and Agentic AI Strategy Advances",
-      "source": "kalkine.ca",
-      "date": "Tue, 10 Nov 2026 08:35:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPZFdGdEZFRnViXzlsT0tBREVSem1mR1BNdTREcnEybk9MZllGY0NzdEFoOXZyY2FtakVlN0dVTy0tR0hPSkFYTTMtRVM1ZUV4Q3h5QlpJMXlfZHA4YU5ZaXJ0d0U2UGhnd0tMMmVWZjg4eXJ1cW5rYVZvM1NvNks5cWdsT3NNNXp0UDlrZ1FtWk04S0NYbFlCcEt1QnhIVFB4c1NPU3VLSTlVdDVXcl93WW1qVDdOM2gzbDd2aExVVVRFOGh6V3FGVENVUHd1VXNnQWEwaDVVaVlWMVVBYk9STFhhb1dFbjFuOHgtUGJ0bzFzMWRTQ1JoZElodw?oc=5"
+      "title": "As Ottawa Gambles on AI, Canadians Live with the Mistakes",
+      "source": "The Walrus",
+      "date": "Tue, 10 Nov 2026 11:30:43 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE43NjE0enFRS1Zud3kxZXJfWlNEaUZWUnVqb0pFdkREVUJJOU1Sdk1Iencxd0lkWXRFNllpUTN0SHphd0VhdGJianpVUUp0ZGJLdS1NOEt6RXhpYmFicy1lT3Zn?oc=5"
     },
     {
-      "title": "Generating the New World: A Critical Perspective on EJIL’s Policy on Gen AI Use",
-      "source": "EJIL: Talk!",
-      "date": "Tue, 10 Nov 2026 08:05:42 GMT",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUjYzQUpoOVRuVHNkR0VMbkdraWtGRUliWFEyZm5BOThpUEw5N3ZqUmUwOHhrQnJJUDRUN1ZYdnlXSWRPTVhkOENQWXlnTXZiSHdmUDU1cS01TGUtU1dzdWNOSnFzallDQ0RzSDZoakZQelpTOWVZWTJ2S0M1dTFTRzBjSWpKNFhGLU5qOXlwQ0tCcVJVd21vSjVfVmwtVkhVS2F0QWxB?oc=5"
+      "title": "Your answers: How do you use AI to help you learn, without depending on it? | story | Kids News",
+      "source": "CBC",
+      "date": "Tue, 10 Nov 2026 16:39:58 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQajN1ejdnVGlxcUJqbEl2Y1hlbncyVTN3SV9BTUxtckY0a0FHNDhISlBlaE8yYXBXekVISHR4dTQzRktkanR5c0dSUFdVYTVic1ByLXNuVDdrNVVOOGtIWDkySmxFV0lUY29GTjdLVnpoZEJXemlvRmJ2NFZfZTh6SXd1bnM4azlPSGhid2VTYUEwTFlUeUJEVDVuRDdmVS1KX01MY19HWE4?oc=5"
     },
     {
-      "title": "Artificial Intelligence in Journalism: The Daily’s Stance -",
-      "source": "- The McGill Daily",
-      "date": "Mon, 09 Nov 2026 13:05:01 GMT",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQTBIdHp2R1JvUXRnTDd5LUpvbFVrLU1KS3BubWo3azExVWVWZlZWRlNjSS1FNUdlcjRRcUVDNDVRMHlpNDVSZzFUMkRUTUp4S0tyNm1pNzFLa3p1YVdheFZmNXphajlFdl9nd05iQ05PTlBQbWtYcC1tajV4a3Y5Rmt2QmlxelY1aF9Gb0pOVTF4WVNBaThN?oc=5"
+      "title": "NVIDIA Corporation | History, GPUs, & Artificial Intelligence",
+      "source": "Britannica",
+      "date": "Tue, 10 Nov 2026 09:42:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1FMGstclM1R3lESkhtUUVPTDBHZktQWWMzcTFXa3VIR2FOcTJLcy1wQnlLMHo5MDRXeS10UTJudHRxNmpFX2hyWUZzX1ZTaVpBTng3VXBGT3ZGa0FrTXhHMg?oc=5"
     },
     {
-      "title": "A Blue Tsunami in State and Local Government Elections May Have Just Driven a Dagger Through the Artificial Intelligence (AI) Data Center Trade",
-      "source": "The Globe and Mail",
-      "date": "Mon, 09 Nov 2026 22:59:32 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQeTJqWUg4cVhfNkFOTXhLYXhqTl9DQW1mNTRFajRtVVVnNnNvNFpyRS1ZZjY3Z296YV8wZmQ4TDdMYVQ2Qk13QzZOb1pSQUhlSGNCcFlrSmJQMnZSWThhY2czeC1pb1dMMWhsdzhlaE5MLS1QQ1ViUXM0emdGQWM4dHBkLTlQVWpZaEszUGl2X1JGUEhwb2RfMDNoQ0wxQndwUjdjZzN4LXlSV1hXVmw0LXhoS2d2MDk3eTA5clhPWE9qbmNUMm5OMkYyMHhQVjFETTB3Zm5wMDQta2twSVBTRUJoQlprWnlJRGVZRVp4cFgtM2w3UUNBYnhMamNxNDBnbWJSWm1VdWV6SnRyNnE1bmY4enVKbmJNR1N6OGhWSWZNTmZDRmRjandka0w3c0dhRTlXYzRpZS1WQkFlQnFaWERQX1R1ZWxNNkE?oc=5"
-    },
-    {
-      "title": "Augmented vs. Artificial Intelligence in Medicine",
-      "source": "CASRAI",
-      "date": "Mon, 09 Nov 2026 23:47:20 GMT",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcGpDclhScm4xVkdpdXQ3ZHo1RW80bGk4MDFsOWpnbHJncDZYX2JmUS1hRG9FMzFkSWhrSzduZGg3QTdtZFoyZXRuVkM2ZDh6Rmt1STMwdGxFdU9OVWlEdTA4TDhTc1V1bURCYmF3SGFHMGYxbDlmcXY2U1FQdmczNA?oc=5"
-    },
-    {
-      "title": "SK Telecom brings artificial intelligence to everyday life through ‘AI for Everyone’ campaign",
-      "source": "marketech apac",
-      "date": "Tue, 10 Nov 2026 08:19:06 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMWNmc3FGcHRNc1l2RjZKMGExWHEwdmNRR3J1QVVZdVRPck0wV0dISnZxSjdUYzdIRDFtOFBneDY3cEhIakJUbnFZRXRtTHBDLVZncnlZdkpDTEtmY0JUZ25DZkd3RFZPVG9EdVYwdTdwWjZjbVBLM3lZdnRaNnNHeFNkZ3hmWnZXd2c3QklweWJyblh0X2NUaWxLOXZvVzdDd2VMblY0R3hIa0ZXT3Bzb0I4SVlRMGhKbTBF?oc=5"
+      "title": "AI Answers. You Decide: UNESCO launches a new Media and Information Literacy curriculum",
+      "source": "UNESCO",
+      "date": "Tue, 10 Nov 2026 11:18:50 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZWpUYjQxeWRkTzhWUkhJa2tXUlRRRGd5aUxNYUZtRkdYbFkzMFpBODVJT0RJdUZETF9OWWNScXFMQld0b1EwRUE3WENMeXlRd1FTcEJpNXYxMHFQV2NfS19CeHdhOVI4SVRJN01udm9RWmFjX0MtUU9vVTJ4MTVwT0RiaE9LMDd3YTB2V3BhYXcwc1F3WGJfZ0pGZWwwaVF4WkZLczZJVzhhLXNCLTg3OVhhaDkxLW14bEE?oc=5"
     }
   ],
   "events": [

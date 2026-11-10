@@ -1,24 +1,42 @@
 {
-  "updatedAt": "2026-11-09T17:28:56.337655Z",
+  "updatedAt": "2026-11-10T01:31:07.032275Z",
   "locationLabel": "Victoria, BC",
   "headlines": [
     {
       "title": "Nvidia Opens Investigation Into Jensen Huang’s Relationship With Suspected Chinese Spy",
       "source": "The New York Times",
-      "date": "Mon, 09 Nov 2026 13:31:00 GMT",
+      "date": "Mon, 09 Nov 2026 18:37:00 GMT",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaHdZZkpucG9aOVF5R2JPeHljWV85XzlhbUxnbUREYWlKQzBiR1UzeWxwaF9EMnpDajI1aXlmMlo0aENzeGdyRzJDSEtJR0xVanhFSkN3bXE0R1FYV2VWZHdIV1A1MmFlczN4VnRZcVZ5QV9xdUlxZXVlZVl3eHRqVWxsVmE1dktHZzdnelB0ZjUwejJj?oc=5"
+    },
+    {
+      "title": "Trump downplays FBI probe into Nvidia chief's affair with alleged spy",
+      "source": "CBC",
+      "date": "Tue, 10 Nov 2026 00:10:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5qVmE4YTNKcTBHRVNWVVpOb0ZJTzVzMzdTXzRRSEdkSW01dFdHQjRSM1NMYWJuYzkyb3JsWUFQZkZoVFdrbWFON1kyTERtVWx6VGtic29wNURwSk1EemhVZ1BsRkF6bDRUTHBVU2xmM2JlWkIyZ3FZUEN1TmZUZw?oc=5"
     },
     {
       "title": "Artificial Intelligence in Journalism: The Daily’s Stance -",
       "source": "- The McGill Daily",
-      "date": "Mon, 09 Nov 2026 13:04:04 GMT",
+      "date": "Mon, 09 Nov 2026 13:05:01 GMT",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQTBIdHp2R1JvUXRnTDd5LUpvbFVrLU1KS3BubWo3azExVWVWZlZWRlNjSS1FNUdlcjRRcUVDNDVRMHlpNDVSZzFUMkRUTUp4S0tyNm1pNzFLa3p1YVdheFZmNXphajlFdl9nd05iQ05PTlBQbWtYcC1tajV4a3Y5Rmt2QmlxelY1aF9Gb0pOVTF4WVNBaThN?oc=5"
     },
     {
-      "title": "Not AMD. Not Intel. This Is the Artificial Intelligence (AI) Chip Stock Nvidia Should Fear Most.",
+      "title": "A Blue Tsunami in State and Local Government Elections May Have Just Driven a Dagger Through the Artificial Intelligence (AI) Data Center Trade",
       "source": "The Globe and Mail",
-      "date": "Mon, 09 Nov 2026 13:21:40 GMT",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNWWxfWkxDWmZOYlVSUXhyM1o5WFZ5alZqQ2xBaGQ3ZUNTUHBpRjQ0UFYwenRQNDFYMUVoRWM5NzRrWThCbHE2SVhLckRKODVEOTJjMDZkOFduVWFUMzZxZHVqOU5BUjRrWGNCblhHS0NBb2pMVWtORl9qcHdYbWV6N0tPOWo2ZW1sWVo2bVN3anZzNkM4aDdtS1k3QWNzY1pmTDFXeXlUejJaanVfaDEtQ1EtVHZva2g1by1MbG53dnZuOWlTSzFkLW5zSEN5U1p1N0ViYk1kbE5rVHBnNnBjLU9NSVFEX2lOaHFfQjJXNXZ5ZHpFa1p0ajl6dllNdU1zTkhRWGVuMA?oc=5"
+      "date": "Mon, 09 Nov 2026 23:07:45 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNamctMklaTjFRZG1mbDVWaVpoWFExc2ZSb3NoZHhIUGN5OWZSWTR5bDIweG96WXZwT0lLOEhmVzI5cnZJUkxzN2g3aXNham1HdnFVandBTVpjaUd1RFlPeFFSSldKbVdTWGpqd3NuaURHc3JJRDVMS0JLcGZqZWFfdVpLZzFaXy1zZlBkcUJvMEttTElZM3NCckFQeEJoMm5jLVdWOFJDdUI1TzJ3REdhdHh1ZVp3dlY4cmFJanlfRlNfM1hwWXljU095N3dVcm8tTzNsYlZEUmdnYlIwMUNPY1hjWGQ0LVFpeGFyYmJLems2bjA2SENEYmIwQnBUX3FPcUNNN1d4OW9yY2VoNWdBNUJFdzhMbXpXS255azZaVmNJdGc2c0l4MnUyTGtNRUdtdDJTZEtIS0dFUFBnSGhQY3ln?oc=5"
+    },
+    {
+      "title": "Opinion | Does Claude have a soul? Ask God, not Anthropic.",
+      "source": "The Washington Post",
+      "date": "Mon, 09 Nov 2026 20:30:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZ0hhX1U4aHV4OTRSb3JZRDZPQ1NEYWtzVDRVYU5jX2tUMVNpU2NZakVrN0hjRTV1Qy1vb2k1cElOOUxXZi1GeEdXX1B2WlhRMEZXUHMwWXlfNWs1TlpaR1FhLWliZEZpN3JIaHd4bWFmcmRTdGFFRTQyZWJsTjQ2TVE3bGNyMTY4dnFHVlk5Y0pIOGFLUExRVnFZTE52bkJncHJ1YUFTZG9RQk1RXzJBZDJn?oc=5"
+    },
+    {
+      "title": "AI adoption matures, but still uneven in OECD firms",
+      "source": "Human Resources Director",
+      "date": "Tue, 10 Nov 2026 01:07:30 GMT",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNk44ZWtvRmFQd3pmMVY3MFMzdEFPbUlLWWJYXzkzWlJLWFd4VVB1RDBGNlNSTHlYUDF1dHlSXzdNMnBKdDNVSEEzdXFFa1h1T0RRYm5xNGRramdoNGZ2RE1hS3lIY2U5bzFnWXRCM1hQRUdlQlpScEQ5emprQlpTc0JteS1DdEpfajZBSkI2OHpYemdQb0dVaEZqSE4?oc=5"
     },
     {
       "title": "Why Dalhousie launched six new computer science majors",
@@ -27,40 +45,22 @@
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1MdkJnVV94SDF1ZV9tZkZNT2tHNW5tdUROcm02QWlJdHpaZkF6dTZuRjdpQy1Vck5qTVltMkVLWDZNSWJfQjhYbDRqV3FiS0pNQjVvRUUycFp1M0JZNVlHbjhmc25uSUpYSmgyRkhlUTY4QzhVeHl5X1EwUVJ5QQ?oc=5"
     },
     {
-      "title": "Opinion | An AI company wants its chatbot to have a conscience. God help us.",
-      "source": "The Washington Post",
-      "date": "Mon, 09 Nov 2026 17:02:16 GMT",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZ0hhX1U4aHV4OTRSb3JZRDZPQ1NEYWtzVDRVYU5jX2tUMVNpU2NZakVrN0hjRTV1Qy1vb2k1cElOOUxXZi1GeEdXX1B2WlhRMEZXUHMwWXlfNWs1TlpaR1FhLWliZEZpN3JIaHd4bWFmcmRTdGFFRTQyZWJsTjQ2TVE3bGNyMTY4dnFHVlk5Y0pIOGFLUExRVnFZTE52bkJncHJ1YUFTZG9RQk1RXzJBZDJn?oc=5"
+      "title": "FDA Artificial Intelligence & AI/ML Device Rules",
+      "source": "CASRAI",
+      "date": "Mon, 09 Nov 2026 23:46:52 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5Tam1YcTFGYi1hM0xVY2FFZ0tjSVJnRjNLb1Y0M0lxblhJTWdXOG1obDc1QVlza2JsTkVXMVdBcG5VaVdESGppWE1PdFhLOFJ4cV92U2FnaTltbjU1akRTVVVvaw?oc=5"
     },
     {
-      "title": "B.C. businesses push back against 'AI slop' with pen-and-paper ads",
-      "source": "CBC",
-      "date": "Mon, 09 Nov 2026 12:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVmVZZk1kSVdTZ3FXVDZHWTRHWlFUby1ZVzk1ZFBVRjU4ZEVSUWZQakpUd29laU5kRmxGTlZ4SGVvMWpDV01pWk1SbEhzU2RHd3FEVzktV25NMzZWMTRBMHFyTGZVTUFjNWhsalEyeUd5bVd6OUx5NEthVndSYWllTE1OaklZb2lkckc5TkZSd24wamQ1TXNJX2dzdGU4RDJSeTE4enBEaWUxeHZX?oc=5"
-    },
-    {
-      "title": "The use of artificial intelligence in regulatory activities – key areas and considerations",
-      "source": "IFPMA",
-      "date": "Mon, 09 Nov 2026 12:53:11 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQa2VEX0g3LXREM0JndWd1YnJ4dEk4WTNNMWRwUEtHd3pldnBuLUFTazg3c0hTN1gzOWVJbkNrLUVUYURuX2l0Q1N6Q2VlX3hraFVTX0g4R1BOYjZKOVllRk92aG5XUHU0MkVndUpvZGhXUFJKU3BLc3NnaTBTRjhacEpkZUYxak5ic1NrTE5OZnZZWXVlZTJCcHg0RWkyU1Q1dE9uRW42cmNmbmVzaWtOSVR4SFhsdWR6WmFJczJHSFctUQ?oc=5"
-    },
-    {
-      "title": "Europe should lead on a global AI incident reporting compact",
-      "source": "Bruegel",
-      "date": "Mon, 09 Nov 2026 16:14:34 GMT",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOW56MktXN3cxNXRZckg5ZnRESzljX01RYXctWkwyRWhYRU1DeEJRSlp3WXktX3BXa29EcXRwVWdKYnkwdDRKVkp1YWRTLTloUlRBVlgwT18xR2JtQ1NLRzJ2TW40dnBmZmhWM0Fac09ya0tETUpyamhtaWVxcDZUZHZYcjZjU0V1dnhTYS04dFBoelZmTkhN?oc=5"
+      "title": "How skills and agents work in AWS Quick | Amazon Web Services",
+      "source": "Amazon Web Services (AWS)",
+      "date": "Tue, 10 Nov 2026 00:21:34 GMT",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSmNBWlNhMmZvNENvSkcteE5DTXBoaGxxNElCZUNOZnpWRG9US2RsREYzeTlRWThtY2N6MmRZcTk1Mm9hNmlUVTlPMFBoekN3a3Y2SGdzS29kZUlCc04tUU0zYklETmJEZE50Ti1RaEFydUcyT01xcHNiNW5kTUd5SEN6eGhWbTFQbVlJdjdoZw?oc=5"
     },
     {
       "title": "Can AI help us talk to animals?",
       "source": "Euronews.com",
       "date": "Mon, 09 Nov 2026 14:58:57 GMT",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUDJIb0NYSDlxVkVXTzVEOHVOVFJnXzNKLVdTYTR1ZVlTbnFmY3Z1c0RILUJmZUVzZVNXOE13bDZ4MmlLUHdSeGNTMTBLUmhLT3dDSXR3blQzcmU2WVdtWWhRU19pSFB5RzVUVDk4QzFMZHZqWjlROUR3RUZER2RCV2stSXZsMWZuUjJLbEJNNzQzZmFia3JiblZnaVdFaVd3?oc=5"
-    },
-    {
-      "title": "Internal probe into CEO Jensen Huang and 'foreign intelligence' weighs on high-flying Nvidia shares",
-      "source": "BNN Bloomberg",
-      "date": "Mon, 09 Nov 2026 15:09:08 GMT",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQOW05amJtbnNabHBybGF1OG9tUkszMV9BdzlIRDZ5UENNcnNjYVl5ZVNoM2piQW5DUkxvSDlQXzFMaUhDb3JIcm1LRTdzZGoydHpQSjVFRk5iSFlYaGd4MGgwM0J3cEY0M21hMXFPaVUzVk5Jc2ZTSy1EVzI3b09wRlNHYkNiRkp2b2ZyNm92ZTc4Zm5jeVVZV1JubnFOZGFaOHdrMVliazMydWdUTmIxTlA3YXQ5ek9Kb0hVbmZCd3NoekVCZW9wSXQtT040SFFkWDJDSzRObllianMwRmVmZWVKZHRNanBXckIwbmRVbGM?oc=5"
     }
   ],
   "events": [

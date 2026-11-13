@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T00:23:27.288200Z",
+  "updatedAt": "2026-11-13T07:57:41.531738Z",
   "locationLabel": "Victoria, BC",
   "headlines": [
     {
@@ -9,22 +9,34 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxON0kxQVFZeE85MFR5eVJyNlR6VVlZelNWNEcwWE1BRWJFZml3Z2xic01CVDV4TnAtbG0ydzRfT0I5WGttT3plR3VGTTluY05Od040RzhNZEthaXZZb3FSQ21lS3pXbFR4RTJ0QWQ4R1ZHM21Yd3NzbVVvN2V4bEJrSkRicUVLVHE3MlZTbDdSdHptN3ppRVZfMg?oc=5"
     },
     {
+      "title": "Warnings About Artificial Intelligence: Distinguishing Fact from Speculation",
+      "source": "www.lvivherald.com",
+      "date": "Fri, 13 Nov 2026 00:32:58 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNVBVUDEzbW9QaGtBdXF0aXlqb2Z3NEZBR2oxSHhlVEdmVlVsSVl4RF9VS1QwX294aGxOZkNYNE5fZk12TWpyWmRPQW9sanE0VzRYLXBmdjA2SFhOVWZnNXFNLXl1UWlCZnM3RGk4TktNWGVhSmlidkJPZ0N0M19TZ3Q3bmZvcFVDbGVwcUFTS21zS0RDUVNPUm9uR2NTLW12YkJoZEYzMTRPVnM?oc=5"
+    },
+    {
+      "title": "Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him",
+      "source": "The New York Times",
+      "date": "Wed, 11 Nov 2026 21:55:36 GMT",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPV0NCNjVPR0M2THpMdkhiTW5jZUlmVXJzNHk4YjZYeWtGZHc3Vk81V3czUXBBVjktcXlSLWs3MFdyWkRtcmRpV1BmY1hKckhyU3RYWEdsTWlGcnhFVFVNakRLLWZvREpURHJnRVVSdmZEcHJWU2p5YWJZX1pEWGRWRDB1aw?oc=5"
+    },
+    {
+      "title": "EU leaders seek to tackle challenges at first ever AI summit",
+      "source": "Reuters",
+      "date": "Fri, 13 Nov 2026 06:06:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMy10dU5kazRqbk9PSWxUbGRiUm53LU9sLXBHVnBNUW0xbElWLVVoUG9udExuMGlYZ2xldnlOQUJpMzNpNjEzN0N2TllYaUJkQzFDZG5QSXRKZWQwZlF5cUVTWlI3NVZUWkpra0diZGNtT2F3WnRFZ3ZKd3VvQ250c2tOM2VHOFlFMlRYTm5jbGZ4R0ZWaDNQc1ljR2R4SVU4Umo0NQ?oc=5"
+    },
+    {
       "title": "Nvidia vs. AMD: Which Is the Better Artificial Intelligence (AI) Stock for 2027 After the Tech Sell-Off?",
       "source": "The Globe and Mail",
       "date": "Thu, 12 Nov 2026 14:29:14 GMT",
       "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOcVpaSS10T0NYYVNmV1dGUUtSOTNKc2VydkVhMmtRcXBCQXlfUDg2QnpPR0ZwR1A2eE9yeG5RX21yMFV0bEhUYW9vcUxFM01fcG9jRFQ1QW1ITHpqVmpBTVJVOTItTDRwaHptYzl4c01FeDNCV0lJT2hlYW1PWUNnamN2MWZKdmduNFd2S1ZwZVQ0NHpzYVd0NWU1SnllYTBZWWk4UFpEUlotUExqUEhQVzYyY0Z4a1ZQaG9ISTZzSHhPVHZpX1BLWXE5LVd3VnFmNk1NTWIxYjNKX1NTM1lXemFlOU9aWTEzSk4zVHR0Y1RCTzlXNlZEdjVaNzVzbmZiWjBRLUpvVnB2NG8tc0UxWA?oc=5"
     },
     {
-      "title": "N.S. municipal politicians weigh in on whether AI can speed up housing approvals",
-      "source": "Global News",
-      "date": "Thu, 12 Nov 2026 22:26:08 GMT",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMUhzMG5jZ2dSZUVUaFMyckFGemNtNTVfS2UwWDFqZ0E2endRRnM1TUhsUDZ0NTZlSFR4WEhYYnhFUmRuRC1tZFhlVlkwYzRBUDBwZGs4Wnl2SWZaMi1vY3VtTDc0STNOQklNTVdkMFNPREJwaEQ3blJxelFLZzBaUFZwNHg?oc=5"
-    },
-    {
-      "title": "AI and the geography of expert work: Evidence from radiology",
-      "source": "CEPR",
-      "date": "Fri, 13 Nov 2026 00:17:02 GMT",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdHVxU0dGdjdFSy1iUkN6ZmNIdnVPNUNrMlBsZkdzRVZDalpiZWVoLVBfb2lJa1VPMlRMcEtxb0ZHUXJrdVRuMjY3Q19wQ3ZabjhfbmhhUXhEcUVRNGl3cWluTWk5NXliS0ozNTBaZHN2R3BhLS03bTVLQU5yVjk2eVltMld3dw?oc=5"
+      "title": "Fastly vs. UiPath: Which Artificial Intelligence Stock Is a Better Buy Going into 2027?",
+      "source": "The Motley Fool",
+      "date": "Fri, 13 Nov 2026 02:24:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSnpYV3QyZkp1My1sWGtNYkhJc09ycUo2NWdKZl9jTGxHQ2dRT24ySjJId3d2RG9FNktKV3pOd1NpOTJhZVFQa3ZfUVdZaGFQMzFNek8yWWV6bXBWTGJGZ3VLcFVJZmdLZXJXZXVxd2VITENyV0VEdTA5N0VlSE9FQkRIZjVra1FXZ205Zmwxdl95YUlRTm9lYWJCS2o0N2NUemxjWUx4MUlVWkNRNUhuNXpCdGRGYmpZRkxtNGwxN3RqQno1b01CbmFkaFBVVGpMb0E0?oc=5"
     },
     {
       "title": "How Public Health Agencies Can Use Artificial Intelligence Effectively and Responsibly",
@@ -39,28 +51,16 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZjFTcmNRZ0JjbE8yRkwwSUtpOS1GTVZfS21UYjFBd2hJOHVkOG9kMVQyQzBpbVBaMzdxYXpaT0lncG4zWl9ydHRzOEQ5d0ZDVWFpM29oV0dueG03ZjJPaXRabWtjeUVCdkIwZHd3c0t5anFnUjdITldWUGFsMlFJbE9uczIyRVk2UFM4dk4zbWJ6WkhWMWdkZEs3MjJSZXFadkdCU2pEelNQOUE?oc=5"
     },
     {
-      "title": "Nonprofits sue Anthropic, Google, and other tech giants to freeze the AI arms race",
-      "source": "Politico",
-      "date": "Thu, 12 Nov 2026 22:24:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZTFGbzdtVzREUTBscG9FbC1HSHU2N3pRcDg2TFR3RzRORW9oRWQwTHZrSnBENGRmcno3Nkt4M2lYOElvT2pnNDV5UFRCU3QyMGpkVnRLVXhVRGFWV2cydEI2WlRLaWs5Nmg4eUZ3T2RHbXBFT3ViX3ZmaW9MZ3B6OFZ0QmlJS3g5cFF3Q3cxVERlRExkbDBxRVowdmR1V0pZ?oc=5"
+      "title": "N.S. municipal politicians weigh in on whether AI can speed up housing approvals",
+      "source": "Global News",
+      "date": "Thu, 12 Nov 2026 22:26:08 GMT",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMUhzMG5jZ2dSZUVUaFMyckFGemNtNTVfS2UwWDFqZ0E2endRRnM1TUhsUDZ0NTZlSFR4WEhYYnhFUmRuRC1tZFhlVlkwYzRBUDBwZGs4Wnl2SWZaMi1vY3VtTDc0STNOQklNTVdkMFNPREJwaEQ3blJxelFLZzBaUFZwNHg?oc=5"
     },
     {
-      "title": "Bruce MacKinnon: Super intelligence? Nvidia CEO Huang didn't even use regular intelligence",
-      "source": "PNI Atlantic News",
-      "date": "Thu, 12 Nov 2026 23:26:09 GMT",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOZWVKZV9PR1NxclNWWFBha2ZpTHRDNUFXaTg5a0NqSXUtWDlfLW1VeXo0RGZnOE5RNDVzOGxSbVU3LUZCUFJfdkJUaDVwVkM2QU9YV2RZNHdtaGJ5Z1kyVVR0Yk9UcEk0SFRMWEVCX0tJV1ZETy1Qbm93Tjl3Y0NkMGZnMl9jMklVaFZaZk1lYWVhU3dzNzNBMkxIOGNqcDN3YTlXYV9iMkZlQmNHdGd4OWtwWXNWU2dMbHh5OV9kb3dWM0NmaTl5aVRxOWNrbTdkc3ZhQ2V4NnlkTUV6U3NoY013?oc=5"
-    },
-    {
-      "title": "Artificial intelligence lets companies check every transaction instead of a handful. It can also reach where the law forbids. Adamo Brunetti, founder of CODE, explains why the real competitive advantage lies in knowing the difference.",
-      "source": "Leaders League",
-      "date": "Thu, 12 Nov 2026 18:27:06 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVWxhMG11b2p6OU1mTV94NWJJdG9BQm1NSVQ4MElUUEFLZ3BnbnVIaV9WWHk1a0tYR2hRMnhzSTJFa1NOQnV5UUx2WmNWdW05TWdaWkV1MDc1X1hmaEItZEhYOXlwWnQyVEVtOFNiYkRaa0FhNzd1SVo3aG05MXQwdklSdzdwUHNBcXNma0dmcmo2eWlXNEpHLUxJUllCVzhkV2YtT0w1bzJvU1NhZjF5RUVyWEt0XzZETXhlWVppVzY?oc=5"
-    },
-    {
-      "title": "From Intelligent Agents to Agent Societies",
-      "source": "Communications of the ACM",
-      "date": "Thu, 12 Nov 2026 20:59:44 GMT",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0wRHpsYjlKNjZvOHVNNnJEN2tYS2FwWDVWX3lSUWR6aUNjbS1zOHdVS2ViVTkyeElWOGFuaC1yczdDZElQMDVTUVhuSWRES2htYmV5enNEbm9CSDRsSlcxZ0d4aUVLRG9rYjNHOVNMT3lNdUFfN0ZHTQ?oc=5"
+      "title": "US nonprofits sue tech giants to halt AI development",
+      "source": "Al Jazeera",
+      "date": "Thu, 12 Nov 2026 20:24:22 GMT",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUzh3Xzg0ek1tUjktMHMxV1pIR014ckFIT202VFUwTGpDMC0tOWZKaFRkQVg5UzkzaE9VWVVxcnFpclVOU05PZElkMUJXT19qS1NQTE5UbUFPMUFnRDVTeW9oUkpSbkFMcy02WUZwRm44eVV4ZGJNMGxjaEM0TGZ1cVgzejFmaU1sc1diV2R6UDlMZTB1UnYzcXpR0gGfAUFVX3lxTE96N2UydjlyZ3Vmbm9RemR1SGxrMjdQRXFOQ0ZHaUFxOHVlRmVoR3dHV3poMUtuSnNVWEtVWFlpR3RubjRNTkxPVkxSQ1lRNkZsbmozcVYydWRjaTBwM0M1Y21SNWVZNFRzSkZtYVM1OTV6VDFFZkhkSWxyT3BEakZMRkMzeEpzNVhBcXBpY3hIOUw1WlpBMlZLLWpieTZlUQ?oc=5"
     }
   ],
   "events": [

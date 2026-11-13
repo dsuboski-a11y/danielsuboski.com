@@ -1,12 +1,54 @@
 {
-  "updatedAt": "2026-11-13T16:23:33.570989Z",
+  "updatedAt": "2026-11-13T22:37:20.831136Z",
   "locationLabel": "Victoria, BC",
   "headlines": [
+    {
+      "title": "Young Workers Conference 2026 Recap – Digital Activism: Artificial Intelligence and the Future of Work",
+      "source": "Opseu",
+      "date": "Fri, 13 Nov 2026 21:12:30 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9KZmR5WmRDcmRwbVBCYkVfaUMtWUZrVkU2Uk9pZlZtYWtjY2J2M2xSaHo4dUNSaTFSWUN3U202ZkZwSW82R3ozZzhqSTh4VmNhYVE?oc=5"
+    },
+    {
+      "title": "Artificial Intelligence (AI) Avatars for REALTORS®",
+      "source": "www.crea.ca",
+      "date": "Fri, 13 Nov 2026 19:08:13 GMT",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1wOXpIYWxvREVpeDNqZmtVdXlBUTZCaS1BNDlIQXlrZjRRbGpENDR6bE93a2RwellWS0VYRUEtNDJWTVVMSDM3ZnQ1UTdER3FHTExiZVhMdGl4bTF3TmFIOWpRaGdvM0JmSDRVVjc2MThpODd0RnNYT1VYLXg0Zw?oc=5"
+    },
+    {
+      "title": "‘Quantum is going to be the next big thing after artificial intelligence’: CEO of Xanadu",
+      "source": "BNN Bloomberg",
+      "date": "Fri, 13 Nov 2026 17:27:09 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOYkZJdi1LV19uLUFyWE9nc01BUWllRXhJWWIxOVcwbjlWZXd1QnBOWFV1RUZmSC1fQTN0a2N1UTJQWFZQclgzYTFGOVgwNElQZnNJdDM2NzdPc3l4Vnc2di1HTmduclFtUmRZTWc2VTdYVkdpWjNFQ2ZzU296N0RwVkhoSHZxeTBSbUstV21pcDVGbEJMaEZ1SUthTU41V0Z0cjNiUnRMSFYtZGgwb19VTWNENmF3dHk3S1U5azFIRmY3d29OZkRFX0Z0NW1sYTNycmZqcHFVZGxkZzdFQklOZlpLeTVXN1dD?oc=5"
+    },
+    {
+      "title": "Artificial intelligence is scary. But history reminds us that tech makes lives better, not worse.",
+      "source": "New York Post",
+      "date": "Fri, 13 Nov 2026 20:35:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNang1SV9DYXYxazFLSThrNy11WDRLVDRPcndXMERvWWJMN2cyMmlVRm1CS2dpMU81cmcxd0o3TTdGcHZDNXU4RnpNS1JibHNkamVUU252UmxnVnAxbmt4OVFqTTl2V0JTZkpoZ01yT2pKOUlBUGRIdkpJQl9OLVc4S3ZNbVFMSHYtSVd5NUNRSlRlbVlubVU0NjY3WFl5bThjRDgzb3FlZTFJYlQ1dEdUaHhBcE83RWZxVk1qV2loWHk1c0d6aVJaLUtod3dtdw?oc=5"
+    },
+    {
+      "title": "AI’s No Good, Very Bad Week",
+      "source": "EnergyNow.com",
+      "date": "Fri, 13 Nov 2026 17:37:58 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9sN3RncVIyZ2JxUE81aGluYWx6enJxeU1UT18tbTFFUDJGb1g5Vnh3MkN3YndfTU1kXzhxSDVDOEpzZlE3OVB2eElWNHJkZHVnWHBPaWlsaTNUTmIzcTFiTnUxYnF1b0k?oc=5"
+    },
+    {
+      "title": "42Gears Achieves ISO/IEC3 Certification for Artificial Intelligence Management Systems",
+      "source": "markets.businessinsider.com",
+      "date": "Fri, 13 Nov 2026 16:10:50 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNVjI1U3dSaHFoOURhMk9scF9ibUtvNHhkSkk4LU5mT2NNT201VWtGVFh2Wk5TNWhONzJ1cnhhTDAtbDhMaWRWdmY3dnMyYzFscG9PdVhCYndKNk1adjAxSXpBZDd1aEN0UG82TDczbzI2Zjk4OWxsOGl3UmxOM0ZmQWxaVXVHSUlOLXhPTzFCdjlUOUE5SVpKY3dZajRCMmtGTGNTdEZ1cEdDY3pwbzhJUFo3WHlTa1RHNkVMN0dZTW1XNUZ6UU5IUHJyN18xM3NLWVluZGRrbjVaWE1YZ0NuVGc4Y082Y1FoZmRV?oc=5"
+    },
     {
       "title": "Global X Artificial Intelligence & Technology ETF (AIQ) Stock Price, News, Quote & History",
       "source": "Yahoo! Finance Canada",
       "date": "Fri, 13 Nov 2026 03:02:01 GMT",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9pLUE4Wmd4NVViOGlZc2N1YkNPZnZCdzc0VlpxUUdXVVRVbGo1V1FpSUx5X3JiWEd6dHo4S29LLUhLY3pFZ09Ld2FtaWhIMk9V?oc=5"
+    },
+    {
+      "title": "NVIDIA Corporation | History, GPUs, & Artificial Intelligence",
+      "source": "Britannica",
+      "date": "Fri, 13 Nov 2026 12:46:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1FMGstclM1R3lESkhtUUVPTDBHZktQWWMzcTFXa3VIR2FOcTJLcy1wQnlLMHo5MDRXeS10UTJudHRxNmpFX2hyWUZzX1ZTaVpBTng3VXBGT3ZGa0FrTXhHMg?oc=5"
     },
     {
       "title": "Nobel Prize laureates gather in Stockholm to discuss artificial intelligence",
@@ -15,52 +57,10 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNU3RVc2lIODBRRVQtUUQyMlF4LXFKMktkZ1FmdHFYeERaRWxiNXZZcWZsb1JRZEh2VlIyaG5ZWklHQnUxNGsyWDl6Mnh0NG92N3JQeXdUVHBXblR3YWpBWjJoS0Zkb1cwdGZMMWdnZXVfVEUzSDh0aEdlRklPM2JwcHZzV2VJWU1UWW9najFGYmVBNzdtYjVtZDJfd0pQY29yNFdGWkFWYzdDTkZnM0M2UUVDRXliRFhILVE?oc=5"
     },
     {
-      "title": "COP31: New initiative targets AI and reliable climate change information",
-      "source": "UN News",
-      "date": "Fri, 13 Nov 2026 12:06:51 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1yUWRNNGFVOHB2dEMtcGhhYk1CbFFybmdLdi1IS2o2cmVmNTdJSzRaSDIwcVM1cnF2MDZsNW5TMVlnVmxHYlVNLWhVRUNkV3pvN0MtbllTYw?oc=5"
-    },
-    {
-      "title": "Jews are having the wrong conversation about artificial intelligence",
-      "source": "eJewishPhilanthropy",
-      "date": "Fri, 13 Nov 2026 10:45:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTDNyM0RKUDlOaHMzUlNTZzVRUkZfN195Q1d0NjkwVVA0WXRzaUNQcTU4eERrNDVEVGhVdlpZcVRaQXFZYXYzQVFQeFhhY1FUallhdHphb2EyNlh3bTFYaDQwNEktZjc5UHJfVjV0eDJlbTBXM3lHLVpFYU5oeGdiREJWTnlqRlRCaFZaR2YzZ0dTRVlVdWtnUXBpVnc5N1R3TWpR?oc=5"
-    },
-    {
-      "title": "Canada’s AI target needs a rural funding plan",
-      "source": "Policy Options",
-      "date": "Fri, 13 Nov 2026 11:35:26 GMT",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9oQV85djBlcllKR254U1FpUU9qbHB0cDBiOXRHclhLcnJ1eVpWT3QyZkg5V3E5V0ZPQW1KaTJWc2xTa2RVWnhmZTdCYjNkcTV6eGtBcDl5S1ZUOUtQUmJKY3k2ekJEQUJqcXg5NVlWNmM?oc=5"
-    },
-    {
-      "title": "When Forecasts May Amplify Drug Shortages: Artificial Intelligence and Medication Supply Governance",
-      "source": "Cureus",
-      "date": "Fri, 13 Nov 2026 13:45:56 GMT",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdnBPUXlkUWJkYm5jU0RwVFB3NGhIRWZoajV2VHBrNE9iVWhOMWtkNEtVZ1FvcE9pRGI5eVlVMm9LeGpqSkFkRk55dDJWYkZyZXYtWXRIYl9QZ2tDdHIyc0tyZU5BSlFLQjVxM3luXzl1bzBIcHRMMXEtaG1xcVdHdF9nVGpGc19sZ2F6TXlrQkxOWHhkdGxRQjZfRFVZTHo5YmUzWVFqNmdQUWJpU0FtNTlWLUgzLUpMZGgycXh3RkYzQW5SenZzd0k4cmZWRkgzWUdJ?oc=5"
-    },
-    {
-      "title": "Should Multiple AI Agents Collaborate Under Governance, Auditability, and Regulatory Constraints in a Global Financial Institution? – Communications of the ACM",
-      "source": "Communications of the ACM",
-      "date": "Fri, 13 Nov 2026 16:12:50 GMT",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQZG5WNWFQem5XUktlZTRST0ZlaE5FbUNmd212ZDdtYU1KZ25feF9GT2RZZmlrWFp1X2ZtQnNSM3FCVmVpaXFfcG5Jbi05Y0w5eFU2d2J2U3UzY1Y2T3kteDRLd2RHY3lPZTBkQWFSSlBNNkRnSnQtemZuNjhfcnR5OFpNck0zd3dVSC1kU0tnZzZxSXhrOGZ3ekNpbFlwbUdLZVdib29GMXJ1WVVhZXBwZDZYVnJPQVpXUDduTFVMT3FoWk9aeHlvSC16NTdRVFNLaGdFV0EwQVc1dzFNYjAtNEViOXhPUDdyZml1QUVjbV8?oc=5"
-    },
-    {
-      "title": "U.S. futures climb as Wall Street keeps an eye on Nvidia, Microsoft and producer prices",
-      "source": "BNN Bloomberg",
-      "date": "Fri, 13 Nov 2026 13:16:34 GMT",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNWk1tOHBuaWlsWXVWcVlXZFRXcHJPZmVLSTVTWHpJeXppZWlqT3FqSjlRWTB3WGI4MHF3Q0Q5Ty1oR1dDcnh1Y0QtSEtuR05ycjdEZ1JhUVpyME1JRDJnUi15ZnBvbHdqLWxYRGYtNDJBbmRhalVOaGZiQ2VtcFBJRTJKT3o5MUctRm8wejUxcmlieTljRktaUnlLWGV5R19BSkg0cE9nWVJHRmpoT2NROU1Ta3RrQ1F2WHU3Z0lSWmVPUnhDcHNMcWtIZjBSVGUyQmw3UkhDUFpfdTJxdDJrTjFKVTZyNVZWM2pock9B?oc=5"
-    },
-    {
-      "title": "The pathetic tyranny of artificial intelligence",
-      "source": "Observer Online",
-      "date": "Fri, 13 Nov 2026 13:18:45 GMT",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeWlkY3hOZ0ZrcDRWUWZIUVF0cjhydk5LYjcwVXBTRDNVTVdtTWVodnB6SHI2Mmx6b0JrcEVJYWNQME9QbTkxaTk1bW4tV3NZS2FrNk9fbkpVQlZmc0tqb2JaWXlRZ054Qmd2bEZuVERIWXVfUnFLQ2FjamVSZ2lZNUZkVVRCWm5qdnI1Z3dHajkyTm05YUxxSThR?oc=5"
-    },
-    {
-      "title": "Co-operative AI: A co-operative vision for a fairer, more inclusive and democratic Artificial Intelligence - Co-operative News",
-      "source": "Co-operative News",
-      "date": "Fri, 13 Nov 2026 09:33:47 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNW9mU2J2UC1ESkEwaFdibGJScGd4NkFGWnFjbWV4LUQ0cjB3cVl5UzlUVmVTb010dVB0Uk9wYjZ5VVBLYWFmYUtEM19JZEVGUVA4LVJ6UC1xYVFvS1V6Q24yWE10N21mZlNndklpQWZfV2QzVVNfMmVqUFZnUTl3SDhqMEZSWWdBeXdrN1pYN2t1NnkzeGtoOW9JaGF6aUsxS1JrMlgydWNLUG5KUm1EOW5TeXZ5dVBHUHZrbFA0cGh2eVVFTnFZT3Z3?oc=5"
+      "title": "AI could escape human grasp within 6 months, Canadian Nobel winner warns European leaders",
+      "source": "National Post",
+      "date": "Fri, 13 Nov 2026 22:23:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOV212NjNNNndhLTJNNE9vSDllS3NJZFFCcUxXYkpYZlR1MEV1X3U0Y0ZIWmFjbzJUd2ZMaUszMDFhVW82RXBMVy1vZk9IRmh6NENJZTRlY1dkQ0Mzbjd6S1EtWXU2c2x1VzZBTHFuakR4LUhWM00tX0lNUWlBbGY3T1FfbUFSS0V2SDVjbzQzZkJUZ0tZeEVUNFBhOA?oc=5"
     }
   ],
   "events": [

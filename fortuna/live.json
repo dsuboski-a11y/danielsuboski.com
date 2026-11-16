@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-11-15T21:49:29.428561Z",
+  "updatedAt": "2026-11-16T02:07:22.318282Z",
   "locationLabel": "Victoria, BC",
   "headlines": [
+    {
+      "title": "NVIDIA Corporation | History, GPUs, & Artificial Intelligence",
+      "source": "Britannica",
+      "date": "Sun, 15 Nov 2026 23:00:09 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1FMGstclM1R3lESkhtUUVPTDBHZktQWWMzcTFXa3VIR2FOcTJLcy1wQnlLMHo5MDRXeS10UTJudHRxNmpFX2hyWUZzX1ZTaVpBTng3VXBGT3ZGa0FrTXhHMg?oc=5"
+    },
     {
       "title": "The Evidence Is Piling Up: AMD Could Be the Best Artificial Intelligence (AI) Stock to Buy Amid the Sell-Off",
       "source": "The Globe and Mail",
       "date": "Sun, 15 Nov 2026 13:50:44 GMT",
       "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOYW9RUXFHMUJWOUg2Qmk0eVkxejNocW1odnVFXzRBU1lZa1A2ZTR2TWJUaGVYc2pSNXUxQmhGTldqQWRQa2pueDlTM1I4ODZERXpmQnkyYWJTZXlQUWtaV2w4VVRnQ2NiREFreEJJM3hUOU5LTXRiT1BSRUJkYVRoa2dWNTVWTUNRTklUYXNpV0l2Vl9wNUxtZHl2QXpIUVg0NEJXVkh1RWROM2ZhQW1yS3VxUjBSb3RBb2tXUnhjVHFGbzRWdkpxZlI0MWRpUkVxNDltUW1wNDhkaG12SWZMOENSeGo2MzlkYTM2T3ByQnN4di1seFdVQk44TlpmenlqejM0WEhpbzlINnFjb04zS0hJc29iMGhUN3l4Vw?oc=5"
-    },
-    {
-      "title": "Collection policies | Innovation in Digital Surgery: Artificial Intelligence Across the Surgical Care Pathway",
-      "source": "Nature",
-      "date": "Sun, 15 Nov 2026 15:43:24 GMT",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0wUktETEpvOW1VaVVPb3I1cThzUUVzZzdueXFuenlHY1ZyV1VvdXdhZTBVVW5XSFM1eUlwWG5FUy1NOHoyT0UzOTB3MlAwd1lYV1lFN19TRGJMc1NNSzRwaWZPZ05DeC14a0QxZmxYRHBMSjA?oc=5"
     },
     {
       "title": "Human Intelligence Meets Artificial Intelligence: Why the Future of Journalism Belongs to Those Who Master Both",
@@ -21,10 +21,16 @@
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNRU4ya3JxVGlRNGZHbDZaQ2Y0VnV6R1dBSmxZejFmV1dmOWlfb1hQYmRmREJubG1XVzhYbEJ0ZTRwdnlvVHNZa0ZrU09nV2VRM0VxVExWUUlqb2NDV1k4VXpTbHRFUDljaHVLOXZHX296cFRhTm9jY2lIZmZXWEtvZEl6MGJQM2FNenJUZlc1Wlp6R2lSeHJlYWNhd3BiaTk0RVZ1d2ljZ0hOR2dYZXlBeUpMOEY4eGZTN0lwejQxOS16dGp5dGV3Y3hwZnBGV0drZG96UHZSU2JUcjBDcGdmWlJPTQ?oc=5"
     },
     {
-      "title": "NVIDIA Corporation | History, GPUs, & Artificial Intelligence",
-      "source": "Britannica",
-      "date": "Sun, 15 Nov 2026 13:23:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1FMGstclM1R3lESkhtUUVPTDBHZktQWWMzcTFXa3VIR2FOcTJLcy1wQnlLMHo5MDRXeS10UTJudHRxNmpFX2hyWUZzX1ZTaVpBTng3VXBGT3ZGa0FrTXhHMg?oc=5"
+      "title": "Collection policies | Innovation in Digital Surgery: Artificial Intelligence Across the Surgical Care Pathway",
+      "source": "Nature",
+      "date": "Sun, 15 Nov 2026 15:43:24 GMT",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0wUktETEpvOW1VaVVPb3I1cThzUUVzZzdueXFuenlHY1ZyV1VvdXdhZTBVVW5XSFM1eUlwWG5FUy1NOHoyT0UzOTB3MlAwd1lYV1lFN19TRGJMc1NNSzRwaWZPZ05DeC14a0QxZmxYRHBMSjA?oc=5"
+    },
+    {
+      "title": "Reports of AI-related child sexual abuse material rise 8,400% in two years, data shows",
+      "source": "The Guardian",
+      "date": "Mon, 16 Nov 2026 00:01:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdjB4X1BOTnFyWEdidVZIbzZnUjJqSFJvUjFUZkJ3TDFoZm9KNnViV3BKR0tvbTRwTFZWUUVsSHFfdjVzZVVCdEFuUkd5N3A1ZENveEMxYnlkTVNDRGdFakswTmhLX2h4MTdvcU5iaEVxSUFfZEE2Qi1UX1JfX1g1VWpUTWw5dTB4UTdud3BTUlFLblFaenlUb1QwN2F1cUhYaHFrT2JFUXRSUy1iSUZucGJxZ0FSSTI2?oc=5"
     },
     {
       "title": "Female Spies: From Mata Hari to Artificial Intelligence",
@@ -33,34 +39,28 @@
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQVJNMzNiLVJkRWdPX3AtTEhVMDVVWFBucmppVGVUTXZ2dUczQ2hkZnFQbUg0cWs0T2lYV0dZbGZyM0Z3WUJXYmlMcUQySFNRdVo1ZXNzc2lDbHRwSF83dTRWS3JMM29HLV9lVzZmeTZ4SVBmcXZjWUJMQ1lHRnZTZHoyOGN5YzFKNEFJX2o4dkdxQUo3TWFqUlFWMFhwS0pSdHRFYml2d3hMdEVqUjhTVzJFRVVLaTA?oc=5"
     },
     {
+      "title": "Can AI make a better burger than a Big Mac? Scientists put it to the test - News-Medical",
+      "source": "News-Medical",
+      "date": "Mon, 16 Nov 2026 00:02:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTUdrdEY5VmRKWG9vOV9nMTJMeEMyOE5FcnBXeUZCWnNjdm1PRDUxNTlidHpvaGJBdXpvUDI3NmFBWWlRTTdxUWt1NDNHRlY1OWhXT0RhdnlKZ3RvYk1idGV5NlJQZGRyeE1WUWh3NFl0cXc1cHowb1UzcVZ5bTBXYkJwRTFjdXh1Wi1SdGlpdkp4Z2p5UzJhYzB1MTFkUjJxYml2eTNFS0l2dVJKWWJtelk3dVVzWmw4a2FCcQ?oc=5"
+    },
+    {
+      "title": "UN to debate rules for 'killer robots'",
+      "source": "France 24",
+      "date": "Mon, 16 Nov 2026 01:49:22 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQR3JHeTFFcG9NbDBmb3c1Ukg4YkMwaGI5aVpsWDFCV0Y3LXIyTGNhREVETWhCS04tWm5fTDJRenVld2FvSnk1NmZZY1Y3c2c3SnhsckhVbldKVjc4NmNDMWRvRkV0dGtSYUQ3T2R3d2wwNnhpdlZNYVhEenNjWTdTOWxOY3B6MDlQdFNv?oc=5"
+    },
+    {
       "title": "The Evidence Is Piling Up: AMD Could Be the Best Artificial Intelligence (AI) Stock to Buy Amid the Sell-Off",
       "source": "The Motley Fool",
       "date": "Sun, 15 Nov 2026 13:25:00 GMT",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOV212VERNUTlDS3VueEZDd19WaG12V3FseS0ydmZITFhmWi1kcEpsQVVOSE43cXYyWWJUbllDUzltNGZyTWk1VWRzS2JnVE13bkNRamFTQ0hWMkZNY3NITHl6VmlUMk10cWFsODJrWGtGMjNLSEpsN3VuMzNwNi1UMEg3TEEyRkRSWi1rcTJMaHZvNFU3ODRwMFZxVmhIMzQxeFJLeHZtcGFQaWxSakZBblY0eHY2SkE2TF9TT21zYURrbDNEOWRtV1dVV29qSTBsQUEyeU91WDhwYTg4c01hdHFn?oc=5"
     },
     {
-      "title": "The First Step Toward Ethical AI Edit",
-      "source": "Wikimedia.org",
-      "date": "Sun, 15 Nov 2026 16:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOa1F0c01kUzZBYkdXTWR0TWlsMDlNWWRaUjFCX1NHUWd3dXd3bWZVc0hOeHRKLXQ5cTFSZ24xc0lNamdNY204ZXgzdkE0cXc4NHIxQ3BlaTFiWmQycEt0YmN6VG0zUU5xZFZGYkYxOGlaUDNNLXllSm9BUV9sVzJmbkRn?oc=5"
-    },
-    {
-      "title": "Artificial Intelligence: Why are traditional industries adopting it?",
-      "source": "BBC",
-      "date": "Sun, 15 Nov 2026 09:10:07 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0zY1FGalNabjR6cEZNQUtfeGZ5RzhJZDU3aUJiTGVZeFdZeEctRWx3QXNremY1VGwtSU8xUmNBdnhINGFmdE5UQkxfNmFxWUVPcWEzd2p3TDhLTWc?oc=5"
-    },
-    {
-      "title": "AI is set to change the graduate job market. Here’s how unis can respond",
-      "source": "The Conversation",
-      "date": "Sun, 15 Nov 2026 17:25:31 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWkw0S3hGM1laTlJlSHlpTmVGSDVObFFidFBfaDBYSzVkWS16dnZzNlROdDRzV2RLZlBldE85NEtVVU9rbG02TDQtZU9sWTY0WXIyRVRCT2ZIazhCOVhyUFVwRjc1YWlrSW1EeS0tQTVFWjFYczk3dXNzbWpkR0loaGVuU3lBbDJMeTc0Uk9xUGt3ME92XzU3UkVtYUVRNjVEZFdSeU5rb3U?oc=5"
-    },
-    {
-      "title": "Artificial Intelligence and the Limits of Private Power in a Democracy",
-      "source": "tovima.com",
-      "date": "Sun, 15 Nov 2026 14:12:41 GMT",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNamRZNmRrWTFkLXdyZ1BNdDhtY3k1ZS0yZWZERWNuLTg2T3pVOXlzenlHUTZ4em5IUG92dUs3YzBFcXd3VTZ6ZC1OemMycEVwSXJVNmFadlZWMVNqVndoUjFhZm04TEFHSFN4VVNSbVdIZXZnWFZCb2NJbXVPenlZVi1KWGZlanpHaTRnVzVDeWZRdlR1N0owXzV4Z1RhZFQ1UC00UlJn?oc=5"
+      "title": "Your Biggest Asset In The Age Of AI Is A Room Full Of The Right People",
+      "source": "Forbes",
+      "date": "Mon, 16 Nov 2026 01:10:40 GMT",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYUZ5TjcxdThCZnlmZDktTkt2eDFKaV9LRE5nMk42bElMNF9rcWt5QkhEenE2dmNZNHhkNzdRYmp3THVYR1YzM3p0czBtcGhSNXMyMFJjNWwwRXgxZUs2Unh0Q0hjaEdVOFJwUFpfQ05XYWdQSk9qUE56enAxbC1MT3htR1gwQ1lqSU9mQko0NVRwMXlZTGgyWjNIY2VVMUc1bGpLRjBpaHRvQzJES2l0bHZRZVlVbVlCeE55NVd0SQ?oc=5"
     }
   ],
   "events": [

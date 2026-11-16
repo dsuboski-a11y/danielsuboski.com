@@ -1,66 +1,66 @@
 {
-  "updatedAt": "2026-11-16T02:07:22.318282Z",
+  "updatedAt": "2026-11-16T09:43:05.701131Z",
   "locationLabel": "Victoria, BC",
   "headlines": [
     {
+      "title": "APA offers new guidance as artificial intelligence use at work expands",
+      "source": "American Psychological Association (APA)",
+      "date": "Mon, 16 Nov 2026 08:05:57 GMT",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeU9FSWVZeWdiVnZKT3BFRm05czdhUEJlRkYwTUFhMFdFQ1phSUhTZVNyYlhkVi02M0ZaY2lfeUh1VEkyTjF1NVl0bkRjdEhBLWI2V2xVakd3N0NJdXJkUEpvbFNsNVN1aWNSSUtib0lJMEFvNzQxT2JBajZFWDNxZVFyT192S295bG14d3N3?oc=5"
+    },
+    {
+      "title": "Artificial Intelligence in Plant Science: From Understanding to Sustainable Production",
+      "source": "Nature",
+      "date": "Mon, 16 Nov 2026 08:24:01 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5HUDhSOXZQV043aTBPSHA0dS03UFVqakZ5YVA3LVU2YWw0cmIwZTFWSnRfRmdmTmNKQTdyNDlpc3RwT0V0eXhfTlNoWEM2bWd0RE5DdTVTbVQ?oc=5"
+    },
+    {
+      "title": "i14 targets more efficient AI as IP Group backs $9m funding round",
+      "source": "Proactive financial news",
+      "date": "Mon, 16 Nov 2026 08:55:27 GMT",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQN3FOT1hjaDVicWFCd0F5ZlZiSmh6ZWc5X1V1dXNVOU9MeFNnMVpBbWVFM2t0TTJ6bnpMa3RIcllHenZxSTNFaXYtbk40U09VZlBrY3N1ZHV3OENadExYSlpGNzNGRXBtcThFNkFLUTB0V3k3MzBWcGlieWpnSjJrQVVVRUxXd0QyaGF6cHhCQ1FTN00zMlh6OXdwUkJnaV9ueGZSVXFNUzl2Zi1kWjdmNTgxdXBOZnRPVXQ2MVJBTm9udkpYcnc?oc=5"
+    },
+    {
+      "title": "Digital Security: How to Protect Trust in the Face of Fraud and Artificial Intelligence",
+      "source": "www.telefonica.com",
+      "date": "Mon, 16 Nov 2026 08:30:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPLVBSUkpqT29SSWo3SXoyRlhYRWU5dE5CWjBuV1VFdy1ZSEY4azEwQ1hnZXk1dHRJZTg4OUdBbXg2RklVMXQ5QWtXbUw2Q3pBczhRd0gwS1R2WjkyaG83Z0hHSWdsVGphZFkyWXdmbTQ3YU9zNU5RN3RpTkNQT2ZuMWo2aThkbWV4R2VNYm1PUjVtcGcyVXZuS0pNZUdfMVZrVHhFcC04UEtHc0p1SktzYWVKWTZ6NFNLbmdOTw?oc=5"
+    },
+    {
+      "title": "No matter how you ask, more Americans are negative than positive about AI",
+      "source": "Our World in Data",
+      "date": "Mon, 16 Nov 2026 05:37:29 GMT",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQlpuTFBKY1luenVJUVBENm5pbUxRNXR6TlR1Ym15OVZVY0R5UVdQWWpFenhfZUY5LWJzTHhqRUFnQzY5eVN4Nm90OWZiX3BuZUJCOUhscGozX3RIajlvUXF4bGJwYnNjNVpodDE2anRzdENuSEctekd3RTJWR1JqZU9ydFNHTXFQYXY3NVhKS0xaQXhwUjlDWGhqQ0FzVU9E?oc=5"
+    },
+    {
+      "title": "Questions swirl around FAA's new SMART AI system, though officials say no link to ground stop",
+      "source": "Yahoo! Finance Canada",
+      "date": "Mon, 16 Nov 2026 07:31:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOLXlkS1BjcnFxUVgwUHdvTmZVZXcwTWUxWVVMNVdIWENWMDd4X0QwTmVCOUN2OENmMHZrS0t5VzNZQ0lJSnhQajA4VEV2WlJRSEt1OTdIbHRJTFR5QldWejZZUjlPbW1abnhuUHE3Y1VPZnFMT2p3Y3ZLSEMwVk5rS0ZybkFrSjZqd1E?oc=5"
+    },
+    {
+      "title": "Qatar, France Sign Technology Cooperation Letter, Highlight Shared Quantum Ambitions",
+      "source": "The Quantum Insider",
+      "date": "Mon, 16 Nov 2026 08:41:15 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTDI1RGR3a3B3MTFNQzhYdFRLWDFWVHRtUjBRamdDWnhCT3Uza05TSnZaaGQtNkFpUFlBdDk4WVh1Yk5PMHB5NTBKRkdvTEluUHFYS0lWSVpIZHpKZ0Z6X2VvT0xpXzVrQU56OC1fOWJMRUxnamRJNTlVa1YtazhyQ0t1ZmZJOC1mX1k0d19lUndUcTJJMllmZ2pCRlhPQ04tTUVIcEhrR0NndUMyTElIQXpBeXBhc3IxXzNiMHRRZGR5QQ?oc=5"
+    },
+    {
+      "title": "US, allies team up to protect AI tech and infrastructure amid China rivalry",
+      "source": "Reuters",
+      "date": "Mon, 16 Nov 2026 09:04:16 GMT",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQME9ldVY0V0JLTVYyLTZZcXZlVmZwNnNlcWw5MHYwa0F4VUdRbGFueXVXX29SaXdiWTR4LWpfbDY5dV9sclVXNHBhakdiMUlBeWc5S1M0dmZTMW5IcmYwV2REZ1hUYnhyWFJDT2t5dkFuRlh6Q3RMYUxfVFh2X3JCR3VxMENuYzdMMWxFZzFSOV80OC10ZFNyMldjR1dyOTNOYlY5Y3JyTDJRSEV4anRmaHFidnJ0dw?oc=5"
+    },
+    {
+      "title": "From pilots to scale: Navigating five stages of AI maturity in procurement",
+      "source": "I by IMD",
+      "date": "Mon, 16 Nov 2026 08:40:55 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQa3E2THFCemtoTlZXUWk3NTMxZ2g3N0NOV2NoemtmMjRHUlc0U0dVVnB3Y1hjcmlEZzBvSWNWdS0yRlp0cTk1amN2MXljbEF0UHNiNG5CaV9RZmIwUUtNZmU3bmlSbU53SmgzZHltbFd0eHhObVB5TTJmYWlSWjlZUGpVbmV1ampzb25JM1ota3c4ZjJJd0FUMkx4ZFRwSXhjSTdOOHBjVEV5dnB6QmFnc29HR3lGLTVMbTBYUWRJQ0VNaW8?oc=5"
+    },
+    {
       "title": "NVIDIA Corporation | History, GPUs, & Artificial Intelligence",
       "source": "Britannica",
-      "date": "Sun, 15 Nov 2026 23:00:09 GMT",
+      "date": "Sun, 15 Nov 2026 19:54:00 GMT",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1FMGstclM1R3lESkhtUUVPTDBHZktQWWMzcTFXa3VIR2FOcTJLcy1wQnlLMHo5MDRXeS10UTJudHRxNmpFX2hyWUZzX1ZTaVpBTng3VXBGT3ZGa0FrTXhHMg?oc=5"
-    },
-    {
-      "title": "The Evidence Is Piling Up: AMD Could Be the Best Artificial Intelligence (AI) Stock to Buy Amid the Sell-Off",
-      "source": "The Globe and Mail",
-      "date": "Sun, 15 Nov 2026 13:50:44 GMT",
-      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOYW9RUXFHMUJWOUg2Qmk0eVkxejNocW1odnVFXzRBU1lZa1A2ZTR2TWJUaGVYc2pSNXUxQmhGTldqQWRQa2pueDlTM1I4ODZERXpmQnkyYWJTZXlQUWtaV2w4VVRnQ2NiREFreEJJM3hUOU5LTXRiT1BSRUJkYVRoa2dWNTVWTUNRTklUYXNpV0l2Vl9wNUxtZHl2QXpIUVg0NEJXVkh1RWROM2ZhQW1yS3VxUjBSb3RBb2tXUnhjVHFGbzRWdkpxZlI0MWRpUkVxNDltUW1wNDhkaG12SWZMOENSeGo2MzlkYTM2T3ByQnN4di1seFdVQk44TlpmenlqejM0WEhpbzlINnFjb04zS0hJc29iMGhUN3l4Vw?oc=5"
-    },
-    {
-      "title": "Human Intelligence Meets Artificial Intelligence: Why the Future of Journalism Belongs to Those Who Master Both",
-      "source": "pan african visions",
-      "date": "Sun, 15 Nov 2026 19:56:32 GMT",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNRU4ya3JxVGlRNGZHbDZaQ2Y0VnV6R1dBSmxZejFmV1dmOWlfb1hQYmRmREJubG1XVzhYbEJ0ZTRwdnlvVHNZa0ZrU09nV2VRM0VxVExWUUlqb2NDV1k4VXpTbHRFUDljaHVLOXZHX296cFRhTm9jY2lIZmZXWEtvZEl6MGJQM2FNenJUZlc1Wlp6R2lSeHJlYWNhd3BiaTk0RVZ1d2ljZ0hOR2dYZXlBeUpMOEY4eGZTN0lwejQxOS16dGp5dGV3Y3hwZnBGV0drZG96UHZSU2JUcjBDcGdmWlJPTQ?oc=5"
-    },
-    {
-      "title": "Collection policies | Innovation in Digital Surgery: Artificial Intelligence Across the Surgical Care Pathway",
-      "source": "Nature",
-      "date": "Sun, 15 Nov 2026 15:43:24 GMT",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0wUktETEpvOW1VaVVPb3I1cThzUUVzZzdueXFuenlHY1ZyV1VvdXdhZTBVVW5XSFM1eUlwWG5FUy1NOHoyT0UzOTB3MlAwd1lYV1lFN19TRGJMc1NNSzRwaWZPZ05DeC14a0QxZmxYRHBMSjA?oc=5"
-    },
-    {
-      "title": "Reports of AI-related child sexual abuse material rise 8,400% in two years, data shows",
-      "source": "The Guardian",
-      "date": "Mon, 16 Nov 2026 00:01:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdjB4X1BOTnFyWEdidVZIbzZnUjJqSFJvUjFUZkJ3TDFoZm9KNnViV3BKR0tvbTRwTFZWUUVsSHFfdjVzZVVCdEFuUkd5N3A1ZENveEMxYnlkTVNDRGdFakswTmhLX2h4MTdvcU5iaEVxSUFfZEE2Qi1UX1JfX1g1VWpUTWw5dTB4UTdud3BTUlFLblFaenlUb1QwN2F1cUhYaHFrT2JFUXRSUy1iSUZucGJxZ0FSSTI2?oc=5"
-    },
-    {
-      "title": "Female Spies: From Mata Hari to Artificial Intelligence",
-      "source": "Atalayar",
-      "date": "Sun, 15 Nov 2026 18:24:30 GMT",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQVJNMzNiLVJkRWdPX3AtTEhVMDVVWFBucmppVGVUTXZ2dUczQ2hkZnFQbUg0cWs0T2lYV0dZbGZyM0Z3WUJXYmlMcUQySFNRdVo1ZXNzc2lDbHRwSF83dTRWS3JMM29HLV9lVzZmeTZ4SVBmcXZjWUJMQ1lHRnZTZHoyOGN5YzFKNEFJX2o4dkdxQUo3TWFqUlFWMFhwS0pSdHRFYml2d3hMdEVqUjhTVzJFRVVLaTA?oc=5"
-    },
-    {
-      "title": "Can AI make a better burger than a Big Mac? Scientists put it to the test - News-Medical",
-      "source": "News-Medical",
-      "date": "Mon, 16 Nov 2026 00:02:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTUdrdEY5VmRKWG9vOV9nMTJMeEMyOE5FcnBXeUZCWnNjdm1PRDUxNTlidHpvaGJBdXpvUDI3NmFBWWlRTTdxUWt1NDNHRlY1OWhXT0RhdnlKZ3RvYk1idGV5NlJQZGRyeE1WUWh3NFl0cXc1cHowb1UzcVZ5bTBXYkJwRTFjdXh1Wi1SdGlpdkp4Z2p5UzJhYzB1MTFkUjJxYml2eTNFS0l2dVJKWWJtelk3dVVzWmw4a2FCcQ?oc=5"
-    },
-    {
-      "title": "UN to debate rules for 'killer robots'",
-      "source": "France 24",
-      "date": "Mon, 16 Nov 2026 01:49:22 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQR3JHeTFFcG9NbDBmb3c1Ukg4YkMwaGI5aVpsWDFCV0Y3LXIyTGNhREVETWhCS04tWm5fTDJRenVld2FvSnk1NmZZY1Y3c2c3SnhsckhVbldKVjc4NmNDMWRvRkV0dGtSYUQ3T2R3d2wwNnhpdlZNYVhEenNjWTdTOWxOY3B6MDlQdFNv?oc=5"
-    },
-    {
-      "title": "The Evidence Is Piling Up: AMD Could Be the Best Artificial Intelligence (AI) Stock to Buy Amid the Sell-Off",
-      "source": "The Motley Fool",
-      "date": "Sun, 15 Nov 2026 13:25:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOV212VERNUTlDS3VueEZDd19WaG12V3FseS0ydmZITFhmWi1kcEpsQVVOSE43cXYyWWJUbllDUzltNGZyTWk1VWRzS2JnVE13bkNRamFTQ0hWMkZNY3NITHl6VmlUMk10cWFsODJrWGtGMjNLSEpsN3VuMzNwNi1UMEg3TEEyRkRSWi1rcTJMaHZvNFU3ODRwMFZxVmhIMzQxeFJLeHZtcGFQaWxSakZBblY0eHY2SkE2TF9TT21zYURrbDNEOWRtV1dVV29qSTBsQUEyeU91WDhwYTg4c01hdHFn?oc=5"
-    },
-    {
-      "title": "Your Biggest Asset In The Age Of AI Is A Room Full Of The Right People",
-      "source": "Forbes",
-      "date": "Mon, 16 Nov 2026 01:10:40 GMT",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYUZ5TjcxdThCZnlmZDktTkt2eDFKaV9LRE5nMk42bElMNF9rcWt5QkhEenE2dmNZNHhkNzdRYmp3THVYR1YzM3p0czBtcGhSNXMyMFJjNWwwRXgxZUs2Unh0Q0hjaEdVOFJwUFpfQ05XYWdQSk9qUE56enAxbC1MT3htR1gwQ1lqSU9mQko0NVRwMXlZTGgyWjNIY2VVMUc1bGpLRjBpaHRvQzJES2l0bHZRZVlVbVlCeE55NVd0SQ?oc=5"
     }
   ],
   "events": [

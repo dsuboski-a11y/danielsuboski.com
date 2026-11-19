@@ -1,12 +1,42 @@
 {
-  "updatedAt": "2026-11-18T21:56:17.414374Z",
+  "updatedAt": "2026-11-19T03:27:22.084757Z",
   "locationLabel": "Victoria, BC",
   "headlines": [
     {
+      "title": "Artificial intelligence: loss scenarios and claims developments",
+      "source": "Allianz Commercial",
+      "date": "Wed, 18 Nov 2026 22:57:48 GMT",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSFkyRGRTMThfdHUzZTFzRVBSenFIM0ZaMFlhbkxvV3ViNkYwcHlaN0xHRm5TYzQyMFhpX0VNczVzblkzNnVxX3B1eFRDR1ZZUUY0ZzJVaFN6R1lGYVcwRmhYbVhfN29BOFFvZGVrVjdIaS1oV0tIbnhNSWNfaWdUMUR3VmtDMFBlUEJDX0ln?oc=5"
+    },
+    {
       "title": "Artificial Intelligence and Human Rights: Protecting Human Dignity in the Age of AI",
       "source": "UNESCO",
-      "date": "Wed, 18 Nov 2026 15:56:15 GMT",
+      "date": "Wed, 18 Nov 2026 15:58:40 GMT",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQkNaQVc5dl80NUF0OE9TU0lIZ3ZGU19ZdGN6UHNTMW9mXy1PVVVKMzV5anZ3bTg3TDcyNE9qajRTOWxUaVl1TDZGazI2VGhFM2dZSkNJWHdhN3JKaE5DS1BVME02MDJlbmIwT0VqT1ZDVk5RaTg4M3U2TEFkTWlmeTVXTjQtVFpycWtXeUpxVUtXcG9nSHVFVTM4S1JsZUJUQmFTbDJaSFBQWGM?oc=5"
+    },
+    {
+      "title": "Manitoba's proposed ban on AI-generated real estate images draws mixed reactions",
+      "source": "CityNews Winnipeg",
+      "date": "Thu, 19 Nov 2026 00:36:10 GMT",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTHlDUXRQR0FLdHY1bUk4MjFSRXdNZnIwX3VqMU9MZ3FPT0FPSFZzRGtIcHpJaE9SUjhQM2lVekluUWtWQzdTWXNESHdQTVhmN1ZaNi1qMU5iSWFyMENOQThXbmFoaUNzalZaSlE1a083THlTQklpWWFmSFFBcUdSeWxkSDJlVmpwaHFqWS1ac1JUVUlRaERoc0tRZDM5enJyaWdoSTljOFBwRGZFTkVhbUFYZlhwY0s2cFhSMl9qdXVHOE8x?oc=5"
+    },
+    {
+      "title": "Anthropic prices shares at $83, valuing the AI firm at $1.5 trillion on the eve of its IPO",
+      "source": "Le Monde.fr",
+      "date": "Thu, 19 Nov 2026 01:36:49 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNM0ZTRFc4MF9JR0ZQa01yRG9KUl9odlM5MF9xOEF1NnVsTVE1eFcwQmJnYmxUb1F5TGtCWFUyQTJZcTY1bno2THdZeW9CWWY4SW9UMW56c01qbU1DMXhBaS0wRURlb2xMQ3RjZlZKNnU3ejJ5ck9CM1V5ZFhuQlZCdG9lTklJZVhjbk1LMGZEMXh4a2pDMlBVOFNNTFVSZXFRRG5sQ3B0ekRFSFRxNnVyYU9BcUZxdVVOQmh0ek1Sb3lIYWlXbXNfdzJVWVNzSnRCNUpTMkdtbl9rdVpibHA1WUtkVVhPZTJraUUyLQ?oc=5"
+    },
+    {
+      "title": "Safeguarding artificial intelligence",
+      "source": "Spectrum News",
+      "date": "Wed, 18 Nov 2026 21:57:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOY3ZJZmV5SDV0RjZya3lnYVNxdFE1NnBFd24xWnBWMDNreUU0RzZmekJrcDBlRkxIVUd5ZXlDWXBEd0dnbHg5N1A3ZXcxN2czSmh6djlMX1plcEFWTE1KNExUdnJnNmlrSUNLZkI3RHFNT184Y1ltS2pJeWMzRms1SkU2dzA5eG5KOWZaSlB0MncwOXNs?oc=5"
+    },
+    {
+      "title": "Why Even Industry-Friendly Albert Is Setting New Limits on Data Centers",
+      "source": "Bloomberg",
+      "date": "Wed, 18 Nov 2026 22:45:31 GMT",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRjVPekVCd1ktOG96NjBvV1k2SEJlVHlNbDd0LUZlRnVESmhMMm5uMEV2LUNqVDNhMkdLOFhObXduMy0xaXJPYjNPTXg0eXl6b2NMYWI5ZWxRbVpySE5GR0hYVUpfS3VLNFZfbklaeHhaYXdyZEMtOHdTalRmeldaOW9WZFFmcFM2LVpwNk9UNm9CeS1faVJKQkVrVjN4cHRvc1ZVQmc0N0JqZ2JoVk1nRkctNnFBNjE5Ym1EZ09n?oc=5"
     },
     {
       "title": "Hiding beyond the visible: How artificial intelligence is enhancing multispectral camouflage",
@@ -15,52 +45,22 @@
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZF9LMkJwcDBHNlhOZkU3TUQxdkk0S2lmR05Fc2xINGFBSEpzdHZfVXkyWHJvSmFCZ3M1Q3JiSzIyUFhRMkxhNEotdHVCNU1SSmRaUVJHSkZybnFzc2ZUcjJLUDlUdGFFXzd5MklqYmd0X19YWVR1TGFqUVU5NFA3T0h3NDBSZFpfVmhiQ1ZncG5QSlJSVHZlRkFxLWRoSnhORlkyQXVIQnd0bXdSWEYyNHpjRG4zVjJ4bWVpbTd3?oc=5"
     },
     {
-      "title": "Design responsible AI controls for Amazon Aurora PostgreSQL",
+      "title": "Anthropic prices IPO at $83 US per share, valuing AI giant at $1.51 trillion US",
+      "source": "CBC",
+      "date": "Wed, 18 Nov 2026 23:58:40 GMT",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdHBGWUgxSkdKUHZCT0JPYjdWNk85UG1wZ2x6VkhNek5SV0J4VW55Q0VmTnlzc1RwaEFGRGd1U0xrRXJnVk13d1hCRVpYeTN3Vkt5Sks0VUVncUdvWTl0dGxnbUt3YnRpYTlZVTBGTVdIWFpmcGgyQTdXcVBHbTBnYw?oc=5"
+    },
+    {
+      "title": "Canada PM pitches China on global AI board",
+      "source": "Politico",
+      "date": "Wed, 18 Nov 2026 21:58:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaFl3X0NicDQ4SVh0ZlU2SXg4dGVKSmpuQzlURi1DNFF6aTUwOVMwY2pKckZPMXVvZ0FKOXltcWlPSXlXSEVET3BrQ0Fja0dwWS1oUm5uSzY3NDNSa1BYZV9Sb1E0eXVVVW9uUlZlZEZnX0RHUE5DdmYwdVZKVkNwNXVnaDY?oc=5"
+    },
+    {
+      "title": "Full Fine-Tuning (FFT) on SageMaker AI Serverless Model Customization | Amazon Web Services",
       "source": "Amazon Web Services (AWS)",
-      "date": "Wed, 18 Nov 2026 21:38:22 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSWNSVW9YNzVYUE5IbEw0V0pBZV8xTjlYb0xpQjFrbXJobFk3aFJEUjZnVDhPX1FBMmczVUhmY2lPVVZRSnpkOEFtbFFKZVJRNTZVcUFYY2xBTFdJWDJ4ck9lOG9FdUZGa2RQQkpjdTJwR2lvOWUtMElqWC1FajRlM0V3YWg2Tk1NODhveXJGdHI4T3VENGNEZnZ1eERZc1A4TTcyRnZHbTFOQQ?oc=5"
-    },
-    {
-      "title": "Not Micron. Not Broadcom. This Artificial Intelligence (AI) Stock Will Skyrocket in December After the Latest Sell-Off",
-      "source": "The Globe and Mail",
-      "date": "Wed, 18 Nov 2026 10:10:31 GMT",
-      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxObDFHWHhxU3I1cEh0SWxWQjBSZ3lra0NRU1RlUjdMeXNUWlI0OERjdjF3TDNZbGc5cmVtRG1YVnBFcE03cDdGY1l4cTZicEY2OEFTQzRTLTkwX01zckhySVhNMlNyYkl6a19wY01ubFplRDdOQl9oS0toR2drZzlqdWNsTVc1TjRwa25idlhPaTZ4d0VkMG9mUVc1TTA4ZlZTRV9ZYURoZEVzRFdSUjZ3STNLcDFvLTVBT1hJcEhVRzZ3Rk15X1NlQ25NaDQ4QTZReUZhRXh2OXhtQXNYcHZpVU9jak1LQzZLTzJLcDRZRmRwVjNPbHo1a2hDUVBDN1hjWUtzUkswM2tJMTU5VXhseUNlc1R6dWtUWFJ4SFRiY3REdVJGVTBv?oc=5"
-    },
-    {
-      "title": "Cornell Systems Summit explores AI’s impact on research, education, work",
-      "source": "Cornell Chronicle",
-      "date": "Wed, 18 Nov 2026 20:01:08 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcmlrLWY4YUJQSmdWVWVTYVQzdS1IQ0NCd1lOclRhNG9lUEZKdmNmMFdDMk9zaXA4U2JQWDN6cXcxaUVUU2FEenowbFU1dHZtZ1BTMnE5OHVKWU8yTlc5Q0stRW9OVGlVZ0JCeHJCYTl0N3k5b0x2Ym12Q1BZRVNKUFFrX1hXYUZQeFNlVm9lZ0lETE5uWVM5SkJpbkVxOUtBVHNJd2Q5Ql9WZlE?oc=5"
-    },
-    {
-      "title": "‘Human’ chosen as word of the year by Cambridge Dictionary amid AI fears",
-      "source": "Global News",
-      "date": "Wed, 18 Nov 2026 21:05:33 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMnVQYUx4eWUtQ1dsdlEtMFRabDV3Y1kwYi1lREVwRHY3aW1uYXd2ZUtlY3A1c2pYaURIRVdncUFvRE5mV2h2dGFFR2lVMnJZX1Y4ZzQ0bFZCeUo3WkNQUXN0MUdmR0ZKOHc2bWFRMF9oTXl1RHRPWFE1SE1oa2FnUzYxN3hLMk94UG9j?oc=5"
-    },
-    {
-      "title": "Comparison of Diagnostic Accuracy of Artificial Intelligence With That of Conventional Diagnostic Methods for Root Fracture Detection: A Systematic Review and Meta-Analysis",
-      "source": "Cureus",
-      "date": "Wed, 18 Nov 2026 09:16:21 GMT",
-      "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxOWDVNYzhyQU81Z1FQaXYxNm45dkEtQTlCeGwtXzZvMFZwVjJvWnMyZ2dCUllrSDJXeEtEUUR2WVdDelVYX1FHTk5WMGdNSzMweG8zSmlXT3Atb1pFVUJwSXMtbFFsaDNjVXZvMGxtcTJVS0RqVFlIR1gtSUE0OHc2RGF6MmF3X3VhMXBGdFpQWlJfeFBzR0thQmpmSm9WeHdlcXVRN3JHXzE1RGVuQWFXTUptQ0lyWVl6Vko2aTFVWjJzb2lLWk0xdU1KTDl1R0xmN011Q3BrRmdNWjRZMlNZck5RcHBRUWNwVnVKcnJYOWVtbDJhYnNjSDJBck12c09xUlFBQW9ScnNqLUJ0eG9kN0dFdE84YktBOUc1RldnVS0waG54ay1yd1RCQmJaOFppVmRvRw?oc=5"
-    },
-    {
-      "title": "Artificial intelligence for the Z80",
-      "source": "Adafruit",
-      "date": "Wed, 18 Nov 2026 15:09:04 GMT",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1uRHhTdmJOMURFbGszcjZYQ05jamhwYjRxNGRWQ28ycnZ3R19zQUc4OHQ2YzNOaDROWEp2QzZVUWpZZUZIMDk4aFVrTUxSdWVLY1M3OFNxSzA3Zy1la0tZcUU4VEtsNHctcVYyUUtYV0NJTTU1Z1lHU1k3YkZrZw?oc=5"
-    },
-    {
-      "title": "London Calling: Flagship Expands in U.K. to Build AI-Native Platform Companies - Genetic Engineering and Biotechnology News",
-      "source": "Genetic Engineering and Biotechnology News",
-      "date": "Wed, 18 Nov 2026 21:10:58 GMT",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWXVwR2w5a2V4c1NEdDJydlNYbHZ4ZE11ZVdUX0ZsMDlQVUZ4ME9mTFhmdkgzQnhrV0syZXZYZWVFekphZmZMeDhBS1lCQmVRQnNWTndJVW1PWGVyRlJVV3I2RnpEYUV2UVptWnhGMUVvbjQ3dE1hYzBwSTJVYThPazk1TGFUZlFDbExqem1VNHNJaDMybjNWU0F6enNoaGtWeUYyWnR6TWQ5OWkxOVU0ZDhLT1BlVUliTUpTZnZTWGdwZHdVTGF0ekM3NlZkcDc2?oc=5"
-    },
-    {
-      "title": "A.I. Has Changed How We Talk. Here Are the Words You Need to Know.",
-      "source": "The New York Times",
-      "date": "Wed, 18 Nov 2026 21:24:07 GMT",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUjZHZUZJSFQ2V2t1ZFFIVEJ3ZXl5Z09YTjFnR21ZVzRkLUhzVFNpSUxnanMwVm5maEtwODBkLXhtVE9kX0pvQTlUVXBWXy1uUlM4TUJKenFQR0Z6Tm9wNk9haXU5MVlaU1ptN2ZsTEdZZk1jRGdOUlpDN1gyZnhiTWZnenUxdlNZT1dUdmF4Vll2cmstTDV6VzkzZw?oc=5"
+      "date": "Thu, 19 Nov 2026 00:15:58 GMT",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVHEwVzdDdWRkNE1UNjJEaTFsTHN4cjFRMUtud0E5SFJ1UDQtaEFiM3dDN0lyYWw1Z3V2X2xVWGxweHV2NG90Z1pBeGJFMkN3cGo5bDN6YmtfcHNEcjF2T3FfZGFJaHZhcWQxbkZRZmM1eDJ5X0pJc3JMU0NpRmF0Wlo3a0owUTMxclZCZU5DcFl1dlhCZzhaa0dJNFp0SXVicncxMWY4ZGNtbHVJcHNia3Y1Uzc?oc=5"
     }
   ],
   "events": [

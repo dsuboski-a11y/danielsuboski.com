@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-11-20T11:47:45.148072Z",
+  "updatedAt": "2026-11-20T20:18:58.370919Z",
   "locationLabel": "Victoria, BC",
   "headlines": [
+    {
+      "title": "Teaching historical research in the era of artificial intelligence",
+      "source": "McGill Reporter",
+      "date": "Fri, 20 Nov 2026 16:38:36 GMT",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOVRxN3d1cWRQLXo4b1R4eWFXcEx0b19vLTJTVmR0U0VDNnVJdjRlMUFUOUdyMEtaaDF0ZU5tOE1XanhPemsybFItWDRaNHdEVEtQczlnX2dSLVpUOURmYmRULUFmcUFyX3Z2VHpDdHlDQjNVRGF5YWdvUEIyekpIR1lHbV9uSnV6cVk2QVBvZk9rWTM2c2Q1a0x3?oc=5"
+    },
+    {
+      "title": "Global X Artificial Intelligence & Technology ETF (AIQ) Stock Price, News, Quote & History",
+      "source": "Yahoo! Finance Canada",
+      "date": "Fri, 20 Nov 2026 10:50:26 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9pLUE4Wmd4NVViOGlZc2N1YkNPZnZCdzc0VlpxUUdXVVRVbGo1V1FpSUx5X3JiWEd6dHo4S29LLUhLY3pFZ09Ld2FtaWhIMk9V?oc=5"
+    },
+    {
+      "title": "Will Artificial Intelligence (AI) Replace Family Law Attorneys?",
+      "source": "Forbes",
+      "date": "Fri, 20 Nov 2026 19:31:18 GMT",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOREFDTmtNMHoxby1CWjNZM2l3TkNjZnNudmFuY3RZWXhMYlhGQXR1Ykd4TzY5Mkd2OWpYRFpEa0NfSmZzR1p2ek9oVHNfZE1tWUllTTFpbE44cE1fc1l0U01rcFUyb0pNblJmVUJfSUkzY3Zhd0tFNWtKYkhrSkxlRXdzMVpEQ2tpWEQ5MzFVb1Q1OV91Q3ZiUXd6QUg1dFM4MjBIWDdVZEowWW9lWEdMX2J3bGdzRFU?oc=5"
+    },
     {
       "title": "1 Magnificent Artificial Intelligence (AI) Hardware Stock Down 57% You Might Regret Not Buying on the Dip",
       "source": "The Globe and Mail",
@@ -15,10 +33,16 @@
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUk1sZnlrVUtPNjlZTEtTdmNzX2tFTm54cVRkOFpYdjFfR0NqdzNRdGdZak82cVFzMGkyRXNKeVJFSDRvVVdoa3lVZllsZzFwX3lBRlNXT1dVaU5jQmlkSGk1U0tkZjM0RXNfcUNVWDZuaG1zNl9UUGpIWXJlUjRCWDVuOUtxY1pmbFMtNEdmR2Zzc29QNVFwZjRBdFNyOEF2aURCNk9IS3NRQ2RiNGV5eHIydUdHSlh6TlZCa1BTYzRBcjFpNGJlSmtsSWM?oc=5"
     },
     {
-      "title": "Gender bias and artificial intelligence | Highlights | Supporting analyses | Committees",
-      "source": "European Parliament",
-      "date": "Fri, 20 Nov 2026 09:53:12 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSHpKa0JQREZoZVBIM0p5aVZKVzhySkJqaEdaSkFScGthaURyOU1hRnNhMmV4TzZRZGtwNXdBY1NaRGVlZmRMcThvRndsMDgydFFVNTBTSV9mX3kyQjNEeWJXcHVmcmRSelB6RTBnNTNKWlRIekpkVFhHeXJqbFllWW1hcDNZdUlhVFdSYUlvTjZzYUpPTGs3NUtDbmNRMk9ZeHpMSXBoWmxjSzVmX2FqNGkxT05WVm9t?oc=5"
+      "title": "Exclusive | Nestle Eyes Autonomous Factory Lines and Looks to Google, Microsoft as Partners",
+      "source": "WSJ",
+      "date": "Fri, 20 Nov 2026 17:35:41 GMT",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWUFvdy1NOXphTWxlN25CWVV2TlppczdLSERycm44cVJmNmF5Q1g5Y184Tmoyak96ekgyZDd4N1h2d3diVUktU1E5aGNtSm1hV2JyNUltOENIU3NLdW1OcEdKVUk0THhOWF94aVlhMUFrNTBULW5hckZ4eWppTG1uMmU1TW1zdmZzSC14QmZySElQbm53dWE1bnhoMVhYNEtCV3ViMGp1bTl3MzB3QnhnVjdGbVJmUQ?oc=5"
+    },
+    {
+      "title": "Feds establish AI advisory council for culture",
+      "source": "BetaKit",
+      "date": "Fri, 20 Nov 2026 18:24:45 GMT",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE02SEZmeTFYS2hTMU1ZZ2NoUldTXzJhd2RvWUdGS0lRT1gweTBfN1pCcllYS191V2VRY29Wdk55c2kzZDFFdkxrc1dNdXdxeFpvQ19DMDJHVFFFU080M0tJUGFkUUtaRWplMndwSXpaU29tRmpPU2J5UDJ4TQ?oc=5"
     },
     {
       "title": "Potential and pitfalls of artificial intelligence to address disparities in epilepsy",
@@ -27,40 +51,16 @@
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5aYmdPX3Y0ampBdXhNcTBvTmNyc0FVaDZhem8xZ1ViR0JBWHZuUng0anJrbUZhdHduRktfbFVHY1hkZThZek4wTGRGZVdScVpSam1TR2RaVmV4S0lqZC13?oc=5"
     },
     {
-      "title": "Exclusive | Nestle Teams Up With Microsoft, Boston Dynamics on AI in Factories and Products",
-      "source": "WSJ",
-      "date": "Fri, 20 Nov 2026 07:10:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWUFvdy1NOXphTWxlN25CWVV2TlppczdLSERycm44cVJmNmF5Q1g5Y184Tmoyak96ekgyZDd4N1h2d3diVUktU1E5aGNtSm1hV2JyNUltOENIU3NLdW1OcEdKVUk0THhOWF94aVlhMUFrNTBULW5hckZ4eWppTG1uMmU1TW1zdmZzSC14QmZySElQbm53dWE1bnhoMVhYNEtCV3ViMGp1bTl3MzB3QnhnVjdGbVJmUQ?oc=5"
+      "title": "Dartmouth to Pilot New Approaches to AI in Education",
+      "source": "Dartmouth",
+      "date": "Fri, 20 Nov 2026 19:11:15 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbi1yZ1YyQ3dGblVWMEVmaWM0ZG1NNFMxQnlNYjNYU2FhRWdyaUpudEVQdEZvZUxZbEdPX2JWNGlDR3NHTW40NGZTMHdNRF9jUHVCVnJhaHdLX015VU1LUnBILXRGRDZHZk5ZY25GSkFQdHMyOU9BMWxpRE1uNENNaTNsc29hZk5tQ0dr?oc=5"
     },
     {
-      "title": "TikTok launches tool to help public figures detect deepfakes globally",
-      "source": "BNN Bloomberg",
-      "date": "Fri, 20 Nov 2026 11:20:01 GMT",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUUg0UU1hODdld0RjcGNtQlQyX3JsdDRycnN3RGJoV2dBSWxxTEp1bE9hc3RMcEgwajkyUjZ3RXluVm93Ylk4Q2liZU5qRDVIcmZwbTZXWmpuQktNbDlKM25aazN0Y20waUNRSmRXNVl3VTRpb0ZMNFRIQ1F5YjAzbzF3Mk1WaFFiMF9fbFY1TEI4dWZGaVNHXzhTT2tLb0VINTJ0OUlKUDNyalBfdXpqckhqc2FnbnNZUTk4NV9hYVlHOEtZdDRnTC1KOUtBc0NnUXVNZy1VSmtsQQ?oc=5"
-    },
-    {
-      "title": "Journal editor discusses artificial intelligence in academic publishing",
-      "source": "Yale Daily News",
-      "date": "Fri, 20 Nov 2026 09:02:15 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObDg1RjdrSUF2UjNJdjFRRTh6WUtINHUzTVNtdHkxX08wSDEydndlSUNJSVVhMHlEenVIb091NzhsZWk2ZmF1czNFN1VtLVdaTlBPT1J3NHVjNmRreC1JQ3VLOHVhUzM5RzFrbEtHTzVEa2hZZlU0dTdvQlB4QXRfWWotd21KdWxUNU1nNUdmbjFOTGtaUXNmZDJEdkJhQ3F4MF9HLW01REp3QQ?oc=5"
-    },
-    {
-      "title": "Plasma etching demystified with explainable artificial intelligence",
-      "source": "AIP.ORG",
-      "date": "Fri, 20 Nov 2026 06:47:02 GMT",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdVhEZU02Rjh0U0YzcjJGbThVeWxTY0N4UW94ZTNNa2lkWGNpblJ1b3pyeWFsbWQ4YlRtaFpFMy1sSHcxakdkaU95OHFuOXp6MVR2RDVySW9CM2ZRU1l6X3luNDJmb2lFd1RISmpVZW5ZTUVLQnZTSnZham5VMk10eXUxSWJ3QXNNRE9ZV0hfd1VQZ253RFplREFXTTNSZw?oc=5"
-    },
-    {
-      "title": "Artificial Intelligence for Cardiovascular Disease Prevention in Resource-Limited Settings: A Review of the Literature",
-      "source": "Cureus",
-      "date": "Fri, 20 Nov 2026 04:54:16 GMT",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPTG5BY2Z1dkVOVE8wNkZtTkpnUjMwZjFENkJLNHVISElCVDJXbzdmbS1qTmhwMHJQY3BFelEzUWJ2UmRiVVNjdnVRYkIyY3p2SWpFZS12cWFqTkMtcUFPNDdIdTQ2VEdXdjNNOEhpN0NxUDI0WUZvVXhEa2JnNTN3MWJWa3V2WFRYc3lnY1hDX01mVk00dDdsZjl0X3R0NWZhS2MyYzg1SGc2QlVraTZUZEZ3cWxKUHQ5TVVldHFFZmFIZ25xMHFFdXdmakJMa25GSXZObzhiblpxNE5tSjZEdDdpUUh3SXJwa3c0Ug?oc=5"
-    },
-    {
-      "title": "Should You Forget Nvidia? 2 Artificial Intelligence (AI) Stocks With More Room to 10x",
-      "source": "Yahoo Finance",
-      "date": "Fri, 20 Nov 2026 10:35:02 GMT",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNmRITTNvUE94R2lzUS1ReDJVN05KRXpnUjUyY21EN1o0YVp4bjVrWEEwN29ieEY0My1ldXNfdUpHT205OU1HaG5obFZmVXF4ckxUTW1DaTQ5QjVzYWZJRmN5bnFoQThUamdWRmFMMFd4c0hyNVVnRXg0YmtJUUxsRl9qcVp2MVdaVnpmeUVvVmoxMzFoQVFMLU5wcTlVdUJ6YjZhYThn?oc=5"
+      "title": "Shaw: AI data centres, cybersecurity loom large for B.C. Conservatives",
+      "source": "Castanet",
+      "date": "Fri, 20 Nov 2026 19:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRWVSZmJsRFdydVc2SG1YUklYR0tNZ2ZCOXVrdDlXM1pZbUlucEhWb0tZai1OdGd3OXlKbHFBYTYxM2hTT0NjNVhSb1hua1MwQktEMGltcnQ2ZE1hVzlfNE44cE03RWt2SnZQd3d0d1pOU2lZRFhYSVRScHVKY21ocExtanZza08wX3dJb2FjdThOUzZqc01vQnJZTVRwNzVINkVnQUdGRVlKbUt2andMSEVqM2sybE9W?oc=5"
     }
   ],
   "events": [

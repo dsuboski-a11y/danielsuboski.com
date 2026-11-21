@@ -1,12 +1,42 @@
 {
-  "updatedAt": "2026-11-21T17:31:28.908165Z",
+  "updatedAt": "2026-11-21T23:15:33.337402Z",
   "locationLabel": "Victoria, BC",
   "headlines": [
     {
-      "title": "AI (artificial intelligence)",
+      "title": "Health System News Building Better Care Pathways with Artificial Intelligence",
+      "source": "Ontario Hospital Association",
+      "date": "Sat, 21 Nov 2026 12:44:07 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcXNJcldiT18wRW9ZYlRvbVZ1RExVTWFZMUFzQlhUc1FuSWplaXN4OU83YUR1M1JVZ2pTNnNpOER4aFVOTG82RkpJQkhCVWxqV1NqOUdURnJBcVd2Z2tHRW8yaGhYZ0dnQmxpa2tvQmtKMW5lT3JFemZENXkyT1dDMnd4V1ozbXQwc3RZ?oc=5"
+    },
+    {
+      "title": "ASML vs. SK Hynix: Which Artificial Intelligence Stock Is a Better Buy for 2027?",
+      "source": "The Globe and Mail",
+      "date": "Sat, 21 Nov 2026 16:45:25 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZVNDWVNKa3J2c25iWkt6dzdxd0NMcmFZRlBaWXh4NXhCVmw4OWVnenAxR21hMHkwazFYckd4dWJmbWtaTUNObTZFZ0wxSURoeXJ4SFVoSm9uRUxmQUs4QnlqeE52UUphaW82Y29PZXBXWmdCTXVqSHFhb0tseFdGZTlFRnhMODRXeHA2M0tENGFQOEhWNnprdEZIMXJjRlU2S0tfQjlUQmFsbmpYdmJqTXNONmtfdkpYcjBWV05XdGlScGVodTI2ZXFpcFZNNElTWTFoVjdDWmdWWUV2MDVZdEstZHR1N1FqOC1SUWJSMzMtbTgy?oc=5"
+    },
+    {
+      "title": "Etsy faces backlash over including AI model training in new policy update",
+      "source": "CBC",
+      "date": "Sat, 21 Nov 2026 19:43:13 GMT",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQ0RFdlkwMTVtaVJvQ1J2bzBIOUtEWWFYZWsxbnkxaThuM2VKc0Nxd0p4VzA0bHEwZ0QydVF6S2FHaWtKRno1aEYtYXlSdkptWWpZTFU5VmxDVDdRQXhGYkEwQ3RZbTc5SEkwMGNYcFNjLW9lN1M4aURUSWVLZmxzNTJkdVVFS1NNSmUxZm51SVNlUW8?oc=5"
+    },
+    {
+      "title": "‘The doom of humanity’: will the quest to make robotic hands render us obsolete? | AI (artificial intelligence)",
       "source": "The Guardian",
-      "date": "Sat, 21 Nov 2026 06:38:48 GMT",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ITEpPcjJTZG1IZVJXYTVWanhKNHZ6QmZ0QngyS1d5T1VzdFVmQ2lrUzJ2U3RQeWZHY3ExbU1DX3dJRFhFRGJoV2tyZmVuYkYzekRrTnZNOFg3Q2hPS3ZzbVlNQVgzcWJONnBIb3h2SW4?oc=5"
+      "date": "Sat, 21 Nov 2026 19:15:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVmw5MEdUWFlVTW1fVFBSc3JyR0k2SXBBbjdiU0lJZnpDM25TNzNNRUxkU254Uk1tQ3UtUlo0alhWb2R1b2FkT0dKcWJaSWtuVkNNank5YTNvaFlkT1Rrb1FMRDcwWDhoYmpGX1RxT2Z0QXZtWGgtNjVqS0xtT0ZuVFlWaS1jT0FickRtSw?oc=5"
+    },
+    {
+      "title": "A Ukrainian serviceman prepares a Gara, a multifunctional unmanned aerial vehicle equipped with artificial intelligence elements, before flying it over positions of Russian troops, near the frontline in Ukraine's Donetsk region in May. UN diplomats met in Switz",
+      "source": "Yahoo News Canada",
+      "date": "Sat, 21 Nov 2026 21:05:20 GMT",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObTlic2hfSFA5V3p0ZlVtTkRtZm4yOVl5bFgxSk9aZEt3YmV0dlRmSGFyNVhiQjdXN2xRdWVTWDFWZEI5TktZUVZvUTBocTZ6clJZZUpxZFVlU0JwVzZiMEVMb3BEdGdjRzdsMWRaenJlZmJzcDEtRTZURU9xVDVkQlhuR2l5STVvc1VHb0hIbHU0TlFhUVE?oc=5"
+    },
+    {
+      "title": "FLORetina-ICOOR 2026: AI moves from the image to the trial, the clinic, and the operating room",
+      "source": "Ophthalmology Times",
+      "date": "Sat, 21 Nov 2026 20:03:45 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdHhwYVhLMU9oRF81c1FMdGt2OXpmVkl3YUIwWFFIQXJmRURJNzktejllYlFZTVhkZGpITW1wNmV6YnM1VHA2V0xUNDI2WTJWZHNRQTRIY3h6T244dFFROFpjdlBzdEZqTV9KSmxtakpyM2NERFFRd0hmRTktT2x3aTJQR1J2ajluUGh0LUhfemRwVTZyaEFZZWlQOTM1WWItWVktNnpZeGhMT09JRTJvVEMxVGY3SU1Jb29taEJLUTVQOGZuV3RQck9lMA?oc=5"
     },
     {
       "title": "Teaching historical research in the era of artificial intelligence",
@@ -15,52 +45,22 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOVRxN3d1cWRQLXo4b1R4eWFXcEx0b19vLTJTVmR0U0VDNnVJdjRlMUFUOUdyMEtaaDF0ZU5tOE1XanhPemsybFItWDRaNHdEVEtQczlnX2dSLVpUOURmYmRULUFmcUFyX3Z2VHpDdHlDQjNVRGF5YWdvUEIyekpIR1lHbV9uSnV6cVk2QVBvZk9rWTM2c2Q1a0x3?oc=5"
     },
     {
-      "title": "Hiding beyond the visible: How artificial intelligence is enhancing multispectral camouflage",
-      "source": "AIP.ORG",
-      "date": "Sat, 21 Nov 2026 00:43:06 GMT",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZF9LMkJwcDBHNlhOZkU3TUQxdkk0S2lmR05Fc2xINGFBSEpzdHZfVXkyWHJvSmFCZ3M1Q3JiSzIyUFhRMkxhNEotdHVCNU1SSmRaUVJHSkZybnFzc2ZUcjJLUDlUdGFFXzd5MklqYmd0X19YWVR1TGFqUVU5NFA3T0h3NDBSZFpfVmhiQ1ZncG5QSlJSVHZlRkFxLWRoSnhORlkyQXVIQnd0bXdSWEYyNHpjRG4zVjJ4bWVpbTd3?oc=5"
+      "title": "History of artificial intelligence | Dates, Advances, Alan Turing, ELIZA, & Facts",
+      "source": "Britannica",
+      "date": "Fri, 20 Nov 2026 08:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBwMGMwd2UtbzRjeEMyZlR6Y0tHR3BUejFycGkxZm94RTN5SVk0aEY4OG1oZ2NwcE1sd29JQ1g0azJPamZ4Z01obTRpWTg0dGJkMGhZMW5hOHpxU2NuOWt4Ykk0SHJlQVBTeHptd3FxWTR6M2NxdzVPdw?oc=5"
     },
     {
-      "title": "Artificial Intelligence for Health: New PAHO Publication Examines the Opportunities and Risks of Reinforcement Learning",
-      "source": "Pan American Health Organization (PAHO)",
-      "date": "Fri, 20 Nov 2026 15:48:33 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbUY5el9qNmZQa1hEV3hYcFdwQmdUcUNLVkpGMHd2QXlFTVRQUVJRS28tM0JxbVAzTHR2b2E1elUwRkh0UlZXbEZIVFoxMmpXZF9nX2VGS0dOOXFOMTg1TURLMHpwSmwxVkRhY3pDUDZUcE5ydXZqbk1lNEZybVVPWVdNZnBmcVBMVE9FbzVCbHFkdFN0N2Y1eXhoeWVCTDBGaXNxTnhnUG5jbXhnTmkzUy1oNjJZWGl0THc?oc=5"
+      "title": "AI may not work like the human brain after all, scientists discover",
+      "source": "ScienceDaily",
+      "date": "Sat, 21 Nov 2026 15:25:56 GMT",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0yaS1OaGZZX0NqZndfaW1HQ01LQmZxU0lIaUhmTVdEdFZPSVpJUlVudjBFVFR2eFdmY3F6U2FTbThfbU9lOE5kUmowYUJuOUl5d1c3TEM3dWxsUG9WQUFVZVB6dkFSTDk4eWFOTHhPWQ?oc=5"
     },
     {
-      "title": "Wall Street reels as AI-linked companies spark massive sell-off in the US",
-      "source": "Le Monde.fr",
-      "date": "Sat, 21 Nov 2026 09:20:07 GMT",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQbWprYlF0cUdvTmlON2ZFYlZZZ2FSOG9UREl3bnhOZmtWZ01JNlFZTDc1UnNRdGVPb2JNUlNsbGlQZFVSUDVlLXROVTVxQkN3SXpSSEVnS0lYcWVwOFh1RjQwd3FzNzlaU0x6b3g1d3AwN1JZdUdXSENTMGNCajhhdHBJOWdkUWwtMFVSaTZfdnd5eVhHNVc2aWJUWG1mUHlkcXV4NVphS2FPRW1rdTRfQktSTWljSE9qYU03eUlKdmxVWVc4a2tZeC05QmxLZFUwWW1tVmJDZkZqQQ?oc=5"
-    },
-    {
-      "title": "Recent Cyberattacks Could Signal the Awakening of Artificial Intelligence",
-      "source": "The Times of Israel",
-      "date": "Sat, 21 Nov 2026 09:11:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOemlGZ2FoaWljUkNZU0xCcEpManRBZUNBck1wOFlQcXA1b2dNNC1IX21wUGlUVU92ZWxZbHFyXzhiN21FMFA5Z2R0ZkNWOHBRektRMnNHOERuckI3OXd3WnVHZTNOU1c5aHdtUFk2bGRta1MxY3NVUGlFeHozYUJ5SVI0QzVPSGFHQ2FRWXFqaG5XTUlJcmIwdGhOWE1TSEE5TTlZWEZqNUlkZw?oc=5"
-    },
-    {
-      "title": "Will Artificial Intelligence (AI) Replace Family Law Attorneys?",
-      "source": "Forbes",
-      "date": "Fri, 20 Nov 2026 19:31:18 GMT",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOREFDTmtNMHoxby1CWjNZM2l3TkNjZnNudmFuY3RZWXhMYlhGQXR1Ykd4TzY5Mkd2OWpYRFpEa0NfSmZzR1p2ek9oVHNfZE1tWUllTTFpbE44cE1fc1l0U01rcFUyb0pNblJmVUJfSUkzY3Zhd0tFNWtKYkhrSkxlRXdzMVpEQ2tpWEQ5MzFVb1Q1OV91Q3ZiUXd6QUg1dFM4MjBIWDdVZEowWW9lWEdMX2J3bGdzRFU?oc=5"
-    },
-    {
-      "title": "Securing Elections in an Age of Artificial Intelligence: Workshop Recap",
-      "source": "The Electoral Integrity Project",
-      "date": "Fri, 20 Nov 2026 02:59:08 GMT",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUk1sZnlrVUtPNjlZTEtTdmNzX2tFTm54cVRkOFpYdjFfR0NqdzNRdGdZak82cVFzMGkyRXNKeVJFSDRvVVdoa3lVZllsZzFwX3lBRlNXT1dVaU5jQmlkSGk1U0tkZjM0RXNfcUNVWDZuaG1zNl9UUGpIWXJlUjRCWDVuOUtxY1pmbFMtNEdmR2Zzc29QNVFwZjRBdFNyOEF2aURCNk9IS3NRQ2RiNGV5eHIydUdHSlh6TlZCa1BTYzRBcjFpNGJlSmtsSWM?oc=5"
-    },
-    {
-      "title": "London's urgent race to make AI safer",
-      "source": "BBC",
-      "date": "Sat, 21 Nov 2026 08:08:52 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE41dC0wTVktUjlMeGxLRDhjcEpOUkNNcEtDaTNRdzg5eFNvenBsRVJLVTJrWldhQXZlYjVYMkV3MHRUS2FWNDVGNmdyWTNoaWYzdGxLNlVkdlVxRGc?oc=5"
-    },
-    {
-      "title": "1 Magnificent Artificial Intelligence (AI) Hardware Stock Down 57% You Might Regret Not Buying on the Dip",
-      "source": "The Globe and Mail",
-      "date": "Fri, 20 Nov 2026 11:13:22 GMT",
-      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQeVRqSGRRTFRWa1pqdzFqaTI1Yks4aWFMb1JhNnFuU2VaRHJZUnBGQ0pUdU9HclJPV2JjSUhMQkdOV1Nxa3ljY1pGNW80S0Vhb2NQV0JJZ0hBX1ZLbmlpbVItOUV4eVVsRGJZZWdRX1dtOVFUZ3d3bllJNGN3U0dyN3J2R3lDS0lEdnllMlJfd2xabXRxeHRvM3I2a0diTXUxSkRPeGp2czN6WXRQN0llT21oeUZlZ3RTSF90NnEzS1lIQnVHSmZDZWxjV0FWaTVJSjZSNG9ETFVfdWlmU2hfLTB2aDJhX1lmWDdNVXBpbi1lSHhTNk5QNm1kaE0zUGFXNVdGalNKUDVWYnBWUWVvMDBnNmk?oc=5"
+      "title": "Real-time payments, provincial policies and AI industry ups and downs: FP Video Examines",
+      "source": "Financial Post",
+      "date": "Sat, 21 Nov 2026 12:00:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVG1YSV9uN0tEelBVY0I4bHVaaDlIZXNUR0l3T19FTHZLMGhyZDRPZTdzQXF4MDhtekJmOGg3WmZJb0sxN3lqNmlZaUhrNklZSTJULXJaeDRhS2tMZEdqZ0tiVmJXTDJPMVBfR0stbDNtNVdSWGVVOFZxbVNIVnVmTWpfTmNiRGVWMjNWS3daVU5rR1FaSEptQ3hhMzNFanpuajBpWGZxVmUwTjg?oc=5"
     }
   ],
   "events": [

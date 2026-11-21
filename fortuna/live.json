@@ -1,12 +1,24 @@
 {
-  "updatedAt": "2026-11-21T02:13:45.149122Z",
+  "updatedAt": "2026-11-21T09:52:02.189352Z",
   "locationLabel": "Victoria, BC",
   "headlines": [
+    {
+      "title": "AI (artificial intelligence)",
+      "source": "The Guardian",
+      "date": "Sat, 21 Nov 2026 06:38:48 GMT",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ITEpPcjJTZG1IZVJXYTVWanhKNHZ6QmZ0QngyS1d5T1VzdFVmQ2lrUzJ2U3RQeWZHY3ExbU1DX3dJRFhFRGJoV2tyZmVuYkYzekRrTnZNOFg3Q2hPS3ZzbVlNQVgzcWJONnBIb3h2SW4?oc=5"
+    },
     {
       "title": "Teaching historical research in the era of artificial intelligence",
       "source": "McGill Reporter",
       "date": "Fri, 20 Nov 2026 16:38:36 GMT",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOVRxN3d1cWRQLXo4b1R4eWFXcEx0b19vLTJTVmR0U0VDNnVJdjRlMUFUOUdyMEtaaDF0ZU5tOE1XanhPemsybFItWDRaNHdEVEtQczlnX2dSLVpUOURmYmRULUFmcUFyX3Z2VHpDdHlDQjNVRGF5YWdvUEIyekpIR1lHbV9uSnV6cVk2QVBvZk9rWTM2c2Q1a0x3?oc=5"
+    },
+    {
+      "title": "Hiding beyond the visible: How artificial intelligence is enhancing multispectral camouflage",
+      "source": "AIP.ORG",
+      "date": "Sat, 21 Nov 2026 00:43:06 GMT",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZF9LMkJwcDBHNlhOZkU3TUQxdkk0S2lmR05Fc2xINGFBSEpzdHZfVXkyWHJvSmFCZ3M1Q3JiSzIyUFhRMkxhNEotdHVCNU1SSmRaUVJHSkZybnFzc2ZUcjJLUDlUdGFFXzd5MklqYmd0X19YWVR1TGFqUVU5NFA3T0h3NDBSZFpfVmhiQ1ZncG5QSlJSVHZlRkFxLWRoSnhORlkyQXVIQnd0bXdSWEYyNHpjRG4zVjJ4bWVpbTd3?oc=5"
     },
     {
       "title": "Artificial Intelligence for Health: New PAHO Publication Examines the Opportunities and Risks of Reinforcement Learning",
@@ -15,52 +27,40 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbUY5el9qNmZQa1hEV3hYcFdwQmdUcUNLVkpGMHd2QXlFTVRQUVJRS28tM0JxbVAzTHR2b2E1elUwRkh0UlZXbEZIVFoxMmpXZF9nX2VGS0dOOXFOMTg1TURLMHpwSmwxVkRhY3pDUDZUcE5ydXZqbk1lNEZybVVPWVdNZnBmcVBMVE9FbzVCbHFkdFN0N2Y1eXhoeWVCTDBGaXNxTnhnUG5jbXhnTmkzUy1oNjJZWGl0THc?oc=5"
     },
     {
-      "title": "1 Magnificent Artificial Intelligence (AI) Hardware Stock Down 57% You Might Regret Not Buying on the Dip",
-      "source": "The Globe and Mail",
-      "date": "Fri, 20 Nov 2026 11:13:22 GMT",
-      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQeVRqSGRRTFRWa1pqdzFqaTI1Yks4aWFMb1JhNnFuU2VaRHJZUnBGQ0pUdU9HclJPV2JjSUhMQkdOV1Nxa3ljY1pGNW80S0Vhb2NQV0JJZ0hBX1ZLbmlpbVItOUV4eVVsRGJZZWdRX1dtOVFUZ3d3bllJNGN3U0dyN3J2R3lDS0lEdnllMlJfd2xabXRxeHRvM3I2a0diTXUxSkRPeGp2czN6WXRQN0llT21oeUZlZ3RTSF90NnEzS1lIQnVHSmZDZWxjV0FWaTVJSjZSNG9ETFVfdWlmU2hfLTB2aDJhX1lmWDdNVXBpbi1lSHhTNk5QNm1kaE0zUGFXNVdGalNKUDVWYnBWUWVvMDBnNmk?oc=5"
+      "title": "Wall Street reels as AI-linked companies spark massive sell-off in the US",
+      "source": "Le Monde.fr",
+      "date": "Sat, 21 Nov 2026 09:20:07 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQbWprYlF0cUdvTmlON2ZFYlZZZ2FSOG9UREl3bnhOZmtWZ01JNlFZTDc1UnNRdGVPb2JNUlNsbGlQZFVSUDVlLXROVTVxQkN3SXpSSEVnS0lYcWVwOFh1RjQwd3FzNzlaU0x6b3g1d3AwN1JZdUdXSENTMGNCajhhdHBJOWdkUWwtMFVSaTZfdnd5eVhHNVc2aWJUWG1mUHlkcXV4NVphS2FPRW1rdTRfQktSTWljSE9qYU03eUlKdmxVWVc4a2tZeC05QmxLZFUwWW1tVmJDZkZqQQ?oc=5"
     },
     {
-      "title": "US tech companies that build AI data centers in other countries will be penalized, Trump says",
-      "source": "CityNews Kitchener",
-      "date": "Fri, 20 Nov 2026 19:33:18 GMT",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPT2dPR1h4REw4Q0c1YXc5eWdLbDdFX2hQZG9ldXF1X0E3ZTBsMURoaW5fcWZaMnhkNWh2MlpNOHJWbW5tTmRDdzNCd0p5d0E3N092cVV2Q1lhUmhlbW54TTdpb25DOUhDQmc3SWgxLUZCSzNtTG9wNUVEMWtDNk5vN2g5a3ZBZHhyc1g3OVBpT1pxODlOUVJheTdJRDRXWDE0UnN1cUxLeGNUUWNHTC0tNDBHSU1CR0owYzlMUVJYYVlLajlvb1hYRlYyTjRiZ2s?oc=5"
+      "title": "Recent Cyberattacks Could Signal the Awakening of Artificial Intelligence",
+      "source": "The Times of Israel",
+      "date": "Sat, 21 Nov 2026 09:11:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOemlGZ2FoaWljUkNZU0xCcEpManRBZUNBck1wOFlQcXA1b2dNNC1IX21wUGlUVU92ZWxZbHFyXzhiN21FMFA5Z2R0ZkNWOHBRektRMnNHOERuckI3OXd3WnVHZTNOU1c5aHdtUFk2bGRta1MxY3NVUGlFeHozYUJ5SVI0QzVPSGFHQ2FRWXFqaG5XTUlJcmIwdGhOWE1TSEE5TTlZWEZqNUlkZw?oc=5"
     },
     {
-      "title": "Artificial Intelligence in Cancer Screening: Laghouat as a Potential Pilot Region in Algeria",
-      "source": "Oncodaily",
-      "date": "Fri, 20 Nov 2026 21:26:34 GMT",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9RYmhGUFFScHFES3ZMN19wSmFHbC1YenBxLVEwaDEtOEVFcGQ5Q3M1MUVJc3lIenI5S25sSXBHNmVRMUNNTkp1OXhWZGljbnNIaDgwUXd0ZGVsLUhGc0J2WHdtYXF2TDFVVnBubVQyb1IyUGxTN0pV?oc=5"
-    },
-    {
-      "title": "Bridgetown AI summit to tackle safety as risks outpace capacity to respond",
-      "source": "UN News",
-      "date": "Fri, 20 Nov 2026 21:29:54 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1mdkdEa1pVS1hyMXB3aE91VXg1TVVWRUdLM1JOV3Z6RVdnMGJSaG13dXV2eEhXckR6cVJ3QVZnbmE4ZGRUN3FDeWVGbnQwWVpITXQzZGtxSQ?oc=5"
-    },
-    {
-      "title": "AI Sovereignty in Canada: Who Will Benefit From the Economic Value of Artificial Intelligence?",
-      "source": "Retail Insider",
-      "date": "Fri, 20 Nov 2026 11:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOYUVHQWYyVXMwejNibW9VbjlaNjAwdzA2UXNiSTdpdE9OWFgwaTA2QWthSUFtTnl5MVZHd25HY0ZwajRtT3FfRUlyTVBUT3hpbjE5MGpsNld0R0pDWk9BaHotczVyamhBd21mdzJ0RVd0bG43T2MyUnVCOHNOdWMtUDlNY05MVnpJSDBqbzRBbU9FdGlBcVRNb1FSTUZXTXpjUldrWERnSTJwb096am5YajJFRm55YVF3eVBWNF85YlV4a0l5QWZ1X1FDT1pWRnhScnNRUlIxUFl2MnM?oc=5"
-    },
-    {
-      "title": "Eyes-On: Artificial Intelligence Meets Healthcare",
-      "source": "The Reveille, LSU's student newspaper",
-      "date": "Sat, 21 Nov 2026 00:11:34 GMT",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZVA2Mkd5SW5QM2I0Y1JOY3BjS3FQTVpXdW03N2NKdS01Rzk2YmV3UnB1ZVpUcmExQkdieGEwTzJEdHFqNTRkV0hQWVRLZUhFRnJsY0Y0M1Q4ektsdTkxLTdGcUc4S1FxaGxNb1NXUGN0M21lMGRDNVp0NXFOWWxiM1BxMy13Y0NIOExlZzJB?oc=5"
-    },
-    {
-      "title": "Potential and pitfalls of artificial intelligence to address disparities in epilepsy",
-      "source": "Nature",
-      "date": "Fri, 20 Nov 2026 10:54:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5aYmdPX3Y0ampBdXhNcTBvTmNyc0FVaDZhem8xZ1ViR0JBWHZuUng0anJrbUZhdHduRktfbFVHY1hkZThZek4wTGRGZVdScVpSam1TR2RaVmV4S0lqZC13?oc=5"
+      "title": "Will Artificial Intelligence (AI) Replace Family Law Attorneys?",
+      "source": "Forbes",
+      "date": "Fri, 20 Nov 2026 19:31:18 GMT",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOREFDTmtNMHoxby1CWjNZM2l3TkNjZnNudmFuY3RZWXhMYlhGQXR1Ykd4TzY5Mkd2OWpYRFpEa0NfSmZzR1p2ek9oVHNfZE1tWUllTTFpbE44cE1fc1l0U01rcFUyb0pNblJmVUJfSUkzY3Zhd0tFNWtKYkhrSkxlRXdzMVpEQ2tpWEQ5MzFVb1Q1OV91Q3ZiUXd6QUg1dFM4MjBIWDdVZEowWW9lWEdMX2J3bGdzRFU?oc=5"
     },
     {
       "title": "Securing Elections in an Age of Artificial Intelligence: Workshop Recap",
       "source": "The Electoral Integrity Project",
       "date": "Fri, 20 Nov 2026 02:59:08 GMT",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUk1sZnlrVUtPNjlZTEtTdmNzX2tFTm54cVRkOFpYdjFfR0NqdzNRdGdZak82cVFzMGkyRXNKeVJFSDRvVVdoa3lVZllsZzFwX3lBRlNXT1dVaU5jQmlkSGk1U0tkZjM0RXNfcUNVWDZuaG1zNl9UUGpIWXJlUjRCWDVuOUtxY1pmbFMtNEdmR2Zzc29QNVFwZjRBdFNyOEF2aURCNk9IS3NRQ2RiNGV5eHIydUdHSlh6TlZCa1BTYzRBcjFpNGJlSmtsSWM?oc=5"
+    },
+    {
+      "title": "London's urgent race to make AI safer",
+      "source": "BBC",
+      "date": "Sat, 21 Nov 2026 08:08:52 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE41dC0wTVktUjlMeGxLRDhjcEpOUkNNcEtDaTNRdzg5eFNvenBsRVJLVTJrWldhQXZlYjVYMkV3MHRUS2FWNDVGNmdyWTNoaWYzdGxLNlVkdlVxRGc?oc=5"
+    },
+    {
+      "title": "1 Magnificent Artificial Intelligence (AI) Hardware Stock Down 57% You Might Regret Not Buying on the Dip",
+      "source": "The Globe and Mail",
+      "date": "Fri, 20 Nov 2026 11:13:22 GMT",
+      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQeVRqSGRRTFRWa1pqdzFqaTI1Yks4aWFMb1JhNnFuU2VaRHJZUnBGQ0pUdU9HclJPV2JjSUhMQkdOV1Nxa3ljY1pGNW80S0Vhb2NQV0JJZ0hBX1ZLbmlpbVItOUV4eVVsRGJZZWdRX1dtOVFUZ3d3bllJNGN3U0dyN3J2R3lDS0lEdnllMlJfd2xabXRxeHRvM3I2a0diTXUxSkRPeGp2czN6WXRQN0llT21oeUZlZ3RTSF90NnEzS1lIQnVHSmZDZWxjV0FWaTVJSjZSNG9ETFVfdWlmU2hfLTB2aDJhX1lmWDdNVXBpbi1lSHhTNk5QNm1kaE0zUGFXNVdGalNKUDVWYnBWUWVvMDBnNmk?oc=5"
     }
   ],
   "events": [

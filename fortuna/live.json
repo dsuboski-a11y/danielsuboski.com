@@ -1,12 +1,30 @@
 {
-  "updatedAt": "2026-11-25T02:28:18.497698Z",
+  "updatedAt": "2026-11-25T12:54:28.640203Z",
   "locationLabel": "Victoria, BC",
   "headlines": [
     {
+      "title": "A research agenda for integrating artificial intelligence in mitigation scenario workflows",
+      "source": "Nature",
+      "date": "Wed, 25 Nov 2026 11:18:40 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBUb3JjOFZLXzRBazBrdlVUQzJ6MUJtUlQ0ZF9tVkZRYVBZbmMtSHFTSElmYlhDMFZUUmVIVkdMV3pPTFppVXROVW8wSzZTenRTZGtwZWZfbHE1WktUZ1Qw?oc=5"
+    },
+    {
       "title": "What is Super Intelligence?",
       "source": "NASA (.gov)",
-      "date": "Tue, 24 Nov 2026 16:22:20 GMT",
+      "date": "Tue, 24 Nov 2026 16:18:04 GMT",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBYV1RFejMzMzkxQmpESE1mOVVnRHJ1QUt6bi1WbFVISENxTkM4MTgxZEJfNGIwY09KNmF1ckh1ZEVuSjFXbWtUY0ZpMGEtSjZ1QWFrbDFnY0V3bEll?oc=5"
+    },
+    {
+      "title": "Alphabet Has $251 Billion Invested In 2 of Its Biggest Artificial Intelligence Partners",
+      "source": "The Globe and Mail",
+      "date": "Wed, 25 Nov 2026 07:30:02 GMT",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQWmFpUURBNF9OaHg3aDJJdDRQdm51S0YwYXR3ckZoZG9nRkZtekU1QmtCTkZLNG1nbXY4SHdIWGNyTTc0UHhRYzZISTN1bTB2VERJT0hlektteGx3dDBScXRXVXJ1SVdJZFFvYUZPZlVFS2V4cjNCTjh6T0swZFRaZXZTNnR0dndsZVZjQ0plOVN3ZUxhQzN2Vm9KemJwTnpCTWV6d09OdXowcWQ1cXJZd0JHQWh6cnVKT053OGZueWVYWjdIUmFJbUFvNGItUzZpZWVrNUxIM19yajVNSDJjQzVTLWdsS2otNzJLMmVuN2kwelJrUy16VjlWQi0xVGVY?oc=5"
+    },
+    {
+      "title": "‘It’s been really a mess’: Meta insiders concerned over push to AI content moderation",
+      "source": "The Guardian",
+      "date": "Wed, 25 Nov 2026 09:53:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOT2R1YjJLbjBjWVNaaGdKVUlXLW1xLXRNczUzanM4US1aNU9RT0dHbkNpMXBsaV9nZWVieHlfeWc4TnZGUmlDRHBfNXFLbDc5eENVUVgzZnk4N3psdERKbmFUT0NUYUxHUjZITEZobDVJc1JjYkxLZzJlelRVb3Npd3h1VGZ1b2hkQmd1TDZwdkotMFdic25VZll1ZkdfVlB5ZFlSV0lCMA?oc=5"
     },
     {
       "title": "Artificial Intelligence (AI) Since Barbenheimer (or How Resources Make AI a Little Less Scary)",
@@ -15,52 +33,34 @@
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRndzZGNrVU1fU2RlVzN4T1pIdkYzYkVpMVYtTi03dGZkVXNRaW43djdVdVQ4amQtOUtiX1ZjZHo5cGtvcjZfYWpjcDNlVlpEYnZQVWZtNndpRmxlSWtNS1NobWpHMTdhdm5Oem9CV2RfMW44Nkg0azJrajhLYkZjcWw5dHBjRGZ1a1daM0h2NldjemZSRGpKeUlJck02WThSWE9sbUF5N1ZDdGdKMVg4MlBoMHotV2c?oc=5"
     },
     {
-      "title": "A first in Quebec: Artificial intelligence helps guide cardiac procedures at the MUHC",
-      "source": "McGill University Health Centre (MUHC)",
-      "date": "Tue, 24 Nov 2026 17:57:17 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWXotUDZYclg4QVlGQzF6SkItdm1YVkRqVUo5TlhhTjZseE1QY1FzLWViV2MyUV9qamtNZmdaVl9PaVctZHpzZWE1RVN0NHc2SHFKZTgzeWgxYzBJeFByUmtmVE5aMXhvc3k1RjFxd2NZV0J4RmlwN2pYaFcxVWZGeDNtLTJ2TXNOLS1ROHZhMnVWVi1EdVUyMGxuWEtzbmJ4RC16NFNmY01FZG55NlhJb0ZwYw?oc=5"
-    },
-    {
-      "title": "Anthropic's IPO Raised $81 Billion. Here’s Which Artificial Intelligence (AI) Stocks Will Benefit From Where the Money Goes.",
-      "source": "The Globe and Mail",
-      "date": "Tue, 24 Nov 2026 17:46:39 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNNDBoZFR4TDdIcGktLVRFME5NMmVMWXhMR0hFYk9Ec0dYT0tlcE5aUS13X1Fxb3EyYm5fUHJXdjVqN0hINkxRUE8wWFpCb0lDZ2oxUHF5WTB2NHloUWpMNzhjSm5DdDRzZnJ3TGZUckR4MDJ1X3NOY0ttZFk0T1diOWVqeFk4QjN4aW56MHM3OGdkWGZVR1JKdFJBNHhsRWI1X1NkR2JILUdDUVRzQThJVk9mOGtTMnFadkZlZi1hXzNyREVUSzJRU2RVenREaFlaQ29ZbE1NZmw3Z2pwV2NBcGlvMU1WUXRYUW10OEpZVDFUMTJMRDRSM1lYNU1zcTlTY3dQNDFQUDRHdm9ObUczdWdaODNTdElGWkdFV2lYNG94ZE9yWXItWlp3?oc=5"
-    },
-    {
-      "title": "Artificial Intelligence (AI) Support in Mammography Screening: Evidence From the MASAI (Mammography Screening With Artificial Intelligence) Trial and Gaps in Device Regulation",
-      "source": "Cureus",
-      "date": "Wed, 25 Nov 2026 01:09:03 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxQR0t6RGI0UUFEaFBmeHl0X0ZiOXlQRmxySXdDU1FzR293cDdSeUJfcHNnMDhQQUpKeS0yajlLOXVsRDdvVFRCeUpncTlJZXFLVmNtck42YU1mSFRYNmlGd294R3FyOVlOaVN1VWdSNjNWbGlBTXRReHZQeHpQeG1nd2JtM2FVdmJPQmFxSjgzOTVUcXFjLVFSdDJtUmYwc1JGc1NNd3E3WDBkSnpON0lUODdVc0xQZUl3bUxFTE42WlNaX3NtSDVfdG1NXzhMMENsRjdJN0d1TEV2T0NJN01VZTNvNkY1eV9TM3IxUGt2LV9LenRDc2hwY0xqdnNoMnQ1Qzl2dDFzVmdILU5MY3EybzF2cmxkcTdhYmFrQ1BZbncyVEZ3M2l5VlZhN3dySGNjc3kw?oc=5"
-    },
-    {
-      "title": "AI Artificial Intelligence Ventures Inc. (TSXV:AIVC) Advances as Market Momentum Improves",
-      "source": "kalkine.ca",
-      "date": "Tue, 24 Nov 2026 11:53:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZ1BxcFg3aGUzX1lqOUxMTW4ySk1lcm43bXFnU1NxSXplMldMZjFJeXNpRlZTeXlUZFllLUJuOEVXalJEdnFQWHhUVy0wamRqdlZUZ0UwaXV0dE8yRWs1MjlrOW1XMEhQMTF3NUdndURRU3NlekRudXA4SkRFZGhCMVhQRG1KZmxQT0thMU8zbFdDRGt4eVkwb3NCUjM5ZDhqQVlxenhVaTRmdTlNY3hRbUpuT0pnM29CdFRfWEQ0TWRidEdwRUpXOHVCSGV4UQ?oc=5"
-    },
-    {
-      "title": "Tidal Is the First Streaming Service to Ban AI Music",
-      "source": "Rolling Stone",
-      "date": "Tue, 24 Nov 2026 21:20:28 GMT",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQmhYMnVFVFRfeW1QTmNnV19tdFhheGg1UkhuY3B5RFhkb3hoOENXcktwSGpJajlmelJ2RmRhWTZBTTdvWFNnb1FmT2MzVURET29ieVZZVm5uUjhRVnlfRU42cmQ1YkVBMzhKVHltMFBybUpuMEZwVjN0SjdRZkROWV8zUQ?oc=5"
-    },
-    {
-      "title": "Drops for Nvidia, Anthropic and other AI stocks drag the markets back down",
-      "source": "CBC",
-      "date": "Tue, 24 Nov 2026 21:45:31 GMT",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZUtNLXRKZVAwak5ud3FBckxUbHpLcGplS1JQb3k3Nk9mNWExUXZuQmJ2OVFlcFJ6ekd2RjBiRkUzbGxyQjJzNElUbmRwNWc1YnNMZUdPMzZHZlNxWWZqSHVKcjhxMzd1Y0lKTk5OMGkzMDFzRWZXVE40UHRiOER2MWJVenZyM2xLdUh6N21JSkluSzA?oc=5"
-    },
-    {
-      "title": "Does AI help young workers learn—or just work faster?",
-      "source": "Université de Montréal",
-      "date": "Tue, 24 Nov 2026 10:00:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNWh4R3dLazY3ci1BNUo2QUFtX0I4endDaE5YZTZ6dUcxQndsMW1Sb0hCM2dBNU5GSXlZc21GbDBEbEhobElYVjA3RkVvVDdrcVEwaUZSdjllVHZoNlZ6Vk5vR2hUamN5TmNUNzBGXzhoZlpaeGhsSzhsWXZjckVyM0lLQ1g0Sk92VS15eWFvdXg2NXdYRFY1bERqd2xleXBtZERaMXRxX1g?oc=5"
+      "title": "Global stocks are mixed as AI shares tumble after a retreat on Wall Street",
+      "source": "BNN Bloomberg",
+      "date": "Wed, 25 Nov 2026 11:44:17 GMT",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbWRMYXFFLVJjWkFFcUgxR29jZk92ZzJoMjFYczFGbmh4OTVzREtwVkJ5TnNudFNSR1E0aG9tLWtraGl1YUtsQi1DclExMTBkSzFmNDJBNkNyMFVHZVBxUnBfU2EwM21TMm41bXZSRENzUHJpR1RQbXFUTTlCNHVMS3BOU3R2ZGhLLVlIUC0yaFB2dWNvRG8xb0JLVzJ1LWFhOW5KY2pUVTV6bUlzRjMtUF9XSUYtd25KTjdzQ2hrYw?oc=5"
     },
     {
       "title": "Anthropic is one of Elon Musk’s biggest competitors in artificial intelligence. It is also one of his biggest customers.",
       "source": "Facebook",
-      "date": "Wed, 25 Nov 2026 00:52:14 GMT",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORWF4SWEwSHBtYks0V25Zc1N6WG5XVEdabDdtV0JTc3FiUFpuOUFHRjB2aFVsQWE5X3RHdlNlcnVCdS1ZYlJ5eTZPR05lNmRvdE0xNEtucEZHbXNxVml3d1BiUHJzcU5kdGZ0RGJkWnY4Y1VrdEFoeEJ1Nm5PaVRuY1JRaWx3WWZod1F1LWUtUHRibkR4Mk5CbFlpTDVpWXpOOGNIS3hOd2JOdFN0N1dzX09pSDJyeVpPekd0UUhqWkxSSHVZOVNqak5zbk05M3gyWUJlaw?oc=5"
+      "date": "Wed, 25 Nov 2026 06:51:56 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQaWI4OW5SZWg5a3V0dlpkUGdOR0NzcV9tUHdOUjkwVV9Ka1pCMHJ1ekZNdHpFamp0ZW9wbDQycnlONTlNMXBaX21SWjdFU290YU0wWFc1SlhvVmVQdnVwWm41ai1OUERSNGItVkFnb0ltOHVFeVgxTmVCTXJabVlhekhpQ2taVkhUdnBsekVLSElsd19nWml3Q2NHYmdDbzdhTTR2QkV4ZW51cjdzck40M2RjeGZkcVl4YnB5Yk1MMTlyeWh4QVdqZEpwNUtRSXpSNThv?oc=5"
+    },
+    {
+      "title": "AI is forcing researchers to confront the possibility of artificial minds",
+      "source": "New Scientist",
+      "date": "Wed, 25 Nov 2026 12:45:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaXBGVVdCQ2tCOGY1a0ttc1hJS0prc0hzNTFBeXcxX0s4NWFJdEp4d285N3pKaXFhRW1LdWNldS1zajFPOUp3Y2tmY1Y4cXJKTDhhbGZyY3RBSng5bDRYWUloYnhYNTZzckFzX2k3QkpiMU1DZ1BuNGV1NC1rODRlQTExa0pUV1ZuS1E1ZUIyamRoelBWdWdTbUI5Zkx2LXdpbUs1NHk1RzU5R2pjQ0t3VFVhTXZNNENvRXVF?oc=5"
+    },
+    {
+      "title": "Billionaire David Tepper Dumped Appaloosa's Stake in AMD and Broadcom and Piled Into an Artificial Intelligence (AI) Stock Trading at 44x Forward Adjusted EPS",
+      "source": "Yahoo Finance",
+      "date": "Wed, 25 Nov 2026 09:40:02 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMVcyUEtnamdBYmpENnk3MlhXdWVlNmxWVEtDUjFTMFl2OXpEcTI4Nkt2eXdyWDJGWWsxX0RXSDUxR3ltb1Z1SUVHbmZ4QWFxdC1Dc0NJcUZwMFE4TjloeGJNNjl3OUJVc2JmY3NqMjNVdEtHMGY2MGtxSU1sTm1idXRkQkRZNDdyV09xX1N5eHVoMFdiTE9qNXpCbTBYUzVlRHJHOEtMMkNlSGs?oc=5"
+    },
+    {
+      "title": "How foreign AI romance apps are reshaping youth intimacy in Africa",
+      "source": "Rest of World",
+      "date": "Wed, 25 Nov 2026 11:04:26 GMT",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4wM2RMVy1FaXFHU1RMY3oxcUQ0WGhhRlM0bm5HaGpBVDEzbTk4LWVKVnFzQ21na1Z4bGZqVW53YnRUd0xMRjF5a3Zsa2wtYXU0dUZpNFN2T0h1YTBkdms3TWVJZ2RrRFFYdGhfVEswRTFHUl9GZWc?oc=5"
     }
   ],
   "events": [

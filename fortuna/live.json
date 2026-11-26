@@ -1,66 +1,66 @@
 {
-  "updatedAt": "2026-11-26T15:15:42.419954Z",
+  "updatedAt": "2026-11-26T23:53:05.169935Z",
   "locationLabel": "Victoria, BC",
   "headlines": [
     {
-      "title": "Artificial Intelligence and Human Rights: Protecting Human Dignity in the Age of AI",
-      "source": "UNESCO",
-      "date": "Thu, 26 Nov 2026 04:51:09 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQkNaQVc5dl80NUF0OE9TU0lIZ3ZGU19ZdGN6UHNTMW9mXy1PVVVKMzV5anZ3bTg3TDcyNE9qajRTOWxUaVl1TDZGazI2VGhFM2dZSkNJWHdhN3JKaE5DS1BVME02MDJlbmIwT0VqT1ZDVk5RaTg4M3U2TEFkTWlmeTVXTjQtVFpycWtXeUpxVUtXcG9nSHVFVTM4S1JsZUJUQmFTbDJaSFBQWGM?oc=5"
+      "title": "Opinion: Sunaina Sharma discusses generative AI use in Ontario classrooms.",
+      "source": "Brock University",
+      "date": "Thu, 26 Nov 2026 22:20:02 GMT",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaF96cDZBYVRlN0RwUVlWVVA2dUF1YkN2ZVVqdTNFX0NORjRCY1BaU25kMkFoTGZyYkphUGVaa3NUUjZyckhIYWZ2a2Y1eU5WZ3doeW9fMnJzMnBkU3pWZnZfUkQ3M0VvMldvdkNXLV9PNE1hZ0x5aHR5SDZ2WExETUpRRUxscFc0blFVblprZWR5aFA2RXlGT3FFaHpGajZOMHNRZWxsWHExVGhJR21Z?oc=5"
     },
     {
-      "title": "Estonia advises against using certain artificial intelligence tools",
-      "source": "Baltic News Network",
-      "date": "Thu, 26 Nov 2026 14:50:04 GMT",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNHY3Y0JZRkk1c0ZoaWFZSmlqY0dTTVRFeWVhZ2ltVmUtY3RRM0g3dnZnS3FHWG1qazhoLW93Qmh2T2NzRWRRNDRhem1VY2xSczMydnlLRVNuSUQyLXI5Ymlna3dwc0syeUN4NGR2Tm9PNkhFeFVCLXF3OFJBOTVFbFNUOVEtdWFuM29hRy1ENUQ5OWhtUHZwQWlBS0pHeFhjUGhHRA?oc=5"
-    },
-    {
-      "title": "Tech startup Blank Bio benefited from U of T's AI ecosystem and is now poised to accelerate clinical trials for new drugs",
-      "source": "University of Toronto",
-      "date": "Thu, 26 Nov 2026 15:03:10 GMT",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNU2NZODJULU5nc1ZzMVlCYXppSzU1QlBGZlN5WTlRNlpodEhGZnpRU0dBM2FTR01qVlJ1SW5MS2w0UWhZN1M2RUVCU2Jzbk0yYVBPQVBiOFZYMV9oRFdQVFcwX0czSXlMclNQWk9vcGo2QkZNVldfR3l6V1JMZmNKdmxac0RuZDZTX0NvSnNPVHZnd29yTDk1LThrSjBjbERHeml6RnRvVk5Pell5R0FRby1EdUlVZzZTMk5PR0M0MlNlQTNUckJ3?oc=5"
-    },
-    {
-      "title": "Artificial Intelligence in the Workplace: Italy strengthens human oversight",
-      "source": "Watson Farley & Williams",
-      "date": "Thu, 26 Nov 2026 13:30:12 GMT",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObE5ZWVBvSFdXOXZOZk9jUEpwNTgxV0VEamRfNkJzSXN1b28tVnBYcTdQWGw4TlA0NTRzOGhzb0pidGdaSldDU2tpbmNmUTdnc00wWGRmU256eURaLVI0R05kREFHNGY4RGNmQlRfWHN3ZUxuM3NQb3d4emtNWFYyV21OY29DbDdXUy1NQXVZNjE5VThWaTdpb252Rkw3WVphVk0xLTJSSQ?oc=5"
-    },
-    {
-      "title": "Artificial Intelligence-based hierarchical classification of parkinsonism using digital voice biomarkers",
-      "source": "Nature",
-      "date": "Thu, 26 Nov 2026 11:14:56 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4yYk1vR3lpUzJsYWx0QllEMEw4XzRfTzVLMkdkdU1CVjhqdzBTN2p3RzQ4YVoxVTZhQ3dFZ3ZxcktldjVzLVZENXJPWVBmZ0YyYWhmcTFlcVgySC1tZ2Zv?oc=5"
-    },
-    {
-      "title": "Algorithmic Constitutionalism: Reimagining Constitutional Authority in the Age of Artificial Intelligence",
-      "source": "www.iconnectblog.com",
-      "date": "Thu, 26 Nov 2026 06:32:20 GMT",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQeTNtSmNqV2lTTWQtczRCNzJLSEFGVDBKU0lXQll4a1h4cG9JU2o4VU4zbGNXclg0NFYwSHUyaWw3dVBuUjRZNzhOWGlEdzROb2owR3NBeFlVSWRFN0NxeTY4YjlHenlneTd5Y29ZdnZRbzEyZHB5TmZFR0lETmt5X0NnMU5PaHcyUlVWVHV2SlQwT3R0Yk0zSmZMOXBCX0M3NUxMclpWQm4ybmlrY2FYYVJsN3pCdjhSeWttY3NhcVVTY2JNWGpTT1pkTDRha2c?oc=5"
-    },
-    {
-      "title": "AI-ready graduates hard to find in Canada: report",
-      "source": "Human Resources Director",
-      "date": "Thu, 26 Nov 2026 14:59:57 GMT",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaTk5Vk52RjVFekZMcHI1cndvaG15Sjl5X242a1JuT3FGZTRYSWtyVm5NQWtnNTFJVTloVS1wTkNockE5T19zZkF0WEpZUUU5eHlITjA5UmZ2bnppQ0s0emdFczFyeHlCNVU0dUVZRS1RMHdBZGthVHpBR1JsYXZkcmJQR1BqaXhQUkhRSUo2MzlEdk9kSU83dVdha3JxSDQ5el9seUpZN3Q1N2tJR194MQ?oc=5"
-    },
-    {
-      "title": "I’m an AI leader at a tech giant. Our industry has stopped taking safety seriously | Anonymous",
-      "source": "The Guardian",
-      "date": "Thu, 26 Nov 2026 14:09:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWlVHTXZiY2xqeHEwTFk1WU1QbFZHamVuZnFSUThEYk9qZmJiNWYybmd6YWs1WElmbWZFbTFkSVVvcl9QUHFrSW5oQ0hMc2ZJOTFieGx4RzdLdUlzM183US1GdnFxS3dCd3AxX1JocUFDM0tKSUZLZlQ3bElPTXFBS1dWTWlzLUc5d2czZER1ZE1mRzBaMVJ4WDRLbDRYY0ZtUzhzZkkzSk9KdnV1?oc=5"
-    },
-    {
-      "title": "The Council of Europe calls for responsible governance of AI at UN security council",
-      "source": "Council of Europe",
-      "date": "Thu, 26 Nov 2026 13:16:01 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOGhtT1ZHNzdYTlhfZUpHdF81NVY2SHlXR0E0V19kdWc4WndxeDFCLU9uM2FZeWhqYnZIalF0TkY2cHlZaEdWazZBTDZnN2dTMVBzeWNDaGE3YXgwd09GeGVPRWFMV0RlUTFYSFk4Q3pCYzZCbk9TQzhHc1JHREd0Zmw1RGl3dWFDUEZnSWJpRTV5cWRINldIZGdtdU8wLUJBZjNfSXhoT3YyRlRxTlFSNEJnRk1lVV9SMmln?oc=5"
-    },
-    {
-      "title": "Not Micron. Not Broadcom. This Is My Top Oversold Artificial Intelligence (AI) Stock to Buy in December",
+      "title": "This Oversold Artificial Intelligence (AI) Stock Will Skyrocket 123% in 2027, According to Wall Street",
       "source": "The Globe and Mail",
-      "date": "Wed, 25 Nov 2026 22:11:36 GMT",
-      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPSnlTTWxxZ0FtVlVpcFEtcUJVZlRCWk4tXzlhWmRsR09UdHJqaVBIUWQtcE5pcnN2UDF6SHhVU2s5SkZ5Rm9oZ1FDdGdWSmdCR25KTVlrblNSa2ZpOUhuTWVxUDJXWVM1U1l4aHVZbzNleFQ0Q1NRVFM3NFU3RmVFOHhsamMyMEVObG1TZjFZaWxUX3NuUklacUhsWDlGQ0o4c2F3SDVMZkM5LXdUa25Bb1dPV0Z6bVlLd0txZkYwMkYwQlFxT0xIZXRPUVItZ0ViT0NmODFsYjZ0SXg5LW1NU2JNanFYaUxBRVlzZ2R5ei16X2RtX3hDamVucDYtZUI1NkRYU0I4cmJZdDZ5Ukg3OTBR?oc=5"
+      "date": "Thu, 26 Nov 2026 19:04:28 GMT",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOV09Kci14bS16Y09DQUwxbzV3cjViMlhYVEZBajVJQXNDV3ZsLWpJZnJMTHhFMDd0dzFZMjg3Y0QyQ3BCSmFoWnY2VERaTEEyN2IyZzF2bVBVWnAzVzE1Y3lyVjg5czF3U1RndEdSZlFLYjV0T2JCZWdEVEZCV0RWdnlUM1dwTWJpVGFDTVRTeFN4RW1hdnItTGduSENrZlpOZzd2NG9iXzRwWmVMV2JycnFWczE1U1Nwc1NCRVloOE0xOU5xb0VsQnEtQncyMHdhSk4tQkU2T0pJcTlya0k5UzN2bGJsTXZpR2x0NGNjWGt3dzNWMzlhU0U3dXoyNVlraFRsSEdmaDhrYnFtMVhoR3hjcw?oc=5"
+    },
+    {
+      "title": "Redesigned CSC with AI coaching launches",
+      "source": "Investment Executive",
+      "date": "Thu, 26 Nov 2026 21:59:26 GMT",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVXRxaXBJZlNNUllzS1hDaVdobE8wU1I5R2xXNlQ1T0t1b0VLS2IySjkyYUE2ejRiZGZ1OWw2OTcxOTJOa1hvVmI2TW80OGZPV3ZJX2s2bG5VTUI5b2p3dU1tMFJudFI3Yk4yYllSOHJUTkRGWHJJSXEteUZxcVBvS3pfWTZ2OWNMdEZkYXprbTBEbkRZd1E?oc=5"
+    },
+    {
+      "title": "What would happen if an AI agent interfered with a Canadian election?",
+      "source": "CBC",
+      "date": "Thu, 26 Nov 2026 21:47:24 GMT",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVnV5cm90UnRIdXA2dDhNbHQtR3ZFdThrTU5kS0phdjVaLVd2WWZkYzJHV3piYmN6SlNacXlfZDcwRE9XMmxteWpCbDI5dDVRQWJ1dE41cDJHc2hiQVhHeG9GNlM1Wk9aOHlxeWt3a092X1FfdFBudmZmX1JwV3BJYXltS1E0clhRUHFyWThn?oc=5"
+    },
+    {
+      "title": "OCEU launches new ad campaign showing a future WSIB run by AI chat bots and fewer workers",
+      "source": "CUPE",
+      "date": "Thu, 26 Nov 2026 15:18:46 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc2ZmVlBUaUZSaExuLWJUdkNUYU50ZF9BYjdiaHlLcThaeGhuUmtvQy1OSXdVTGFUTGl4SmV3LVhveUxVWHAwd19nWGtob1NYTkJWWnhpVWpwTXUzX215c1JZZWpTMlVkWnkwV3NtcTJqQUh5Z0pjNkM3cy1RSWxRTW8wazhueE5DN1ZrR2EyV0NvZGdCUklVUVA4aHVVU0hWZ1NoWE1vcHc?oc=5"
+    },
+    {
+      "title": "How to Handle AI? Young workers grapple with the future during annual PYC conference",
+      "source": "Opseu",
+      "date": "Thu, 26 Nov 2026 21:13:37 GMT",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZ0VhY2tnX0RzbFAtdkxOTTB6dVdvYnJOc2JpaXBlX2VVeHd6RW0wTFp6MjBfTDF6R2paT3NVTERPVW5LYWdGTXR2M3U0MjR5dmQzbTVGOC15UDZfSnlha1EtNTN0MGZjQ1RrYzJtX3E1NkplSmZTUUgyTzJGTXk5YTU3T29wb2JQUkpFTm9ZQTFpWWZ2bFUxdlZKSEJWeUFJbXdFZg?oc=5"
+    },
+    {
+      "title": "CoE contribution to UN Security Council High-level open debate “New and emerging technologies in the context of international peace and security”",
+      "source": "www.coe.int",
+      "date": "Thu, 26 Nov 2026 18:57:55 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPQnhNRTJ5Um5XNWlPV1oyWV9adGpncURPOW9zd2V1dHVRQlBlWnYwLXdFRVFwYlJtVkVjODZuaTFwaHZQZTZLMzJOdXdqNlBQdkUxUFRmdlM1Y0Vhd1MxbW1rWXk1NTFjSjY1QVAwSF9fUzUtbDROcTZtS21yaGNmazBGRVlEbm1pbm5IVkt5bXNjcjdOODNLRkdOSWJCd2pJb3c1aUZYNGt2Z28zdmRQUTZ0Vnc2U25tanJtT2J5MmpSdWstRXNBTnZXLTBXT204Mmo3RUttbkhDbHBWdmlsTGRNWEFtTXFtOWpVOTdRSDBaVmt5ZXVwMjRTMkFlaWdRVkZrZlVISmlfb3ZaZE5pdXMzelY0NHNIN0IweUhDbTdZTEk?oc=5"
+    },
+    {
+      "title": "Should AI shape the future of protest?",
+      "source": "Corporate Knights",
+      "date": "Thu, 26 Nov 2026 16:01:44 GMT",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeGdINXUwRkRuOUhQU3htOG1DZWVRTWt1d3NaOWp3WHdIUkViSnd4ZjJMSkNBZlVBaVgtZE0zdXBaZEpfOTcxQjlhaTRjalY5eGt5ZmRYVC1RTnFmdTBsQmV0eFQxeTJuek9jU01GREZUeEpHbThWbC1zU05OMnY0QlhaOGQ4bmZNNTE3WVdiVEtFWHhSRURKVUFJSQ?oc=5"
+    },
+    {
+      "title": "Do artificial intelligence pilot zones improve air quality? Evidence from Chinese urban panel data",
+      "source": "Nature",
+      "date": "Thu, 26 Nov 2026 17:42:20 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9fcUZnRmZqUXdscFI2V21KbWpiaEZxd3o2WHFCei03XzdZVlBpY3ZXTTYtWV8zY01xX2trRXB0UHJ0NnlCU0NSY0tTMnNWT2VTVjRPZmdtTGY1RW9ONjVr?oc=5"
+    },
+    {
+      "title": "Innovators of AI in Alberta Attract Attention from Federal Government Fund",
+      "source": "Calgary.Tech",
+      "date": "Thu, 26 Nov 2026 22:01:26 GMT",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPR3YtXzNZbjk0M2tjTUZaVEdoTDFUOGZDZzI4VjdDSXM3eXBVZWZrOEVtdWREZm82NTY2MFc0dG8yOElaUnhwUkxvN2dMRWdzTFRZRVpMaTd4cWRoVm1nbHg4WGVHeFM1Q2s0aEdtM1BpWnBsLWpncVhMZG83M2lZQl9VZkVkNGFFWEJFRVBEbjc?oc=5"
     }
   ],
   "events": [

@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-11-27T18:58:38.560440Z",
+  "updatedAt": "2026-11-28T01:59:14.439915Z",
   "locationLabel": "Victoria, BC",
   "headlines": [
+    {
+      "title": "‘It’s not helping’: calls for guardrails and regulations as AI use rises at US retailers",
+      "source": "The Guardian",
+      "date": "Fri, 27 Nov 2026 19:21:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOeDNCYVhQbUE2MU94UkxyalQyWkk3aFNpSk53aTRTaG5YZVp4ME5CdU1wcEVIaFhmam9NdVRweks0Q1M4ZUpMTV9pcnVEWlcwT0NKVUNySE9WcHJLYTd1TVpzZXVGdWQ1eUFhQmFTakVZZkNpelIxa2xVdkxZNFJ6eExEN3ZZQQ?oc=5"
+    },
+    {
+      "title": "Artificial Intelligence for Preventing Avoidable Vision Impairment in Low- and Middle-Income Countries: A Narrative Review",
+      "source": "Cureus",
+      "date": "Fri, 27 Nov 2026 23:22:46 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQR2RtOW9MSnFGSFNNd1pRLTQ4SWl4SXMtdTZlQU1PNHRRS005dUxhWExhVm9CRXlzcGxmNGR3X0oxOFJ0YVFSOWZaNjRYTDJqXzltYzhlaE1HbUE2bGY2VnZadDZuZm9xTXNxOXhvQ1hWTXhmaFFZMWZEV2tQd0I5bmRpRnVEQU1hQU5Ed1dibzF2dmdTRDd5SXN3ZUxYSzhmRm5QZDJDWXB1S0g0SkU4ZmtjZ2lwTVBwdG1PYW1vQlJsdGJQR2ViTzUwRjR0OFdCZFNmWjZ1N19kTjB2aXVpTkROMEROTmRGYUJTZ0gxUmxUZw?oc=5"
+    },
+    {
+      "title": "Exploring an AI reboot and the ethics that surround it",
+      "source": "PBS",
+      "date": "Fri, 27 Nov 2026 23:35:30 GMT",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZzUyQkxTczhwaDhBYmhYaFhuNHhLUktJTGNRMS1XTDdGLXR0aWl5Z0RxTHRKcUJ0NURTSXJCZXNIMXhwSDB1NHhJeEEzR1pIMUxUR1VseXRwVlhxekhBNHB2bmRTa0ZGWGZtYWUyQ1pJLVpFLUxaNzJHaHg0UnBWWW9zeXFUMDVCRkFEbDJfY3NjQQ?oc=5"
+    },
     {
       "title": "Genesis AI Corp. (CN:AIG) Faces Downside Pressure as Investors Reassess Artificial Intelligence Applications",
       "source": "kalkine.ca",
@@ -9,16 +27,22 @@
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQaS1KaWVobXpWNVEyYTVBbjlfUDFMMWN6dkk3ZS1tT09SdGhTOURGWThhUDNzb2I0em1PNl8xTlloQnBLLU5xTXBSS0FNZFVoQzFPX09nbF9EM00yNHBPRGU3X2U5RjE4TFpWU2hpLWc0TUxqU0psd0ZEWFZnOGVJekt2aTVfVWttSzRWdUZoczRrOUx0Q3hZQlJBN0xzelItcmY1bU42WkhfUS15ZmU1Yk5SanFKMlBMeXR0UmI4THRIVkNmQU80RGRrNUZvNFJuYmhzT29McUYwT0xMQm1MYXh2SmdqYWs?oc=5"
     },
     {
-      "title": "Montreal researcher Philippe Brouillard wins Mitacs Innovation Award for boosting the ‘Intelligence’ in AI",
-      "source": "The Suburban",
-      "date": "Fri, 27 Nov 2026 14:30:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQM3JVZ1JmbVhzVFFYWWhSS2dYSmdMSkhzVUVyV1RsaVdZcDRoaUpLQ1ZUWEl4THpoZDhiNy1BNE9XT2k1cUlzNDhGTlFpMEVxQ2pldVpmYU1xamU3d0E5dXg1WkZmXzFONDFIUElPNk12MGtwNjRjdVlSdXd6WjlubWVRMS1WaFVGU25hSzJuTUdEeEpsOTM3UEk4cU91TzJJLXprUVdZQ0Q0cTR6cTQxNXFncjVkUVVFNHEyTElUejM5cnQ2NHBZUS1ETHpuVUlGWk11LVpfS3BJYUVEY0MzWVM1OFEwZHNKS0JDUTFDLWt0Mkt1VUI5RnBsVnJreDdYMWptMGZwLVFSd280bTV4TzluLVY3MlZFTVQ0?oc=5"
+      "title": "AI and the Promise of Organized Knowledge",
+      "source": "Issues in Science and Technology",
+      "date": "Fri, 27 Nov 2026 18:41:51 GMT",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBBX0hZdUdDVlFRWnBka3BncVZfM29NNkhEN0JrMTVoOXFnZXRQTVdBY1NVMl8za051cmdRRnJocDJ1dW9NRkRVcGNBUjA1c0pzUFY0NS1FMkhCMGZ2VzFnUE9iQWlwbW92a3psMU9fLXhMQWFjaWo4MDRBQkFBQQ?oc=5"
     },
     {
-      "title": "AI Compute Access Fund hits $1 billion as Ottawa backs 45 more firms",
-      "source": "Human Resources Director",
-      "date": "Fri, 27 Nov 2026 15:19:11 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQanRPRzJHWUZxRzY4LVJIM0lLamFNdXF5alliaEphMWlRQ0ZuRjJ6dUNPY1lzaWZpMGN3TWE4SDJrVWRSd1BpQlNOdUE3NTlVYlc0SElMSjBiR2t6RVNKbmNUTTNkaW0xV0x5LTVrODBadUs5c2ZFcTlBZUtmcXVWaXBxU2VweXU0a2JIY0ZOVzdsQjdNb184ak4zeUNZZE5JYzNCNmd4RVRxWGNndGVVMi1BNFdNNi0tc2tuQVdXZTRCRTUxUExKLUNB?oc=5"
+      "title": "Opinion: The AI meltdown, and the end of the good times",
+      "source": "The Globe and Mail",
+      "date": "Fri, 27 Nov 2026 19:03:43 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSVdOY3phUEhOTlQtak1xbTI5VVJIa1BLVGhudzRyMXlva09pYkg0NGF3b2RmQ3lCNXJhclZLdVg3NE1acGUwNm5qMzEtQzJPQTJ1N01wa2RfanMzVGY0ZndRZEhpYWNQUEtLdl9SVkNlTWtRN3Roa2g3ZlQ4SnRsYVBQWjRTeXVqbUtLZldOOVkybnhnTWNTcDQ0QmNwRjM4dTh1LWJTanU4Zw?oc=5"
+    },
+    {
+      "title": "Only 24% of Andorra's SMEs Use Artificial Intelligence in 2026",
+      "source": "La Veu Lliure",
+      "date": "Fri, 27 Nov 2026 18:46:08 GMT",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaUZMalZWVHNtTTVFeXlySHcyZWQyUGNod0hFa0twcjRWSGJhZ2NFRlB3TXVrOWdSMVBodW1jQzFMZG9SRFlkdHNWdTBaOVhJWEYtTk9RbDJCd2xRZVRGRG90NjZDRjFQWjQ3OFpseTJmR3J3Wmk3LVFUVFByVVR1VHpKZWRrWk9JeGNkYnlqTy1XTG9xOTZR?oc=5"
     },
     {
       "title": "The Meat Forum highlights innovation, artificial intelligence and consumer confidence as key to the future of the meat industry",
@@ -27,40 +51,16 @@
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOVV93Wng3VmY0ekVFbWxlUktOcTBzSUN0UEhHWHpMdXdleklaOEYzM3pZYWVzamtmUmc4c3BBV2tSS1RJcFE2YU4wc1p2VkFMZVNla3Izb25ZUTVVM0NIY2pPYlREbW8tMWNKbHlyMUtqclQ4V3Ixb05Qd3BVV3ZYN2NXUFFlWEdQNE1kcTkwWXE0U3FmN05sbGVzY2Vvbnl1dXpwZXJ1Wm9LQ3FDZVEtWlhiZmU2cWN0eWJaNDQ3MC1VbEpEY0VCcTRXSkVQSjZiZWJlajhzQ2J5U0NxUnBCN18xNkZYdlpBVExFWXl1SmQ?oc=5"
     },
     {
+      "title": "AI chatbots are at risk of spreading government restrictions on online speech, a new study says",
+      "source": "Genocide Watch",
+      "date": "Sat, 28 Nov 2026 00:36:51 GMT",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVjFuOFg0OGc1Q2h0QU00eks0ckNYclRuaXJsS0d3WThkNWlkS2VhNnhuVzZXbmdCWlJJS1dvWGdBWEJhM3pGVklJZm4tSnNHVTJJQWdyLS1HcGtCclp5dDJRM0pqQVNqaXpTam96MUFmMDRSWUhYdnJ6NmlWNzJtUmdkTTYwZ3hxQVY5ZU5sVnlock5kOFItSFlGaG1vcFd1RVpNWjBGRkNXSldZSUR0ZFZMWnhiWnloS3JQTkFRZkVEQzlyVllJTmFrcHdDOGVVV3c?oc=5"
+    },
+    {
       "title": "Artificial intelligence usage is exploding, yet spending is stalling. Why a foundational rule of economics is breaking.",
       "source": "MarketWatch",
       "date": "Fri, 27 Nov 2026 15:01:00 GMT",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNUG5XMF9nWG1sSkZ6U0xTNlc0RGtwVXp2NlNqSFhoZTVfbFNJaWQxS0VWOVlLSkJOQVg3YWJlWGV0OWV1cjNobkJsaEt2UEQ4dndyUUxOQUhFV3YxbVJRa2FSNkRHS3JNU2hzVVJuaG9hcHQwQ2dKLVJiRnN0QXd1YW1VZ19qanctUjdCaWJNY2dzcEphMVBrMlM0OThuVjFUWVVLZERtTVJ5ME9aSkg5TXFPY2JyYm9DNzhwZHBJNFhDbG8xeURLWlpsc081dWpVb1BZV2NfSFRZbVpOblJNbGRyMjFVN0RKNmN0eV9Kak8?oc=5"
-    },
-    {
-      "title": "Artificial Intelligence-Personalized Skincare Regimen for Skin Aging: A 12-Week Clinical Study",
-      "source": "Cureus",
-      "date": "Fri, 27 Nov 2026 10:42:39 GMT",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVUlfSmM2MG9KOWhfUDlzV05aVUZvanJUb0FiZmg0NEE2b0dCZW1vRnkxNU5qNGV0MG5ORzVNNnBqb2prVF9LU0ZCTjdaS3dhYTdnZVFLT09XYU5GWWQ5Z1RfcVhfa0V0YXNvQnJOc1RLUzNEVG9STHlrUFlncXJ2ZjBCb1lucDRFVnBSQmQtYXZnLXJjRTk5OWxtMmVOWlc3OWtFQklxNTY3ZFJWS1pFck1vVVVyZWlPNnZlWnRDRjF4VF9IcHhURGhyU2I?oc=5"
-    },
-    {
-      "title": "1 Incredibly Cheap Artificial Intelligence (AI) Stock to Buy Before It Doubles in 2027",
-      "source": "The Globe and Mail",
-      "date": "Fri, 27 Nov 2026 00:28:27 GMT",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPUWRBQzNLd2s2YkxaeUpVZ3FrUUhaT3RjVDhpQTZpMXlxNzVpbzB6aGNkNnRaUl91cmxzb1hKSHBWR3VQYTlkMHNJOEZiaC0xMmRPM2RENGRuQjhFbUx4T25XQ1FvUnNOWW42Y0ZrRlZzaGxqOE1GMXA5R3c2RUl4Y0E0eVBSLVJwcXFzZkstOTRSRnVJV3RMZFBhZGJiZWRzdENQRGZJeEIwSjN6eXBkVDdrTUVlMW1oSHdmMS1CazJqakRrNXRQUFB1c1ZnVzdTYjF5WFp2MDNpTXJRQ3Z1eTkyajdMUURGWlpjNFRlcXBVcFk0VTlnLUtfZmJxZw?oc=5"
-    },
-    {
-      "title": "Four universities co-host International Workshop on Technologies for AI Governance as Lingnan University plans an institute to track autonomous AI economic activities and its impact on financial markets",
-      "source": "Asia Research News |",
-      "date": "Fri, 27 Nov 2026 14:27:21 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUjZ4a1V4YUhFbzMzQlc4RUdoN1lZRHN4WkRHeGphclRVZ3pFaU80ZTVVdGoyMWJIbHRqME90c2RGQ3VrMzczS2cwWjBVSWhWX3NVcV9Sa2NYb1BXTTMxaW00S01RNTJtQ3ZsZXdVeTVhOU5OVFpfQzJlRUNjem5NZWI5aGhudVRxQkpLVzRkSFk4c0xWQnU2eHFZSVVDOTJfX0MwWnZWSC1GZTVLY05TOHhmVkVjVEZJR1NVcGhMMWcydw?oc=5"
-    },
-    {
-      "title": "Artificial intelligence will redefine tourism distribution and the relationship with travelers by 2027",
-      "source": "Travel2Latam",
-      "date": "Fri, 27 Nov 2026 15:05:34 GMT",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPYkY3Z2xxdC1ZdlQ4NnJuNGdGQzFNTndNSXNSZHVlekVuZVMwZXdMMDk3Y2xId3otbjRtM3gwYlhsTTFHZVg3UEpIME4ydjBqTUxhcWRmOVRJZkQ5d2tuaTdqZUw3TndVbTN1V214UUdLNDJQb2lJaGdqM2drNXlaaTJqU0dWY1ZleXBiSW9DVlNOdk1ob1BDcDN6cmlNLXhKNlhKRjUtM21HV2ZPcTFSNE5HMXlRTTJsY2F3bFJsZl9sRFZBdDZLSk96MlJnX3JjZnBGeVp5TlB2NXE5X2lSNA?oc=5"
-    },
-    {
-      "title": "Peter Gabriel debates AI and politics in music",
-      "source": "Yahoo News Canada",
-      "date": "Fri, 27 Nov 2026 15:31:10 GMT",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9jaHNDdUh3aVhiWGN1bFpFcnROX21XZlpmdHZUYU1zYlAzLVd5MzItRFNEUUV5Mld0TlBFeEJxcjY4WVhnZ0NYbGxRYktvOVZoSXJGZjhZdzFuXzVqNXd3NF9pWXpBa2hnMTM4V3hENTB6czVoSllEYlNVNWo1RXM?oc=5"
     }
   ],
   "events": [
